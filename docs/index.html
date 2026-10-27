@@ -131,6 +131,8 @@ svg.map { display: block; width: 100%; height: auto; min-width: 720px; }
 .st-unbekannt { color: var(--muted); }
 .spark { color: var(--muted); vertical-align: middle; }
 .chg.mv { color: var(--high); }
+tr.grp td { padding-top: 14px; font-size: 11px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); border-bottom: 1px solid var(--line); }
+#prices .scroll { max-height: 520px; overflow-y: auto; }
 .chg.dn { color: var(--high); } .chg.up { color: var(--import); }
 .scroll { overflow-x: auto; }
 .foot { margin-top: 4px; }
@@ -539,7 +541,7 @@ function start(D) {
   /* ---------- Simulation ---------- */
   /* Maßstab: Schweregrad s entspricht dem s-ten Perzentil aller 30-Tage-Preisanstiege seit 2020 */
   var PRICES = ((D.prices && D.prices.preise) || []).filter(function (p) { return p.stufen && p.stufen.length === 20; });
-  function calibRefs() { return PRICES.filter(function (p) { return p.type === state.sim.type; }); }
+  function calibRefs() { return PRICES.filter(function (p) { return p.type === state.sim.type && p.leit; }); }
   function renderCalib() {
     var refs = calibRefs(), s = state.sim, btn = $('calibbtn');
     if (!PRICES.length) { $('calib').textContent = ''; btn.hidden = true; return; }
@@ -642,10 +644,15 @@ function start(D) {
     function cls(a) { return a != null && Math.abs(a) >= 0.10 ? 'mv' : ''; }
     el.innerHTML = '<div class="head"><p class="label" id="t-prices">Rohstoffpreise</p><span class="hint">Weltmarkt, Veränderung gegen 30 Tage und 12 Monate zuvor</span></div>' +
       '<div class="scroll"><table><thead><tr><th>Rohstoff</th><th class="r">Preis</th><th class="r">30 Tage</th><th class="r">12 Monate</th><th class="r">Verlauf</th></tr></thead><tbody>' +
-      list.map(function (p) {
-        return '<tr><td>' + esc(p.name) + '<br><span class="hint">' + esc(p.einheit) + ', ' + esc(p.takt) + '</span></td><td class="r mono">' + nf1.format(p.wert) + '</td>' +
-          '<td class="r mono chg ' + cls(p.d30) + '">' + pct(p.d30) + '</td><td class="r mono chg ' + cls(p.d365) + '">' + pct(p.d365) + '</td><td class="r">' + spark(p.verlauf) + '</td></tr>';
-      }).join('') + '</tbody></table></div><p class="hint" style="margin-top:6px">Letzter Wert ' + esc(list[0].datum) + ' (monatliche Reihen: letzter Monat). Quelle: ' + esc(D.prices.quelle) + '. Veränderungen ab 10 % sind farbig markiert.</p>';
+      (function () {
+        var rows = '', gr = null;
+        list.forEach(function (p) {
+          if (p.gruppe !== gr) { gr = p.gruppe; rows += '<tr class="grp"><td colspan="5">' + esc(gr || '') + '</td></tr>'; }
+          rows += '<tr><td>' + esc(p.name) + '<br><span class="hint">' + esc(p.einheit) + ', ' + esc(p.takt) + '</span></td><td class="r mono">' + nf1.format(p.wert) + '</td>' +
+            '<td class="r mono chg ' + cls(p.d30) + '">' + pct(p.d30) + '</td><td class="r mono chg ' + cls(p.d365) + '">' + pct(p.d365) + '</td><td class="r">' + spark(p.verlauf) + '</td></tr>';
+        });
+        return rows;
+      })() + '</tbody></table></div><p class="hint" style="margin-top:6px">Letzter Wert ' + esc(list[0].datum) + ' (monatliche Reihen: letzter Monat). Quelle: ' + esc(D.prices.quelle) + '. Veränderungen ab 10 % sind farbig markiert.</p>';
   }
 
   function renderAll() {

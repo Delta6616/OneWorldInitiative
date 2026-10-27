@@ -181,7 +181,7 @@ def preise():
     for z in lies_csv("rohstoffe").values():
         je.setdefault(z["indicator"], []).append((z["date"], float(z["value"])))
     out = []
-    for kennung, (name, einheit, takt, typ) in REIHEN.items():
+    for kennung, (name, einheit, takt, typ, gruppe, leit) in REIHEN.items():
         reihe = sorted(je.get(kennung, []))
         if not reihe:
             continue
@@ -202,6 +202,7 @@ def preise():
         # Verlauf: bei taeglichen Reihen die letzten 90 Tage, bei monatlichen die letzten 24 Monate
         verlauf = [v for d, v in reihe[-(90 if takt == "täglich" else 24):]]
         out.append({"id": kennung, "name": name, "einheit": einheit, "takt": takt, "type": typ,
+                    "gruppe": gruppe, "leit": leit,
                     "wert": round(letzter, 2), "datum": tag,
                     "d30": round(letzter / a30 - 1, 3) if a30 else None,
                     "d365": round(letzter / a365 - 1, 3) if a365 else None,
