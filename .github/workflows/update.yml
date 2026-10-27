@@ -37,4 +37,3 @@ jobs:
             git commit -m "Daten aktualisiert $(date -u +%Y-%m-%d)"
             git push
           fi
-
