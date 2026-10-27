@@ -515,7 +515,7 @@ var PORTS = {
   syd:{n:'Sydney',c:'oc',p:[151.25,-33.9],at:'SYDN',w:3}, mel:{n:'Melbourne',c:'oc',p:[144.9,-38.0],at:'MELB',w:2}, fre:{n:'Fremantle',c:'oc',p:[115.75,-32.05],at:'FREN',w:2}
 };
 
-  var SVGNS = 'http://www.w3.org/2000/svg', SPEED = 11, SW = 11.2, SH = 7.2, ships = [], raf = null, T0 = performance.now();
+  var SVGNS = 'http://www.w3.org/2000/svg', Speed = 4, SW = 11.2, SH = 7.2, ships = [], raf = null, T0 = performance.now();
   var CALM = !!(window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches);
   function proj(lo, la) { return [500 + lo * 2.77778, 233.333 - la * 2.77778]; }
   function unwrapLon(prev, lo) { while (lo - prev > 180) lo -= 360; while (lo - prev < -180) lo += 360; return lo; }
