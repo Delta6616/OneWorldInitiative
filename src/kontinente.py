@@ -40,3 +40,36 @@ KONTINENT = {
     "VCT": "na", "VEN": "sa", "VGB": "na", "VIR": "na", "VNM": "as", "VUT": "oc", "WLF": "oc",
     "WSM": "oc", "XKX": "eu", "YEM": "as", "ZAF": "af", "ZMB": "af", "ZWE": "af",
 }
+
+
+# Stichwoerter, mit denen Schlagzeilen einem Kontinent zugeordnet werden (Naeherung, Kleinbuchstaben).
+STICHWORTE = {
+    "eu": ["europe", "europa", "eu ", "ukraine", "russia", "russland", "germany", "deutschland", "france", "frankreich",
+           "britain", "uk ", "italy", "spain", "poland", "polen", "netherlands", "brussels", "brüssel", "ecb", "ezb",
+           "nato", "kremlin", "moscow", "kyiv", "kiew", "berlin", "baltic", "ostsee", "norway", "sweden", "finland"],
+    "as": ["asia", "asien", "china", "chinese", "beijing", "taiwan", "japan", "india", "indien", "korea", "iran", "israel",
+           "gaza", "saudi", "gulf", "golf", "hormuz", "hormus", "iraq", "irak", "yemen", "jemen", "houthi", "huthi",
+           "red sea", "rotes meer", "turkey", "türkei", "pakistan", "indonesia", "vietnam", "singapore", "opec",
+           "opec+", "middle east", "nahost", "syria", "syrien", "lebanon", "libanon", "qatar", "emirates", "south china sea"],
+    "na": ["united states", "u.s.", "us ", "usa", "american", "washington", "trump", "fed ", "federal reserve", "canada",
+           "kanada", "mexico", "mexiko", "panama", "wall street", "white house", "weißes haus", "pentagon", "texas"],
+    "sa": ["south america", "südamerika", "brazil", "brasilien", "argentina", "argentinien", "chile", "peru", "colombia",
+           "kolumbien", "venezuela", "bolivia", "ecuador", "lithium triangle", "amazon"],
+    "af": ["africa", "afrika", "nigeria", "egypt", "ägypten", "suez", "ethiopia", "äthiopien", "sudan", "congo", "kongo",
+           "south africa", "südafrika", "kenya", "kenia", "libya", "libyen", "sahel", "morocco", "marokko", "algeria", "algerien"],
+    "oc": ["australia", "australien", "new zealand", "neuseeland", "pacific", "pazifik", "oceania", "ozeanien", "fiji", "papua"],
+}
+
+
+def kontinent_aus_text(text):
+    """Kontinent mit den meisten Stichwort-Treffern im Text, oder None bei keinem Treffer oder Gleichstand."""
+    t = " " + text.lower() + " "
+    best, bester = 0, None
+    gleich = False
+    for k, woerter in STICHWORTE.items():
+        n = sum(1 for w in woerter if w in t)
+        if n > best:
+            best, bester, gleich = n, k, False
+        elif n == best and n > 0:
+            gleich = True
+    return None if gleich or not best else bester

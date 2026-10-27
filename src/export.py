@@ -9,7 +9,7 @@ import sqlite3
 from datetime import date, timedelta
 
 from common import DATA, DOCS_DATA, MANUELL, jetzt, lies_csv
-from kontinente import KONTINENT, NAMEN
+from kontinente import KONTINENT, NAMEN, kontinent_aus_text
 
 QUELLEN = ["worldbank", "portwatch"]
 
@@ -125,6 +125,29 @@ def meerengen(con):
     return {"stand": jetzt(), "quelle": "IMF PortWatch (UN Global Platform)", "engstellen": out}
 
 
+def meldungen(tage=5, je_thema=14):
+    """Aktuelle Schlagzeilen aus GDELT, neueste zuerst, je Thema begrenzt, Duplikate entfernt."""
+    seit = (date.today() - timedelta(days=tage)).isoformat()
+    roh = [z for z in lies_csv("gdelt").values() if z["date"] >= seit]
+    roh.sort(key=lambda z: (z["date"], z["entity"]), reverse=True)
+    gesehen, je, dom, out = set(), {}, {}, []
+    for z in roh:
+        titel = z["value"]
+        schl = "".join(ch for ch in titel.lower() if ch.isalnum())[:60]
+        host = z["entity"].split("/")[2].replace("www.", "") if z["entity"].count("/") >= 2 else ""
+        if schl in gesehen or je.get(z["indicator"], 0) >= je_thema or dom.get((z["indicator"], host), 0) >= 3:
+            continue
+        gesehen.add(schl)
+        je[z["indicator"]] = je.get(z["indicator"], 0) + 1
+        dom[(z["indicator"], host)] = dom.get((z["indicator"], host), 0) + 1
+        out.append({"t": titel, "u": z["entity"], "d": z["date"], "q": host, "type": z["indicator"],
+                    "c": kontinent_aus_text(titel)})
+    out.sort(key=lambda x: x["d"], reverse=True)
+    return {"stand": jetzt(), "quelle": "GDELT Project (gdeltproject.org)",
+            "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
+            "items": out}
+
+
 def schreibe(name, inhalt):
     with open(os.path.join(DOCS_DATA, name), "w", encoding="utf-8") as f:
         json.dump(inhalt, f, ensure_ascii=False, indent=1)
@@ -135,6 +158,7 @@ def run():
     con = baue_db()
     schreibe("continents.json", kontinent_kennzahlen(con))
     schreibe("chokepoints.json", meerengen(con))
+    schreibe("news.json", meldungen())
     con.close()
     for n in ("flows.json", "events.json"):                # von Hand gepflegte Dateien
         quelle = os.path.join(MANUELL, n)

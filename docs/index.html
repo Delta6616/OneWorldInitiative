@@ -179,6 +179,10 @@ summary { cursor: pointer; color: var(--fg); font-weight: 500; }
 details ol { margin: 8px 0 0; padding-left: 20px; display: flex; flex-direction: column; gap: 4px; }
 
 /* Events */
+.news li { padding: 2px 0; }
+.news a.nt { color: inherit; text-decoration: none; font-weight: 600; }
+.news a.nt:hover { text-decoration: underline; }
+.news .btn { margin-top: 6px; }
 .evlist { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 10px; }
 @media (min-width: 1000px) { .evscroll { max-height: 900px; overflow-y: auto; padding-right: 4px; } }
 .ev { border: 1px solid var(--line); border-radius: 8px; padding: 12px; background: var(--surface); }
@@ -207,7 +211,7 @@ details ol { margin: 8px 0 0; padding-left: 20px; display: flex; flex-direction:
     <h1>Weltmodell</h1>
     <span class="stamp">Prototyp · Daten aktualisieren sich täglich</span>
   </header>
-  <p class="notice"><b>Weltbank-Kennzahlen und Schiffsdurchfahrten (IMF PortWatch) aktualisieren sich täglich automatisch.</b> Warenströme (CEPII BACI, jährlich) und Events (Momentaufnahme) ersetzt du von Hand. Die Simulation zeigt den Rechenweg und ist keine Prognose.</p>
+  <p class="notice"><b>Weltbank-Kennzahlen, Schiffsdurchfahrten (IMF PortWatch) und Meldungen (GDELT) aktualisieren sich täglich automatisch.</b> Warenströme (CEPII BACI, jährlich) und Events (Momentaufnahme) ersetzt du von Hand. Die Simulation zeigt den Rechenweg und ist keine Prognose.</p>
 
   <section class="panel" aria-labelledby="t-map">
     <div class="head">
@@ -277,6 +281,12 @@ details ol { margin: 8px 0 0; padding-left: 20px; display: flex; flex-direction:
         </div>
         <p class="hint" id="evhint" style="margin:-2px 0 10px"></p>
         <div class="evscroll"><ul class="evlist" id="evlist"></ul></div>
+      </section>
+
+      <section class="panel" id="newspanel" aria-labelledby="t-news" hidden>
+        <div class="head"><p class="label" id="t-news">Aktuelle Meldungen (automatisch)</p></div>
+        <p class="hint" id="newshint" style="margin:-2px 0 10px"></p>
+        <div class="evscroll"><ul class="evlist news" id="newslist"></ul></div>
       </section>
     </div>
   </div>
@@ -556,6 +566,26 @@ function start(D) {
     }).join('');
   }
 
+  /* ---------- Automatische Meldungen (GDELT) ---------- */
+  var NEWS = (D.news && D.news.items) || [];
+  function esc(s) { return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;'); }
+  function renderNews() {
+    $('newspanel').hidden = !NEWS.length;
+    if (!NEWS.length) return;
+    var idx = [];
+    NEWS.forEach(function (n, i) { if (!state.sel || !n.c || n.c === state.sel) idx.push(i); });
+    var show = idx.slice(0, 12);
+    $('newslist').innerHTML = show.length ? show.map(function (i) {
+      var n = NEWS[i];
+      return '<li class="ev"><div class="ev-meta"><span class="mono">' + esc(n.d.slice(8, 10) + '.' + n.d.slice(5, 7) + '.') + '</span>' +
+        '<span class="tag">' + (n.c ? nm(n.c) : 'Weltweit') + '</span><span class="tag">' + TYPES[n.type].label + '</span></div>' +
+        '<p><a class="nt" href="' + esc(n.u) + '" target="_blank" rel="noopener">' + esc(n.t) + '</a></p>' +
+        '<p class="quelle">Quelle: ' + esc(n.q) + '</p>' +
+        '<button class="btn" data-news="' + i + '">Als Szenario simulieren</button></li>';
+    }).join('') : '<li class="hint">Keine Meldungen vorhanden.</li>';
+    $('newshint').textContent = 'Stand ' + ((D.news && D.news.stand) || '').slice(0, 10) + '. ' + ((D.news && D.news.hinweis) || '');
+  }
+
   function spark(v) {
     if (!v || v.length < 2) return '';
     var mn = Math.min.apply(null, v), mx = Math.max.apply(null, v), w = 84, h = 22, rng = (mx - mn) || 1;
@@ -576,7 +606,7 @@ function start(D) {
   }
 
   function renderAll() {
-    renderList(); renderDetail(); renderEvents(); renderFlows(); renderPair(); renderChoke(); renderSim();
+    renderList(); renderDetail(); renderEvents(); renderNews(); renderFlows(); renderPair(); renderChoke(); renderSim();
   }
   function select(id) {
     state.sel = id || null;
@@ -595,6 +625,18 @@ function start(D) {
   $('s-sev').addEventListener('input', function (e) { state.sim.sev = parseInt(e.target.value, 10); manual(); });
 
   document.querySelector('.app').addEventListener('click', function (e) {
+    var nb = e.target.closest('[data-news]');
+    if (nb) {
+      var n = NEWS[parseInt(nb.getAttribute('data-news'), 10)];
+      state.sim = { src: n.c || state.sel || state.sim.src, type: n.type, sev: 30 };
+      state.active = null;
+      renderEvents(); renderSim();
+      if (window.innerWidth < 1000) {
+        var calm2 = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+        $('sim').scrollIntoView({ behavior: calm2 ? 'auto' : 'smooth', block: 'start' });
+      }
+      return;
+    }
     var ev = e.target.closest('[data-ev]');
     if (ev) {
       var item = EVENTS.filter(function (x) { return x.id === ev.getAttribute('data-ev'); })[0];
@@ -621,7 +663,7 @@ function start(D) {
   function zeit(q) { return ST[q] && ST[q].zeit ? ST[q].zeit.slice(0, 10) : 'noch nicht abgerufen'; }
   var bad = Object.keys(ST).filter(function (q) { return ST[q].ok === false; });
   $('foot').textContent = 'Datenstand: Weltbank ' + zeit('worldbank') + ', PortWatch ' + zeit('portwatch') + ', Handel ' + DATA.quelle + ' ' + DATA.jahr +
-    ', Events ' + ((D.events && D.events.stand) || '') + '.' + (bad.length ? ' Letzter Abruf fehlgeschlagen: ' + bad.join(', ') + '.' : '');
+    ', Events ' + ((D.events && D.events.stand) || '') + ', Meldungen (GDELT) ' + zeit('gdelt') + '.' + (bad.length ? ' Letzter Abruf fehlgeschlagen: ' + bad.join(', ') + '.' : '');
   $('evhint').textContent = 'Stand ' + ((D.events && D.events.stand) || '') + '. ' + ((D.events && D.events.hinweis) || '');
   renderAll();
 }
@@ -633,8 +675,8 @@ function start(D) {
       return r.json();
     }).catch(function (e) { if (pflicht) throw e; return null; });
   }
-  Promise.all([laden('flows', true), laden('continents', true), laden('events', true), laden('chokepoints', false), laden('status', false)])
-    .then(function (a) { start({ flows: a[0], cont: a[1], events: a[2], chokes: a[3], status: a[4] }); })
+  Promise.all([laden('flows', true), laden('continents', true), laden('events', true), laden('chokepoints', false), laden('status', false), laden('news', false)])
+    .then(function (a) { start({ flows: a[0], cont: a[1], events: a[2], chokes: a[3], status: a[4], news: a[5] }); })
     .catch(function (e) {
       document.querySelector('.app').insertAdjacentHTML('afterbegin',
         '<p class="notice"><b>Daten konnten nicht geladen werden</b> (' + e.message + '). Öffne die Seite über GitHub Pages oder einen lokalen Webserver (python -m http.server im Ordner docs), nicht direkt als Datei.</p>');

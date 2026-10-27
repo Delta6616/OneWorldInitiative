@@ -10,9 +10,9 @@ import sys
 
 from common import DATA, jetzt, lies_csv, upsert
 import export
-from sources import portwatch, worldbank
+from sources import gdelt, portwatch, worldbank
 
-QUELLEN = [worldbank, portwatch]
+QUELLEN = [worldbank, portwatch, gdelt]
 
 
 def main():

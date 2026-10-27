@@ -12,7 +12,9 @@ import urllib.parse
 import urllib.request
 from datetime import date, datetime, timedelta, timezone
 
-from common import AbrufFehler, PAUSE, fmt, hole_json
+import os
+
+from common import AbrufFehler, MANUELL, PAUSE, fmt
 
 NAME = "portwatch"
 # Mehrere Schreibweisen der Adresse; die erste, die funktioniert, wird genommen.
@@ -128,6 +130,18 @@ def fetch(vorhanden):
         if zeilen:
             return zeilen, []
         fehler.append("CSV: %d Zeilen, 0 brauchbar, Felder %s" % (len(daten), sorted(daten[0])[:8]))
+    # Letzter Weg: eine von Hand heruntergeladene Datei data/manual/portwatch.csv.
+    pfad = os.path.join(MANUELL, "portwatch.csv")
+    if os.path.exists(pfad):
+        with open(pfad, newline="", encoding="utf-8-sig") as f:
+            handdaten = [{(k or "").strip().lower(): v for k, v in z.items()} for z in csv.DictReader(f)]
+        zeilen = _umformen(handdaten, START)     # bei Handdaten immer alles ab START, spaetere Zeilen ersetzen alte
+        if zeilen:
+            return zeilen, ["Online-Abruf fehlgeschlagen, Handdatei portwatch.csv verwendet."]
+        fehler.append("Handdatei portwatch.csv: %d Zeilen, 0 brauchbar, Felder %s"
+                      % (len(handdaten), sorted(handdaten[0])[:8] if handdaten else []))
+    else:
+        fehler.append("Keine Handdatei data/manual/portwatch.csv vorhanden")
     raise AbrufFehler(" ## ".join(fehler))
 
 
