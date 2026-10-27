@@ -148,6 +148,34 @@ def meldungen(tage=5, je_thema_und_tag=10):
             "items": out}
 
 
+def preise():
+    """Rohstoffpreise: letzter Wert, Veraenderung gegen etwa 30 Tage und 12 Monate vorher, Verlauf."""
+    from sources.rohstoffe import REIHEN
+    je = {}
+    for z in lies_csv("rohstoffe").values():
+        je.setdefault(z["indicator"], []).append((z["date"], float(z["value"])))
+    out = []
+    for kennung, (name, einheit, takt, typ) in REIHEN.items():
+        reihe = sorted(je.get(kennung, []))
+        if not reihe:
+            continue
+        tag, letzter = reihe[-1]
+
+        def davor(tage):
+            ziel = (date.fromisoformat(tag) - timedelta(days=tage)).isoformat()
+            alt = [v for d, v in reihe if d <= ziel]
+            return alt[-1] if alt else None
+        a30, a365 = davor(30), davor(365)
+        # Verlauf: bei taeglichen Reihen die letzten 90 Tage, bei monatlichen die letzten 24 Monate
+        verlauf = [v for d, v in reihe[-(90 if takt == "täglich" else 24):]]
+        out.append({"id": kennung, "name": name, "einheit": einheit, "takt": takt, "type": typ,
+                    "wert": round(letzter, 2), "datum": tag,
+                    "d30": round(letzter / a30 - 1, 3) if a30 else None,
+                    "d365": round(letzter / a365 - 1, 3) if a365 else None,
+                    "verlauf": [round(v, 2) for v in verlauf]})
+    return {"stand": jetzt(), "quelle": "FRED, Federal Reserve Bank of St. Louis (Daten von EIA und IWF)", "preise": out}
+
+
 def schreibe(name, inhalt):
     with open(os.path.join(DOCS_DATA, name), "w", encoding="utf-8") as f:
         json.dump(inhalt, f, ensure_ascii=False, indent=1)
@@ -159,6 +187,7 @@ def run():
     schreibe("continents.json", kontinent_kennzahlen(con))
     schreibe("chokepoints.json", meerengen(con))
     schreibe("news.json", meldungen())
+    schreibe("prices.json", preise())
     con.close()
     for n in ("flows.json", "events.json"):                # von Hand gepflegte Dateien
         quelle = os.path.join(MANUELL, n)

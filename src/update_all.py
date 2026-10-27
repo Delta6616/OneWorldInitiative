@@ -11,9 +11,9 @@ import sys
 
 from common import DATA, jetzt, lies_csv, upsert
 import export
-from sources import gdelt, portwatch, worldbank
+from sources import gdelt, portwatch, rohstoffe, worldbank
 
-QUELLEN = [worldbank, portwatch, gdelt]
+QUELLEN = [worldbank, portwatch, rohstoffe, gdelt]
 
 
 def main(nur=None):

@@ -130,6 +130,7 @@ svg.map { display: block; width: 100%; height: auto; min-width: 720px; }
 .st-kritisch { color: var(--high); }
 .st-unbekannt { color: var(--muted); }
 .spark { color: var(--muted); vertical-align: middle; }
+.chg.mv { color: var(--high); }
 .chg.dn { color: var(--high); } .chg.up { color: var(--import); }
 .scroll { overflow-x: auto; }
 .foot { margin-top: 4px; }
@@ -211,7 +212,7 @@ details ol { margin: 8px 0 0; padding-left: 20px; display: flex; flex-direction:
     <h1>Weltmodell</h1>
     <span class="stamp">Prototyp · Daten aktualisieren sich täglich</span>
   </header>
-  <p class="notice"><b>Weltbank-Kennzahlen, Schiffsdurchfahrten (IMF PortWatch) und Meldungen (GDELT) aktualisieren sich täglich automatisch.</b> Warenströme (CEPII BACI, jährlich) und Events (Momentaufnahme) ersetzt du von Hand. Die Simulation zeigt den Rechenweg und ist keine Prognose.</p>
+  <p class="notice"><b>Weltbank-Kennzahlen, Schiffsdurchfahrten (IMF PortWatch), Meldungen (GDELT) und Rohstoffpreise (FRED) aktualisieren sich automatisch.</b> Warenströme (CEPII BACI, jährlich) und Events (Momentaufnahme) ersetzt du von Hand. Die Simulation zeigt den Rechenweg und ist keine Prognose.</p>
 
   <section class="panel" aria-labelledby="t-map">
     <div class="head">
@@ -236,6 +237,7 @@ details ol { margin: 8px 0 0; padding-left: 20px; display: flex; flex-direction:
     <div class="col">
       <section class="panel" id="pair" aria-live="polite"></section>
       <section class="panel" id="choke" aria-labelledby="t-choke"></section>
+      <section class="panel" id="prices" aria-labelledby="t-prices" hidden></section>
 
       <section class="panel" id="sim" aria-labelledby="t-sim">
         <p class="label" id="t-sim">Event simulieren</p>
@@ -605,8 +607,22 @@ function start(D) {
       }).join('') + '</tbody></table></div><p class="hint" style="margin-top:6px">Stand ' + list[0].bis + '. Quelle: IMF PortWatch (UN Global Platform). Änderungen ab 15 % sind farbig markiert.</p>';
   }
 
+  function renderPrices() {
+    var el = $('prices'), list = (D.prices && D.prices.preise) || [];
+    el.hidden = !list.length;
+    if (!list.length) return;
+    function pct(a) { return a == null ? '\u2013' : (a > 0 ? '+' : (a < 0 ? '\u2212' : '')) + nf0.format(Math.abs(a) * 100) + ' %'; }
+    function cls(a) { return a != null && Math.abs(a) >= 0.10 ? 'mv' : ''; }
+    el.innerHTML = '<div class="head"><p class="label" id="t-prices">Rohstoffpreise</p><span class="hint">Weltmarkt, Veränderung gegen 30 Tage und 12 Monate zuvor</span></div>' +
+      '<div class="scroll"><table><thead><tr><th>Rohstoff</th><th class="r">Preis</th><th class="r">30 Tage</th><th class="r">12 Monate</th><th class="r">Verlauf</th></tr></thead><tbody>' +
+      list.map(function (p) {
+        return '<tr><td>' + esc(p.name) + '<br><span class="hint">' + esc(p.einheit) + ', ' + esc(p.takt) + '</span></td><td class="r mono">' + nf1.format(p.wert) + '</td>' +
+          '<td class="r mono chg ' + cls(p.d30) + '">' + pct(p.d30) + '</td><td class="r mono chg ' + cls(p.d365) + '">' + pct(p.d365) + '</td><td class="r">' + spark(p.verlauf) + '</td></tr>';
+      }).join('') + '</tbody></table></div><p class="hint" style="margin-top:6px">Letzter Wert ' + esc(list[0].datum) + ' (monatliche Reihen: letzter Monat). Quelle: ' + esc(D.prices.quelle) + '. Veränderungen ab 10 % sind farbig markiert.</p>';
+  }
+
   function renderAll() {
-    renderList(); renderDetail(); renderEvents(); renderNews(); renderFlows(); renderPair(); renderChoke(); renderSim();
+    renderList(); renderDetail(); renderEvents(); renderNews(); renderFlows(); renderPair(); renderChoke(); renderPrices(); renderSim();
   }
   function select(id) {
     state.sel = id || null;
@@ -663,7 +679,7 @@ function start(D) {
   function zeit(q) { return ST[q] && ST[q].zeit ? ST[q].zeit.slice(0, 10) : 'noch nicht abgerufen'; }
   var bad = Object.keys(ST).filter(function (q) { return ST[q].ok === false; });
   $('foot').textContent = 'Datenstand: Weltbank ' + zeit('worldbank') + ', PortWatch ' + zeit('portwatch') + ', Handel ' + DATA.quelle + ' ' + DATA.jahr +
-    ', Events ' + ((D.events && D.events.stand) || '') + ', Meldungen (GDELT) ' + zeit('gdelt') + '.' + (bad.length ? ' Letzter Abruf fehlgeschlagen: ' + bad.join(', ') + '.' : '');
+    ', Events ' + ((D.events && D.events.stand) || '') + ', Meldungen (GDELT) ' + zeit('gdelt') + ', Rohstoffpreise (FRED) ' + zeit('rohstoffe') + '.' + (bad.length ? ' Letzter Abruf fehlgeschlagen: ' + bad.join(', ') + '.' : '');
   $('evhint').textContent = 'Stand ' + ((D.events && D.events.stand) || '') + '. ' + ((D.events && D.events.hinweis) || '');
   renderAll();
 }
@@ -675,8 +691,8 @@ function start(D) {
       return r.json();
     }).catch(function (e) { if (pflicht) throw e; return null; });
   }
-  Promise.all([laden('flows', true), laden('continents', true), laden('events', true), laden('chokepoints', false), laden('status', false), laden('news', false)])
-    .then(function (a) { start({ flows: a[0], cont: a[1], events: a[2], chokes: a[3], status: a[4], news: a[5] }); })
+  Promise.all([laden('flows', true), laden('continents', true), laden('events', true), laden('chokepoints', false), laden('status', false), laden('news', false), laden('prices', false)])
+    .then(function (a) { start({ flows: a[0], cont: a[1], events: a[2], chokes: a[3], status: a[4], news: a[5], prices: a[6] }); })
     .catch(function (e) {
       document.querySelector('.app').insertAdjacentHTML('afterbegin',
         '<p class="notice"><b>Daten konnten nicht geladen werden</b> (' + e.message + '). Öffne die Seite über GitHub Pages oder einen lokalen Webserver (python -m http.server im Ordner docs), nicht direkt als Datei.</p>');
