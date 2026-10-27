@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-27T15:46:07Z",
+ "stand": "2026-10-27T16:46:56Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -20,12 +20,28 @@
    "c": "as"
   },
   {
+   "t": "Tankrabatt : Warum Diesel - Fahrer weniger davon haben als versprochen",
+   "u": "https://www.mdr.de/nachrichten/deutschland/wirtschaft/spritpreise-rabatt-tankstelle-diesel-weitergabe-ifo,tankrabatt-336.html",
+   "d": "2026-10-26",
+   "q": "mdr.de",
+   "type": "energie",
+   "c": null
+  },
+  {
    "t": "Gas wird in Baden - Württemberg deutlich teurer",
    "u": "https://www.lkz.de/%c3%bcberregionales/stuttgart-s%C3%BCdwest_artikel,-gas-wird-in-baden-wuerttemberg-deutlich-teurer-_arid,887700.html",
    "d": "2026-10-26",
    "q": "lkz.de",
    "type": "energie",
    "c": null
+  },
+  {
+   "t": "Vereinigte Arabische Emirate - Strände nahe Dubai nach Ölverschmutzung offenbar infolge des Iran - Kriegs geschlossen",
+   "u": "https://www.deutschlandfunk.de/straende-nahe-dubai-nach-oelverschmutzung-offenbar-infolge-des-iran-kriegs-geschlossen-100.html",
+   "d": "2026-10-26",
+   "q": "deutschlandfunk.de",
+   "type": "energie",
+   "c": "as"
   },
   {
    "t": "Wasserknappheit in Bayern : Ampeln , Verbote , Bildung",
