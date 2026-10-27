@@ -46,9 +46,6 @@ REIHEN = {
     "PTINUSDM":     ("Zinn", "US-Dollar je Tonne", "monatlich", "rohstoffe", "Metalle", False),
     "PIORECRUSDM":  ("Eisenerz", "US-Dollar je Tonne", "monatlich", "rohstoffe", "Metalle", False),
     "PURANUSDM":    ("Uran", "US-Dollar je Pfund", "monatlich", "rohstoffe", "Metalle", False),
-    # Dünger
-    "PUREAUSDM":    ("Harnstoff (Dünger)", "US-Dollar je Tonne", "monatlich", "rohstoffe", "Dünger", False),
-    "PDAPUSDM":     ("Diammoniumphosphat (Dünger)", "US-Dollar je Tonne", "monatlich", "rohstoffe", "Dünger", False),
 }
 
 
