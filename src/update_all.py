@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Holt neue Daten aus allen Quellen und baut die Webseiten-Daten neu.
 
-Aufruf:   python src/update_all.py
+Aufruf:   python src/update_all.py            (alle Quellen)
+          python src/update_all.py --nur gdelt  (nur eine Quelle, zum Beispiel stuendlich die Meldungen)
 Eine Quelle, die ausfällt, stoppt die anderen nicht. Der Lauf gilt nur dann als
 Fehler (Exit-Code 1), wenn keine einzige Quelle Daten geliefert hat."""
 import json
@@ -15,7 +16,7 @@ from sources import gdelt, portwatch, worldbank
 QUELLEN = [worldbank, portwatch, gdelt]
 
 
-def main():
+def main(nur=None):
     os.makedirs(DATA, exist_ok=True)
     status_pfad = os.path.join(DATA, "status.json")
     status = {}
@@ -23,8 +24,11 @@ def main():
         with open(status_pfad, encoding="utf-8") as f:
             status = json.load(f)
 
+    quellen = [q for q in QUELLEN if nur is None or q.NAME == nur]
+    if not quellen:
+        sys.exit("Unbekannte Quelle: %s (moeglich: %s)" % (nur, ", ".join(q.NAME for q in QUELLEN)))
     erfolge = 0
-    for q in QUELLEN:
+    for q in quellen:
         zeit = jetzt()
         print("== %s ==" % q.NAME)
         try:
@@ -44,9 +48,10 @@ def main():
     with open(status_pfad, "w", encoding="utf-8") as f:
         json.dump(status, f, ensure_ascii=False, indent=1)
     export.run()
-    print("\nFertig. Erfolgreiche Quellen: %d von %d." % (erfolge, len(QUELLEN)))
+    print("\nFertig. Erfolgreiche Quellen: %d von %d." % (erfolge, len(quellen)))
     return 0 if erfolge else 1
 
 
 if __name__ == "__main__":
-    sys.exit(main())
+    nur = sys.argv[sys.argv.index("--nur") + 1] if "--nur" in sys.argv[:-1] else None
+    sys.exit(main(nur))
