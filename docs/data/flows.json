@@ -1,0 +1,959 @@
+{
+ "quelle": "CEPII BACI",
+ "jahr": 2023,
+ "einheit": "Mrd. US-Dollar pro Jahr",
+ "flows": [
+  {
+   "f": "af",
+   "t": "as",
+   "g": [
+    [
+     "Metalle & Erze",
+     153
+    ],
+    [
+     "Energie",
+     88
+    ],
+    [
+     "Agrar",
+     29
+    ],
+    [
+     "Chemie",
+     11
+    ],
+    [
+     "Textilien & Konsum",
+     10
+    ],
+    [
+     "Fahrzeuge",
+     3
+    ],
+    [
+     "Elektronik",
+     3
+    ]
+   ]
+  },
+  {
+   "f": "af",
+   "t": "eu",
+   "g": [
+    [
+     "Energie",
+     117
+    ],
+    [
+     "Metalle & Erze",
+     56
+    ],
+    [
+     "Agrar",
+     34
+    ],
+    [
+     "Fahrzeuge",
+     23
+    ],
+    [
+     "Textilien & Konsum",
+     18
+    ],
+    [
+     "Elektronik",
+     17
+    ],
+    [
+     "Chemie",
+     11
+    ],
+    [
+     "Maschinen",
+     3
+    ]
+   ]
+  },
+  {
+   "f": "af",
+   "t": "na",
+   "g": [
+    [
+     "Energie",
+     16
+    ],
+    [
+     "Metalle & Erze",
+     13
+    ],
+    [
+     "Agrar",
+     6
+    ],
+    [
+     "Textilien & Konsum",
+     4
+    ],
+    [
+     "Chemie",
+     3
+    ],
+    [
+     "Fahrzeuge",
+     2
+    ]
+   ]
+  },
+  {
+   "f": "af",
+   "t": "sa",
+   "g": [
+    [
+     "Energie",
+     5
+    ],
+    [
+     "Chemie",
+     4
+    ]
+   ]
+  },
+  {
+   "f": "as",
+   "t": "af",
+   "g": [
+    [
+     "Energie",
+     70
+    ],
+    [
+     "Textilien & Konsum",
+     58
+    ],
+    [
+     "Fahrzeuge",
+     52
+    ],
+    [
+     "Chemie",
+     47
+    ],
+    [
+     "Elektronik",
+     44
+    ],
+    [
+     "Metalle & Erze",
+     40
+    ],
+    [
+     "Maschinen",
+     37
+    ],
+    [
+     "Agrar",
+     35
+    ],
+    [
+     "Pharma",
+     6
+    ]
+   ]
+  },
+  {
+   "f": "as",
+   "t": "eu",
+   "g": [
+    [
+     "Elektronik",
+     472
+    ],
+    [
+     "Textilien & Konsum",
+     351
+    ],
+    [
+     "Maschinen",
+     270
+    ],
+    [
+     "Metalle & Erze",
+     216
+    ],
+    [
+     "Energie",
+     209
+    ],
+    [
+     "Fahrzeuge",
+     190
+    ],
+    [
+     "Chemie",
+     181
+    ],
+    [
+     "Agrar",
+     72
+    ],
+    [
+     "Pharma",
+     27
+    ]
+   ]
+  },
+  {
+   "f": "as",
+   "t": "na",
+   "g": [
+    [
+     "Elektronik",
+     435
+    ],
+    [
+     "Textilien & Konsum",
+     297
+    ],
+    [
+     "Maschinen",
+     283
+    ],
+    [
+     "Fahrzeuge",
+     183
+    ],
+    [
+     "Metalle & Erze",
+     137
+    ],
+    [
+     "Chemie",
+     136
+    ],
+    [
+     "Energie",
+     51
+    ],
+    [
+     "Agrar",
+     48
+    ],
+    [
+     "Pharma",
+     33
+    ]
+   ]
+  },
+  {
+   "f": "as",
+   "t": "oc",
+   "g": [
+    [
+     "Energie",
+     54
+    ],
+    [
+     "Fahrzeuge",
+     46
+    ],
+    [
+     "Textilien & Konsum",
+     32
+    ],
+    [
+     "Elektronik",
+     30
+    ],
+    [
+     "Maschinen",
+     25
+    ],
+    [
+     "Chemie",
+     19
+    ],
+    [
+     "Metalle & Erze",
+     17
+    ],
+    [
+     "Agrar",
+     10
+    ],
+    [
+     "Pharma",
+     2
+    ]
+   ]
+  },
+  {
+   "f": "as",
+   "t": "sa",
+   "g": [
+    [
+     "Elektronik",
+     50
+    ],
+    [
+     "Chemie",
+     41
+    ],
+    [
+     "Textilien & Konsum",
+     33
+    ],
+    [
+     "Maschinen",
+     32
+    ],
+    [
+     "Fahrzeuge",
+     22
+    ],
+    [
+     "Metalle & Erze",
+     20
+    ],
+    [
+     "Energie",
+     11
+    ],
+    [
+     "Agrar",
+     4
+    ],
+    [
+     "Pharma",
+     3
+    ]
+   ]
+  },
+  {
+   "f": "eu",
+   "t": "af",
+   "g": [
+    [
+     "Energie",
+     40
+    ],
+    [
+     "Agrar",
+     39
+    ],
+    [
+     "Maschinen",
+     28
+    ],
+    [
+     "Fahrzeuge",
+     26
+    ],
+    [
+     "Chemie",
+     23
+    ],
+    [
+     "Textilien & Konsum",
+     20
+    ],
+    [
+     "Elektronik",
+     20
+    ],
+    [
+     "Metalle & Erze",
+     16
+    ],
+    [
+     "Pharma",
+     10
+    ]
+   ]
+  },
+  {
+   "f": "eu",
+   "t": "as",
+   "g": [
+    [
+     "Metalle & Erze",
+     274
+    ],
+    [
+     "Energie",
+     225
+    ],
+    [
+     "Maschinen",
+     211
+    ],
+    [
+     "Elektronik",
+     194
+    ],
+    [
+     "Fahrzeuge",
+     179
+    ],
+    [
+     "Chemie",
+     146
+    ],
+    [
+     "Agrar",
+     130
+    ],
+    [
+     "Textilien & Konsum",
+     110
+    ],
+    [
+     "Pharma",
+     95
+    ]
+   ]
+  },
+  {
+   "f": "eu",
+   "t": "na",
+   "g": [
+    [
+     "Maschinen",
+     141
+    ],
+    [
+     "Pharma",
+     136
+    ],
+    [
+     "Fahrzeuge",
+     127
+    ],
+    [
+     "Elektronik",
+     114
+    ],
+    [
+     "Chemie",
+     106
+    ],
+    [
+     "Metalle & Erze",
+     66
+    ],
+    [
+     "Textilien & Konsum",
+     57
+    ],
+    [
+     "Agrar",
+     51
+    ],
+    [
+     "Energie",
+     27
+    ]
+   ]
+  },
+  {
+   "f": "eu",
+   "t": "oc",
+   "g": [
+    [
+     "Fahrzeuge",
+     15
+    ],
+    [
+     "Maschinen",
+     13
+    ],
+    [
+     "Elektronik",
+     9
+    ],
+    [
+     "Pharma",
+     8
+    ],
+    [
+     "Agrar",
+     7
+    ],
+    [
+     "Chemie",
+     6
+    ],
+    [
+     "Textilien & Konsum",
+     5
+    ],
+    [
+     "Metalle & Erze",
+     3
+    ]
+   ]
+  },
+  {
+   "f": "eu",
+   "t": "sa",
+   "g": [
+    [
+     "Chemie",
+     24
+    ],
+    [
+     "Maschinen",
+     21
+    ],
+    [
+     "Fahrzeuge",
+     14
+    ],
+    [
+     "Energie",
+     14
+    ],
+    [
+     "Pharma",
+     13
+    ],
+    [
+     "Elektronik",
+     12
+    ],
+    [
+     "Agrar",
+     8
+    ],
+    [
+     "Metalle & Erze",
+     7
+    ],
+    [
+     "Textilien & Konsum",
+     5
+    ]
+   ]
+  },
+  {
+   "f": "na",
+   "t": "af",
+   "g": [
+    [
+     "Agrar",
+     8
+    ],
+    [
+     "Energie",
+     8
+    ],
+    [
+     "Fahrzeuge",
+     7
+    ],
+    [
+     "Maschinen",
+     6
+    ],
+    [
+     "Chemie",
+     5
+    ],
+    [
+     "Elektronik",
+     3
+    ],
+    [
+     "Textilien & Konsum",
+     2
+    ],
+    [
+     "Metalle & Erze",
+     2
+    ]
+   ]
+  },
+  {
+   "f": "na",
+   "t": "as",
+   "g": [
+    [
+     "Energie",
+     129
+    ],
+    [
+     "Elektronik",
+     125
+    ],
+    [
+     "Agrar",
+     101
+    ],
+    [
+     "Maschinen",
+     94
+    ],
+    [
+     "Chemie",
+     79
+    ],
+    [
+     "Metalle & Erze",
+     77
+    ],
+    [
+     "Fahrzeuge",
+     70
+    ],
+    [
+     "Textilien & Konsum",
+     40
+    ],
+    [
+     "Pharma",
+     26
+    ]
+   ]
+  },
+  {
+   "f": "na",
+   "t": "eu",
+   "g": [
+    [
+     "Energie",
+     129
+    ],
+    [
+     "Elektronik",
+     89
+    ],
+    [
+     "Metalle & Erze",
+     82
+    ],
+    [
+     "Fahrzeuge",
+     70
+    ],
+    [
+     "Maschinen",
+     67
+    ],
+    [
+     "Chemie",
+     66
+    ],
+    [
+     "Pharma",
+     58
+    ],
+    [
+     "Agrar",
+     33
+    ],
+    [
+     "Textilien & Konsum",
+     23
+    ]
+   ]
+  },
+  {
+   "f": "na",
+   "t": "oc",
+   "g": [
+    [
+     "Maschinen",
+     10
+    ],
+    [
+     "Fahrzeuge",
+     9
+    ],
+    [
+     "Elektronik",
+     8
+    ],
+    [
+     "Chemie",
+     4
+    ],
+    [
+     "Metalle & Erze",
+     4
+    ],
+    [
+     "Agrar",
+     3
+    ],
+    [
+     "Pharma",
+     3
+    ],
+    [
+     "Textilien & Konsum",
+     2
+    ]
+   ]
+  },
+  {
+   "f": "na",
+   "t": "sa",
+   "g": [
+    [
+     "Energie",
+     39
+    ],
+    [
+     "Chemie",
+     26
+    ],
+    [
+     "Maschinen",
+     20
+    ],
+    [
+     "Elektronik",
+     13
+    ],
+    [
+     "Agrar",
+     12
+    ],
+    [
+     "Fahrzeuge",
+     11
+    ],
+    [
+     "Metalle & Erze",
+     5
+    ],
+    [
+     "Pharma",
+     5
+    ],
+    [
+     "Textilien & Konsum",
+     4
+    ]
+   ]
+  },
+  {
+   "f": "oc",
+   "t": "af",
+   "g": [
+    [
+     "Agrar",
+     2
+    ]
+   ]
+  },
+  {
+   "f": "oc",
+   "t": "as",
+   "g": [
+    [
+     "Metalle & Erze",
+     153
+    ],
+    [
+     "Energie",
+     141
+    ],
+    [
+     "Agrar",
+     57
+    ],
+    [
+     "Textilien & Konsum",
+     11
+    ],
+    [
+     "Chemie",
+     8
+    ],
+    [
+     "Maschinen",
+     2
+    ],
+    [
+     "Elektronik",
+     2
+    ]
+   ]
+  },
+  {
+   "f": "oc",
+   "t": "eu",
+   "g": [
+    [
+     "Metalle & Erze",
+     12
+    ],
+    [
+     "Agrar",
+     7
+    ],
+    [
+     "Energie",
+     6
+    ],
+    [
+     "Elektronik",
+     2
+    ],
+    [
+     "Fahrzeuge",
+     2
+    ]
+   ]
+  },
+  {
+   "f": "oc",
+   "t": "na",
+   "g": [
+    [
+     "Agrar",
+     10
+    ],
+    [
+     "Metalle & Erze",
+     5
+    ],
+    [
+     "Chemie",
+     2
+    ],
+    [
+     "Elektronik",
+     2
+    ]
+   ]
+  },
+  {
+   "f": "oc",
+   "t": "sa",
+   "g": [
+    [
+     "Energie",
+     2
+    ]
+   ]
+  },
+  {
+   "f": "sa",
+   "t": "af",
+   "g": [
+    [
+     "Agrar",
+     15
+    ],
+    [
+     "Energie",
+     2
+    ]
+   ]
+  },
+  {
+   "f": "sa",
+   "t": "as",
+   "g": [
+    [
+     "Agrar",
+     138
+    ],
+    [
+     "Metalle & Erze",
+     112
+    ],
+    [
+     "Energie",
+     43
+    ],
+    [
+     "Textilien & Konsum",
+     16
+    ],
+    [
+     "Chemie",
+     12
+    ],
+    [
+     "Maschinen",
+     2
+    ]
+   ]
+  },
+  {
+   "f": "sa",
+   "t": "eu",
+   "g": [
+    [
+     "Agrar",
+     51
+    ],
+    [
+     "Energie",
+     27
+    ],
+    [
+     "Metalle & Erze",
+     25
+    ],
+    [
+     "Chemie",
+     7
+    ],
+    [
+     "Textilien & Konsum",
+     7
+    ],
+    [
+     "Maschinen",
+     3
+    ],
+    [
+     "Fahrzeuge",
+     2
+    ]
+   ]
+  },
+  {
+   "f": "sa",
+   "t": "na",
+   "g": [
+    [
+     "Agrar",
+     38
+    ],
+    [
+     "Energie",
+     38
+    ],
+    [
+     "Metalle & Erze",
+     31
+    ],
+    [
+     "Textilien & Konsum",
+     11
+    ],
+    [
+     "Chemie",
+     10
+    ],
+    [
+     "Fahrzeuge",
+     8
+    ],
+    [
+     "Maschinen",
+     7
+    ],
+    [
+     "Elektronik",
+     3
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "stand": "2026-10-27T09:07:15Z",
+ "quelle": "Weltbank, neuester Wert je Land",
+ "daten_bis": {},
+ "kontinente": {
+  "eu": {
+   "gdp": 29949,
+   "abdeckung": {}
+  },
+  "as": {
+   "gdp": 41646,
+   "abdeckung": {}
+  },
+  "na": {
+   "gdp": 35854,
+   "abdeckung": {}
+  },
+  "sa": {
+   "gdp": 4574,
+   "abdeckung": {}
+  },
+  "af": {
+   "gdp": 3160,
+   "abdeckung": {}
+  },
+  "oc": {
+   "gdp": 2132,
+   "abdeckung": {}
+  }
+ }
+}

@@ -1,0 +1,185 @@
+{
+ "stand": "2026-10-26",
+ "hinweis": "Momentaufnahme aus Presse- und Branchenquellen, keine Live-Daten. Art und Schweregrad der Simulation sind eine Einstufung, keine Angabe der Quellen.",
+ "events": [
+  {
+   "id": "e1",
+   "c": "as",
+   "date": "25.10.",
+   "sev": "Hoch",
+   "title": "Golf-Öl fließt fast wieder wie vor dem Krieg, Brent bleibt über 110 $",
+   "text": "Laut Kpler verließen im September 16,5 Mio. Barrel pro Tag die Region, so viel wie vor Kriegsbeginn ohne Iran. Iranische Angriffe bedrohen Schiffe in der Straße von Hormus weiter. Brent lag zuletzt bei rund 110 bis 115 $.",
+   "q": [
+    [
+     "Al Jazeera, 26.10.",
+     "https://aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil"
+    ],
+    [
+     "OilPrice, 21.10.",
+     "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-Above-110-as-Middle-East-Supply-Fears-Persist.html"
+    ]
+   ],
+   "sim": {
+    "src": "as",
+    "type": "energie",
+    "sev": 55
+   }
+  },
+  {
+   "id": "e2",
+   "c": "eu",
+   "date": "20.10.",
+   "sev": "Mittel",
+   "title": "Cyberangriff legt Containerterminal in Le Havre lahm",
+   "text": "Am Terminal TNMSC werden derzeit weder Container angeliefert noch abgeholt. Ein Zeitplan für die Wiederaufnahme liegt nicht vor.",
+   "q": [
+    [
+     "Kuehne+Nagel, 20.10.",
+     "https://mykn.kuehne-nagel.com/news/article/port-operational-updates-from-20-10-2026"
+    ]
+   ],
+   "sim": {
+    "src": "eu",
+    "type": "logistik",
+    "sev": 20
+   }
+  },
+  {
+   "id": "e3",
+   "c": "af",
+   "date": "20.10.",
+   "sev": "Mittel",
+   "title": "Überlastete Häfen in Afrika, Wartezeiten bis 25 Tage",
+   "text": "In Durban warten Schiffe 6 bis 25 Tage, einige Reedereien lassen den Hafen aus. In Beira sind es rund 13 Tage, in Conakry rund 12.",
+   "q": [
+    [
+     "Kuehne+Nagel, 20.10.",
+     "https://mykn.kuehne-nagel.com/news/article/port-operational-updates-from-20-10-2026"
+    ]
+   ],
+   "sim": {
+    "src": "af",
+    "type": "logistik",
+    "sev": 35
+   }
+  },
+  {
+   "id": "e4",
+   "c": "na",
+   "date": "16.10.",
+   "sev": "Mittel",
+   "title": "US-Dekret setzt Russland-Sanktionsgesetz um und hebt fast alles sofort auf",
+   "text": "Zusatzzölle von 500 % auf russische Waren und 100 % auf die größten Käufer russischen Öls und Gases sind ausgesetzt, ohne Ablaufdatum. Die Simulation zeigt den Fall, dass die Zölle greifen.",
+   "q": [
+    [
+     "Snell & Wilmer",
+     "https://www.swlaw.com/publication/executive-order-implements-and-immediately-waives-new-graham-act-sanctions-and-tariffs-targeting-russia/"
+    ]
+   ],
+   "sim": {
+    "src": "na",
+    "type": "politik",
+    "sev": 40
+   }
+  },
+  {
+   "id": "e5",
+   "c": "as",
+   "date": "Okt.",
+   "sev": "Mittel",
+   "title": "Saudische Ost-West-Pipeline nach Angriffen nur halb ausgelastet",
+   "text": "Nach Angriffen der Huthi auf saudische Schiffe und die Pipeline fließen etwa 4 statt 7 Mio. Barrel pro Tag. Die Reparatur wird auf 3 bis 5 Wochen geschätzt.",
+   "q": [
+    [
+     "Ti Insight, Okt. 2026",
+     "https://ti-insight.com/briefs/global-supply-chain-risk-monitor-october-2026/"
+    ]
+   ],
+   "sim": {
+    "src": "as",
+    "type": "energie",
+    "sev": 30
+   }
+  },
+  {
+   "id": "e6",
+   "c": "as",
+   "date": "Okt.",
+   "sev": "Mittel",
+   "title": "Hafenstau in Ostasien nach Taifunen",
+   "text": "Schiffe warten in chinesischen Häfen 6 bis 12 Tage, nach DHL bindet das rund 12 % der wirksamen Schiffskapazität. In Shekou, Busan und Kaohsiung sind die Lager zu über 90 % belegt.",
+   "q": [
+    [
+     "Ti Insight, Okt. 2026",
+     "https://ti-insight.com/briefs/global-supply-chain-risk-monitor-october-2026/"
+    ],
+    [
+     "Kuehne+Nagel, 20.10.",
+     "https://mykn.kuehne-nagel.com/news/article/port-operational-updates-from-20-10-2026"
+    ]
+   ],
+   "sim": {
+    "src": "as",
+    "type": "logistik",
+    "sev": 30
+   }
+  },
+  {
+   "id": "e7",
+   "c": "eu",
+   "date": "Okt.",
+   "sev": "Mittel",
+   "title": "Angriffe auf Handelsschiffe im Schwarzen Meer häufen sich",
+   "text": "Im Oktober sank ein türkischer Frachter vor Rumänien (zwei Tote), Drohnen trafen Frachter vor Bulgarien. Betroffen sind vor allem Getreidetransporte, die Versicherungsprämien steigen.",
+   "q": [
+    [
+     "Ti Insight, Okt. 2026",
+     "https://ti-insight.com/briefs/global-supply-chain-risk-monitor-october-2026/"
+    ]
+   ],
+   "sim": {
+    "src": "eu",
+    "type": "logistik",
+    "sev": 25
+   }
+  },
+  {
+   "id": "e8",
+   "c": "eu",
+   "date": "Okt.",
+   "sev": "Mittel",
+   "title": "Deutschland und Frankreich fordern härtere Handelsschutzinstrumente",
+   "text": "Gefordert werden automatische Gegenmaßnahmen, wenn die Abhängigkeit von einem Land bei einem kritischen Bauteil über 40 % liegt. Handelskommissar Šefčovič trifft Chinas Handelsminister, die Erfolgsaussichten gelten als gering.",
+   "q": [
+    [
+     "Ti Insight, Okt. 2026",
+     "https://ti-insight.com/briefs/global-supply-chain-risk-monitor-october-2026/"
+    ]
+   ],
+   "sim": {
+    "src": "eu",
+    "type": "politik",
+    "sev": 30
+   }
+  },
+  {
+   "id": "e9",
+   "c": "na",
+   "date": "Okt.",
+   "sev": "Mittel",
+   "title": "Panamakanal: nur noch 32 statt 36 Durchfahrten pro Tag",
+   "text": "Die Kapazität sinkt um rund 11 %, etwa 2 Mio. Tonnen pro Monat. Ein Neopanamax-Slot ging am 1. September für 5,3 Mio. $ weg.",
+   "q": [
+    [
+     "Ti Insight, Okt. 2026",
+     "https://ti-insight.com/briefs/global-supply-chain-risk-monitor-october-2026/"
+    ]
+   ],
+   "sim": {
+    "src": "na",
+    "type": "logistik",
+    "sev": 20
+   }
+  }
+ ]
+}

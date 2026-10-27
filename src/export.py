@@ -1,0 +1,145 @@
+"""Baut aus den CSV-Dateien eine SQLite-Datenbank und die JSON-Dateien für die Webseite.
+
+Die Datenbank (data/weltmodell.db) wird bei jedem Lauf neu erzeugt und nicht in Git
+gespeichert. Die CSV-Dateien sind die eigentliche, nachvollziehbare Ablage."""
+import json
+import os
+import shutil
+import sqlite3
+from datetime import date, timedelta
+
+from common import DATA, DOCS_DATA, MANUELL, jetzt, lies_csv
+from kontinente import KONTINENT, NAMEN
+
+QUELLEN = ["worldbank", "portwatch"]
+
+
+def baue_db():
+    pfad = os.path.join(DATA, "weltmodell.db")
+    if os.path.exists(pfad):
+        os.remove(pfad)
+    con = sqlite3.connect(pfad)
+    con.execute("CREATE TABLE beobachtung (quelle TEXT, indicator TEXT, entity TEXT, "
+                "entity_type TEXT, date TEXT, value REAL)")
+    con.execute("CREATE INDEX i_beob ON beobachtung (indicator, entity, date)")
+    for q in QUELLEN:
+        con.executemany("INSERT INTO beobachtung VALUES (?,?,?,?,?,?)",
+                        [(q, z["indicator"], z["entity"], z["entity_type"], z["date"], float(z["value"]))
+                         for z in lies_csv(q).values()])
+    con.execute("CREATE TABLE land (iso3 TEXT PRIMARY KEY, kontinent TEXT)")
+    con.executemany("INSERT INTO land VALUES (?,?)", sorted(KONTINENT.items()))
+    con.commit()
+    return con
+
+
+def neueste(con, indikator):
+    """Je Land der neueste vorhandene Wert: {iso3: (Jahr, Wert)}."""
+    d = {}
+    for e, dt, v in con.execute("SELECT entity, date, value FROM beobachtung "
+                                "WHERE indicator=? AND entity_type='country' ORDER BY date", (indikator,)):
+        d[e] = (dt, v)
+    return d
+
+
+def kontinent_kennzahlen(con):
+    seed_pfad = os.path.join(MANUELL, "continents_seed.json")
+    seed = {}
+    if os.path.exists(seed_pfad):
+        with open(seed_pfad, encoding="utf-8") as f:
+            seed = json.load(f).get("kontinente", {})
+    out = {k: dict(seed.get(k, {})) for k in NAMEN}
+    for k in NAMEN:
+        out[k]["abdeckung"] = {}
+
+    gdp, pop = neueste(con, "NY.GDP.MKTP.CD"), neueste(con, "SP.POP.TOTL")
+    ges_gdp = {k: sum(v for i, (_, v) in gdp.items() if KONTINENT[i] == k) for k in NAMEN}
+    ges_pop = {k: sum(v for i, (_, v) in pop.items() if KONTINENT[i] == k) for k in NAMEN}
+    for k in NAMEN:
+        if ges_gdp[k]:
+            out[k]["gdp"] = round(ges_gdp[k] / 1e9)
+        if ges_pop[k]:
+            out[k]["pop"] = round(ges_pop[k] / 1e6)
+
+    def gewichtet(ind, gew, gesamt, cap=None):
+        acc = {k: [0.0, 0.0] for k in NAMEN}
+        for iso, (_, v) in neueste(con, ind).items():
+            w = gew.get(iso, (None, 0))[1]
+            if not w or w <= 0:
+                continue
+            if cap is not None:
+                v = max(-cap, min(cap, v))
+            k = KONTINENT[iso]
+            acc[k][0] += v * w
+            acc[k][1] += w
+        return {k: (a[0] / a[1], a[1] / gesamt[k]) for k, a in acc.items() if a[1] > 0 and gesamt[k] > 0}
+
+    # Feld, Weltbank-Kennzahl, Gewicht, Gesamtgewicht, Obergrenze gegen Ausreißer
+    plan = [("wachstum", "NY.GDP.MKTP.KD.ZG", gdp, ges_gdp, None),
+            ("inflation", "FP.CPI.TOTL.ZG", gdp, ges_gdp, 100),
+            ("handel", "NE.TRD.GNFS.ZS", gdp, ges_gdp, None),
+            ("schulden", "GC.DOD.TOTL.GD.ZS", gdp, ges_gdp, None),
+            ("stab_roh", "PV.EST", pop, ges_pop, None),
+            ("regierung", "GE.EST", pop, ges_pop, None)]
+    for feld, ind, gew, gesamt, cap in plan:
+        for k, (v, abd) in gewichtet(ind, gew, gesamt, cap).items():
+            out[k][feld] = round(v, 2 if feld in ("stab_roh", "regierung") else 1)
+            out[k]["abdeckung"][feld] = round(abd, 2)
+    for k in NAMEN:
+        if out[k].get("stab_roh") is not None:
+            out[k]["stab"] = round((out[k]["stab_roh"] + 2.5) / 5 * 100)      # Skala -2,5..+2,5 auf 0..100
+        if out[k].get("wachstum") is not None:
+            out[k]["dyn"] = max(0, min(100, round((out[k]["wachstum"] + 2) / 8 * 100)))  # -2 %..+6 % auf 0..100
+    bis = {}
+    for ind in ("NY.GDP.MKTP.CD", "NY.GDP.MKTP.KD.ZG", "PV.EST"):
+        r = con.execute("SELECT MAX(date) FROM beobachtung WHERE indicator=?", (ind,)).fetchone()[0]
+        if r:
+            bis[ind] = r
+    return {"stand": jetzt(), "quelle": "Weltbank, neuester Wert je Land", "daten_bis": bis, "kontinente": out}
+
+
+def meerengen(con):
+    def reihe(ind):
+        d = {}
+        for e, dt, v in con.execute("SELECT entity, date, value FROM beobachtung WHERE indicator=? "
+                                    "AND entity_type='chokepoint' ORDER BY entity, date", (ind,)):
+            d.setdefault(e, []).append((date.fromisoformat(dt), v))
+        return d
+
+    def mittel(liste, von, bis):
+        w = [v for d, v in liste if von < d <= bis]
+        return sum(w) / len(w) if w else None
+
+    total, tanker = reihe("n_total"), reihe("n_tanker")
+    out = []
+    for name, lst in total.items():
+        ende = lst[-1][0]
+        a7 = mittel(lst, ende - timedelta(days=7), ende)
+        a90 = mittel(lst, ende - timedelta(days=97), ende - timedelta(days=7))
+        t7 = mittel(tanker.get(name, []), ende - timedelta(days=7), ende)
+        out.append({"name": name, "bis": ende.isoformat(), "tag7": round(a7, 1),
+                    "tag90": round(a90, 1) if a90 is not None else None,
+                    "aenderung": round(a7 / a90 - 1, 3) if a90 else None,
+                    "tanker7": round(t7, 1) if t7 is not None else None,
+                    "verlauf": [round(v) for _, v in lst[-60:]]})
+    out.sort(key=lambda x: -(x["tag90"] or x["tag7"] or 0))
+    return {"stand": jetzt(), "quelle": "IMF PortWatch (UN Global Platform)", "engstellen": out}
+
+
+def schreibe(name, inhalt):
+    with open(os.path.join(DOCS_DATA, name), "w", encoding="utf-8") as f:
+        json.dump(inhalt, f, ensure_ascii=False, indent=1)
+
+
+def run():
+    os.makedirs(DOCS_DATA, exist_ok=True)
+    con = baue_db()
+    schreibe("continents.json", kontinent_kennzahlen(con))
+    schreibe("chokepoints.json", meerengen(con))
+    con.close()
+    for n in ("flows.json", "events.json"):                # von Hand gepflegte Dateien
+        quelle = os.path.join(MANUELL, n)
+        if os.path.exists(quelle):
+            shutil.copyfile(quelle, os.path.join(DOCS_DATA, n))
+    status = os.path.join(DATA, "status.json")
+    if os.path.exists(status):
+        shutil.copyfile(status, os.path.join(DOCS_DATA, "status.json"))

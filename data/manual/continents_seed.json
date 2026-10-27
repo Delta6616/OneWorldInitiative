@@ -1,0 +1,23 @@
+{
+ "hinweis": "Startwerte, bis der erste automatische Lauf die Weltbank-Daten geholt hat (BIP in Mrd. US-Dollar).",
+ "kontinente": {
+  "eu": {
+   "gdp": 29949
+  },
+  "as": {
+   "gdp": 41646
+  },
+  "na": {
+   "gdp": 35854
+  },
+  "sa": {
+   "gdp": 4574
+  },
+  "af": {
+   "gdp": 3160
+  },
+  "oc": {
+   "gdp": 2132
+  }
+ }
+}
