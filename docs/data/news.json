@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-27T15:15:09Z",
+ "stand": "2026-10-27T15:37:44Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -26,6 +26,22 @@
    "q": "lkz.de",
    "type": "energie",
    "c": null
+  },
+  {
+   "t": "Wasserknappheit in Bayern : Ampeln , Verbote , Bildung",
+   "u": "https://www.br.de/nachrichten/bayern/wasserknappheit-in-bayern-ampeln-verbote-bildung,VYqugTc",
+   "d": "2026-10-26",
+   "q": "br.de",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Arab News | US touts role in Gulf oil exports as CENTCOM chief flies over Hormuz Strait",
+   "u": "https://www.arabnews.com/middle-east/us-touts-role-in-gulf-oil-exports-as-centcom-chief-flies-over-hormuz-strait-3008237",
+   "d": "2026-10-26",
+   "q": "arabnews.com",
+   "type": "logistik",
+   "c": "as"
   },
   {
    "t": "Northern B . C . LNG story is entering its next chapter",
@@ -68,6 +84,14 @@
    "c": "as"
   },
   {
+   "t": "AXIOM - Dosiersystem von BOSS Agriculture gewinnt Auszeichnung bei Henty Machinery Field Days",
+   "u": "https://www.topagrar.com/technik/news/dosiersystem-axiom-gewinnt-auszeichnung-bei-henty-machinery-field-days-20030523.html",
+   "d": "2026-10-25",
+   "q": "topagrar.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
    "t": "Adnoc prepares new wave of oil and gas tenders for 2027",
    "u": "https://www.thenationalnews.com/business/energy/2026/10/25/adnoc-prepares-new-wave-of-oil-and-gas-tenders-for-2027/",
    "d": "2026-10-25",
@@ -81,6 +105,14 @@
    "d": "2026-10-25",
    "q": "thehindubusinessline.com",
    "type": "politik",
+   "c": "as"
+  },
+  {
+   "t": "Abbas Araghchi says resumption of war would not change Iran policies",
+   "u": "https://www.thehindu.com/news/international/iran-says-resumption-of-war-would-not-change-its-stances/article71622921.ece",
+   "d": "2026-10-25",
+   "q": "thehindu.com",
+   "type": "logistik",
    "c": "as"
   },
   {
@@ -100,6 +132,14 @@
    "c": "na"
   },
   {
+   "t": "Trockene Haut : Ursachen , Symptome , Pflege und Hausmittel",
+   "u": "https://www.t-online.de/gesundheit/krankheiten-symptome/hautpflege/id_91798102/trockene-haut-ursachen-symptome-pflege-und-hausmittel.html",
+   "d": "2026-10-25",
+   "q": "t-online.de",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
    "t": "Spore expects all parties to honour commitments , says PM Wong after Indonesia cuts gas exports",
    "u": "https://www.straitstimes.com/singapore/politics/spore-expects-all-parties-to-honour-commitments-says-pm-wong-after-indonesia-cuts-gas-exports",
    "d": "2026-10-25",
@@ -116,12 +156,28 @@
    "c": "as"
   },
   {
+   "t": "Iran says US war threats will not change its policies",
+   "u": "https://www.samaa.tv/2087359086-iran-says-us-war-threats-will-not-change-its-policies",
+   "d": "2026-10-25",
+   "q": "samaa.tv",
+   "type": "logistik",
+   "c": null
+  },
+  {
    "t": "Kreuzfahrt - Passagiere landen statt auf den Bahamas im kalten Kanada",
    "u": "https://www.rtl.de/news/kreuzfahrt-passagiere-landen-statt-auf-den-bahamas-im-kalten-kanada-id31455862.html",
    "d": "2026-10-25",
    "q": "rtl.de",
    "type": "logistik",
    "c": "na"
+  },
+  {
+   "t": "Zuckerrüben - Ernte teils drastisch eingebrochen",
+   "u": "https://www.proplanta.de/agrar-nachrichten/pflanze/zuckerrueben-ernte-teils-drastisch-eingebrochen_article1792918501.html",
+   "d": "2026-10-25",
+   "q": "proplanta.de",
+   "type": "rohstoffe",
+   "c": null
   },
   {
    "t": "World : Algeria senate approves sending troops to Niger",
@@ -145,6 +201,30 @@
    "d": "2026-10-25",
    "q": "netzwelt.de",
    "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "The Price Tags of War | naked capitalism",
+   "u": "https://www.nakedcapitalism.com/2026/10/the-price-tags-of-war.html",
+   "d": "2026-10-25",
+   "q": "nakedcapitalism.com",
+   "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "Could Hormuz become America Suez ? – Middle East Monitor",
+   "u": "https://www.middleeastmonitor.com/20261025-could-hormuz-become-americas-suez/",
+   "d": "2026-10-25",
+   "q": "middleeastmonitor.com",
+   "type": "logistik",
+   "c": "as"
+  },
+  {
+   "t": "Why fund managers are mixed on gilt funds",
+   "u": "https://www.livemint.com/money/personal-finance/why-fund-managers-are-mixed-on-gilt-funds-11792902637701.html",
+   "d": "2026-10-25",
+   "q": "livemint.com",
+   "type": "finanz",
    "c": null
   },
   {
@@ -172,6 +252,14 @@
    "c": null
   },
   {
+   "t": "CENTCOM Chief Brad Cooper flies over Hormuz during Middle East visit",
+   "u": "https://www.jpost.com/middle-east/article-912824",
+   "d": "2026-10-25",
+   "q": "jpost.com",
+   "type": "logistik",
+   "c": "as"
+  },
+  {
    "t": "Anker Solarbank 3 vs . 4 : 2 , 68 gegen 5 , 02 kWh im Vergleich",
    "u": "https://www.infranken.de/ratgeber/verbraucher/anker-solarbank-3-vs-4-268-gegen-502-kwh-im-vergleich-art-6370009",
    "d": "2026-10-25",
@@ -194,14 +282,6 @@
    "q": "ibtimes.co.in",
    "type": "energie",
    "c": "as"
-  },
-  {
-   "t": "Karibik - Kreuzfahrer landen in Kanada – Passagiere um bekannte Schauspielerin reagieren erbost",
-   "u": "https://www.hna.de/welt/karibik-kreuzfahrer-landen-in-kanada-passagiere-um-bekannte-schauspielerin-reagieren-erbost-zr-94557205.html",
-   "d": "2026-10-25",
-   "q": "hna.de",
-   "type": "logistik",
-   "c": "na"
   },
   {
    "t": "Schockierende Auswertung – Heizöl um 63 Prozent teurer – auch Diesel explodiert",
@@ -228,12 +308,20 @@
    "c": "na"
   },
   {
-   "t": "ROUNDUP : Huthi - Rebellen melden Tote in Sanaa",
-   "u": "https://www.finanzen.net/nachricht/aktien/roundup-huthi-rebellen-melden-tote-in-sanaa-16006451",
+   "t": "Um den Cholesterinspiegel zu senken , müssen Kohlenhydrate ersetzt werden – so das Ergebnis einer Studie",
+   "u": "https://www.focus.de/gesundheit/ratgeber/um-den-cholesterinspiegel-zu-senken-muessen-kohlenhydrate-ersetzt-werden-so-das-ergebnis-einer-studie_f2092bfe-a408-4c7c-8159-b713e5962eb0.html",
    "d": "2026-10-25",
-   "q": "finanzen.net",
-   "type": "logistik",
-   "c": "as"
+   "q": "focus.de",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Stihl senkt wegen Trockenheit Umsatzprognose für 2026",
+   "u": "https://www.finanznachrichten.de/nachrichten-2026-10/69928032-stihl-senkt-wegen-trockenheit-umsatzprognose-fuer-2026-003.htm",
+   "d": "2026-10-25",
+   "q": "finanznachrichten.de",
+   "type": "rohstoffe",
+   "c": null
   },
   {
    "t": "Frankreich wankt , der Euro zittert : Wie gefährlich wird die Krise ?",
@@ -242,14 +330,6 @@
    "q": "finanzen.net",
    "type": "finanz",
    "c": "eu"
-  },
-  {
-   "t": "Mindestens zwölf Tote nach saudischen Luftangriffen im Jemen",
-   "u": "https://www.diepresse.com/41390356/mehrere-tote-nach-saudi-arabischen-luftangriffen-im-jemen",
-   "d": "2026-10-25",
-   "q": "diepresse.com",
-   "type": "logistik",
-   "c": "as"
   },
   {
    "t": "Riyadh Airport Resumes Operation Following Closure After Attacks",
@@ -292,6 +372,14 @@
    "c": "eu"
   },
   {
+   "t": "Stühlingen stimmt der Reaktivierung der Wutachtalbahn nach Waldshut zu",
+   "u": "https://www.badische-zeitung.de/stuehlingen-stimmt-der-reaktivierung-der-wutachtalbahn-nach-waldshut-zu",
+   "d": "2026-10-25",
+   "q": "badische-zeitung.de",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
    "t": "Barack Obama mocks President Trump tariff war with Canada",
    "u": "https://toronto.citynews.ca/2026/10/25/well-known-evil-empire-barack-obama-mocks-president-trumps-tariff-war-with-canada/",
    "d": "2026-10-25",
@@ -316,20 +404,20 @@
    "c": "na"
   },
   {
-   "t": "Krugman Outlines AI , Inflation and Debt Risks to U . S . Economy",
-   "u": "https://econotimes.com/Krugman-Outlines-AI-Inflation-and-Debt-Risks-to-U-S-Economy-1762931",
-   "d": "2026-10-25",
-   "q": "econotimes.com",
-   "type": "finanz",
-   "c": null
-  },
-  {
    "t": "Inside the Trump - administration campaign to return Bolsonaro clan to power - Americas",
    "u": "http://www.thejakartapost.com/world/2026/10/25/inside-the-trump-administration-campaign-to-return-bolsonaro-clan-to-power",
    "d": "2026-10-25",
    "q": "thejakartapost.com",
    "type": "politik",
    "c": "na"
+  },
+  {
+   "t": "Antonio Salieri -  La grotta di Trofonio , ARD - Opernabend - WDR 3 Oper - Sendungen - Programm - WDR 3",
+   "u": "https://www1.wdr.de/radio/wdr3/programm/sendungen/wdr3-oper/oper-antonio-salieri-la-grotta-di-trofonio-100.html",
+   "d": "2026-10-24",
+   "q": "www1.wdr.de",
+   "type": "rohstoffe",
+   "c": null
   },
   {
    "t": "Houthis Announce Massive Missile Attack On Saudi Territory , Including East - West Pipeline",
@@ -418,6 +506,14 @@
    "q": "rigzone.com",
    "type": "energie",
    "c": "eu"
+  },
+  {
+   "t": "Iran remains open to talks with US under Pakistan - brokered deal , envoy says",
+   "u": "https://www.pressdemocrat.com/2026/10/24/iran-remains-open-to-talks-with-us-under-pakistan-brokered-deal-envoy-says/",
+   "d": "2026-10-24",
+   "q": "pressdemocrat.com",
+   "type": "logistik",
+   "c": "as"
   },
   {
    "t": "Value per barrel matters more than volume",
@@ -529,6 +625,14 @@
    "d": "2026-10-24",
    "q": "srilankasource.com",
    "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "„ Kämpfe vereinen sich  – Widerstand gegen Mileis Kettensäge wächst",
+   "u": "http://www.hna.de/politik/kaempfe-vereinen-sich-widerstand-gegen-mileis-kettensaege-waechst-zr-94556707.html",
+   "d": "2026-10-24",
+   "q": "hna.de",
+   "type": "rohstoffe",
    "c": null
   }
  ]
