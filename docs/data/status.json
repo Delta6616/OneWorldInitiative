@@ -1,14 +1,14 @@
 {
  "worldbank": {
   "ok": true,
-  "zeit": "2026-10-27T12:01:15Z",
+  "zeit": "2026-10-27T12:07:51Z",
   "neu_oder_geaendert": 0,
   "zeilen_gesamt": 27953,
   "warnungen": []
  },
  "portwatch": {
   "ok": false,
-  "letzter_versuch": "2026-10-27T12:01:20Z",
-  "fehler": "1=1/arcgis/Layer0: {'code': 400, 'message': 'Invalid URL', 'deta ## 1=1/arcgis/Layer0: {'code': 400, 'message': 'Invalid URL', 'deta ## 1=1/ArcGIS/Layer0: {'code': 400, 'message': 'Invalid URL', 'deta ## 1=1/ArcGIS/Layer0: {'code': 400, 'message': 'Invalid URL', 'deta ## 1=1/arcgis/ohneLayer: {'code': 400, 'message': 'Invalid URL', 'deta ## 1=1/arcgis/ohneLayer: 0 Datensaetze, 0 brauchbar, Felder [] ## year >= 2024/arcgis/Layer0: {'code': 400, 'message': 'Invalid URL', 'deta ## year >= 2024/arcgis/Layer0: {'code': 400, 'message': 'Invalid URL', 'deta ## year >= 2024/ArcGIS/Layer0: {'code': 400, 'message': 'Invalid URL', 'deta ## year >= 2024/ArcGIS/Layer0: {'code': 400, 'message': 'Invalid URL', 'deta ## year >= 2024/arcgis/ohneLayer: {'code': 400, 'message': 'Invalid URL', 'deta ## year >= 2024/arcgis/ohneLayer: {'code': 400, 'message': 'Invalid URL', 'deta ## year >= 2024/arcgis/Layer0: {'code': 400, 'message': 'Invalid URL', 'deta ## year >= 2024/arcgis/Layer0: {'code': 400, 'message': 'Invalid URL', 'deta ## year >= 2024/ArcGIS/Layer0: {'code': 400, 'message': 'Invalid URL', 'deta ## year >= 2024/ArcGIS/Layer0: {'code': 400, 'message': 'Invalid URL', 'deta ## year >= 2024/arcgis/ohneLayer: {'code': 400, 'message': 'Invalid URL', 'deta ## year >= 2024/arcgis/ohneLayer: {'code': 400, 'message': 'Invalid URL', 'deta ## date >= TIMESTAMP '2024-01-01 00:00:00'/arcgis/Layer0: {'code': 400, 'message': 'Invalid URL', 'deta ## date >= TIMESTAMP '2024-01-01 00:00:00'/arcgis/Layer0: {'code': 400, 'message': 'Invalid URL', 'deta ## date >= TIMESTAMP '2024-01-01 00:00:00'/ArcGIS/Layer0: {'code': 400, 'message': 'Invalid URL', 'deta ## date >= TIMESTAMP '2024-01-01 00:00:00'/ArcGIS/Layer0: {'code': 400, 'message': 'Invalid URL', 'deta ## date >= TIMESTAMP '2024-01-01 00:00:00'/arcgis/ohneLayer: 0 Datensaetze, 0 brauchbar, Felder []"
+  "letzter_versuch": "2026-10-27T12:07:57Z",
+  "fehler": "1=1/arcgis/Layer0: {'code': 400, 'message': 'Invalid URL', 'deta ## 1=1/ArcGIS/Layer0: {'code': 400, 'message': 'Invalid URL', 'deta ## year >= 2024/arcgis/Layer0: {'code': 400, 'message': 'Invalid URL', 'deta ## year >= 2024/ArcGIS/Layer0: {'code': 400, 'message': 'Invalid URL', 'deta ## year >= 2024/arcgis/Layer0: {'code': 400, 'message': 'Invalid URL', 'deta ## year >= 2024/ArcGIS/Layer0: {'code': 400, 'message': 'Invalid URL', 'deta ## date >= TIMESTAMP '2024-01-01 00:00:00'/arcgis/Layer0: {'code': 400, 'message': 'Invalid URL', 'deta ## date >= TIMESTAMP '2024-01-01 00:00:00'/ArcGIS/Layer0: {'code': 400, 'message': 'Invalid URL', 'deta ## CSV portwatch.imf.org: Abruf fehlgeschlagen: HTTP Error 400: Bad Request ## CSV www.arcgis.com: leere Datei"
  }
 }
