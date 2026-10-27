@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-27T13:35:34Z",
+ "stand": "2026-10-27T14:08:37Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -10,6 +10,14 @@
    "q": "myanmarnews.net",
    "type": "energie",
    "c": "as"
+  },
+  {
+   "t": "Gas wird in Baden - Württemberg deutlich teurer",
+   "u": "https://www.lkz.de/%c3%bcberregionales/stuttgart-s%C3%BCdwest_artikel,-gas-wird-in-baden-wuerttemberg-deutlich-teurer-_arid,887700.html",
+   "d": "2026-10-26",
+   "q": "lkz.de",
+   "type": "energie",
+   "c": null
   },
   {
    "t": "Northern B . C . LNG story is entering its next chapter",
@@ -26,6 +34,30 @@
    "q": "politicalwire.com",
    "type": "politik",
    "c": "na"
+  },
+  {
+   "t": "Japan Benchmark Bond Yields Rise Ahead of BOJ and Fed Decisions",
+   "u": "https://econotimes.com/Japan-s-Benchmark-Bond-Yields-Rise-Ahead-of-BOJ-and-Fed-Decisions-1763379",
+   "d": "2026-10-26",
+   "q": "econotimes.com",
+   "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "Strände in Emiraten wegen Ölverschmutzung geschlossen",
+   "u": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wissenschaft_nt/article6addf1fe51fb647ba7e7c60b/straende-in-emiraten-wegen-oelverschmutzung-geschlossen.html",
+   "d": "2026-10-25",
+   "q": "welt.de",
+   "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Tote nach saudi - arabischen Luftangriffen im Jemen",
+   "u": "https://www.vol.at/houthis-melden-tote-nach-saudi-arabischen-angriffen-im-jemen/10581098",
+   "d": "2026-10-25",
+   "q": "vol.at",
+   "type": "logistik",
+   "c": "as"
   },
   {
    "t": "Adnoc prepares new wave of oil and gas tenders for 2027",
@@ -52,12 +84,36 @@
    "c": "na"
   },
   {
+   "t": "Putin und Trump : Vorwürfe um russische Finanzierung von US - Gasprojekt",
+   "u": "https://www.t-online.de/nachrichten/ausland/internationale-politik/id_101496608/putin-und-trump-vorwuerfe-um-russische-finanzierung-von-us-gasprojekt.html",
+   "d": "2026-10-25",
+   "q": "t-online.de",
+   "type": "energie",
+   "c": "na"
+  },
+  {
    "t": "Spore expects all parties to honour commitments , says PM Wong after Indonesia cuts gas exports",
    "u": "https://www.straitstimes.com/singapore/politics/spore-expects-all-parties-to-honour-commitments-says-pm-wong-after-indonesia-cuts-gas-exports",
    "d": "2026-10-25",
    "q": "straitstimes.com",
    "type": "energie",
    "c": "as"
+  },
+  {
+   "t": "Houthis melden Tote nach saudi - arabischen Angriffen im Jemen",
+   "u": "https://www.sn.at/politik/weltpolitik/houthis-melden-tote-nach-saudi-arabischen-angriffen-im-jemen-art-680409",
+   "d": "2026-10-25",
+   "q": "sn.at",
+   "type": "logistik",
+   "c": "as"
+  },
+  {
+   "t": "Kreuzfahrt - Passagiere landen statt auf den Bahamas im kalten Kanada",
+   "u": "https://www.rtl.de/news/kreuzfahrt-passagiere-landen-statt-auf-den-bahamas-im-kalten-kanada-id31455862.html",
+   "d": "2026-10-25",
+   "q": "rtl.de",
+   "type": "logistik",
+   "c": "na"
   },
   {
    "t": "World : Algeria senate approves sending troops to Niger",
@@ -68,12 +124,44 @@
    "c": "af"
   },
   {
+   "t": "Polizei - News Heidekreis , 25 . 10 . 26 : Wochenendmeldung der PI Heidekreis für das Wochenende 23 . 10 .- 25 . 10 . 2026",
+   "u": "https://www.news.de/lokales/860127235/blaulicht-news-polizei-einsatz-heidekreis-25-10-26-diebstahl-heute/1/",
+   "d": "2026-10-25",
+   "q": "news.de",
+   "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Erinnert an ein Lichtschwert : Lidl verkauft  Höhle der Löwen - Gesundheitsgadget für 13 Euro",
+   "u": "https://www.netzwelt.de/schnaeppchen/259774-erinnert-lichtschwert-lidl-verkauft-hoehle-loewen-gesundheitsgadget-13-euro.html",
+   "d": "2026-10-25",
+   "q": "netzwelt.de",
+   "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "Gold price crashes over ₹38 , 600 from record high Whatll happen amid Diwali 2026 fervour ? Right time to buy ? Decoded",
+   "u": "https://www.livemint.com/market/stock-market-news/gold-price-crashes-over-rs-38-600-from-record-high-whatll-happen-amid-diwali-2026-fervour-right-time-to-buy-decoded-11792910366849.html",
+   "d": "2026-10-25",
+   "q": "livemint.com",
+   "type": "finanz",
+   "c": null
+  },
+  {
    "t": "Rubio Defends Trump Diesel Sanctions Relief as  Very Wise",
    "u": "https://www.kyivpost.com/post/88091",
    "d": "2026-10-25",
    "q": "kyivpost.com",
    "type": "politik",
    "c": "na"
+  },
+  {
+   "t": "Anker Solarbank 3 vs . 4 : 2 , 68 gegen 5 , 02 kWh im Vergleich",
+   "u": "https://www.infranken.de/ratgeber/verbraucher/anker-solarbank-3-vs-4-268-gegen-502-kwh-im-vergleich-art-6370009",
+   "d": "2026-10-25",
+   "q": "infranken.de",
+   "type": "logistik",
+   "c": null
   },
   {
    "t": "Houthis claim attacks on Saudi oil targets , airports ; debris falls in Mecca , Medina as tensions escalate in Gulf",
@@ -84,12 +172,52 @@
    "c": "as"
   },
   {
+   "t": "Karibik - Kreuzfahrer landen in Kanada – Passagiere um bekannte Schauspielerin reagieren erbost",
+   "u": "https://www.hna.de/welt/karibik-kreuzfahrer-landen-in-kanada-passagiere-um-bekannte-schauspielerin-reagieren-erbost-zr-94557205.html",
+   "d": "2026-10-25",
+   "q": "hna.de",
+   "type": "logistik",
+   "c": "na"
+  },
+  {
+   "t": "Schockierende Auswertung – Heizöl um 63 Prozent teurer – auch Diesel explodiert",
+   "u": "https://www.heute.at/s/heizoel-um-63-prozent-teurer-auch-diesel-explodiert-120270790",
+   "d": "2026-10-25",
+   "q": "heute.at",
+   "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Die Wärmepumpe setzt sich durch - oft monatelange Wartezeit",
+   "u": "https://www.hessenschau.de/wirtschaft/die-waermepumpe-setzt-sich-durch---oft-monatelange-wartezeit-v1,waermepumpen-102.html",
+   "d": "2026-10-25",
+   "q": "hessenschau.de",
+   "type": "energie",
+   "c": null
+  },
+  {
    "t": "President Donald Trump Just Proclaimed ,  Tariffs Dont Cause Inflation , They Cause Wealth , but Data From Federal Reserve Economists Show Otherwise",
    "u": "https://www.fool.com/investing/2026/10/25/donald-trump-proclaimed-tariffs-dont-cause-inflation-they-cause-wealth-federal-reserve-economists/?source=iedfolrf0000001",
    "d": "2026-10-25",
    "q": "fool.com",
    "type": "politik",
    "c": "na"
+  },
+  {
+   "t": "ROUNDUP : Huthi - Rebellen melden Tote in Sanaa",
+   "u": "https://www.finanzen.net/nachricht/aktien/roundup-huthi-rebellen-melden-tote-in-sanaa-16006451",
+   "d": "2026-10-25",
+   "q": "finanzen.net",
+   "type": "logistik",
+   "c": "as"
+  },
+  {
+   "t": "Mindestens zwölf Tote nach saudischen Luftangriffen im Jemen",
+   "u": "https://www.diepresse.com/41390356/mehrere-tote-nach-saudi-arabischen-luftangriffen-im-jemen",
+   "d": "2026-10-25",
+   "q": "diepresse.com",
+   "type": "logistik",
+   "c": "as"
   },
   {
    "t": "Riyadh Airport Resumes Operation Following Closure After Attacks",
@@ -100,43 +228,11 @@
    "c": null
   },
   {
-   "t": "Keep calm and carry on : Indonesia gas cut unlikely to hit Singapore electricity prices , says Tan See Leng",
-   "u": "https://www.channelnewsasia.com/singapore/electricity-prices-indonesia-gas-supply-cut-tan-see-leng-6490121",
-   "d": "2026-10-25",
-   "q": "channelnewsasia.com",
-   "type": "energie",
-   "c": "as"
-  },
-  {
-   "t": "Factcheck : North Sea gas is not  four times cleaner  than LNG imports",
-   "u": "https://www.carbonbrief.org/factcheck-north-sea-gas-is-not-four-times-cleaner-than-lng-imports",
-   "d": "2026-10-25",
-   "q": "carbonbrief.org",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Singapore expects all parties to honour commitments , says PM Wong after Indonesia cuts gas exports",
-   "u": "https://www.businesstimes.com.sg/singapore/singapore-expects-all-parties-honour-commitments-says-pm-wong-after-indonesia-cuts-gas-exports",
-   "d": "2026-10-25",
-   "q": "businesstimes.com.sg",
-   "type": "energie",
-   "c": "as"
-  },
-  {
-   "t": "Gas Supply may pursue remedies if contract breached following Indonesia export cuts : Tan See Leng",
-   "u": "https://www.businesstimes.com.sg/singapore/gas-supply-may-pursue-remedies-if-contract-breached-following-indonesias-export-cuts-tan-see-leng",
-   "d": "2026-10-25",
-   "q": "businesstimes.com.sg",
-   "type": "energie",
-   "c": "as"
-  },
-  {
-   "t": "Top executives quit $25 bn US gas project over alleged Russian control",
-   "u": "https://www.business-standard.com/world-news/us-alaska-lng-project-russia-novatek-secret-funding-sanctions-polar-train-126102500240_1.html",
+   "t": "Bond yields rise nearly 30 bps in Oct , to raise govt interest burden",
+   "u": "https://www.business-standard.com/markets/news/bond-yields-rise-nearly-30-bps-in-oct-to-raise-govt-s-interest-burden-126102500377_1.html",
    "d": "2026-10-25",
    "q": "business-standard.com",
-   "type": "energie",
+   "type": "finanz",
    "c": null
   },
   {
@@ -146,6 +242,22 @@
    "q": "toronto.citynews.ca",
    "type": "politik",
    "c": "na"
+  },
+  {
+   "t": "Fed policy , Q2 earnings , crude oil prices among key market triggers next week",
+   "u": "https://morungexpress.com/fed-policy-q2-earnings-crude-oil-prices-among-key-market-triggers-next-week",
+   "d": "2026-10-25",
+   "q": "morungexpress.com",
+   "type": "finanz",
+   "c": "na"
+  },
+  {
+   "t": "Krugman Outlines AI , Inflation and Debt Risks to U . S . Economy",
+   "u": "https://econotimes.com/Krugman-Outlines-AI-Inflation-and-Debt-Risks-to-U-S-Economy-1762931",
+   "d": "2026-10-25",
+   "q": "econotimes.com",
+   "type": "finanz",
+   "c": null
   },
   {
    "t": "Inside the Trump - administration campaign to return Bolsonaro clan to power - Americas",
@@ -204,6 +316,14 @@
    "c": null
   },
   {
+   "t": "Schweiz bereitet Tempo 80 auf Autobahnen vor – wegen Sprit - Knappheit",
+   "u": "https://www.rtl.de/news/schweiz-bereitet-tempo-80-auf-autobahnen-vor-wegen-sprit-knappheit-id31454124.html",
+   "d": "2026-10-24",
+   "q": "rtl.de",
+   "type": "energie",
+   "c": null
+  },
+  {
    "t": "Abu Dhabi Firm in Talks for Eni Libya Stake",
    "u": "https://www.riotimesonline.com/abu-dhabi-firm-eni-libya-stake-2026/",
    "d": "2026-10-24",
@@ -244,12 +364,12 @@
    "c": "na"
   },
   {
-   "t": "Grant Thornton Sounds €3 . 7 Billion Gas Alarm : Greece Faces a Costly Winter as Europe Energy Risks Mount - Grant Thornton Sounds €3 . 7 Billion Gas Alarm : Greece Faces a Costly Winter as Europe Energy Risks Mount",
-   "u": "https://www.inewsgr.com/330/Grant-Thornton-Sounds-37-Billion-Gas-Alarm-Greece-Faces-a-Costly-Winter-as-Europes-Energy-Risks-Mount.htm",
+   "t": "Vier Module , ein Speicher : Das optimale Solarbank - 3 - Setup",
+   "u": "https://www.infranken.de/ratgeber/verbraucher/vier-module-ein-speicher-das-optimale-solarbank-3-setup-art-6322930",
    "d": "2026-10-24",
-   "q": "inewsgr.com",
-   "type": "energie",
-   "c": "eu"
+   "q": "infranken.de",
+   "type": "logistik",
+   "c": null
   },
   {
    "t": "Trump , to help Maine Susan Collins , exempts some Canadian tariffs",
@@ -258,6 +378,30 @@
    "q": "bostonglobe.com",
    "type": "politik",
    "c": "na"
+  },
+  {
+   "t": "France protests resume over living costs amid heavy security deployment",
+   "u": "https://sana.sy/en/international/2353326/",
+   "d": "2026-10-24",
+   "q": "sana.sy",
+   "type": "finanz",
+   "c": "eu"
+  },
+  {
+   "t": "Huthi - Rebellen melden Tote in Sanaa",
+   "u": "https://orf.at/stories/3446060/",
+   "d": "2026-10-24",
+   "q": "orf.at",
+   "type": "logistik",
+   "c": "as"
+  },
+  {
+   "t": "RBI Rs 2 . 5 lakh crore liquidity infusion raises questions over tightening policy signal : SBI Report",
+   "u": "http://www.srilankasource.com/news/279394812/rbi-rs-25-lakh-crore-liquidity-infusion-raises-questions-over-tightening-policy-signal-sbi-report",
+   "d": "2026-10-24",
+   "q": "srilankasource.com",
+   "type": "finanz",
+   "c": null
   }
  ]
 }
