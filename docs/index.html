@@ -256,6 +256,10 @@ details ol { margin: 8px 0 0; padding-left: 20px; display: flex; flex-direction:
               <div class="rangehead"><label for="s-sev">Schweregrad</label><span class="mono" id="s-sevv"></span></div>
               <input type="range" id="s-sev" min="5" max="100" step="5" value="40">
             </div>
+            <div class="field" id="calibbox">
+              <p class="hint" id="calib" style="margin:0 0 6px"></p>
+              <button class="btn" id="calibbtn" data-calib hidden></button>
+            </div>
           </div>
           <div>
             <p class="hint" style="margin-bottom:6px">Effekt auf die Wirtschaftsleistung, Prozentpunkte. Die Karte färbt sich nach Betroffenheit.</p>
@@ -533,11 +537,34 @@ function start(D) {
   }
 
   /* ---------- Simulation ---------- */
+  /* Maßstab: Schweregrad s entspricht dem s-ten Perzentil aller 30-Tage-Preisanstiege seit 2020 */
+  var PRICES = ((D.prices && D.prices.preise) || []).filter(function (p) { return p.stufen && p.stufen.length === 20; });
+  function calibRefs() { return PRICES.filter(function (p) { return p.type === state.sim.type; }); }
+  function renderCalib() {
+    var refs = calibRefs(), s = state.sim, btn = $('calibbtn');
+    if (!PRICES.length) { $('calib').textContent = ''; btn.hidden = true; return; }
+    if (!refs.length) {
+      $('calib').textContent = 'Für diese Schockart gibt es keine Preisreihe als Maßstab. Der Schweregrad ist hier eine freie Einstellung.';
+      btn.hidden = true; return;
+    }
+    var idx = Math.max(0, Math.min(19, s.sev / 5 - 1));
+    $('calib').innerHTML = 'Maßstab aus echten Preisen: Schweregrad ' + s.sev + ' entspricht etwa einem Preisanstieg in 30 Tagen von ' +
+      refs.map(function (p) { return esc(p.name) + ' +' + nf0.format(p.stufen[idx] * 100) + ' %'; }).join(', ') +
+      '. So stark oder stärker stiegen die Preise seit 2020 in ' + (100 - s.sev) + ' % der Fälle mit Anstieg. Aktuell: ' +
+      refs.map(function (p) { return esc(p.name) + ' ' + (p.d30 == null ? '\u2013' : (p.d30 > 0 ? '+' : '\u2212') + nf0.format(Math.abs(p.d30) * 100) + ' %'); }).join(', ') + ' in 30 Tagen.';
+    var best = refs.reduce(function (m, p) { return p.lage > m.lage ? p : m; }, refs[0]);
+    var lvl = Math.max(5, Math.min(100, Math.round(best.lage / 5) * 5));
+    btn.hidden = !(best.lage > 0);
+    btn.setAttribute('data-calib', String(lvl));
+    btn.textContent = 'Aktuelle Preislage übernehmen (' + best.name + ' → Schweregrad ' + lvl + ')';
+  }
+
   function renderSim() {
     var s = state.sim, T = TYPES[s.type];
     $('s-src').value = s.src; $('s-type').value = s.type; $('s-sev').value = s.sev;
     $('s-sevv').textContent = s.sev + ' %';
     $('s-desc').textContent = T.desc;
+    renderCalib();
     var res = simulate(s.src, s.type, s.sev);
     var order = C.slice().sort(function (a, b) { return res[b.id] - res[a.id]; });
     var maxv = res[order[0].id] || 1;
@@ -641,6 +668,10 @@ function start(D) {
   $('s-sev').addEventListener('input', function (e) { state.sim.sev = parseInt(e.target.value, 10); manual(); });
 
   document.querySelector('.app').addEventListener('click', function (e) {
+    var cb = e.target.closest('[data-calib]');
+    if (cb && cb.getAttribute('data-calib')) {
+      state.sim.sev = parseInt(cb.getAttribute('data-calib'), 10); manual(); return;
+    }
     var nb = e.target.closest('[data-news]');
     if (nb) {
       var n = NEWS[parseInt(nb.getAttribute('data-news'), 10)];

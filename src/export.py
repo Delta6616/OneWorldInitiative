@@ -148,6 +148,32 @@ def meldungen(tage=5, je_thema_und_tag=10):
             "items": out}
 
 
+def anstiege(reihe, tage=30):
+    """Alle Preisanstiege (nur positive) ueber je 'tage' Tage in einer sortierten Reihe [(Datum, Wert)]."""
+    import bisect
+    tage_liste = [d for d, _ in reihe]
+    out = []
+    for d, v in reihe:
+        ziel = (date.fromisoformat(d) - timedelta(days=tage)).isoformat()
+        i = bisect.bisect_right(tage_liste, ziel) - 1
+        if i < 0:
+            continue
+        alt = reihe[i][1]
+        if alt > 0 and v > alt:
+            out.append(v / alt - 1)
+    return sorted(out)
+
+
+def perzentil(sortiert, p):
+    """Wert am p-ten Prozent (0 bis 100) einer sortierten Liste."""
+    if not sortiert:
+        return None
+    pos = p / 100 * (len(sortiert) - 1)
+    lo = int(pos)
+    hi = min(lo + 1, len(sortiert) - 1)
+    return sortiert[lo] + (sortiert[hi] - sortiert[lo]) * (pos - lo)
+
+
 def preise():
     """Rohstoffpreise: letzter Wert, Veraenderung gegen etwa 30 Tage und 12 Monate vorher, Verlauf."""
     from sources.rohstoffe import REIHEN
@@ -166,13 +192,21 @@ def preise():
             alt = [v for d, v in reihe if d <= ziel]
             return alt[-1] if alt else None
         a30, a365 = davor(30), davor(365)
+        # Massstab fuer die Simulation: Schweregrad s (5..100) = s-tes Perzentil aller 30-Tage-Anstiege seit 2020
+        ans = anstiege(reihe)
+        stufen = [round(perzentil(ans, s), 3) for s in range(5, 101, 5)] if len(ans) >= 20 else []
+        aktuell = letzter / a30 - 1 if a30 else None
+        lage = 0
+        if stufen and aktuell and aktuell > 0:
+            lage = round(100 * sum(1 for x in ans if x <= aktuell) / len(ans))
         # Verlauf: bei taeglichen Reihen die letzten 90 Tage, bei monatlichen die letzten 24 Monate
         verlauf = [v for d, v in reihe[-(90 if takt == "täglich" else 24):]]
         out.append({"id": kennung, "name": name, "einheit": einheit, "takt": takt, "type": typ,
                     "wert": round(letzter, 2), "datum": tag,
                     "d30": round(letzter / a30 - 1, 3) if a30 else None,
                     "d365": round(letzter / a365 - 1, 3) if a365 else None,
-                    "verlauf": [round(v, 2) for v in verlauf]})
+                    "verlauf": [round(v, 2) for v in verlauf],
+                    "stufen": stufen, "lage": lage})
     return {"stand": jetzt(), "quelle": "FRED, Federal Reserve Bank of St. Louis (Daten von EIA und IWF)", "preise": out}
 
 
