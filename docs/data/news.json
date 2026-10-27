@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-27T17:44:25Z",
+ "stand": "2026-10-27T18:42:43Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -140,6 +140,14 @@
    "c": "na"
   },
   {
+   "t": "Musk wirft Ukraine Verstoß bei Starlink - Nutzung vor",
+   "u": "https://www.tagesschau.de/ausland/amerika/musk-ukraine-starlink-100.html",
+   "d": "2026-10-25",
+   "q": "tagesschau.de",
+   "type": "politik",
+   "c": "eu"
+  },
+  {
    "t": "Putin und Trump : Vorwürfe um russische Finanzierung von US - Gasprojekt",
    "u": "https://www.t-online.de/nachrichten/ausland/internationale-politik/id_101496608/putin-und-trump-vorwuerfe-um-russische-finanzierung-von-us-gasprojekt.html",
    "d": "2026-10-25",
@@ -209,6 +217,14 @@
    "d": "2026-10-25",
    "q": "news.de",
    "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Integrationslandkarte  für gezielte Fördermaßnahmen geplant",
+   "u": "https://www.news.at/politik/integrationslandkarte-fur-gezielte-fordermassnahmen-geplant",
+   "d": "2026-10-25",
+   "q": "news.at",
+   "type": "politik",
    "c": null
   },
   {
@@ -316,6 +332,14 @@
    "c": null
   },
   {
+   "t": "Rubios Athen - Rede : Hybris statt westlicher Erneuerung",
+   "u": "https://www.fuw.ch/rubios-athen-rede-hybris-statt-westlicher-erneuerung-892391444518",
+   "d": "2026-10-25",
+   "q": "fuw.ch",
+   "type": "politik",
+   "c": null
+  },
+  {
    "t": "President Donald Trump Just Proclaimed ,  Tariffs Dont Cause Inflation , They Cause Wealth , but Data From Federal Reserve Economists Show Otherwise",
    "u": "https://www.fool.com/investing/2026/10/25/donald-trump-proclaimed-tariffs-dont-cause-inflation-they-cause-wealth-federal-reserve-economists/?source=iedfolrf0000001",
    "d": "2026-10-25",
@@ -346,6 +370,14 @@
    "q": "finanzen.net",
    "type": "finanz",
    "c": "eu"
+  },
+  {
+   "t": "Darum spart die neue Grundsicherung gar nichts ein",
+   "u": "https://www.derwesten.de/politik/grundsicherung-folgen-details-id302186004.html",
+   "d": "2026-10-25",
+   "q": "derwesten.de",
+   "type": "politik",
+   "c": null
   },
   {
    "t": "Riyadh Airport Resumes Operation Following Closure After Attacks",
@@ -396,20 +428,20 @@
    "c": null
   },
   {
-   "t": "Barack Obama mocks President Trump tariff war with Canada",
-   "u": "https://toronto.citynews.ca/2026/10/25/well-known-evil-empire-barack-obama-mocks-president-trumps-tariff-war-with-canada/",
+   "t": "Richtungswahl entscheidet über die Zukunft Serbiens - Politik Ausland",
+   "u": "https://www.badische-zeitung.de/richtungswahl-entscheidet-ueber-die-zukunft-serbiens",
    "d": "2026-10-25",
-   "q": "toronto.citynews.ca",
-   "type": "politik",
-   "c": "na"
-  },
-  {
-   "t": "EMBARGO until 8 : 00 p . m . AP : Elections in Serbia in which populist Vučić faces protesting students",
-   "u": "https://naslovi.net/2026-10-25/snm/embargo-until-8-00-p-m-ap-elections-in-serbia-in-which-populist-vucic-faces-protesting-students/42526728",
-   "d": "2026-10-25",
-   "q": "naslovi.net",
+   "q": "badische-zeitung.de",
    "type": "politik",
    "c": null
+  },
+  {
+   "t": "Deutschlandticket & Kfz - Versicherung : Das ändert sich im November 2026",
+   "u": "https://www.abendblatt.de/panorama/article413460147/deutschlandticket-kfz-versicherung-das-aendert-sich-im-november-2026.html",
+   "d": "2026-10-25",
+   "q": "abendblatt.de",
+   "type": "politik",
+   "c": "eu"
   },
   {
    "t": "Fed policy , Q2 earnings , crude oil prices among key market triggers next week",
@@ -417,14 +449,6 @@
    "d": "2026-10-25",
    "q": "morungexpress.com",
    "type": "finanz",
-   "c": "na"
-  },
-  {
-   "t": "Inside the Trump - administration campaign to return Bolsonaro clan to power - Americas",
-   "u": "http://www.thejakartapost.com/world/2026/10/25/inside-the-trump-administration-campaign-to-return-bolsonaro-clan-to-power",
-   "d": "2026-10-25",
-   "q": "thejakartapost.com",
-   "type": "politik",
    "c": "na"
   },
   {
