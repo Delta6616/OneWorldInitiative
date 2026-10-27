@@ -1,0 +1,37 @@
+name: Meldungen aktualisieren
+
+on:
+  schedule:
+    - cron: "7 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daten-update
+  cancel-in-progress: false
+
+jobs:
+  meldungen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Meldungen abrufen
+        run: python src/update_all.py --nur gdelt
+      - name: Aenderungen speichern
+        run: |
+          git config user.name "weltmodell-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data docs/data
+          if git diff --cached --quiet; then
+            echo "Keine Aenderungen."
+          else
+            git commit -m "Meldungen aktualisiert $(date -u +%Y-%m-%d_%H:%M)"
+            git pull --rebase
+            git push
+          fi
