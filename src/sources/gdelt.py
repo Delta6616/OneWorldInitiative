@@ -15,8 +15,8 @@ from common import AbrufFehler, PAUSE
 NAME = "gdelt"
 BASIS = "https://api.gdeltproject.org/api/v2/doc/doc"
 ZEITRAUM = "3d"
-MAX = 40
-PAUSE_GDELT = 6.0       # GDELT erlaubt hoechstens eine Abfrage je 5 Sekunden
+MAX = 10             # hoechstens 10 Meldungen je Abfrage (Thema und Sprache)
+PAUSE_GDELT = 12.0      # GDELT erlaubt hoechstens eine Abfrage je 5 Sekunden; wir lassen deutlich mehr Luft
 
 # Thema (= Simulations-Typ) -> Suchausdruck
 THEMEN = {
@@ -26,7 +26,7 @@ THEMEN = {
     "politik":   '(sanctions OR tariffs OR "trade war" OR embargo OR "export ban" OR "export controls")',
     "rohstoffe": '(wheat OR grain OR "rare earth" OR copper OR lithium OR fertilizer OR drought OR "crop failure")',
 }
-SPRACHEN = ["english", "german"]
+SPRACHEN = ["english", "german"]     # Deutsch nur, wenn Englisch glatt durchlief
 
 
 def _roh(url):
@@ -41,29 +41,18 @@ def _roh(url):
 
 
 def _artikel(suche):
+    """Eine Abfrage, ohne Wiederholung. Wird sie abgewiesen (zum Beispiel HTTP 429), gibt es einen Fehler."""
     qs = urllib.parse.urlencode({"query": suche, "mode": "artlist", "format": "json", "maxrecords": MAX,
                                  "timespan": ZEITRAUM, "sort": "hybridrel"}, quote_via=urllib.parse.quote)
-    for versuch in (1, 2):
-        try:
-            text = _roh(BASIS + "?" + qs)
-        except AbrufFehler as e:
-            if versuch == 1 and "429" in str(e):
-                time.sleep(PAUSE_GDELT * 2)
-                continue
-            raise
-        t = text.strip()
-        if not t:
-            return []                    # GDELT antwortet bei null Treffern manchmal leer
-        if not t.startswith("{"):
-            if versuch == 1 and "limit" in t.lower():
-                time.sleep(PAUSE_GDELT * 2)
-                continue
-            raise AbrufFehler("keine JSON-Antwort: %s" % t[:80].replace("\n", " "))
-        try:
-            return json.loads(t).get("articles") or []
-        except ValueError:
-            raise AbrufFehler("ungueltiges JSON: %s" % t[:80].replace("\n", " "))
-    return []
+    t = _roh(BASIS + "?" + qs).strip()
+    if not t:
+        return []                        # GDELT antwortet bei null Treffern manchmal leer
+    if not t.startswith("{"):
+        raise AbrufFehler("abgewiesen: %s" % t[:80].replace("\n", " "))
+    try:
+        return json.loads(t).get("articles") or []
+    except ValueError:
+        raise AbrufFehler("ungueltiges JSON: %s" % t[:80].replace("\n", " "))
 
 
 def _datum(s):
@@ -73,13 +62,14 @@ def _datum(s):
 
 def fetch(vorhanden):
     zeilen, warnungen = [], []
-    for thema, ausdruck in THEMEN.items():
-        for sprache in SPRACHEN:
+    for sprache in SPRACHEN:
+        for thema, ausdruck in THEMEN.items():
+            abgewiesen = False
             try:
                 arts = _artikel("%s sourcelang:%s" % (ausdruck, sprache))
             except AbrufFehler as e:
                 warnungen.append("%s/%s: %s" % (thema, sprache, str(e)[:100]))
-                arts = []
+                arts, abgewiesen = [], True
             for a in arts:
                 titel = (a.get("title") or "").strip()
                 url = (a.get("url") or "").strip()
@@ -87,7 +77,8 @@ def fetch(vorhanden):
                     continue
                 zeilen.append({"indicator": thema, "entity": url, "entity_type": "news",
                                "date": _datum(a["seendate"]), "value": titel})
-            time.sleep(PAUSE_GDELT if PAUSE else 0)
+            if PAUSE and not abgewiesen:
+                time.sleep(PAUSE_GDELT)   # nur nach gelungenen Abfragen Abstand halten; nach einer Abweisung sofort weiter
     if not zeilen:
         raise AbrufFehler("GDELT lieferte keine Artikel. " + " | ".join(warnungen))
     return zeilen, warnungen
