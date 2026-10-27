@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-27T14:36:30Z",
+ "stand": "2026-10-27T14:48:50Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -156,11 +156,27 @@
    "c": "na"
   },
   {
+   "t": "Große Schäden - Barcelona : Festnahmen bei chaotischen Protesten",
+   "u": "https://www.krone.at/4348830",
+   "d": "2026-10-25",
+   "q": "krone.at",
+   "type": "finanz",
+   "c": null
+  },
+  {
    "t": "Anker Solarbank 3 vs . 4 : 2 , 68 gegen 5 , 02 kWh im Vergleich",
    "u": "https://www.infranken.de/ratgeber/verbraucher/anker-solarbank-3-vs-4-268-gegen-502-kwh-im-vergleich-art-6370009",
    "d": "2026-10-25",
    "q": "infranken.de",
    "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "Bis 4 , 5 % aufs Tagesgeld : Die aktuell höchsten Zinsen und die Bedingungen",
+   "u": "https://www.infranken.de/ratgeber/karriere-geld/tagesgeld-zinsen-ezb-leitzins-inflation-sparer-lockangebote-kredit-neukunden-tmr-1-art-6405048",
+   "d": "2026-10-25",
+   "q": "infranken.de",
+   "type": "finanz",
    "c": null
   },
   {
@@ -212,6 +228,14 @@
    "c": "as"
   },
   {
+   "t": "Frankreich wankt , der Euro zittert : Wie gefährlich wird die Krise ?",
+   "u": "https://www.finanzen.net/nachricht/aktien/bonitaet-bestaetgt-moody-s-gibt-entwarnung-auf-zeit-greift-frankreichs-krise-auf-die-maerkte-ueber-00-16006453",
+   "d": "2026-10-25",
+   "q": "finanzen.net",
+   "type": "finanz",
+   "c": "eu"
+  },
+  {
    "t": "Mindestens zwölf Tote nach saudischen Luftangriffen im Jemen",
    "u": "https://www.diepresse.com/41390356/mehrere-tote-nach-saudi-arabischen-luftangriffen-im-jemen",
    "d": "2026-10-25",
@@ -228,6 +252,14 @@
    "c": null
   },
   {
+   "t": "Neue Kontonummer : Jeder Bürger könnte neben der IBAN noch eine DEAN bekommen",
+   "u": "https://www.chip.de/news/geld-finanzen-recht/neue-kontonummer-jeder-buerger-koennte-neben-der-iban-noch-eine-dean-bekommen_b18d1cf1-7392-440e-8c3a-22f77ded5212.html",
+   "d": "2026-10-25",
+   "q": "chip.de",
+   "type": "finanz",
+   "c": null
+  },
+  {
    "t": "Bond yields rise nearly 30 bps in Oct , to raise govt interest burden",
    "u": "https://www.business-standard.com/markets/news/bond-yields-rise-nearly-30-bps-in-oct-to-raise-govt-s-interest-burden-126102500377_1.html",
    "d": "2026-10-25",
@@ -236,12 +268,36 @@
    "c": null
   },
   {
+   "t": "Gold : Zentralbank - Käufe als Rettung ?",
+   "u": "https://www.boerse-express.com/news/articles/gold-zentralbank-kaeufe-als-rettung-956178",
+   "d": "2026-10-25",
+   "q": "boerse-express.com",
+   "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "Europas Wachstum lahmt , doch die Inflation lässt der EZB keine Wahl",
+   "u": "https://www.boerse-express.com/news/articles/europas-wachstum-lahmt-doch-die-inflation-laesst-der-ezb-keine-wahl-956179",
+   "d": "2026-10-25",
+   "q": "boerse-express.com",
+   "type": "finanz",
+   "c": "eu"
+  },
+  {
    "t": "Barack Obama mocks President Trump tariff war with Canada",
    "u": "https://toronto.citynews.ca/2026/10/25/well-known-evil-empire-barack-obama-mocks-president-trumps-tariff-war-with-canada/",
    "d": "2026-10-25",
    "q": "toronto.citynews.ca",
    "type": "politik",
    "c": "na"
+  },
+  {
+   "t": "EMBARGO until 8 : 00 p . m . AP : Elections in Serbia in which populist Vučić faces protesting students",
+   "u": "https://naslovi.net/2026-10-25/snm/embargo-until-8-00-p-m-ap-elections-in-serbia-in-which-populist-vucic-faces-protesting-students/42526728",
+   "d": "2026-10-25",
+   "q": "naslovi.net",
+   "type": "politik",
+   "c": null
   },
   {
    "t": "Fed policy , Q2 earnings , crude oil prices among key market triggers next week",
@@ -276,6 +332,14 @@
    "c": "as"
   },
   {
+   "t": "Monatliches Einkommen : Super - El - Niño droht : Diese 6 , 4 %- Dividendenaktie könnte profitieren ! | wallstreetONLINE",
+   "u": "https://www.wallstreet-online.de/nachricht/21572894-monatliches-einkommen-super-el-ni-o-droht-6-4-dividendenaktie-profitieren",
+   "d": "2026-10-24",
+   "q": "wallstreet-online.de",
+   "type": "finanz",
+   "c": null
+  },
+  {
    "t": "Saipem ( OTCMKTS : SAPMF ) Sees Strong Trading Volume – Should You Buy ?",
    "u": "https://www.tickerreport.com/banking-finance/13635268/saipem-otcmktssapmf-sees-strong-trading-volume-should-you-buy.html",
    "d": "2026-10-24",
@@ -298,6 +362,14 @@
    "q": "theglobeandmail.com",
    "type": "politik",
    "c": "na"
+  },
+  {
+   "t": "Netanyahu plant Krypto - Einsatz zur Sanktionsumgehung",
+   "u": "https://www.tagesanzeiger.ch/netanyahu-plant-krypto-einsatz-zur-sanktionsumgehung-924232873631",
+   "d": "2026-10-24",
+   "q": "tagesanzeiger.ch",
+   "type": "finanz",
+   "c": null
   },
   {
    "t": "India refining superpower role grows amid oil shocks",
@@ -372,12 +444,28 @@
    "c": null
   },
   {
+   "t": "Schwächeres Wachstum trifft steigende Kosten : Die Zinsfalle für Anleger",
+   "u": "https://www.finanznachrichten.de/nachrichten-2026-10/69926678-schwaecheres-wachstum-trifft-steigende-kosten-die-zinsfalle-fuer-anleger-118.htm",
+   "d": "2026-10-24",
+   "q": "finanznachrichten.de",
+   "type": "finanz",
+   "c": null
+  },
+  {
    "t": "Trump , to help Maine Susan Collins , exempts some Canadian tariffs",
    "u": "https://www.bostonglobe.com/2026/10/23/business/trump-exempt-canada-imports-tariffs/",
    "d": "2026-10-24",
    "q": "bostonglobe.com",
    "type": "politik",
    "c": "na"
+  },
+  {
+   "t": "Hohe Zinsen für 6 Monate : Das sind die besten Tagesgelder mit langfristigen Top - Konditionen",
+   "u": "https://www.boerse-online.de/nachrichten/geldundvorsorge/hohe-zinsen-fuer-6-monate-das-sind-die-besten-tagesgelder-mit-langfristigen-top-konditionen-20422767.html",
+   "d": "2026-10-24",
+   "q": "boerse-online.de",
+   "type": "finanz",
+   "c": null
   },
   {
    "t": "France protests resume over living costs amid heavy security deployment",
@@ -394,6 +482,14 @@
    "q": "orf.at",
    "type": "logistik",
    "c": "as"
+  },
+  {
+   "t": "maggie 🐦‍⬛ (@ shrugjaniedemo )",
+   "u": "https://digg.com/u/x/shrugjaniedemo",
+   "d": "2026-10-24",
+   "q": "digg.com",
+   "type": "politik",
+   "c": null
   },
   {
    "t": "RBI Rs 2 . 5 lakh crore liquidity infusion raises questions over tightening policy signal : SBI Report",
