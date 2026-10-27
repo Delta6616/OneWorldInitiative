@@ -86,23 +86,44 @@ button { font: inherit; color: inherit; cursor: pointer; }
 :focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 
 /* Karte */
+.mapbox { position: relative; }
 .mapwrap { overflow-x: auto; border-radius: 8px; }
+.maplegend { position: absolute; left: 10px; bottom: 10px; display: flex; flex-direction: column; gap: 4px; padding: 7px 10px; border-radius: 8px;
+  background: color-mix(in srgb, var(--bg) 78%, transparent); border: 1px solid var(--line); font-size: 11px; color: var(--muted); pointer-events: none; }
+.mlrow { display: flex; align-items: center; gap: 6px; white-space: nowrap; }
+.mlrow svg { flex: none; }
+.mlrow span + svg { margin-left: 8px; }
+@media (max-width: 720px) { .maplegend { position: static; margin-top: 8px; font-size: 11px; background: transparent; } }
 svg.map { display: block; width: 100%; height: auto; min-width: 720px; }
 .land { cursor: pointer; }
 .land path { stroke: var(--bg); stroke-width: 0.5; stroke-linejoin: round; transition: fill 0.4s; }
 .land:hover path { filter: brightness(1.3); }
 .land.is-sel path { stroke: var(--fg); stroke-opacity: 0.55; }
 .hub { cursor: pointer; }
-.hub circle.core { fill: var(--bg); fill-opacity: 0.9; }
+.hubhit { fill: transparent; }
+.hub.is-sel .nname { fill: var(--accent); }
+.hub:focus-visible .hubhit { stroke: var(--accent); stroke-width: 1.5; }
+svg.map path, svg.map use { transition: opacity 0.3s; }
+.map.has-focus .land:not(.focus) path { opacity: 0.45; }
+.map.has-focus .hub:not(.focus) text { opacity: 0.5; }
+.land.focus path { filter: brightness(1.2); stroke: var(--fg); stroke-opacity: 0.5; }
+.hub .nname, .hub .nval { transition: opacity 0.3s, fill 0.3s; }
 .nname { font-family: var(--font-display); font-weight: 600; font-size: 14px; fill: var(--fg); text-anchor: middle; paint-order: stroke; stroke: var(--bg); stroke-width: 3.5px; stroke-linejoin: round; }
 .nval { font-family: var(--font-mono); font-size: 12px; fill: var(--accent); text-anchor: middle; font-weight: 500; paint-order: stroke; stroke: var(--bg); stroke-width: 3.5px; stroke-linejoin: round; }
 .hit { fill: none; stroke: transparent; stroke-width: 14; cursor: pointer; pointer-events: stroke; }
 .base { fill: none; stroke-linecap: round; pointer-events: none; transition: stroke 0.3s, stroke-opacity 0.3s; }
 .dots { fill: none; stroke-linecap: round; pointer-events: none; animation: flow linear infinite; transition: stroke 0.3s, stroke-opacity 0.3s; }
+#g-ships, #g-ports { pointer-events: none; }
+.lane { fill: none; stroke: var(--muted); stroke-opacity: 0.2; stroke-width: 0.9; stroke-dasharray: 1.5 4; stroke-linecap: round; pointer-events: none; }
+.lane.canal { stroke-opacity: 0.45; stroke-dasharray: 2 3; }
+.pdot { fill: var(--fg); fill-opacity: 0.85; stroke: var(--bg); stroke-width: 0.8; }
+.qship { animation: bob 2.6s ease-in-out infinite; }
+@keyframes bob { 50% { transform: translateY(1.6px); } }
 @keyframes flow { to { stroke-dashoffset: calc(var(--p) * -1px); } }
 .legend { display: flex; flex-wrap: wrap; gap: 6px 20px; font-size: 12px; color: var(--muted); margin-top: 10px; }
 .legend span { display: inline-flex; align-items: center; gap: 7px; }
 .legend i { width: 9px; height: 9px; border-radius: 50%; display: inline-block; background: var(--muted); }
+.legend .redkey { color: var(--high); }
 .legend i.out { background: var(--accent); }
 .legend i.in { background: var(--import); }
 
@@ -204,7 +225,7 @@ details ol { margin: 8px 0 0; padding-left: 20px; display: flex; flex-direction:
 
 @media (prefers-reduced-motion: reduce) {
   * { transition: none !important; scroll-behavior: auto !important; }
-  .dots { animation: none; }
+  .dots, .qship { animation: none; }
 }
 </style>
 </head>
@@ -221,9 +242,16 @@ details ol { margin: 8px 0 0; padding-left: 20px; display: flex; flex-direction:
       <p class="label" id="t-map">Weltkarte der Warenströme</p>
       <span class="hint">Punkte wandern vom Exporteur zum Importeur. Kontinent oder Verbindung anklicken.</span>
     </div>
-    <div class="mapwrap"><svg class="map" id="map" role="img" aria-label="Weltkarte mit Handelsströmen zwischen den sechs Kontinenten">
-      <g id="g-land"></g><g id="g-flows"></g><g id="g-hubs"></g>
+    <div class="mapbox"><div class="mapwrap"><svg class="map" id="map" role="img" aria-label="Weltkarte mit Handelsströmen zwischen den sechs Kontinenten">
+      <defs><symbol id="ship" viewBox="-7 -4.5 14 9" overflow="visible"><path d="M-7 0.5 H7 L4.6 4.2 H-4.6 Z" fill="currentColor"></path><rect x="-4.4" y="-1.6" width="2.6" height="2" fill="currentColor"></rect><rect x="-1.4" y="-1.6" width="2.6" height="2" fill="currentColor"></rect><rect x="2" y="-3.9" width="2.4" height="4.3" fill="currentColor"></rect></symbol></defs><g id="g-land"></g><g id="g-flows"></g><g id="g-routes" visibility="hidden"></g><g id="g-ships"></g><g id="g-ports"></g><g id="g-hubs"></g>
     </svg></div>
+    <div class="maplegend" aria-label="Legende der Karte">
+      <div class="mlrow"><svg width="16" height="10" viewBox="-8 -5 16 10"><use href="#ship" x="-5.6" y="-3.6" width="11.2" height="7.2" style="color:var(--muted)"></use></svg><span>1 Schiff = 150 Mrd. $ Handel pro Jahr</span></div>
+      <div class="mlrow"><svg width="16" height="10" viewBox="-8 -5 16 10"><use href="#ship" x="-5.6" y="-3.6" width="11.2" height="7.2" style="color:var(--accent)"></use></svg><span>Export</span><svg width="16" height="10" viewBox="-8 -5 16 10"><use href="#ship" x="-5.6" y="-3.6" width="11.2" height="7.2" style="color:var(--import)"></use></svg><span>Import</span></div>
+      <div class="mlrow"><svg width="16" height="10" viewBox="-8 -5 16 10"><use href="#ship" x="-4.5" y="-2.9" width="9" height="5.8" style="color:var(--high)"></use></svg><span>rot und kleiner: Stau im Szenario</span></div>
+      <div class="mlrow"><svg width="16" height="10" viewBox="-8 -5 16 10"><circle r="2.3" fill="var(--fg)"></circle></svg><span>Großhafen</span><svg width="22" height="10" viewBox="0 -5 22 10"><path d="M1 0 H21" stroke="var(--muted)" stroke-opacity="0.7" stroke-width="1.2" stroke-dasharray="1.5 3.5" stroke-linecap="round"></path></svg><span>Seeweg</span></div>
+    </div>
+    </div>
     <div class="legend" id="legend"></div>
   </section>
 
@@ -399,6 +427,16 @@ function start(D) {
       nodes[i].firstChild.style.fill = fill;
       nodes[i].classList.toggle('is-sel', state.sel === id);
     }
+    applyFocus();
+  }
+  /* Hervorhebung: Kontinent unter dem Cursor oder der gewählte Kontinent, der Rest tritt zurück */
+  function applyFocus() {
+    var f = state.hover || state.sel;
+    $('map').classList.toggle('has-focus', !!f);
+    var ls = $('g-land').querySelectorAll('.land');
+    for (var i = 0; i < ls.length; i++) ls[i].classList.toggle('focus', ls[i].getAttribute('data-c') === f);
+    var hs = $('g-hubs').querySelectorAll('.hub');
+    for (var j = 0; j < hs.length; j++) hs[j].classList.toggle('focus', hs[j].getAttribute('data-c') === f);
   }
 
   /* ---------- Karte: Warenströme ---------- */
@@ -409,51 +447,233 @@ function start(D) {
     var cx = (x1 + x2) / 2 + (-dy / len) * off, cy = (y1 + y2) / 2 + (dx / len) * off;
     return 'M' + x1 + ' ' + y1 + ' Q' + cx.toFixed(1) + ' ' + cy.toFixed(1) + ' ' + x2 + ' ' + y2;
   }
-  function renderFlows() {
-    var sel = state.sel, h = '';
-    FLOWS.slice().sort(function (a, b) { return a.v - b.v; }).forEach(function (fl) {
-      var key = pk(fl.f, fl.t), active = key === state.pair;
-      var col = flowColor(fl), dop = 0.55, bop = 0.15;
-      if (sel) {
-        if (fl.f === sel || fl.t === sel) { dop = 0.9; bop = 0.22; } else { dop = 0.22; bop = 0.07; }
+  /* ---------- Karte: Seewege, Häfen und Schiffe ---------- */
+  /* Seewege-Netz: Knoten [Länge, Breite], Ketten verbinden aufeinanderfolgende Knoten, Kanäle dürfen Land queren,
+     Häfen hängen an einem Knoten. Alle Strecken wurden automatisch gegen die Landflächen der Karte geprüft. */
+var SEA_NODES = {
+  NS:[3.2,52.6], DOV:[1.6,50.9], CHM:[-1.5,50.0], CHW:[-6.0,49.4], BIS:[-7.0,46.0], IBW:[-11.0,39.0], IBS:[-10.0,36.4],
+  GIBW:[-7.2,35.8], GIB:[-5.65,35.95], ALB:[-2.5,36.0], MEDW:[3.0,38.0], MEDS:[9.5,38.3], STS:[12.0,37.0], MEDM:[15.5,35.3],
+  MEDE:[19.0,34.8], CRE:[24.5,34.4], AEGP:[23.5,35.8], AEG:[24.4,37.2], LEV:[30.0,33.5], PSN:[32.2,32.1], SUZ:[32.55,29.95],
+  SZG:[34.5,27.4], RS1:[35.2,25.5], RS2:[36.8,22.5], RS3:[39.5,18.5], RS4:[41.0,15.0], BAB:[43.4,12.6], GOA1:[46.0,12.4],
+  GOA2:[52.5,14.5], ARB:[62.0,14.0], MUM:[70.5,17.8], OMN:[61.5,22.5], GOO:[58.5,24.9], HOR:[56.9,26.4], GLF:[55.5,26.1], JBA:[54.9,25.4],
+  ARB2:[68.0,11.0], SLK1:[76.0,6.5], SLK2:[80.3,5.3], BOB:[86.0,6.0], SUM:[94.0,6.6], MAL1:[98.0,5.5], MAL2:[100.2,3.5], MAL3:[102.3,1.8], SIN:[104.2,1.0],
+  SCS1:[105.5,1.8], SCS2:[109.0,7.0], SCS3:[112.5,12.0], SCS4:[114.5,19.0], SZN:[114.5,21.7], SCS5:[116.5,21.5], TWS1:[118.5,23.2], TWS2:[119.2,24.0],
+  ECS:[122.0,28.5], SHA:[123.2,31.0], KOR:[127.0,32.4], BUS:[129.5,34.8], JPS:[131.0,29.5], JPS2:[137.0,32.5], JPE:[142.0,34.5],
+  NP1:[155.0,38.0], NP2:[170.0,42.0], NP3:[180.0,43.0], NP4:[200.0,43.0], NP5:[220.0,40.0], NP6:[235.0,36.0], LAX:[-119.2,32.9],
+  BAJ1:[-117.0,29.0], BAJ2:[-111.5,22.2], MX1:[-107.5,17.5], MX2:[-98.0,13.5], CA1:[-90.0,11.5], CA2:[-85.5,8.5], PAZ:[-80.3,6.8], PANP:[-79.3,7.6],
+  PANA:[-79.9,10.6], CAR1:[-76.0,11.8], CAR2:[-70.0,15.0], CAR3:[-63.0,15.0], ATL1:[-66.0,22.0],
+  GOM1:[-94.2,28.0], GOM2:[-88.0,26.5], FLS:[-82.0,23.8], FLE:[-79.5,25.3], USE1:[-75.5,31.0], USE2:[-73.2,35.0], NYN:[-73.3,39.9],
+  NA1:[-65.0,41.5], NA2:[-45.0,45.0], NA3:[-28.0,48.0], NA4:[-15.0,49.3],
+  SAN:[-45.0,-25.8], SAE1:[-38.5,-22.0], SAE2:[-33.0,-8.0], SAE3:[-31.0,-3.0], SAE4:[-28.0,3.0], A4:[-22.0,15.0], A5:[-20.0,25.0], A6:[-14.0,33.0],
+  CAL:[-79.2,-12.9], PEN:[-82.0,-4.5], COL:[-82.0,1.0], PAC1:[-90.0,-8.0], PAC2:[-125.0,0.0], PAC3:[-160.0,6.0], PAC4:[165.0,10.0], PAC5:[150.0,9.0], PAC6:[138.0,10.0], P1:[131.0,12.0],
+  LAG:[3.5,5.5], GG1:[-4.0,3.8], GG2:[-10.0,3.5], GG3:[-15.0,7.5], GG4:[-20.0,14.5], GS1:[4.5,-0.5], GS2:[8.0,-6.0], GS3:[9.0,-17.0], GS4:[11.0,-27.0], GS5:[14.5,-34.0], CAPE:[20.0,-36.5],
+  DUN:[26.0,-36.3], DUR:[32.2,-30.3], IOE:[40.0,-31.5], IOD:[52.0,-28.0], IOC:[58.0,-18.0], IOM:[65.0,-6.0],
+  SOUTHA:[-40.0,-30.0], SOUTHB:[-20.0,-33.5],
+  SUN:[105.85,-6.0], SB1:[106.2,-2.0], SB2:[106.6,-4.5], IO3:[105.0,-12.0], IO4:[110.0,-25.0], FREN:[113.5,-33.0], FRES:[114.5,-35.0], AUS1:[118.0,-35.5], AUS2:[125.0,-35.8], AUS3:[135.0,-36.5], AUS4:[140.0,-38.2], MELB:[144.5,-38.9],
+  BAS:[146.5,-39.8], SYDN:[152.6,-33.9], SYD2:[152.5,-37.5], SYD3:[150.5,-39.5], COR1:[154.0,-27.0], COR2:[160.0,-22.0], COR3:[164.0,-8.0], COR4:[158.5,-4.5], COR5:[148.0,-1.0], COR6:[138.0,5.0], COR7:[131.0,12.0],
+  OPAC1:[165.0,-30.5], OPAC2:[185.0,-30.0], OPAC3:[215.0,-28.0], OPAC4:[240.0,-24.0], OPAC5:[265.0,-16.0],
+  OLA1:[172.0,-14.0], OLA2:[185.0,-5.0], OLA3:[205.0,8.0], OLA4:[222.0,20.0], OLA5:[236.0,29.0],
+  IOW1:[95.0,-33.0], IOW2:[65.0,-34.0], IOW3:[40.0,-33.0],
+  ASEA1:[88.0,-3.0], ASEA2:[100.0,-8.0]
+};
+/* Ketten: aufeinanderfolgende Knoten sind verbunden */
+var SEA_CHAINS = [
+  ['NS','DOV','CHM','CHW','BIS','IBW','IBS','GIBW','GIB','ALB','MEDW','MEDS','STS','MEDM','MEDE','CRE','LEV','PSN'],
+  ['CRE','AEGP','AEG'],
+  ['SZG','RS1','RS2','RS3','RS4','BAB','GOA1','GOA2','ARB'],
+  ['ARB','ARB2','SLK1','SLK2','BOB','SUM','MAL1','MAL2','MAL3','SIN','SCS1','SCS2','SCS3','SCS4','SZN','SCS5','TWS1','TWS2','ECS','SHA'],
+  ['ARB','OMN','GOO','HOR','GLF','JBA'], ['ARB2','MUM'], ['SHA','KOR','BUS'],
+  ['SHA','JPS','JPS2','JPE','NP1','NP2','NP3','NP4','NP5','NP6','LAX'],
+  ['LAX','BAJ1','BAJ2','MX1','MX2','CA1','CA2','PAZ','PANP'],
+  ['PANA','CAR1','CAR2','CAR3'],
+  ['CAR3','ATL1','USE1'],
+  ['GOM1','GOM2','FLS','FLE','USE1','USE2','NYN'],
+  ['NYN','NA1','NA2','NA3','NA4','CHW'],
+  ['SAN','SAE1','SAE2','SAE3','SAE4','A4','A5','A6','IBW'],
+  ['CAL','PEN','COL','PANP'],
+  ['CAL','PAC1','PAC2','PAC3','PAC4','PAC5','PAC6','P1'],
+  ['LAG','GG1','GG2','GG3','GG4','A4'],
+  ['LAG','GS1','GS2','GS3','GS4','GS5','CAPE','DUN','DUR'],
+  ['SAN','SOUTHA','SOUTHB','CAPE'],
+  ['DUR','IOE','IOD','IOC','IOM','SLK2'],
+  ['SIN','SB1','SB2','SUN','IO3','IO4','FREN','FRES','AUS1','AUS2','AUS3','AUS4','MELB','BAS','SYD3','SYD2','SYDN'],
+  ['SYDN','COR1','COR2','COR3','COR4','COR5','COR6','COR7','TWS2'],
+  ['SYDN','OPAC1','OPAC2','OPAC3','OPAC4','OPAC5','CAL'],
+  ['COR2','OLA1','OLA2','OLA3','OLA4','OLA5','LAX'],
+  ['FREN','IOW1','IOW2','IOW3','DUR'],
+  ['IO3','ASEA2','ASEA1','SLK2']
+];
+var SEA_CANALS = [['PSN','SUZ'],['SUZ','SZG'],['PANP','PANA']];   /* duerfen Land queren */
+/* Haefen: Name, Kontinent, Lage [Laenge, Breite], Anschlussknoten, Gewicht */
+var PORTS = {
+  rot:{n:'Rotterdam',c:'eu',p:[4.2,52.0],at:'NS',w:3}, pir:{n:'Piräus',c:'eu',p:[23.65,37.9],at:'AEG',w:2}, alg:{n:'Algeciras',c:'eu',p:[-5.45,36.13],at:'GIB',w:2},
+  sha:{n:'Shanghai',c:'as',p:[121.8,31.0],at:'SHA',w:4}, sin:{n:'Singapur',c:'as',p:[103.85,1.26],at:'SIN',w:4}, szn:{n:'Shenzhen',c:'as',p:[114.2,22.5],at:'SZN',w:3},
+  bus:{n:'Busan',c:'as',p:[129.05,35.1],at:'BUS',w:2}, jba:{n:'Jebel Ali',c:'as',p:[55.05,25.0],at:'JBA',w:2}, mum:{n:'Mumbai',c:'as',p:[72.9,18.95],at:'MUM',w:2},
+  lax:{n:'Los Angeles',c:'na',p:[-118.3,33.7],at:'LAX',w:3}, nyc:{n:'New York',c:'na',p:[-74.05,40.6],at:'NYN',w:3}, hou:{n:'Houston',c:'na',p:[-94.9,29.6],at:'GOM1',w:2},
+  san:{n:'Santos',c:'sa',p:[-46.3,-23.95],at:'SAN',w:3}, cal:{n:'Callao',c:'sa',p:[-77.15,-12.05],at:'CAL',w:2}, cart:{n:'Cartagena',c:'sa',p:[-75.55,10.4],at:'CAR1',w:2},
+  tan:{n:'Tanger Med',c:'af',p:[-5.5,35.9],at:'GIBW',w:2}, psd:{n:'Port Said',c:'af',p:[32.3,31.3],at:'PSN',w:2}, dur:{n:'Durban',c:'af',p:[31.05,-29.9],at:'DUR',w:2}, lag:{n:'Lagos',c:'af',p:[3.4,6.4],at:'LAG',w:2},
+  syd:{n:'Sydney',c:'oc',p:[151.25,-33.9],at:'SYDN',w:3}, mel:{n:'Melbourne',c:'oc',p:[144.9,-38.0],at:'MELB',w:2}, fre:{n:'Fremantle',c:'oc',p:[115.75,-32.05],at:'FREN',w:2}
+};
+
+  var SVGNS = 'http://www.w3.org/2000/svg', SPEED = 11, SW = 11.2, SH = 7.2, ships = [], raf = null, T0 = performance.now();
+  var CALM = !!(window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches);
+  function proj(lo, la) { return [500 + lo * 2.77778, 233.333 - la * 2.77778]; }
+  function unwrapLon(prev, lo) { while (lo - prev > 180) lo -= 360; while (lo - prev < -180) lo += 360; return lo; }
+  function pxLine(lonlats) {                       /* Länge/Breite-Liste -> durchgehende Pixelpunkte (ohne Sprung am Datumsrand) */
+    var out = [], prev = null;
+    lonlats.forEach(function (q) { var lo = prev === null ? q[0] : unwrapLon(prev, q[0]); prev = lo; out.push(proj(lo, q[1])); });
+    return out;
+  }
+  function smooth(pts, r) {                        /* Polylinie mit leicht gerundeten Ecken */
+    if (pts.length < 3) return 'M' + pts.map(function (q) { return q[0].toFixed(1) + ' ' + q[1].toFixed(1); }).join(' L');
+    var d = 'M' + pts[0][0].toFixed(1) + ' ' + pts[0][1].toFixed(1);
+    for (var i = 1; i < pts.length - 1; i++) {
+      var a = pts[i - 1], b = pts[i], c = pts[i + 1];
+      var l1 = Math.hypot(b[0] - a[0], b[1] - a[1]) || 1, l2 = Math.hypot(c[0] - b[0], c[1] - b[1]) || 1;
+      var r1 = Math.min(r, l1 / 2), r2 = Math.min(r, l2 / 2);
+      var p1 = [b[0] + (a[0] - b[0]) / l1 * r1, b[1] + (a[1] - b[1]) / l1 * r1];
+      var p2 = [b[0] + (c[0] - b[0]) / l2 * r2, b[1] + (c[1] - b[1]) / l2 * r2];
+      d += ' L' + p1[0].toFixed(1) + ' ' + p1[1].toFixed(1) + ' Q' + b[0].toFixed(1) + ' ' + b[1].toFixed(1) + ' ' + p2[0].toFixed(1) + ' ' + p2[1].toFixed(1);
+    }
+    var z = pts[pts.length - 1];
+    return d + ' L' + z[0].toFixed(1) + ' ' + z[1].toFixed(1);
+  }
+  /* Graph und kürzeste Wege */
+  var ADJ = {};
+  (function () {
+    function edge(a, b) {
+      var A = SEA_NODES[a], B = SEA_NODES[b], lo = unwrapLon(A[0], B[0]);
+      var pa = proj(A[0], A[1]), pb = proj(lo, B[1]), w = Math.hypot(pb[0] - pa[0], pb[1] - pa[1]);
+      (ADJ[a] = ADJ[a] || []).push({ to: b, w: w }); (ADJ[b] = ADJ[b] || []).push({ to: a, w: w });
+    }
+    SEA_CHAINS.concat(SEA_CANALS).forEach(function (ch) { for (var i = 0; i < ch.length - 1; i++) edge(ch[i], ch[i + 1]); });
+  })();
+  function shortest(a, b) {
+    var dist = {}, prev = {}, todo = Object.keys(SEA_NODES);
+    todo.forEach(function (k) { dist[k] = Infinity; }); dist[a] = 0;
+    while (todo.length) {
+      var bi = 0; for (var i = 1; i < todo.length; i++) if (dist[todo[i]] < dist[todo[bi]]) bi = i;
+      var u = todo.splice(bi, 1)[0];
+      if (u === b || dist[u] === Infinity) break;
+      (ADJ[u] || []).forEach(function (e) { if (dist[u] + e.w < dist[e.to]) { dist[e.to] = dist[u] + e.w; prev[e.to] = u; } });
+    }
+    var path = [], c = b;
+    if (dist[b] === Infinity) return [a, b];
+    while (c !== undefined) { path.unshift(c); c = prev[c]; }
+    return path;
+  }
+  var ROUTES = {};
+  function routeFor(ka, kb) {
+    var key = ka + '>' + kb; if (ROUTES[key]) return ROUTES[key];
+    var A = PORTS[ka], B = PORTS[kb];
+    var nodes = shortest(A.at, B.at);
+    var ll = [A.p].concat(nodes.map(function (k) { return SEA_NODES[k]; })).concat([B.p]);
+    var el = document.createElementNS(SVGNS, 'path');
+    el.setAttribute('d', smooth(pxLine(ll), 6)); $('g-routes').appendChild(el);
+    return (ROUTES[key] = { p: el, L: el.getTotalLength() });
+  }
+  function portList(c) {                           /* Häfen eines Kontinents, nach Gewicht vervielfacht */
+    var out = [];
+    Object.keys(PORTS).forEach(function (k) { if (PORTS[k].c === c) for (var i = 0; i < PORTS[k].w; i++) out.push(k); });
+    return out;
+  }
+  /* Seewege zeichnen (einmal), dreifach versetzt, damit der Datumsrand nahtlos wirkt */
+  function lanesHtml() {
+    var h = '';
+    function line(ch, cls) {
+      var d = smooth(pxLine(ch.map(function (k) { return SEA_NODES[k]; })), 6);
+      [-W, 0, W].forEach(function (s) { h += '<path class="' + cls + '" d="' + d + '"' + (s ? ' transform="translate(' + s + ' 0)"' : '') + '></path>'; });
+    }
+    SEA_CHAINS.forEach(function (ch) { line(ch, 'lane'); });
+    SEA_CANALS.forEach(function (ch) { line(ch, 'lane canal'); });
+    return h;
+  }
+  function stressOf(id) { return (state.stress && state.stress[id]) || 0; }
+  function shipColor(base, s) { return s > 0.04 ? 'color-mix(in srgb, var(--high) ' + Math.round(Math.min(1, s * 1.15) * 100) + '%, ' + base + ')' : base; }
+  function setupShips() {
+    var g = $('g-ships'); g.innerHTML = ''; ships = [];
+    flowList.forEach(function (fl) {
+      var from = portList(fl.f), to = portList(fl.t); if (!from.length || !to.length) return;
+      var n = Math.max(1, Math.min(28, Math.round(fl.v / 150)));
+      var op = state.sel ? ((fl.f === state.sel || fl.t === state.sel) ? 1 : 0.35) : 0.9;
+      if (state.pair && pk(fl.f, fl.t) === state.pair) op = 1;
+      for (var i = 0; i < n; i++) {
+        var r = routeFor(from[(i * 5) % from.length], to[(i * 3 + (i % 2)) % to.length]);
+        var el = document.createElementNS(SVGNS, 'use');
+        el.setAttribute('href', '#ship'); el.setAttribute('x', -SW / 2); el.setAttribute('y', -SH / 2);
+        el.setAttribute('width', SW); el.setAttribute('height', SH);
+        g.appendChild(el);
+        ships.push({ el: el, p: r.p, L: r.L, fl: fl, ph: (i / n + (fl.f.charCodeAt(0) * 7 + fl.t.charCodeAt(0) * 3) % 10 / 10) % 1, op: op, base: flowColor(fl), last: -1 });
       }
-      if (active) { dop = 1; bop = 0.42; }
-      var wb = 0.8 + Math.sqrt(fl.v) / 9, wd = 1.4 + Math.sqrt(fl.v) / 7;
-      var P = 8 + wd * 2.4, dur = (P + 0.1) / 20;
-      var wrap = key === 'as|na' || key === 'na|oc';
-      var A = HUB[fl.f], B = HUB[fl.t];
-      var shift = wrap ? (A[0] > B[0] ? W : -W) : 0;
-      var d = arc(A, B, shift);
-      var tfs = wrap ? ['', 'translate(' + (shift > 0 ? -W : W) + ' 0)'] : [''];
-      var tip = nm(fl.f) + ' → ' + nm(fl.t) + ': ' + nf0.format(fl.v) + ' Mrd. $ pro Jahr';
-      tfs.forEach(function (tf, i) {
-        h += '<g' + (tf ? ' transform="' + tf + '"' : '') + '>' +
-          '<path class="hit" data-pair="' + key + '" d="' + d + '"><title>' + tip + '</title></path>' +
-          '<path class="base" d="' + d + '" stroke="' + col + '" stroke-opacity="' + bop + '" stroke-width="' + wb.toFixed(1) + '"></path>' +
-          '<path class="dots" d="' + d + '" stroke="' + col + '" stroke-opacity="' + dop + '" stroke-width="' + wd.toFixed(1) +
-          '" stroke-dasharray="0.1 ' + P.toFixed(1) + '" style="--p:' + (P + 0.1).toFixed(1) + ';animation-duration:' + dur.toFixed(2) + 's"></path></g>';
-      });
     });
-    $('g-flows').innerHTML = h;
-    $('legend').innerHTML = sel
-      ? '<span><i class="out"></i>Exporte von ' + nm(sel) + '</span><span><i class="in"></i>Importe nach ' + nm(sel) + '</span><span>Punktgröße = Handelsvolumen der Richtung</span>'
-      : '<span><i></i>Waren in Pfeilrichtung</span><span>Wähle einen Kontinent, um Exporte und Importe zu trennen</span><span>Punktgröße = Handelsvolumen der Richtung</span>';
+    frame(performance.now());
+    if (!CALM && !raf) raf = requestAnimationFrame(loop);
+  }
+  function frame(now) {
+    var t = CALM ? 0 : (now - T0) / 1000;
+    for (var k = 0; k < ships.length; k++) {
+      var s = ships[k], u = (s.ph + t * SPEED / s.L) % 1, st = stressOf(s.fl.t);
+      var uu = (st > 0.05 && u > 0.8) ? 0.8 + (u - 0.8) * (1 - 0.85 * st) : u;      /* Schiffe stauen sich vor dem Zielhafen */
+      var d = uu * s.L;
+      var a = s.p.getPointAtLength(d), b = s.p.getPointAtLength(Math.min(s.L, d + 2));
+      var dx = b.x - a.x, dy = b.y - a.y, flip = dx < 0;
+      var ang = Math.atan2(flip ? -dy : dy, flip ? -dx : dx) * 180 / Math.PI;
+      var x = ((a.x % W) + W) % W;
+      var sc = 1 - 0.4 * Math.min(1, st * 1.15);                                   /* rote Schiffe werden kleiner */
+      s.el.setAttribute('transform', 'translate(' + x.toFixed(1) + ' ' + a.y.toFixed(1) + ') rotate(' + ang.toFixed(1) + ') scale(' + (flip ? -sc : sc).toFixed(2) + ' ' + sc.toFixed(2) + ')');
+      s.el.setAttribute('opacity', (s.op * Math.max(0, Math.min(1, u / 0.03, (1 - u) / 0.03))).toFixed(2));
+      var sl = Math.round(st * 20);
+      if (sl !== s.last) { s.last = sl; s.el.style.color = shipColor(s.base, sl / 20); }
+    }
+  }
+  function loop(now) { frame(now); raf = requestAnimationFrame(loop); }
+
+  var flowList = [];
+  function renderFlows() {
+    var sel = state.sel;
+    flowList = FLOWS.slice().sort(function (a, b) { return a.v - b.v; });
+    $('g-flows').innerHTML = lanesHtml();
+    setupShips();
+    $('legend').innerHTML = '<span>' + (sel ? 'Orange: Exporte von ' + nm(sel) + ', Blau: Importe nach ' + nm(sel) + '. ' : '') + 'Kontinentnamen auf der Karte anklicken, um Exporte und Importe zu trennen.</span>';
+  }
+  /* Häfen und Stau-Schiffe */
+  function renderPorts() {
+    var h = '';
+    Object.keys(PORTS).forEach(function (k) {
+      var P = PORTS[k], pt = proj(P.p[0], P.p[1]), nd = proj(unwrapLon(P.p[0], SEA_NODES[P.at][0]), SEA_NODES[P.at][1]);
+      var dx = nd[0] - pt[0], dy = nd[1] - pt[1], l = Math.hypot(dx, dy);
+      if (l < 0.5) { dx = 0; dy = 1; l = 1; }
+      dx /= l; dy /= l;
+      var m = stressOf(P.c) > 0.1 ? Math.max(1, Math.round(stressOf(P.c) * 4)) : 0;
+      for (var q = 0; q < m; q++) {
+        var off = (q - (m - 1) / 2) * 7.2, back = 8 + (q % 2) * 4.5, qw = SW * 0.65, qh = SH * 0.65;
+        var x = pt[0] + dx * back + (-dy) * off, y = pt[1] + dy * back + dx * off;
+        h += '<use class="qship" href="#ship" x="' + (x - qw / 2).toFixed(1) + '" y="' + (y - qh / 2).toFixed(1) + '" width="' + qw.toFixed(1) + '" height="' + qh.toFixed(1) +
+          '" style="color:var(--high);animation-delay:-' + (q * 0.41).toFixed(2) + 's"></use>';
+      }
+      h += '<circle class="pdot" cx="' + pt[0].toFixed(1) + '" cy="' + pt[1].toFixed(1) + '" r="2.3"><title>' + P.n + '</title></circle>';
+    });
+    $('g-ports').innerHTML = h;
   }
 
   /* ---------- Karte: Kontinent-Marken ---------- */
   function renderHubs(res) {
     var h = '';
+    state.stress = {};
+    C.forEach(function (c) { state.stress[c.id] = res ? Math.min(1, res[c.id] / 5) : 0; });
     C.forEach(function (c) {
-      var p = HUB[c.id], r = 5 + Math.sqrt(c.gdp) / 14;
-      var isSrc = res && state.sim.src === c.id, isSel = state.sel === c.id;
-      h += '<g class="hub" data-c="' + c.id + '" tabindex="0" role="button" aria-label="' + c.name + ' auswählen">' +
-        (isSrc ? '<circle cx="' + p[0] + '" cy="' + p[1] + '" r="' + (r + 5).toFixed(1) + '" fill="none" stroke="var(--accent)" stroke-width="2" stroke-dasharray="3 3"></circle>' : '') +
-        '<circle class="core" cx="' + p[0] + '" cy="' + p[1] + '" r="' + r.toFixed(1) + '" stroke="' + (isSel ? 'var(--fg)' : 'var(--edge)') + '" stroke-width="' + (isSel ? 2.5 : 1.5) + '"></circle>' +
-        '<text class="nname" x="' + p[0] + '" y="' + (p[1] + r + 16).toFixed(1) + '">' + c.name + '</text>' +
-        (res ? '<text class="nval" x="' + p[0] + '" y="' + (p[1] + r + 32).toFixed(1) + '">' + pp(res[c.id]) + '</text>' : '') +
+      var p = HUB[c.id];
+      var isSrc = res && state.sim.src === c.id, isSel = state.sel === c.id, ht = res ? 46 : 28;
+      h += '<g class="hub' + (isSel ? ' is-sel' : '') + '" data-c="' + c.id + '" tabindex="0" role="button" aria-label="' + c.name + ' auswählen">' +
+        '<rect class="hubhit" x="' + (p[0] - 62) + '" y="' + (p[1] - 20) + '" width="124" height="' + ht + '" rx="8"></rect>' +
+        (isSrc ? '<rect x="' + (p[0] - 56) + '" y="' + (p[1] - 18) + '" width="112" height="' + (ht - 4) + '" rx="8" fill="none" stroke="var(--accent)" stroke-width="1.6" stroke-dasharray="3 3"></rect>' : '') +
+        '<text class="nname" x="' + p[0] + '" y="' + (p[1] + 1).toFixed(1) + '">' + c.name + '</text>' +
+        (res ? '<text class="nval" x="' + p[0] + '" y="' + (p[1] + 18).toFixed(1) + '">' + pp(res[c.id]) + '</text>' : '') +
         '</g>';
     });
     $('g-hubs').innerHTML = h;
+    applyFocus();
+    renderPorts();
   }
 
   /* ---------- Linke Spalte ---------- */
@@ -708,6 +928,14 @@ function start(D) {
     var c = e.target.closest('[data-c]');
     if (c) select(c.getAttribute('data-c'));
   });
+  function setHover(e) {
+    var g = e.target.closest ? e.target.closest('[data-c]') : null, id = g ? g.getAttribute('data-c') : null;
+    if (id !== (state.hover || null)) { state.hover = id; applyFocus(); }
+  }
+  $('map').addEventListener('mouseover', setHover);
+  $('map').addEventListener('mouseleave', function () { if (state.hover) { state.hover = null; applyFocus(); } });
+  $('map').addEventListener('focusin', setHover);
+  $('map').addEventListener('focusout', function () { if (state.hover) { state.hover = null; applyFocus(); } });
   $('map').addEventListener('keydown', function (e) {
     if (e.key !== 'Enter' && e.key !== ' ') return;
     var g = e.target.closest('[data-c]'); if (g) { e.preventDefault(); select(g.getAttribute('data-c')); }
