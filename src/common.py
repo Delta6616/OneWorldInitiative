@@ -29,11 +29,11 @@ def fmt(wert):
     return format(float(wert), ".10g")
 
 
-def hole_json(url, versuche=3):
+def hole_json(url, versuche=3, ua="weltmodell/1.0"):
     letzter = None
     for i in range(versuche):
         try:
-            req = urllib.request.Request(url, headers={"User-Agent": "weltmodell/1.0"})
+            req = urllib.request.Request(url, headers={"User-Agent": ua, "Accept": "application/json"})
             with urllib.request.urlopen(req, timeout=60) as r:
                 return json.load(r)
         except (urllib.error.URLError, TimeoutError, ValueError) as e:
