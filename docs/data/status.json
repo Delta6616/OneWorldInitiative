@@ -15,8 +15,8 @@
  },
  "gdelt": {
   "ok": true,
-  "zeit": "2026-10-27T16:44:37Z",
-  "neu_oder_geaendert": 2,
+  "zeit": "2026-10-27T17:42:31Z",
+  "neu_oder_geaendert": 0,
   "zeilen_gesamt": 120,
   "warnungen": [
    "logistik/english: HTTP 429",
