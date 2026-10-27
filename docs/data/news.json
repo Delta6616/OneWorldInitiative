@@ -1,8 +1,24 @@
 {
- "stand": "2026-10-27T20:37:05Z",
+ "stand": "2026-10-27T22:38:21Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Super El Niño threatens Southern Africa with severe drought , WMO warns",
+   "u": "https://theherald.co.za/news/2026-10-27-super-el-nino-threatens-southern-africa-with-severe-drought-wmo-warns/",
+   "d": "2026-10-27",
+   "q": "theherald.co.za",
+   "type": "rohstoffe",
+   "c": "af"
+  },
+  {
+   "t": "Wheat sowing lags at 11 , 000 hectare so far amid deficient monsoon ; rabi acreage down",
+   "u": "https://economictimes.indiatimes.com/news/economy/agriculture/wheat-sowing-lags-at-11000-ha-so-far-amid-deficient-monsoon-rabi-acreage-down/articleshow/135224612.cms",
+   "d": "2026-10-27",
+   "q": "economictimes.indiatimes.com",
+   "type": "rohstoffe",
+   "c": null
+  },
   {
    "t": "RBI steps up liquidity support as tighter cash conditions push up borrowing rates : Report",
    "u": "http://www.ohiostandard.com/news/279399101/rbi-steps-up-liquidity-support-as-tighter-cash-conditions-push-up-borrowing-rates-report",
@@ -18,6 +34,14 @@
    "q": "myanmarnews.net",
    "type": "energie",
    "c": "as"
+  },
+  {
+   "t": "„ Nine to Five : Fremdscham im Bürgeramt",
+   "u": "https://www.weser-kurier.de/kultur/film/nine-to-five-fremdscham-im-buergeramt-doc886zye8y4h218tblbbsw",
+   "d": "2026-10-26",
+   "q": "weser-kurier.de",
+   "type": "rohstoffe",
+   "c": null
   },
   {
    "t": "Tankrabatt : Warum Diesel - Fahrer weniger davon haben als versprochen",
@@ -84,11 +108,35 @@
    "c": null
   },
   {
+   "t": "Zero maida : Britannia ordered to stop misleading ads saying its bread is  100 % whole wheat  because atta made up only around 62 % of the finished product",
+   "u": "https://economictimes.indiatimes.com/news/new-updates/zero-maida-britannia-ordered-to-stop-misleading-ads-saying-its-bread-as-100-whole-wheat-because-atta-made-up-only-around-62-of-the-finished-product/articleshow/135202259.cms",
+   "d": "2026-10-26",
+   "q": "economictimes.indiatimes.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "America Cant Stockpile Missiles Without Reloading On Conflict - Free Critical Materials",
+   "u": "http://www.zerohedge.com/military/america-cant-stockpile-missiles-without-reloading-conflict-free-critical-materials",
+   "d": "2026-10-26",
+   "q": "zerohedge.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
    "t": "Strände in Emiraten wegen Ölverschmutzung geschlossen",
    "u": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wissenschaft_nt/article6addf1fe51fb647ba7e7c60b/straende-in-emiraten-wegen-oelverschmutzung-geschlossen.html",
    "d": "2026-10-25",
    "q": "welt.de",
    "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Diese Börsentermine haben es in sich : Zahlen , Zinsen und Konjunkturdaten",
+   "u": "https://www.wallstreet-online.de/nachricht/21576982-boersentermine-sich-zahlen-zinsen-konjunkturdaten",
+   "d": "2026-10-25",
+   "q": "wallstreet-online.de",
+   "type": "rohstoffe",
    "c": null
   },
   {
@@ -164,6 +212,14 @@
    "c": null
   },
   {
+   "t": "Steigende Heizkosten : Das können Verbraucher tun",
+   "u": "https://www.suedtirolnews.it/wirtschaft/steigende-heizkosten-das-koennen-verbraucher-tun",
+   "d": "2026-10-25",
+   "q": "suedtirolnews.it",
+   "type": "energie",
+   "c": null
+  },
+  {
    "t": "Spore expects all parties to honour commitments , says PM Wong after Indonesia cuts gas exports",
    "u": "https://www.straitstimes.com/singapore/politics/spore-expects-all-parties-to-honour-commitments-says-pm-wong-after-indonesia-cuts-gas-exports",
    "d": "2026-10-25",
@@ -196,11 +252,35 @@
    "c": "na"
   },
   {
+   "t": "Ethiopia Drought Damages 250 , 000 Hectares",
+   "u": "https://www.riotimesonline.com/ethiopia-drought-250000-hectares-2026/",
+   "d": "2026-10-25",
+   "q": "riotimesonline.com",
+   "type": "rohstoffe",
+   "c": "af"
+  },
+  {
    "t": "Zuckerrüben - Ernte teils drastisch eingebrochen",
    "u": "https://www.proplanta.de/agrar-nachrichten/pflanze/zuckerrueben-ernte-teils-drastisch-eingebrochen_article1792918501.html",
    "d": "2026-10-25",
    "q": "proplanta.de",
    "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Malawi imports 1 , 000 vehicles a month amid acute forex crisis",
+   "u": "https://www.nyasatimes.com/malawi-imports-1000-vehicles-a-month-amid-acute-forex-crisis/",
+   "d": "2026-10-25",
+   "q": "nyasatimes.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "AU renews demand for unconditional lifting of unilateral sanctions against Zimbabwe",
+   "u": "https://www.newzimbabwe.com/au-renews-demand-for-unconditional-lifting-of-unilateral-sanctions-against-zimbabwe/",
+   "d": "2026-10-25",
+   "q": "newzimbabwe.com",
+   "type": "politik",
    "c": null
   },
   {
@@ -241,6 +321,14 @@
    "d": "2026-10-25",
    "q": "nakedcapitalism.com",
    "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "FPIs withdraw Rs 48 , 056 crore from equities in Oct so far amid elevated crude oil prices",
+   "u": "https://www.moneycontrol.com/news/business/markets/fpis-withdraw-rs-48-056-crore-from-equities-in-oct-so-far-amid-elevated-crude-oil-prices-14059439.html",
+   "d": "2026-10-25",
+   "q": "moneycontrol.com",
+   "type": "finanz",
    "c": null
   },
   {
@@ -316,6 +404,22 @@
    "c": "as"
   },
   {
+   "t": "The Rare - Earth Vultures Harvesting Metals From America Old Wind Turbines",
+   "u": "https://www.hindustantimes.com/world-news/the-rare-earth-vultures-harvesting-metals-from-america-s-old-wind-turbines-101792912229378.html",
+   "d": "2026-10-25",
+   "q": "hindustantimes.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Wegen Nationalfeiertag – Hier drohen Staus – Ring in Wien auch Sonntag gesperrt",
+   "u": "https://www.heute.at/s/hier-drohen-staus-ring-in-wien-auch-sonntag-gesperrt-120272044",
+   "d": "2026-10-25",
+   "q": "heute.at",
+   "type": "rohstoffe",
+   "c": "na"
+  },
+  {
    "t": "Schockierende Auswertung – Heizöl um 63 Prozent teurer – auch Diesel explodiert",
    "u": "https://www.heute.at/s/heizoel-um-63-prozent-teurer-auch-diesel-explodiert-120270790",
    "d": "2026-10-25",
@@ -380,14 +484,6 @@
    "c": null
   },
   {
-   "t": "Riyadh Airport Resumes Operation Following Closure After Attacks",
-   "u": "https://www.deccanchronicle.com/west-asia/riyadh-airport-resumes-operation-following-closure-after-attacks-1998633",
-   "d": "2026-10-25",
-   "q": "deccanchronicle.com",
-   "type": "energie",
-   "c": null
-  },
-  {
    "t": "Neue Kontonummer : Jeder Bürger könnte neben der IBAN noch eine DEAN bekommen",
    "u": "https://www.chip.de/news/geld-finanzen-recht/neue-kontonummer-jeder-buerger-koennte-neben-der-iban-noch-eine-dean-bekommen_b18d1cf1-7392-440e-8c3a-22f77ded5212.html",
    "d": "2026-10-25",
@@ -404,27 +500,19 @@
    "c": null
   },
   {
+   "t": "Rupee recovery faces hurdles from dollar demand , capital outflows",
+   "u": "https://www.business-standard.com/finance/news/rupee-s-recovery-faces-hurdles-from-dollar-demand-capital-outflows-126102500370_1.html",
+   "d": "2026-10-25",
+   "q": "business-standard.com",
+   "type": "finanz",
+   "c": null
+  },
+  {
    "t": "Gold : Zentralbank - Käufe als Rettung ?",
    "u": "https://www.boerse-express.com/news/articles/gold-zentralbank-kaeufe-als-rettung-956178",
    "d": "2026-10-25",
    "q": "boerse-express.com",
    "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "Europas Wachstum lahmt , doch die Inflation lässt der EZB keine Wahl",
-   "u": "https://www.boerse-express.com/news/articles/europas-wachstum-lahmt-doch-die-inflation-laesst-der-ezb-keine-wahl-956179",
-   "d": "2026-10-25",
-   "q": "boerse-express.com",
-   "type": "finanz",
-   "c": "eu"
-  },
-  {
-   "t": "Stühlingen stimmt der Reaktivierung der Wutachtalbahn nach Waldshut zu",
-   "u": "https://www.badische-zeitung.de/stuehlingen-stimmt-der-reaktivierung-der-wutachtalbahn-nach-waldshut-zu",
-   "d": "2026-10-25",
-   "q": "badische-zeitung.de",
-   "type": "rohstoffe",
    "c": null
   },
   {
@@ -434,22 +522,6 @@
    "q": "badische-zeitung.de",
    "type": "politik",
    "c": null
-  },
-  {
-   "t": "Deutschlandticket & Kfz - Versicherung : Das ändert sich im November 2026",
-   "u": "https://www.abendblatt.de/panorama/article413460147/deutschlandticket-kfz-versicherung-das-aendert-sich-im-november-2026.html",
-   "d": "2026-10-25",
-   "q": "abendblatt.de",
-   "type": "politik",
-   "c": "eu"
-  },
-  {
-   "t": "Fed policy , Q2 earnings , crude oil prices among key market triggers next week",
-   "u": "https://morungexpress.com/fed-policy-q2-earnings-crude-oil-prices-among-key-market-triggers-next-week",
-   "d": "2026-10-25",
-   "q": "morungexpress.com",
-   "type": "finanz",
-   "c": "na"
   },
   {
    "t": "Antonio Salieri -  La grotta di Trofonio , ARD - Opernabend - WDR 3 Oper - Sendungen - Programm - WDR 3",
@@ -524,6 +596,22 @@
    "c": null
   },
   {
+   "t": "5 Ryobi USB Lithium Tools That Are Great For Camping",
+   "u": "https://www.slashgear.com/2290526/best-ryobi-usb-lithium-tools-for-camping/",
+   "d": "2026-10-24",
+   "q": "slashgear.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Bürgerkrieg im Jemen : Huthis melden Angriffe auf saudische Flughäfen und Ölanlagen",
+   "u": "https://www.schwarzwaelder-bote.de/politik/buergerkrieg-im-jemen-huthis-melden-angriffe-auf-saudische-flughaefen-und-oelanlagen-79607433.html",
+   "d": "2026-10-24",
+   "q": "schwarzwaelder-bote.de",
+   "type": "energie",
+   "c": "as"
+  },
+  {
    "t": "Schweiz bereitet Tempo 80 auf Autobahnen vor – wegen Sprit - Knappheit",
    "u": "https://www.rtl.de/news/schweiz-bereitet-tempo-80-auf-autobahnen-vor-wegen-sprit-knappheit-id31454124.html",
    "d": "2026-10-24",
@@ -578,14 +666,6 @@
    "q": "kyivpost.com",
    "type": "politik",
    "c": "eu"
-  },
-  {
-   "t": "How Used Engine Oil Can Get Re - Refined And Become Usable Again",
-   "u": "https://www.jalopnik.com/2290485/how-used-engine-oil-re-refined-become-usable-again/",
-   "d": "2026-10-24",
-   "q": "jalopnik.com",
-   "type": "energie",
-   "c": "na"
   },
   {
    "t": "Vier Module , ein Speicher : Das optimale Solarbank - 3 - Setup",
