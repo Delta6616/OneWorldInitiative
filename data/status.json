@@ -1,14 +1,14 @@
 {
  "worldbank": {
   "ok": true,
-  "zeit": "2026-10-27T11:42:45Z",
+  "zeit": "2026-10-27T11:53:56Z",
   "neu_oder_geaendert": 0,
   "zeilen_gesamt": 27953,
   "warnungen": []
  },
  "portwatch": {
   "ok": false,
-  "letzter_versuch": "2026-10-27T11:42:50Z",
-  "fehler": "PortWatch lieferte keine Zeilen."
+  "letzter_versuch": "2026-10-27T11:54:01Z",
+  "fehler": "[year >= 2024 | arcgis | Layer0] PortWatch meldet: {'error': {'code': 400, 'message': 'Invalid URL', 'details': [ | [year >= 2024 | arcgis | Layer0] PortWatch meldet: {'error': {'code': 400, 'message': 'Invalid URL', 'details': [ | [year >= 2024 | ArcGIS | Layer0] PortWatch meldet: {'error': {'code'"
  }
 }
