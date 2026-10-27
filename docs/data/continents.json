@@ -1,31 +1,100 @@
 {
- "stand": "2026-10-27T09:07:15Z",
+ "stand": "2026-10-27T10:59:06Z",
  "quelle": "Weltbank, neuester Wert je Land",
- "daten_bis": {},
+ "daten_bis": {
+  "NY.GDP.MKTP.CD": "2025",
+  "NY.GDP.MKTP.KD.ZG": "2025"
+ },
  "kontinente": {
   "eu": {
    "gdp": 29949,
-   "abdeckung": {}
+   "abdeckung": {
+    "wachstum": 1.0,
+    "inflation": 1.0,
+    "handel": 1.0,
+    "schulden": 0.34
+   },
+   "pop": 745,
+   "wachstum": 1.5,
+   "inflation": 3.1,
+   "handel": 87.1,
+   "schulden": 82.0,
+   "dyn": 44
   },
   "as": {
    "gdp": 41646,
-   "abdeckung": {}
+   "abdeckung": {
+    "wachstum": 1.0,
+    "inflation": 1.0,
+    "handel": 1.0,
+    "schulden": 0.32
+   },
+   "pop": 4803,
+   "wachstum": 4.3,
+   "inflation": 3.0,
+   "handel": 60.1,
+   "schulden": 46.5,
+   "dyn": 79
   },
   "na": {
    "gdp": 35854,
-   "abdeckung": {}
+   "abdeckung": {
+    "wachstum": 1.0,
+    "inflation": 0.99,
+    "handel": 1.0,
+    "schulden": 0.98
+   },
+   "pop": 612,
+   "wachstum": 2.1,
+   "inflation": 2.9,
+   "handel": 31.6,
+   "schulden": 108.3,
+   "dyn": 51
   },
   "sa": {
    "gdp": 4574,
-   "abdeckung": {}
+   "abdeckung": {
+    "wachstum": 1.0,
+    "inflation": 1.0,
+    "handel": 1.0,
+    "schulden": 0.78
+   },
+   "pop": 438,
+   "wachstum": 2.8,
+   "inflation": 21.0,
+   "handel": 40.4,
+   "schulden": 68.6,
+   "dyn": 60
   },
   "af": {
    "gdp": 3160,
-   "abdeckung": {}
+   "abdeckung": {
+    "wachstum": 1.0,
+    "inflation": 1.0,
+    "handel": 0.91,
+    "schulden": 0.47
+   },
+   "pop": 1547,
+   "wachstum": 4.3,
+   "inflation": 11.3,
+   "handel": 58.2,
+   "schulden": 64.3,
+   "dyn": 79
   },
   "oc": {
    "gdp": 2132,
-   "abdeckung": {}
+   "abdeckung": {
+    "wachstum": 1.0,
+    "inflation": 0.99,
+    "handel": 1.0,
+    "schulden": 0.99
+   },
+   "pop": 47,
+   "wachstum": 1.3,
+   "inflation": 2.9,
+   "handel": 48.3,
+   "schulden": 57.0,
+   "dyn": 41
   }
  }
 }
