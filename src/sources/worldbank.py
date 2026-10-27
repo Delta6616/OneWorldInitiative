@@ -21,6 +21,13 @@ INDIKATOREN = {
     "GE.EST": "Regierungswirksamkeit (Skala -2,5 bis +2,5)",
 }
 
+# Die Governance-Kennzahlen heissen bei der Weltbank inzwischen GOV_WGI_... (Quelle 3).
+# Gespeichert wird weiter unter dem alten Kurznamen, damit der Rest unveraendert bleibt.
+ABRUFCODES = {
+    "PV.EST": ["GOV_WGI_PV.EST", "PV.EST"],
+    "GE.EST": ["GOV_WGI_GE.EST", "GE.EST"],
+}
+
 BASIS = "https://api.worldbank.org/v2/country/all/indicator/%s?format=json&per_page=1000"
 
 
@@ -38,20 +45,21 @@ def _seiten(url):
 
 
 def _indikator(code, von):
-    """Probiert mehrere Abfrageformen, bis eine Daten liefert."""
-    basis = BASIS % code
+    """Probiert mehrere Codes und Abfrageformen, bis eine Daten liefert."""
     bis = date.today().year
-    varianten = [
-        basis + "&date=%d:%d" % (von, bis),
-        basis + "&date=%d:%d&source=3" % (von, bis),   # Governance-Indikatoren liegen teils in Quelle 3
-        basis + "&mrnev=1",                             # Notlösung: nur der neueste Wert je Land
-    ]
     letzter = AbrufFehler("keine Abfrage versucht")
-    for url in varianten:
-        try:
-            return _seiten(url)
-        except AbrufFehler as e:
-            letzter = e
+    for abruf in ABRUFCODES.get(code, [code]):
+        basis = BASIS % abruf
+        varianten = [
+            basis + "&date=%d:%d" % (von, bis),
+            basis + "&date=%d:%d&source=3" % (von, bis),   # Governance-Indikatoren liegen in Quelle 3
+            basis + "&mrnev=1",                             # Notloesung: nur der neueste Wert je Land
+        ]
+        for url in varianten:
+            try:
+                return _seiten(url)
+            except AbrufFehler as e:
+                letzter = e
     raise letzter
 
 

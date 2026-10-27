@@ -22,14 +22,17 @@ def _datum(w):
     return str(w)[:10]
 
 
-def _abfrage(where):
+def _abfrage(where, schlank=False):
     zeilen, offset = [], 0
     while True:
-        qs = urllib.parse.urlencode({
-            "where": where, "outFields": "date,portname," + ",".join(WERTE),
-            "orderByFields": "date,portid", "resultOffset": offset, "resultRecordCount": 2000,
-            "returnGeometry": "false", "f": "json"})
-        a = hole_json(BASIS + "?" + qs)
+        par = {"where": where, "outFields": "date,portname," + ",".join(WERTE),
+               "resultOffset": offset, "resultRecordCount": 1000,
+               "returnGeometry": "false", "f": "json"}
+        if schlank:     # Notloesung: ohne Sortierung und mit Minimal-Parametern
+            par = {"where": where, "outFields": "*", "f": "json", "resultOffset": offset}
+        else:
+            par["orderByFields"] = "date ASC"
+        a = hole_json(BASIS + "?" + urllib.parse.urlencode(par, quote_via=urllib.parse.quote))
         if not isinstance(a, dict) or "error" in a:
             raise AbrufFehler("PortWatch meldet: %s" % str(a)[:200])
         feats = a.get("features") or []
@@ -46,15 +49,21 @@ def fetch(vorhanden):
         seit = (date.fromisoformat(letztes) - timedelta(days=10)).isoformat()
     else:
         seit = START
-    varianten = ["date >= TIMESTAMP '%s 00:00:00'" % seit, "date >= '%s'" % seit]
-    letzter = AbrufFehler("keine Abfrage versucht")
+    jahr, monat = int(seit[:4]), int(seit[5:7])
+    varianten = [("date >= TIMESTAMP '%s 00:00:00'" % seit, False),
+                 ("date >= DATE '%s'" % seit, False),
+                 ("year >= %d" % jahr, False),
+                 ("year >= %d" % jahr, True),
+                 ("1=1", True)]
+    fehler = []
     daten = None
-    for where in varianten:
+    for where, schlank in varianten:
         try:
-            daten = _abfrage(where)
+            daten = _abfrage(where, schlank)
             break
         except AbrufFehler as e:
-            letzter = e
+            fehler.append("[%s] %s" % (where, str(e)[:120]))
+    letzter = AbrufFehler(" | ".join(fehler))
     if daten is None:
         raise letzter
     zeilen = []
