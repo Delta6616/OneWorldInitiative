@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-27T13:17:59Z",
+ "stand": "2026-10-27T13:35:34Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -20,12 +20,36 @@
    "c": null
   },
   {
+   "t": "How Trump Trade War Has Hurt GOP Candidates",
+   "u": "https://politicalwire.com/2026/10/25/how-trumps-trade-war-has-hurt-gop-candidates/",
+   "d": "2026-10-26",
+   "q": "politicalwire.com",
+   "type": "politik",
+   "c": "na"
+  },
+  {
    "t": "Adnoc prepares new wave of oil and gas tenders for 2027",
    "u": "https://www.thenationalnews.com/business/energy/2026/10/25/adnoc-prepares-new-wave-of-oil-and-gas-tenders-for-2027/",
    "d": "2026-10-25",
    "q": "thenationalnews.com",
    "type": "energie",
    "c": null
+  },
+  {
+   "t": "China export controls around PV cells could slow India upstream solar push",
+   "u": "https://www.thehindubusinessline.com/economy/chinas-export-controls-around-pv-cells-could-slow-indias-upstream-solar-push/article71622820.ece",
+   "d": "2026-10-25",
+   "q": "thehindubusinessline.com",
+   "type": "politik",
+   "c": "as"
+  },
+  {
+   "t": "US Treasury proposes overseas tech investment rule",
+   "u": "https://www.taipeitimes.com/News/biz/archives/2026/10/26/2003866601",
+   "d": "2026-10-25",
+   "q": "taipeitimes.com",
+   "type": "politik",
+   "c": "na"
   },
   {
    "t": "Spore expects all parties to honour commitments , says PM Wong after Indonesia cuts gas exports",
@@ -44,12 +68,28 @@
    "c": "af"
   },
   {
+   "t": "Rubio Defends Trump Diesel Sanctions Relief as  Very Wise",
+   "u": "https://www.kyivpost.com/post/88091",
+   "d": "2026-10-25",
+   "q": "kyivpost.com",
+   "type": "politik",
+   "c": "na"
+  },
+  {
    "t": "Houthis claim attacks on Saudi oil targets , airports ; debris falls in Mecca , Medina as tensions escalate in Gulf",
    "u": "https://www.ibtimes.co.in/houthis-claim-attacks-saudi-oil-targets-airports-debris-falls-mecca-medina-tensions-escalate-907830",
    "d": "2026-10-25",
    "q": "ibtimes.co.in",
    "type": "energie",
    "c": "as"
+  },
+  {
+   "t": "President Donald Trump Just Proclaimed ,  Tariffs Dont Cause Inflation , They Cause Wealth , but Data From Federal Reserve Economists Show Otherwise",
+   "u": "https://www.fool.com/investing/2026/10/25/donald-trump-proclaimed-tariffs-dont-cause-inflation-they-cause-wealth-federal-reserve-economists/?source=iedfolrf0000001",
+   "d": "2026-10-25",
+   "q": "fool.com",
+   "type": "politik",
+   "c": "na"
   },
   {
    "t": "Riyadh Airport Resumes Operation Following Closure After Attacks",
@@ -100,20 +140,124 @@
    "c": null
   },
   {
-   "t": "Keep calm and carry on : Tan See Leng says Indonesia gas cut unlikely to affect electricity prices for now",
-   "u": "https://www.asiaone.com:443/singapore/indonesia-natural-gas-exports-cuts-prices-tan-see-leng",
+   "t": "Barack Obama mocks President Trump tariff war with Canada",
+   "u": "https://toronto.citynews.ca/2026/10/25/well-known-evil-empire-barack-obama-mocks-president-trumps-tariff-war-with-canada/",
    "d": "2026-10-25",
-   "q": "asiaone.com:443",
+   "q": "toronto.citynews.ca",
+   "type": "politik",
+   "c": "na"
+  },
+  {
+   "t": "Inside the Trump - administration campaign to return Bolsonaro clan to power - Americas",
+   "u": "http://www.thejakartapost.com/world/2026/10/25/inside-the-trump-administration-campaign-to-return-bolsonaro-clan-to-power",
+   "d": "2026-10-25",
+   "q": "thejakartapost.com",
+   "type": "politik",
+   "c": "na"
+  },
+  {
+   "t": "Houthis Announce Massive Missile Attack On Saudi Territory , Including East - West Pipeline",
+   "u": "https://www.zerohedge.com/geopolitical/houthis-announce-massive-missile-attack-saudi-territory-including-east-west-pipeline",
+   "d": "2026-10-24",
+   "q": "zerohedge.com",
    "type": "energie",
    "c": "as"
   },
   {
-   "t": "Indonesia gas export cuts account for less than 2 % of Singapore daily needs : EMA",
-   "u": "https://www.asiaone.com:443/singapore/indonesia-natural-gas-export-cuts-ema",
-   "d": "2026-10-25",
-   "q": "asiaone.com:443",
+   "t": "Saipem ( OTCMKTS : SAPMF ) Sees Strong Trading Volume – Should You Buy ?",
+   "u": "https://www.tickerreport.com/banking-finance/13635268/saipem-otcmktssapmf-sees-strong-trading-volume-should-you-buy.html",
+   "d": "2026-10-24",
+   "q": "tickerreport.com",
+   "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Gas supply cut from Indonesia accounts for less than 2 % of Singapore daily gas demand : EMA",
+   "u": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/24/gas-supply-cut-from-indonesia-accounts-for-less-than-2-of-singapores-daily-gas-demand-ema",
+   "d": "2026-10-24",
+   "q": "thestar.com.my",
    "type": "energie",
    "c": "as"
+  },
+  {
+   "t": "Cuban envoy asks Canada to renew rejection of U . S . blockade",
+   "u": "https://www.theglobeandmail.com/canada/article-cuban-envoy-asks-canada-to-renew-rejection-of-us-blockade/",
+   "d": "2026-10-24",
+   "q": "theglobeandmail.com",
+   "type": "politik",
+   "c": "na"
+  },
+  {
+   "t": "India refining superpower role grows amid oil shocks",
+   "u": "https://www.straitstimes.com/asia/south-asia/india-a-refining-superpower-says-rubio-as-the-countrys-petroleum-refining-capacity-assumes-greater",
+   "d": "2026-10-24",
+   "q": "straitstimes.com",
+   "type": "energie",
+   "c": "as"
+  },
+  {
+   "t": "Letter : Investigate wave power for sustainable energy | Honolulu Star - Advertiser",
+   "u": "https://www.staradvertiser.com/2026/10/24/editorial/letters/letter-investigate-wave-power-for-sustainable-energy/",
+   "d": "2026-10-24",
+   "q": "staradvertiser.com",
+   "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Abu Dhabi Firm in Talks for Eni Libya Stake",
+   "u": "https://www.riotimesonline.com/abu-dhabi-firm-eni-libya-stake-2026/",
+   "d": "2026-10-24",
+   "q": "riotimesonline.com",
+   "type": "energie",
+   "c": "af"
+  },
+  {
+   "t": "Germany Wants to Stop More Oil Refinery Closures",
+   "u": "https://www.rigzone.com/news/wire/germany_wants_to_stop_more_oil_refinery_closures-24-oct-2026-184919-article/",
+   "d": "2026-10-24",
+   "q": "rigzone.com",
+   "type": "energie",
+   "c": "eu"
+  },
+  {
+   "t": "Value per barrel matters more than volume",
+   "u": "https://www.omanobserver.om/article/1198462/business/energy/value-per-barrel-matters-more-than-volume",
+   "d": "2026-10-24",
+   "q": "omanobserver.om",
+   "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Zelensky Enacts Sanctions Targeting Russian Ballistics and Drones Makers",
+   "u": "https://www.kyivpost.com/post/88076",
+   "d": "2026-10-24",
+   "q": "kyivpost.com",
+   "type": "politik",
+   "c": "eu"
+  },
+  {
+   "t": "How Used Engine Oil Can Get Re - Refined And Become Usable Again",
+   "u": "https://www.jalopnik.com/2290485/how-used-engine-oil-re-refined-become-usable-again/",
+   "d": "2026-10-24",
+   "q": "jalopnik.com",
+   "type": "energie",
+   "c": "na"
+  },
+  {
+   "t": "Grant Thornton Sounds €3 . 7 Billion Gas Alarm : Greece Faces a Costly Winter as Europe Energy Risks Mount - Grant Thornton Sounds €3 . 7 Billion Gas Alarm : Greece Faces a Costly Winter as Europe Energy Risks Mount",
+   "u": "https://www.inewsgr.com/330/Grant-Thornton-Sounds-37-Billion-Gas-Alarm-Greece-Faces-a-Costly-Winter-as-Europes-Energy-Risks-Mount.htm",
+   "d": "2026-10-24",
+   "q": "inewsgr.com",
+   "type": "energie",
+   "c": "eu"
+  },
+  {
+   "t": "Trump , to help Maine Susan Collins , exempts some Canadian tariffs",
+   "u": "https://www.bostonglobe.com/2026/10/23/business/trump-exempt-canada-imports-tariffs/",
+   "d": "2026-10-24",
+   "q": "bostonglobe.com",
+   "type": "politik",
+   "c": "na"
   }
  ]
 }
