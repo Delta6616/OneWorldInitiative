@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-27T22:38:21Z",
+ "stand": "2026-10-27T23:33:43Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -42,6 +42,14 @@
    "q": "weser-kurier.de",
    "type": "rohstoffe",
    "c": null
+  },
+  {
+   "t": "Earnings Preview : KI - Trade angeschlagen : Bringen jetzt Alphabet , Microsoft & Amazon neuen Schwung ? | wallstreetONLINE",
+   "u": "https://www.wallstreet-online.de/nachricht/21579624-earnings-preview-ki-trade-angeschlagen-alphabet-microsoft-amazon-schwung",
+   "d": "2026-10-26",
+   "q": "wallstreet-online.de",
+   "type": "finanz",
+   "c": "sa"
   },
   {
    "t": "Tankrabatt : Warum Diesel - Fahrer weniger davon haben als versprochen",
@@ -188,6 +196,14 @@
    "c": "na"
   },
   {
+   "t": "Proteste in Europa - auch mit Gewalt",
+   "u": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-spanien-italien-protugal-albanien-100.html",
+   "d": "2026-10-25",
+   "q": "tagesschau.de",
+   "type": "finanz",
+   "c": "eu"
+  },
+  {
    "t": "Musk wirft Ukraine Verstoß bei Starlink - Nutzung vor",
    "u": "https://www.tagesschau.de/ausland/amerika/musk-ukraine-starlink-100.html",
    "d": "2026-10-25",
@@ -240,6 +256,14 @@
    "u": "https://www.samaa.tv/2087359086-iran-says-us-war-threats-will-not-change-its-policies",
    "d": "2026-10-25",
    "q": "samaa.tv",
+   "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "ESN - Rückruf : Verletzungsgefahr bei Proteinriegeln – Achtung",
+   "u": "https://www.ruhrnachrichten.de/service/rueckruf-esn-kunststoff-proteinriegel-verletzungsgefahr-dark-chocolate-salted-almond-fremdkoerper-w1263044-2002269541/",
+   "d": "2026-10-25",
+   "q": "ruhrnachrichten.de",
    "type": "logistik",
    "c": null
   },
@@ -364,27 +388,19 @@
    "c": "na"
   },
   {
+   "t": "Halloween 2026 rückt näher : So sicherst du dir dein Kostüm noch rechtzeitig",
+   "u": "https://www.ksta.de:443/shoppingwelt/halloween-2026-rueckt-naeher-so-sicherst-du-dir-dein-kostuem-noch-rechtzeitig-2-1401860",
+   "d": "2026-10-25",
+   "q": "ksta.de:443",
+   "type": "logistik",
+   "c": null
+  },
+  {
    "t": "Große Schäden - Barcelona : Festnahmen bei chaotischen Protesten",
    "u": "https://www.krone.at/4348830",
    "d": "2026-10-25",
    "q": "krone.at",
    "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "CENTCOM Chief Brad Cooper flies over Hormuz during Middle East visit",
-   "u": "https://www.jpost.com/middle-east/article-912824",
-   "d": "2026-10-25",
-   "q": "jpost.com",
-   "type": "logistik",
-   "c": "as"
-  },
-  {
-   "t": "Anker Solarbank 3 vs . 4 : 2 , 68 gegen 5 , 02 kWh im Vergleich",
-   "u": "https://www.infranken.de/ratgeber/verbraucher/anker-solarbank-3-vs-4-268-gegen-502-kwh-im-vergleich-art-6370009",
-   "d": "2026-10-25",
-   "q": "infranken.de",
-   "type": "logistik",
    "c": null
   },
   {
@@ -402,6 +418,14 @@
    "q": "ibtimes.co.in",
    "type": "energie",
    "c": "as"
+  },
+  {
+   "t": "Ukraine - Krieg : Elon Musk wirft Kiew Verste mit Starlink vor",
+   "u": "https://www.hna.de/politik/elon-musk-wirft-ukraine-starlink-verstoss-vor-aktivist-widerspricht-zr-94557068.html",
+   "d": "2026-10-25",
+   "q": "hna.de",
+   "type": "politik",
+   "c": "eu"
   },
   {
    "t": "The Rare - Earth Vultures Harvesting Metals From America Old Wind Turbines",
@@ -468,12 +492,28 @@
    "c": null
   },
   {
+   "t": "Riester - Vertrag kündigen ? Warum das über 10 . 000 Euro kostet",
+   "u": "https://www.finanzen.net/ratgeber/news/riester-vertrag-kuendigen-warum-du-damit-tausende-euro-verlierst-25-10-2026-01/",
+   "d": "2026-10-25",
+   "q": "finanzen.net",
+   "type": "finanz",
+   "c": null
+  },
+  {
    "t": "Frankreich wankt , der Euro zittert : Wie gefährlich wird die Krise ?",
    "u": "https://www.finanzen.net/nachricht/aktien/bonitaet-bestaetgt-moody-s-gibt-entwarnung-auf-zeit-greift-frankreichs-krise-auf-die-maerkte-ueber-00-16006453",
    "d": "2026-10-25",
    "q": "finanzen.net",
    "type": "finanz",
    "c": "eu"
+  },
+  {
+   "t": "Vergesellschaftungen erschweren : Dobrindt kündigt „ Investitionsschutzgesetz  an",
+   "u": "https://www.epochtimes.de/politik/deutschland/vergesellschaftungen-erschweren-dobrindt-kuendigt-investitionsschutzgesetz-an-a5645006.html",
+   "d": "2026-10-25",
+   "q": "epochtimes.de",
+   "type": "finanz",
+   "c": null
   },
   {
    "t": "Darum spart die neue Grundsicherung gar nichts ein",
@@ -489,38 +529,6 @@
    "d": "2026-10-25",
    "q": "chip.de",
    "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "Bond yields rise nearly 30 bps in Oct , to raise govt interest burden",
-   "u": "https://www.business-standard.com/markets/news/bond-yields-rise-nearly-30-bps-in-oct-to-raise-govt-s-interest-burden-126102500377_1.html",
-   "d": "2026-10-25",
-   "q": "business-standard.com",
-   "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "Rupee recovery faces hurdles from dollar demand , capital outflows",
-   "u": "https://www.business-standard.com/finance/news/rupee-s-recovery-faces-hurdles-from-dollar-demand-capital-outflows-126102500370_1.html",
-   "d": "2026-10-25",
-   "q": "business-standard.com",
-   "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "Gold : Zentralbank - Käufe als Rettung ?",
-   "u": "https://www.boerse-express.com/news/articles/gold-zentralbank-kaeufe-als-rettung-956178",
-   "d": "2026-10-25",
-   "q": "boerse-express.com",
-   "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "Richtungswahl entscheidet über die Zukunft Serbiens - Politik Ausland",
-   "u": "https://www.badische-zeitung.de/richtungswahl-entscheidet-ueber-die-zukunft-serbiens",
-   "d": "2026-10-25",
-   "q": "badische-zeitung.de",
-   "type": "politik",
    "c": null
   },
   {
