@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-28T15:51:04Z",
+ "stand": "2026-10-28T16:50:10Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -100,6 +100,14 @@
    "c": "as"
   },
   {
+   "t": "Serbien steht nach Parlamentswahl vor einem Machtwechsel",
+   "u": "https://www.weser-kurier.de/politik/ausland/serbien-steht-nach-parlamentswahl-vor-einem-machtwechsel-doc886wg7nlajlaa9iddsg",
+   "d": "2026-10-26",
+   "q": "weser-kurier.de",
+   "type": "politik",
+   "c": null
+  },
+  {
    "t": "„ Nine to Five : Fremdscham im Bürgeramt",
    "u": "https://www.weser-kurier.de/kultur/film/nine-to-five-fremdscham-im-buergeramt-doc886zye8y4h218tblbbsw",
    "d": "2026-10-26",
@@ -124,12 +132,28 @@
    "c": null
   },
   {
+   "t": "Serbien Parlamentswahl : Putin - Freund Vucic räumt Niederlage ein",
+   "u": "https://www.rundschau-online.de:443/politik/serbien-parlamentswahl-putin-freund-vucic-raeumt-niederlage-ein-1402959",
+   "d": "2026-10-26",
+   "q": "rundschau-online.de:443",
+   "type": "politik",
+   "c": null
+  },
+  {
    "t": "Greatland Resources delivers 70 , 131 ounces of gold in strong September quarter",
    "u": "https://www.proactiveinvestors.com/companies/news/1100644/greatland-resources-delivers-70-131-ounces-of-gold-in-strong-september-quarter-1100644.html",
    "d": "2026-10-26",
    "q": "proactiveinvestors.com",
    "type": "rohstoffe",
    "c": null
+  },
+  {
+   "t": "Trumps Wahlkampf wird vollends zur Schlammschlacht : „ Norwegen ist scheiße ! –",
+   "u": "https://www.otz.de/politik/article413505964/norwegen-ist-scheisse-trumps-wahlkampf-wird-vollends-zur-schlammschlacht.html",
+   "d": "2026-10-26",
+   "q": "otz.de",
+   "type": "politik",
+   "c": "na"
   },
   {
    "t": "Richtig heizen : Heizkosten senken im Winter : So sparen Haushalte mit diesen Tipps Geld",
