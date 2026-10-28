@@ -1,8 +1,16 @@
 {
- "stand": "2026-10-28T09:48:06Z",
+ "stand": "2026-10-28T11:43:18Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Funky Taurus Media - Music Photo Agency & Products - Liefer - und Versandkosten",
+   "u": "https://www.funkytaurusmedia.com/shop_content.php?coID=1&XTCsid=o11rlirn145drih3s0p11bjcs0",
+   "d": "2026-10-27",
+   "q": "funkytaurusmedia.com",
+   "type": "logistik",
+   "c": "na"
+  },
   {
    "t": "SBP raises policy rate to 12 %",
    "u": "https://tribune.com.pk/story/2637107/sbp-raises-policy-rate-to-12",
@@ -76,6 +84,14 @@
    "c": null
   },
   {
+   "t": "Im ORF - Gespräch – ÖFB - Teamchef über Arena :  Nicht ein Euro Steuergeld",
+   "u": "https://www.heute.at/s/oefb-teamchef-ueber-arena-nichte-ein-euro-steuergeld-120272252",
+   "d": "2026-10-26",
+   "q": "heute.at",
+   "type": "logistik",
+   "c": null
+  },
+  {
    "t": "Vereinigte Arabische Emirate - Strände nahe Dubai nach Ölverschmutzung offenbar infolge des Iran - Kriegs geschlossen",
    "u": "https://www.deutschlandfunk.de/straende-nahe-dubai-nach-oelverschmutzung-offenbar-infolge-des-iran-kriegs-geschlossen-100.html",
    "d": "2026-10-26",
@@ -100,6 +116,30 @@
    "c": "as"
   },
   {
+   "t": "US military says it helped Gulf states export 1 . 5 billion barrels of oil",
+   "u": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil",
+   "d": "2026-10-26",
+   "q": "aljazeera.com",
+   "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "Saudi Arabia Singapore plan : Riyadh eyes oil storage hub from 2027 amid Hormuz disruption",
+   "u": "https://timesofindia.indiatimes.com/world/middle-east/saudi-arabias-singapore-plan-riyadh-eyes-oil-storage-hub-from-2027-amid-hormuz-disruption/articleshow/135202643.cms",
+   "d": "2026-10-26",
+   "q": "timesofindia.indiatimes.com",
+   "type": "logistik",
+   "c": "as"
+  },
+  {
+   "t": "TOR to be listed on Ghana Stock Exchange – MD tells visiting IMF team",
+   "u": "https://thechronicle.com.gh/tor-to-be-listed-on-ghana-stock-exchange-md-tells-visiting-imf-team/",
+   "d": "2026-10-26",
+   "q": "thechronicle.com.gh",
+   "type": "energie",
+   "c": null
+  },
+  {
    "t": "Northern B . C . LNG story is entering its next chapter",
    "u": "https://terracestandard.com/sponsored-content/northern-b-c-s-lng-story-is-entering-its-next-chapter",
    "d": "2026-10-26",
@@ -114,6 +154,14 @@
    "q": "politicalwire.com",
    "type": "politik",
    "c": "na"
+  },
+  {
+   "t": "The Economic Times Live Update Puts ONGC Below Its 20 - Day EMA",
+   "u": "https://econotimes.com/The-Economic-Times-Live-Update-Puts-ONGC-Below-Its-20-Day-EMA-1763302",
+   "d": "2026-10-26",
+   "q": "econotimes.com",
+   "type": "energie",
+   "c": null
   },
   {
    "t": "Japan Benchmark Bond Yields Rise Ahead of BOJ and Fed Decisions",
@@ -146,6 +194,14 @@
    "q": "zerohedge.com",
    "type": "rohstoffe",
    "c": null
+  },
+  {
+   "t": "Sri Lanka provides medical help , repatriates Iranian sailors stranded in Indian Ocean",
+   "u": "https://www.wlwt.com/article/sri-lanka-medicalrepatriates-iranian-sailors-indian-ocean/74241104",
+   "d": "2026-10-25",
+   "q": "wlwt.com",
+   "type": "logistik",
+   "c": "as"
   },
   {
    "t": "Strände in Emiraten wegen Ölverschmutzung geschlossen",
@@ -226,6 +282,14 @@
    "q": "taipeitimes.com",
    "type": "politik",
    "c": "na"
+  },
+  {
+   "t": "Stromausfall in Freiburg : Deutschland erlebt stürmischen Sonntag – Süden darf sich auf 20 Grad freuen",
+   "u": "https://www.tagesspiegel.de/gesellschaft/panorama/dpa-stromausfall-in-freiburgdeutschland-erlebt-sturmischen-sonntag--suden-darf-sich-auf-20-grad-freuen-16195875.html",
+   "d": "2026-10-25",
+   "q": "tagesspiegel.de",
+   "type": "logistik",
+   "c": "eu"
   },
   {
    "t": "Proteste in Europa - auch mit Gewalt",
@@ -372,14 +436,6 @@
    "c": null
   },
   {
-   "t": "The Price Tags of War | naked capitalism",
-   "u": "https://www.nakedcapitalism.com/2026/10/the-price-tags-of-war.html",
-   "d": "2026-10-25",
-   "q": "nakedcapitalism.com",
-   "type": "logistik",
-   "c": null
-  },
-  {
    "t": "FPIs withdraw Rs 48 , 056 crore from equities in Oct so far amid elevated crude oil prices",
    "u": "https://www.moneycontrol.com/news/business/markets/fpis-withdraw-rs-48-056-crore-from-equities-in-oct-so-far-amid-elevated-crude-oil-prices-14059439.html",
    "d": "2026-10-25",
@@ -388,11 +444,11 @@
    "c": null
   },
   {
-   "t": "Could Hormuz become America Suez ? – Middle East Monitor",
-   "u": "https://www.middleeastmonitor.com/20261025-could-hormuz-become-americas-suez/",
+   "t": "Senior Iranian lawmaker threatens to target Israel if Iran comes under attack",
+   "u": "https://www.middleeastmonitor.com/20261025-senior-iranian-lawmaker-threatens-to-target-israel-if-iran-comes-under-attack/",
    "d": "2026-10-25",
    "q": "middleeastmonitor.com",
-   "type": "logistik",
+   "type": "energie",
    "c": "as"
   },
   {
@@ -472,14 +528,6 @@
    "u": "https://www.heute.at/s/heizoel-um-63-prozent-teurer-auch-diesel-explodiert-120270790",
    "d": "2026-10-25",
    "q": "heute.at",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Die Wärmepumpe setzt sich durch - oft monatelange Wartezeit",
-   "u": "https://www.hessenschau.de/wirtschaft/die-waermepumpe-setzt-sich-durch---oft-monatelange-wartezeit-v1,waermepumpen-102.html",
-   "d": "2026-10-25",
-   "q": "hessenschau.de",
    "type": "energie",
    "c": null
   },
