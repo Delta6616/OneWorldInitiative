@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-28T13:58:14Z",
+ "stand": "2026-10-28T15:51:04Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -18,6 +18,30 @@
    "q": "yardbarker.com",
    "type": "rohstoffe",
    "c": null
+  },
+  {
+   "t": "Indian Shares Seen Opening On Flat Note",
+   "u": "https://www.rttnews.com/3703087/indian-shares-seen-opening-on-flat-note.aspx",
+   "d": "2026-10-27",
+   "q": "rttnews.com",
+   "type": "finanz",
+   "c": "as"
+  },
+  {
+   "t": "SBP raises interest rate to 12 % amid Iran - US tensions and rising oil prices",
+   "u": "https://www.pakistantimes.com/sbp-raises-interest-rate-to-12-amid-iran-us-tensions-and-rising-oil-prices-15846/",
+   "d": "2026-10-27",
+   "q": "pakistantimes.com",
+   "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "Funky Taurus Media - Music Photo Agency & Products",
+   "u": "https://www.funkytaurusmedia.com/shop_content.php?coID=3&XTCsid=o11rlirn145drih3s0p11bjcs0",
+   "d": "2026-10-27",
+   "q": "funkytaurusmedia.com",
+   "type": "logistik",
+   "c": "na"
   },
   {
    "t": "Funky Taurus Media - Music Photo Agency & Products - Liefer - und Versandkosten",
@@ -236,6 +260,22 @@
    "c": "na"
   },
   {
+   "t": "Shares fall in Asia after a decline on Wall Street , and oil prices fall more than 1 %",
+   "u": "https://isp.netscape.com:443/pf/story/0001/20261026/be3a56f58a77c5be863f0289d280be92",
+   "d": "2026-10-26",
+   "q": "isp.netscape.com:443",
+   "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "Currencies Tight Ranges Monday as Oil Weighs on Dollar",
+   "u": "https://en.shafaqna.com/487327/currencies-tight-ranges-monday-oil-dollar/",
+   "d": "2026-10-26",
+   "q": "en.shafaqna.com",
+   "type": "finanz",
+   "c": null
+  },
+  {
    "t": "The Economic Times Live Update Puts ONGC Below Its 20 - Day EMA",
    "u": "https://econotimes.com/The-Economic-Times-Live-Update-Puts-ONGC-Below-Its-20-Day-EMA-1763302",
    "d": "2026-10-26",
@@ -265,6 +305,30 @@
    "d": "2026-10-26",
    "q": "economictimes.indiatimes.com",
    "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Global Market : South Korean shares fall over 1 % as AI trade concerns weigh ; won strengthens",
+   "u": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-korean-shares-fall-over-1-as-ai-trade-concerns-weigh-won-strengthens/articleshow/135202531.cms",
+   "d": "2026-10-26",
+   "q": "economictimes.indiatimes.com",
+   "type": "finanz",
+   "c": "as"
+  },
+  {
+   "t": "Global Market : China yuan hits four - year high as dollar weakens ahead of policy meetings",
+   "u": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-yuan-hits-four-year-high-as-dollar-weakens-ahead-of-policy-meetings/articleshow/135202635.cms",
+   "d": "2026-10-26",
+   "q": "economictimes.indiatimes.com",
+   "type": "finanz",
+   "c": "as"
+  },
+  {
+   "t": "Kuwait introduces electronic system to track salary payments from banks to workers",
+   "u": "https://arynews.tv/kuwait-introduces-electronic-system-to-track-salary-payments-from-banks-to-workers",
+   "d": "2026-10-26",
+   "q": "arynews.tv",
+   "type": "finanz",
    "c": null
   },
   {
