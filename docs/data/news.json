@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-28T16:50:10Z",
+ "stand": "2026-10-28T18:51:38Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -116,6 +116,14 @@
    "c": null
   },
   {
+   "t": "Kugel im Kopf - Deutsche Ärzte behandeln Patienten aus Gaza",
+   "u": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/politik_ausland_nt/article6adec30eba080c37bf6d16c3/kugel-im-kopf-deutsche-aerzte-behandeln-patienten-aus-gaza.html",
+   "d": "2026-10-26",
+   "q": "welt.de",
+   "type": "energie",
+   "c": null
+  },
+  {
    "t": "Earnings Preview : KI - Trade angeschlagen : Bringen jetzt Alphabet , Microsoft & Amazon neuen Schwung ? | wallstreetONLINE",
    "u": "https://www.wallstreet-online.de/nachricht/21579624-earnings-preview-ki-trade-angeschlagen-alphabet-microsoft-amazon-schwung",
    "d": "2026-10-26",
@@ -129,6 +137,14 @@
    "d": "2026-10-26",
    "q": "theepochtimes.com",
    "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Hofreiter verlangt Einsatz der Marine gegen russische Schattenflotte",
+   "u": "https://www.spiegel.de/politik/deutschland/hofreiter-verlangt-einsatz-der-marine-gegen-russische-schattenflotte-a-59e825a6-4e13-4013-8f98-ab9c47664668",
+   "d": "2026-10-26",
+   "q": "spiegel.de",
+   "type": "energie",
    "c": null
   },
   {
@@ -313,14 +329,6 @@
    "d": "2026-10-26",
    "q": "econotimes.com",
    "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "IEA Says Diesel Stock Recovery Unlikely Before Second Half of 2027",
-   "u": "https://econotimes.com/IEA-Says-Diesel-Stock-Recovery-Unlikely-Before-Second-Half-of-2027-1763295",
-   "d": "2026-10-26",
-   "q": "econotimes.com",
-   "type": "energie",
    "c": null
   },
   {

@@ -1,38 +1,40 @@
 {
  "worldbank": {
   "ok": true,
-  "zeit": "2026-10-28T05:57:38Z",
+  "zeit": "2026-10-28T18:40:00Z",
   "neu_oder_geaendert": 0,
   "zeilen_gesamt": 27953,
   "warnungen": []
  },
  "portwatch": {
   "ok": true,
-  "zeit": "2026-10-28T05:57:42Z",
-  "neu_oder_geaendert": 0,
-  "zeilen_gesamt": 85848,
+  "zeit": "2026-10-28T18:40:39Z",
+  "neu_oder_geaendert": 588,
+  "zeilen_gesamt": 86436,
   "warnungen": []
  },
  "gdelt": {
   "ok": true,
-  "zeit": "2026-10-28T16:47:03Z",
-  "neu_oder_geaendert": 9,
-  "zeilen_gesamt": 226,
+  "zeit": "2026-10-28T18:49:29Z",
+  "neu_oder_geaendert": 5,
+  "zeilen_gesamt": 231,
   "warnungen": [
+   "logistik/english: HTTP 429",
    "energie/english: HTTP 429",
    "finanz/english: HTTP 429",
+   "politik/english: HTTP 429",
    "rohstoffe/english: HTTP 429",
    "logistik/german: HTTP 429",
-   "energie/german: HTTP 429",
    "finanz/german: HTTP 429",
+   "politik/german: HTTP 429",
    "rohstoffe/german: HTTP 429"
   ]
  },
  "rohstoffe": {
   "ok": true,
-  "zeit": "2026-10-28T06:01:12Z",
-  "neu_oder_geaendert": 0,
-  "zeilen_gesamt": 6743,
+  "zeit": "2026-10-28T18:48:59Z",
+  "neu_oder_geaendert": 15,
+  "zeilen_gesamt": 6758,
   "warnungen": []
  }
 }
