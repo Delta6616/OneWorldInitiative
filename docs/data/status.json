@@ -15,15 +15,16 @@
  },
  "gdelt": {
   "ok": true,
-  "zeit": "2026-10-28T04:42:26Z",
-  "neu_oder_geaendert": 0,
-  "zeilen_gesamt": 159,
+  "zeit": "2026-10-28T05:39:48Z",
+  "neu_oder_geaendert": 2,
+  "zeilen_gesamt": 161,
   "warnungen": [
    "logistik/english: HTTP 429",
-   "finanz/english: HTTP 429",
    "politik/english: HTTP 429",
-   "rohstoffe/english: HTTP 429",
+   "logistik/german: HTTP 429",
+   "energie/german: HTTP 429",
    "finanz/german: HTTP 429",
+   "politik/german: HTTP 429",
    "rohstoffe/german: HTTP 429"
   ]
  },
