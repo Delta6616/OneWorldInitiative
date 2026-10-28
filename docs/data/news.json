@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-28T08:51:49Z",
+ "stand": "2026-10-28T09:48:06Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -124,6 +124,14 @@
    "c": null
   },
   {
+   "t": "IEA Says Diesel Stock Recovery Unlikely Before Second Half of 2027",
+   "u": "https://econotimes.com/IEA-Says-Diesel-Stock-Recovery-Unlikely-Before-Second-Half-of-2027-1763295",
+   "d": "2026-10-26",
+   "q": "econotimes.com",
+   "type": "energie",
+   "c": null
+  },
+  {
    "t": "Zero maida : Britannia ordered to stop misleading ads saying its bread is  100 % whole wheat  because atta made up only around 62 % of the finished product",
    "u": "https://economictimes.indiatimes.com/news/new-updates/zero-maida-britannia-ordered-to-stop-misleading-ads-saying-its-bread-as-100-whole-wheat-because-atta-made-up-only-around-62-of-the-finished-product/articleshow/135202259.cms",
    "d": "2026-10-26",
@@ -185,6 +193,14 @@
    "d": "2026-10-25",
    "q": "thenationalnews.com",
    "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Dajin Lithium ( CVE : DJI ) Stock Price Breaks Below 50 - Day Moving Average – What Next ?",
+   "u": "https://www.themarketsdaily.com/2026/10/25/dajin-lithium-cvedji-stock-price-breaks-below-50-day-moving-average-whats-next.html",
+   "d": "2026-10-25",
+   "q": "themarketsdaily.com",
+   "type": "rohstoffe",
    "c": null
   },
   {
@@ -496,14 +512,6 @@
    "u": "https://www.focus.de/gesundheit/ratgeber/um-den-cholesterinspiegel-zu-senken-muessen-kohlenhydrate-ersetzt-werden-so-das-ergebnis-einer-studie_f2092bfe-a408-4c7c-8159-b713e5962eb0.html",
    "d": "2026-10-25",
    "q": "focus.de",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Stihl senkt wegen Trockenheit Umsatzprognose für 2026",
-   "u": "https://www.finanznachrichten.de/nachrichten-2026-10/69928032-stihl-senkt-wegen-trockenheit-umsatzprognose-fuer-2026-003.htm",
-   "d": "2026-10-25",
-   "q": "finanznachrichten.de",
    "type": "rohstoffe",
    "c": null
   },
