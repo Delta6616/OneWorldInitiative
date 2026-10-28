@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-28T06:48:36Z",
+ "stand": "2026-10-28T07:57:44Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -138,6 +138,14 @@
    "q": "welt.de",
    "type": "energie",
    "c": null
+  },
+  {
+   "t": "ROUNDUP : Huthi - Rebellen melden Tote in Sanaa | wallstreetONLINE",
+   "u": "https://www.wallstreet-online.de/nachricht/21577180-roundup-huthi-rebellen-melden-tote-sanaa",
+   "d": "2026-10-25",
+   "q": "wallstreet-online.de",
+   "type": "logistik",
+   "c": "as"
   },
   {
    "t": "Diese Börsentermine haben es in sich : Zahlen , Zinsen und Konjunkturdaten",
@@ -386,14 +394,6 @@
    "q": "kyivpost.com",
    "type": "politik",
    "c": "na"
-  },
-  {
-   "t": "Halloween 2026 rückt näher : So sicherst du dir dein Kostüm noch rechtzeitig",
-   "u": "https://www.ksta.de:443/shoppingwelt/halloween-2026-rueckt-naeher-so-sicherst-du-dir-dein-kostuem-noch-rechtzeitig-2-1401860",
-   "d": "2026-10-25",
-   "q": "ksta.de:443",
-   "type": "logistik",
-   "c": null
   },
   {
    "t": "Große Schäden - Barcelona : Festnahmen bei chaotischen Protesten",
