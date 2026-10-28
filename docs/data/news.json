@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-28T18:51:38Z",
+ "stand": "2026-10-28T19:47:14Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -52,11 +52,35 @@
    "c": "na"
   },
   {
+   "t": "Washington orders suppliers to axe Iran aircraft contracts - ch - aviation",
+   "u": "https://www.ch-aviation.com/news/67061-washington-orders-suppliers-to-axe-iran-aircraft-contracts",
+   "d": "2026-10-27",
+   "q": "ch-aviation.com",
+   "type": "politik",
+   "c": null
+  },
+  {
+   "t": "IranAir to resume B747 Combi ops , A321 will wait - ch - aviation",
+   "u": "https://www.ch-aviation.com/news/173197-iranair-to-resume-b747-combi-ops-a321-will-wait",
+   "d": "2026-10-27",
+   "q": "ch-aviation.com",
+   "type": "politik",
+   "c": "as"
+  },
+  {
    "t": "US designates three Iranian B747s for Russia flights - ch - aviation",
    "u": "https://www.ch-aviation.com/news/119687-us-designates-three-iranian-b747s-for-russia-flights",
    "d": "2026-10-27",
    "q": "ch-aviation.com",
    "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Middlemen continue to exploit sugarcane growers",
+   "u": "https://tribune.com.pk/story/2637136/middlemen-continue-to-exploit-sugarcane-growers",
+   "d": "2026-10-27",
+   "q": "tribune.com.pk",
+   "type": "rohstoffe",
    "c": null
   },
   {
@@ -148,6 +172,14 @@
    "c": null
   },
   {
+   "t": "5 Bosch 12V MAX Tools Under $200 Worth Adding To Your Collection",
+   "u": "https://www.slashgear.com/2291979/bosch-12v-max-tools-under-200-worth-adding-to-collection/",
+   "d": "2026-10-26",
+   "q": "slashgear.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
    "t": "Serbien Parlamentswahl : Putin - Freund Vucic räumt Niederlage ein",
    "u": "https://www.rundschau-online.de:443/politik/serbien-parlamentswahl-putin-freund-vucic-raeumt-niederlage-ein-1402959",
    "d": "2026-10-26",
@@ -236,6 +268,14 @@
    "c": "as"
   },
   {
+   "t": "It time to clip SAA wings | The Citizen",
+   "u": "https://www.citizen.co.za/news/opinion/its-time-to-clip-saas-wings/",
+   "d": "2026-10-26",
+   "q": "citizen.co.za",
+   "type": "politik",
+   "c": null
+  },
+  {
    "t": "Wasserknappheit in Bayern : Ampeln , Verbote , Bildung",
    "u": "https://www.br.de/nachrichten/bayern/wasserknappheit-in-bayern-ampeln-verbote-bildung,VYqugTc",
    "d": "2026-10-26",
@@ -298,6 +338,14 @@
    "q": "politicalwire.com",
    "type": "politik",
    "c": "na"
+  },
+  {
+   "t": "Ukraine disputes Musk claim Starlink was used for offensive drone strikes",
+   "u": "https://komonews.com/news/nation-world/ukraine-disputes-musks-claim-starlink-was-used-for-offensive-drone-strikes",
+   "d": "2026-10-26",
+   "q": "komonews.com",
+   "type": "politik",
+   "c": "eu"
   },
   {
    "t": "Shares fall in Asia after a decline on Wall Street , and oil prices fall more than 1 %",
