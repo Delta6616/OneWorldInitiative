@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-28T11:43:18Z",
+ "stand": "2026-10-28T12:50:10Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -10,6 +10,14 @@
    "q": "funkytaurusmedia.com",
    "type": "logistik",
    "c": "na"
+  },
+  {
+   "t": "US designates three Iranian B747s for Russia flights - ch - aviation",
+   "u": "https://www.ch-aviation.com/news/119687-us-designates-three-iranian-b747s-for-russia-flights",
+   "d": "2026-10-27",
+   "q": "ch-aviation.com",
+   "type": "politik",
+   "c": null
   },
   {
    "t": "SBP raises policy rate to 12 %",
@@ -68,6 +76,22 @@
    "c": "sa"
   },
   {
+   "t": "Matthew Horwood",
+   "u": "https://www.theepochtimes.com/author/matthew-horwood",
+   "d": "2026-10-26",
+   "q": "theepochtimes.com",
+   "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Richtig heizen : Heizkosten senken im Winter : So sparen Haushalte mit diesen Tipps Geld",
+   "u": "https://www.meinbezirk.at/murtal/c-wirtschaft/heizkosten-senken-im-winter-so-sparen-haushalte-mit-diesen-tipps-geld_a8968776",
+   "d": "2026-10-26",
+   "q": "meinbezirk.at",
+   "type": "energie",
+   "c": null
+  },
+  {
    "t": "Tankrabatt : Warum Diesel - Fahrer weniger davon haben als versprochen",
    "u": "https://www.mdr.de/nachrichten/deutschland/wirtschaft/spritpreise-rabatt-tankstelle-diesel-weitergabe-ifo,tankrabatt-336.html",
    "d": "2026-10-26",
@@ -84,6 +108,14 @@
    "c": null
   },
   {
+   "t": "The 67 Per Cent Moment : India Is Paying More for a New Economic Order",
+   "u": "https://www.ibtimes.co.in/67-per-cent-moment-india-paying-more-new-economic-order-907846",
+   "d": "2026-10-26",
+   "q": "ibtimes.co.in",
+   "type": "politik",
+   "c": "as"
+  },
+  {
    "t": "Im ORF - Gespräch – ÖFB - Teamchef über Arena :  Nicht ein Euro Steuergeld",
    "u": "https://www.heute.at/s/oefb-teamchef-ueber-arena-nichte-ein-euro-steuergeld-120272252",
    "d": "2026-10-26",
@@ -92,11 +124,27 @@
    "c": null
   },
   {
+   "t": "Shell , Zefiro Methane , BP - Ölaktien vor Zahlen , Altlasten als Chance für Spezialisten",
+   "u": "https://www.finanznachrichten.de/nachrichten-2026-10/69930150-shell-zefiro-methane-bp-oelaktien-vor-zahlen-altlasten-als-chance-fuer-spezialisten-673.htm",
+   "d": "2026-10-26",
+   "q": "finanznachrichten.de",
+   "type": "energie",
+   "c": null
+  },
+  {
    "t": "Vereinigte Arabische Emirate - Strände nahe Dubai nach Ölverschmutzung offenbar infolge des Iran - Kriegs geschlossen",
    "u": "https://www.deutschlandfunk.de/straende-nahe-dubai-nach-oelverschmutzung-offenbar-infolge-des-iran-kriegs-geschlossen-100.html",
    "d": "2026-10-26",
    "q": "deutschlandfunk.de",
    "type": "energie",
+   "c": "as"
+  },
+  {
+   "t": "Sri Lanka repatriates 40 Iranian  sailors after providing medical care",
+   "u": "https://www.dailyexcelsior.com/sri-lanka-repatriates-40-iranian-sailors-after-providing-medical-care/",
+   "d": "2026-10-26",
+   "q": "dailyexcelsior.com",
+   "type": "politik",
    "c": "as"
   },
   {
@@ -121,6 +169,14 @@
    "d": "2026-10-26",
    "q": "aljazeera.com",
    "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "Bernie Sanders to rally with Abdul El - Sayed during two - day Michigan tour",
+   "u": "https://wgme.com/news/nation-world/bernie-sanders-michigan-tour-abdul-el-sayed-rally-grand-rapids-devos-performance-hall-politics-government-election-democrat-kent-county-west-michigan",
+   "d": "2026-10-26",
+   "q": "wgme.com",
+   "type": "politik",
    "c": null
   },
   {
@@ -194,6 +250,14 @@
    "q": "zerohedge.com",
    "type": "rohstoffe",
    "c": null
+  },
+  {
+   "t": "Trump and Obama share dueling messages in final stretch of midterm elections",
+   "u": "https://www.wpbf.com/article/trump-obama-messages-midterm-elections-2026/74240469",
+   "d": "2026-10-25",
+   "q": "wpbf.com",
+   "type": "politik",
+   "c": "na"
   },
   {
    "t": "Sri Lanka provides medical help , repatriates Iranian sailors stranded in Indian Ocean",
@@ -348,6 +412,14 @@
    "c": "as"
   },
   {
+   "t": "Oppositionsführerin Machado soll zurück in Venezuela sein",
+   "u": "https://www.shz.de/deutschland-welt/politik/artikel/oppositionsfuehrerin-machado-soll-zurueck-in-venezuela-sein-51648463",
+   "d": "2026-10-25",
+   "q": "shz.de",
+   "type": "energie",
+   "c": "sa"
+  },
+  {
    "t": "Iran says US war threats will not change its policies",
    "u": "https://www.samaa.tv/2087359086-iran-says-us-war-threats-will-not-change-its-policies",
    "d": "2026-10-25",
@@ -410,6 +482,14 @@
    "q": "newvision.co.ug",
    "type": "energie",
    "c": "af"
+  },
+  {
+   "t": "Oppositionspolitikerin : Oppositionsführerin Machado soll zurück in Venezuela sein",
+   "u": "https://www.news.de/politik/860127910/oppositionsfuehrerin-machado-soll-zurueck-in-venezuela-sein-oppositionspolitikerin-news-der-dpa-aktuell-zu-regierung-und-nobelpreisen/1/",
+   "d": "2026-10-25",
+   "q": "news.de",
+   "type": "energie",
+   "c": "sa"
   },
   {
    "t": "Polizei - News Heidekreis , 25 . 10 . 26 : Wochenendmeldung der PI Heidekreis für das Wochenende 23 . 10 .- 25 . 10 . 2026",
@@ -492,14 +572,6 @@
    "c": null
   },
   {
-   "t": "Houthis claim attacks on Saudi oil targets , airports ; debris falls in Mecca , Medina as tensions escalate in Gulf",
-   "u": "https://www.ibtimes.co.in/houthis-claim-attacks-saudi-oil-targets-airports-debris-falls-mecca-medina-tensions-escalate-907830",
-   "d": "2026-10-25",
-   "q": "ibtimes.co.in",
-   "type": "energie",
-   "c": "as"
-  },
-  {
    "t": "Ukraine - Krieg : Elon Musk wirft Kiew Verste mit Starlink vor",
    "u": "https://www.hna.de/politik/elon-musk-wirft-ukraine-starlink-verstoss-vor-aktivist-widerspricht-zr-94557068.html",
    "d": "2026-10-25",
@@ -524,14 +596,6 @@
    "c": "na"
   },
   {
-   "t": "Schockierende Auswertung – Heizöl um 63 Prozent teurer – auch Diesel explodiert",
-   "u": "https://www.heute.at/s/heizoel-um-63-prozent-teurer-auch-diesel-explodiert-120270790",
-   "d": "2026-10-25",
-   "q": "heute.at",
-   "type": "energie",
-   "c": null
-  },
-  {
    "t": "Richtungswahl in Serbien : Was dabei für Europa auf dem Spiel steht",
    "u": "https://www.gmx.ch/magazine/politik/wahlen/richtungswahl-serbien-europa-spiel-42872610",
    "d": "2026-10-25",
@@ -546,14 +610,6 @@
    "q": "fuw.ch",
    "type": "politik",
    "c": null
-  },
-  {
-   "t": "President Donald Trump Just Proclaimed ,  Tariffs Dont Cause Inflation , They Cause Wealth , but Data From Federal Reserve Economists Show Otherwise",
-   "u": "https://www.fool.com/investing/2026/10/25/donald-trump-proclaimed-tariffs-dont-cause-inflation-they-cause-wealth-federal-reserve-economists/?source=iedfolrf0000001",
-   "d": "2026-10-25",
-   "q": "fool.com",
-   "type": "politik",
-   "c": "na"
   },
   {
    "t": "Um den Cholesterinspiegel zu senken , müssen Kohlenhydrate ersetzt werden – so das Ergebnis einer Studie",
