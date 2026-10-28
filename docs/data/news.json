@@ -1,8 +1,16 @@
 {
- "stand": "2026-10-28T07:57:44Z",
+ "stand": "2026-10-28T08:51:49Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "SBP raises policy rate to 12 %",
+   "u": "https://tribune.com.pk/story/2637107/sbp-raises-policy-rate-to-12",
+   "d": "2026-10-27",
+   "q": "tribune.com.pk",
+   "type": "rohstoffe",
+   "c": null
+  },
   {
    "t": "Super El Niño threatens Southern Africa with severe drought , WMO warns",
    "u": "https://theherald.co.za/news/2026-10-27-super-el-nino-threatens-southern-africa-with-severe-drought-wmo-warns/",
@@ -460,6 +468,14 @@
    "c": null
   },
   {
+   "t": "Richtungswahl in Serbien : Was dabei für Europa auf dem Spiel steht",
+   "u": "https://www.gmx.ch/magazine/politik/wahlen/richtungswahl-serbien-europa-spiel-42872610",
+   "d": "2026-10-25",
+   "q": "gmx.ch",
+   "type": "politik",
+   "c": "eu"
+  },
+  {
    "t": "Rubios Athen - Rede : Hybris statt westlicher Erneuerung",
    "u": "https://www.fuw.ch/rubios-athen-rede-hybris-statt-westlicher-erneuerung-892391444518",
    "d": "2026-10-25",
@@ -513,14 +529,6 @@
    "d": "2026-10-25",
    "q": "epochtimes.de",
    "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "Darum spart die neue Grundsicherung gar nichts ein",
-   "u": "https://www.derwesten.de/politik/grundsicherung-folgen-details-id302186004.html",
-   "d": "2026-10-25",
-   "q": "derwesten.de",
-   "type": "politik",
    "c": null
   },
   {
