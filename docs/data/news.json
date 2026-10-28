@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-28T22:39:09Z",
+ "stand": "2026-10-28T23:36:01Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -34,6 +34,14 @@
    "q": "pakistantimes.com",
    "type": "finanz",
    "c": null
+  },
+  {
+   "t": "Saudi - led coalition says it intercepts three Houthi missiles , four drones",
+   "u": "https://www.pakistantimes.com/saudi-led-coalition-says-it-intercepts-three-houthi-missiles-four-drones-15853/",
+   "d": "2026-10-27",
+   "q": "pakistantimes.com",
+   "type": "logistik",
+   "c": "as"
   },
   {
    "t": "Petrol price rises to Rs 379 . 25 , diesel to Rs 395 . 82 per litre",
@@ -284,6 +292,14 @@
    "c": "as"
   },
   {
+   "t": "Iran has ramped up efforts to target US personnel , intelligence memo warns - International",
+   "u": "https://www.dailymirror.lk/breaking-news/Iran-has-ramped-up-efforts-to-target-US-personnel-intelligence-memo-warns/108-353345",
+   "d": "2026-10-26",
+   "q": "dailymirror.lk",
+   "type": "logistik",
+   "c": null
+  },
+  {
    "t": "Sri Lanka repatriates 40 Iranian  sailors after providing medical care",
    "u": "https://www.dailyexcelsior.com/sri-lanka-repatriates-40-iranian-sailors-after-providing-medical-care/",
    "d": "2026-10-26",
@@ -300,12 +316,28 @@
    "c": null
   },
   {
+   "t": "Oil declines from six - month high as traders assess Mideast risks",
+   "u": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/oil-declines-six-month-high-traders-assess-mideast-risks",
+   "d": "2026-10-26",
+   "q": "businesstimes.com.sg",
+   "type": "logistik",
+   "c": null
+  },
+  {
    "t": "Wasserknappheit in Bayern : Ampeln , Verbote , Bildung",
    "u": "https://www.br.de/nachrichten/bayern/wasserknappheit-in-bayern-ampeln-verbote-bildung,VYqugTc",
    "d": "2026-10-26",
    "q": "br.de",
    "type": "rohstoffe",
    "c": null
+  },
+  {
+   "t": "Iranian sailors rescued off Sri Lanka coast after medical emergencies",
+   "u": "https://www.bbc.com/news/articles/c9p8g7e4k2xjo",
+   "d": "2026-10-26",
+   "q": "bbc.com",
+   "type": "logistik",
+   "c": "as"
   },
   {
    "t": "Arab News | US touts role in Gulf oil exports as CENTCOM chief flies over Hormuz Strait",
@@ -396,6 +428,14 @@
    "c": null
   },
   {
+   "t": "CENTCOM Reports More Than 1 . 5 Billion Barrels in Gulf Oil Exports Since June",
+   "u": "https://econotimes.com/CENTCOM-Reports-More-Than-1-5-Billion-Barrels-in-Gulf-Oil-Exports-Since-June-1763296",
+   "d": "2026-10-26",
+   "q": "econotimes.com",
+   "type": "logistik",
+   "c": "as"
+  },
+  {
    "t": "Zero maida : Britannia ordered to stop misleading ads saying its bread is  100 % whole wheat  because atta made up only around 62 % of the finished product",
    "u": "https://economictimes.indiatimes.com/news/new-updates/zero-maida-britannia-ordered-to-stop-misleading-ads-saying-its-bread-as-100-whole-wheat-because-atta-made-up-only-around-62-of-the-finished-product/articleshow/135202259.cms",
    "d": "2026-10-26",
@@ -417,6 +457,14 @@
    "d": "2026-10-26",
    "q": "economictimes.indiatimes.com",
    "type": "finanz",
+   "c": "as"
+  },
+  {
+   "t": "Saudi Arabia to store oil in Singapore to bolster Asia supply security",
+   "u": "https://arynews.tv/saudi-arabia-to-store-oil-in-singapore-to-bolster-asia-supply-security",
+   "d": "2026-10-26",
+   "q": "arynews.tv",
+   "type": "logistik",
    "c": "as"
   },
   {
