@@ -1,8 +1,24 @@
 {
- "stand": "2026-10-28T12:50:10Z",
+ "stand": "2026-10-28T13:58:14Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Three questions for the Pittsburgh Pirates this offseason",
+   "u": "https://www.yardbarker.com/mlb/articles/three_questions_for_the_pittsburgh_pirates_this_offseason/s1_13132_44477531",
+   "d": "2026-10-27",
+   "q": "yardbarker.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "3 questions for the Pittsburgh Pirates this offseason",
+   "u": "https://www.yardbarker.com/mlb/articles/3_questions_for_the_pittsburgh_pirates_this_offseason/s1_13132_44477531",
+   "d": "2026-10-27",
+   "q": "yardbarker.com",
+   "type": "rohstoffe",
+   "c": null
+  },
   {
    "t": "Funky Taurus Media - Music Photo Agency & Products - Liefer - und Versandkosten",
    "u": "https://www.funkytaurusmedia.com/shop_content.php?coID=1&XTCsid=o11rlirn145drih3s0p11bjcs0",
@@ -81,6 +97,14 @@
    "d": "2026-10-26",
    "q": "theepochtimes.com",
    "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Greatland Resources delivers 70 , 131 ounces of gold in strong September quarter",
+   "u": "https://www.proactiveinvestors.com/companies/news/1100644/greatland-resources-delivers-70-131-ounces-of-gold-in-strong-september-quarter-1100644.html",
+   "d": "2026-10-26",
+   "q": "proactiveinvestors.com",
+   "type": "rohstoffe",
    "c": null
   },
   {
@@ -452,6 +476,14 @@
    "c": "af"
   },
   {
+   "t": "Quick Fix : Autumn Frittata",
+   "u": "https://www.readingeagle.com/2026/10/25/quick-fix-autumn-frittata/",
+   "d": "2026-10-25",
+   "q": "readingeagle.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
    "t": "Zuckerrüben - Ernte teils drastisch eingebrochen",
    "u": "https://www.proplanta.de/agrar-nachrichten/pflanze/zuckerrueben-ernte-teils-drastisch-eingebrochen_article1792918501.html",
    "d": "2026-10-25",
@@ -609,14 +641,6 @@
    "d": "2026-10-25",
    "q": "fuw.ch",
    "type": "politik",
-   "c": null
-  },
-  {
-   "t": "Um den Cholesterinspiegel zu senken , müssen Kohlenhydrate ersetzt werden – so das Ergebnis einer Studie",
-   "u": "https://www.focus.de/gesundheit/ratgeber/um-den-cholesterinspiegel-zu-senken-muessen-kohlenhydrate-ersetzt-werden-so-das-ergebnis-einer-studie_f2092bfe-a408-4c7c-8159-b713e5962eb0.html",
-   "d": "2026-10-25",
-   "q": "focus.de",
-   "type": "rohstoffe",
    "c": null
   },
   {
