@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-29T12:51:08Z",
+ "stand": "2026-10-29T13:59:32Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -17,6 +17,14 @@
    "d": "2026-10-27",
    "q": "yardbarker.com",
    "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Honda All - New 2028 CR - V Is Coming by Spring 2027 , and It May Go Hybrid - Only Like the RAV4",
+   "u": "https://www.torquenews.com/3929/2028-honda-cr-v-release-date-draws-closer-and-we-have-better-idea-what-expect",
+   "d": "2026-10-27",
+   "q": "torquenews.com",
+   "type": "politik",
    "c": null
   },
   {
@@ -56,7 +64,7 @@
    "u": "https://www.sentinelandenterprise.com/2026/10/26/lula-win-brazil-election-regional-holdout/",
    "d": "2026-10-27",
    "q": "sentinelandenterprise.com",
-   "type": "rohstoffe",
+   "type": "politik",
    "c": null
   },
   {
@@ -156,6 +164,14 @@
    "c": null
   },
   {
+   "t": "Israelis should allow themselves to enjoy Election Day",
+   "u": "https://www.jpost.com/opinion/article-912952",
+   "d": "2026-10-27",
+   "q": "jpost.com",
+   "type": "politik",
+   "c": "as"
+  },
+  {
    "t": "2026 Best of Santa Barbara® Driving",
    "u": "https://www.independent.com/2026/10/21/2026-best-of-santa-barbara-driving/",
    "d": "2026-10-27",
@@ -178,6 +194,14 @@
    "q": "funkytaurusmedia.com",
    "type": "logistik",
    "c": "na"
+  },
+  {
+   "t": "Voters in Israel will decide whether to oust Netanyahu after 3 years of war",
+   "u": "https://www.durangoherald.com/articles/associated-press/voters-in-israel-will-decide-whether-to-oust-netanyahu-after-3-years-of-war/",
+   "d": "2026-10-27",
+   "q": "durangoherald.com",
+   "type": "politik",
+   "c": "as"
   },
   {
    "t": "Brewers rout the Rays 10 - 1 to move within a win of their first World Series title",
@@ -225,6 +249,14 @@
    "d": "2026-10-27",
    "q": "buzzfeed.com",
    "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Around 10 , 000 Garment Workers in Yangon Face Mass Layoffs Amid Factory Closures",
+   "u": "https://www.bnionline.net/en/news/around-10000-garment-workers-yangon-face-mass-layoffs-amid-factory-closures",
+   "d": "2026-10-27",
+   "q": "bnionline.net",
+   "type": "politik",
    "c": null
   },
   {
@@ -322,14 +354,6 @@
    "q": "milwaukeesun.com",
    "type": "logistik",
    "c": null
-  },
-  {
-   "t": "Israelis should allow themselves to enjoy Election Day",
-   "u": "http://www.jpost.com/opinion/article-912952",
-   "d": "2026-10-27",
-   "q": "jpost.com",
-   "type": "politik",
-   "c": "as"
   },
   {
    "t": "China harnesses smart technologies to power transport upgrade",
