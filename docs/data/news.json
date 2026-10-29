@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-29T08:02:09Z",
+ "stand": "2026-10-29T08:52:46Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -20,6 +20,14 @@
    "c": null
   },
   {
+   "t": "Man Flew to Texas for the Last Cadillac CT5 - V in the Country , Drove It 1 , 400 Miles Home and Traded His Range Rover for an Escalade the Next Weekend",
+   "u": "https://www.torquenews.com/1/he-flew-texas-last-cadillac-ct5-v-country-drove-it-1400-miles-home-and-traded-his-range-rover",
+   "d": "2026-10-27",
+   "q": "torquenews.com",
+   "type": "energie",
+   "c": "na"
+  },
+  {
    "t": "5 things to watch from the Federal Reserve next meeting",
    "u": "https://www.thesunchronicle.com/business/5-things-to-watch-from-the-federal-reserves-next-meeting/article_7fe45c06-8782-5837-af1d-665ff6a49949.html",
    "d": "2026-10-27",
@@ -32,7 +40,7 @@
    "u": "https://www.thestar.com.my/news/nation/2026/10/27/rm7bil-in-automotive-hi-tech-valley-investments-realised-parliament-told",
    "d": "2026-10-27",
    "q": "thestar.com.my",
-   "type": "logistik",
+   "type": "energie",
    "c": null
   },
   {
@@ -132,6 +140,22 @@
    "c": "af"
   },
   {
+   "t": "Struggling with heating bills ? Minnesota has $111M in help",
+   "u": "https://www.kimt.com/news/struggling-with-heating-bills-minnesota-has-111m-in-help/article_00ceb0d3-0116-40d1-b34f-b6b30aa52ba8.html",
+   "d": "2026-10-27",
+   "q": "kimt.com",
+   "type": "energie",
+   "c": null
+  },
+  {
+   "t": "2026 Best of Santa Barbara® Driving",
+   "u": "https://www.independent.com/2026/10/21/2026-best-of-santa-barbara-driving/",
+   "d": "2026-10-27",
+   "q": "independent.com",
+   "type": "energie",
+   "c": null
+  },
+  {
    "t": "Funky Taurus Media - Music Photo Agency & Products",
    "u": "https://www.funkytaurusmedia.com/shop_content.php?coID=3&XTCsid=o11rlirn145drih3s0p11bjcs0",
    "d": "2026-10-27",
@@ -172,6 +196,22 @@
    "c": null
   },
   {
+   "t": "Viral Recipes People Actually Make On Repeat",
+   "u": "https://www.buzzfeed.com/alanna_marshall/viral-recipes-people-swear-by",
+   "d": "2026-10-27",
+   "q": "buzzfeed.com",
+   "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Oil Companies Warned Over Russian Diesel Imports",
+   "u": "https://woc1420.iheart.com/content/2026-10-27-oil-companies-warned-over-russian-diesel-imports/",
+   "d": "2026-10-27",
+   "q": "woc1420.iheart.com",
+   "type": "energie",
+   "c": "eu"
+  },
+  {
    "t": "Middlemen continue to exploit sugarcane growers",
    "u": "https://tribune.com.pk/story/2637136/middlemen-continue-to-exploit-sugarcane-growers",
    "d": "2026-10-27",
@@ -194,6 +234,14 @@
    "q": "theherald.co.za",
    "type": "rohstoffe",
    "c": "af"
+  },
+  {
+   "t": "Oil Companies Warned Over Russian Diesel Imports | Newstalk 1400 , 104 . 5 , and 105 . 9 WJMX",
+   "u": "https://newstalk1400online.iheart.com/content/2026-10-27-oil-companies-warned-over-russian-diesel-imports/",
+   "d": "2026-10-27",
+   "q": "newstalk1400online.iheart.com",
+   "type": "energie",
+   "c": "eu"
   },
   {
    "t": "Wheat sowing lags at 11 , 000 hectare so far amid deficient monsoon ; rabi acreage down",
@@ -249,6 +297,14 @@
    "d": "2026-10-27",
    "q": "jpost.com",
    "type": "politik",
+   "c": "as"
+  },
+  {
+   "t": "China harnesses smart technologies to power transport upgrade",
+   "u": "http://english.anhuinews.com/newscenter/headline/202610/t20261027_9692808.html",
+   "d": "2026-10-27",
+   "q": "english.anhuinews.com",
+   "type": "logistik",
    "c": "as"
   },
   {
