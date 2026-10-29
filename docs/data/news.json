@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-29T05:44:38Z",
+ "stand": "2026-10-29T06:04:24Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -26,6 +26,22 @@
    "q": "rttnews.com",
    "type": "finanz",
    "c": "as"
+  },
+  {
+   "t": "Brazil Stocks Plunge 13 . 9 % as Fed Week Begins | Global Economy , Oct 27",
+   "u": "https://www.riotimesonline.com/global-economy-briefing-october-27-2026/",
+   "d": "2026-10-27",
+   "q": "riotimesonline.com",
+   "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "Brazil Stocks Face Test After 13 . 9 % Plunge | Morning Call , Oct 27",
+   "u": "https://www.riotimesonline.com/brazils-financial-morning-call-for-tuesday-october-27-2026/",
+   "d": "2026-10-27",
+   "q": "riotimesonline.com",
+   "type": "finanz",
+   "c": "sa"
   },
   {
    "t": "SBP raises interest rate to 12 % amid Iran - US tensions and rising oil prices",
@@ -112,7 +128,7 @@
    "u": "https://tribune.com.pk/story/2637107/sbp-raises-policy-rate-to-12",
    "d": "2026-10-27",
    "q": "tribune.com.pk",
-   "type": "rohstoffe",
+   "type": "finanz",
    "c": null
   },
   {
@@ -260,6 +276,14 @@
    "c": null
   },
   {
+   "t": "Honig , Kamillentee und Co .: Diese Hausmittel helfen bei Erkältungen",
+   "u": "https://www.lkz.de/lokales/landkreis-ludwigsburg_artikel,-honig-kamillentee-und-co-diese-hausmittel-helfen-bei-erkaeltungen-_arid,887721.html",
+   "d": "2026-10-26",
+   "q": "lkz.de",
+   "type": "energie",
+   "c": null
+  },
+  {
    "t": "Gas wird in Baden - Württemberg deutlich teurer",
    "u": "https://www.lkz.de/%c3%bcberregionales/stuttgart-s%C3%BCdwest_artikel,-gas-wird-in-baden-wuerttemberg-deutlich-teurer-_arid,887700.html",
    "d": "2026-10-26",
@@ -388,14 +412,6 @@
    "c": null
   },
   {
-   "t": "Northern B . C . LNG story is entering its next chapter",
-   "u": "https://terracestandard.com/sponsored-content/northern-b-c-s-lng-story-is-entering-its-next-chapter",
-   "d": "2026-10-26",
-   "q": "terracestandard.com",
-   "type": "energie",
-   "c": null
-  },
-  {
    "t": "How Trump Trade War Has Hurt GOP Candidates",
    "u": "https://politicalwire.com/2026/10/25/how-trumps-trade-war-has-hurt-gop-candidates/",
    "d": "2026-10-26",
@@ -442,6 +458,14 @@
    "q": "econotimes.com",
    "type": "logistik",
    "c": "as"
+  },
+  {
+   "t": "Bitcoin Trades Below $80 , 000 Ahead of Fed Oct . 27 - 28 Meeting",
+   "u": "https://econotimes.com/Bitcoin-Trades-Below-80-000-Ahead-of-Fed-s-Oct-27-28-Meeting-1763376",
+   "d": "2026-10-26",
+   "q": "econotimes.com",
+   "type": "finanz",
+   "c": "na"
   },
   {
    "t": "Zero maida : Britannia ordered to stop misleading ads saying its bread is  100 % whole wheat  because atta made up only around 62 % of the finished product",
