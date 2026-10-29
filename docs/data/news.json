@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-29T09:50:50Z",
+ "stand": "2026-10-29T10:47:37Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -50,6 +50,14 @@
    "q": "thestar.com.my",
    "type": "logistik",
    "c": "as"
+  },
+  {
+   "t": "Lula win in Brazil bucks regional shift to right , denies Trump ally",
+   "u": "https://www.sentinelandenterprise.com/2026/10/26/lula-win-brazil-election-regional-holdout/",
+   "d": "2026-10-27",
+   "q": "sentinelandenterprise.com",
+   "type": "rohstoffe",
+   "c": null
   },
   {
    "t": "Indian Shares Marginally Lower In Early Trade ; IT Stocks Underperform",
@@ -172,6 +180,22 @@
    "c": "na"
   },
   {
+   "t": "Brewers rout the Rays 10 - 1 to move within a win of their first World Series title",
+   "u": "https://www.durangoherald.com/articles/associated-press/brewers-rout-the-rays-10-1-to-move-within-a-win-of-their-first-world-series-title/",
+   "d": "2026-10-27",
+   "q": "durangoherald.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "New Milton dementia allotment celebrates summer support",
+   "u": "https://www.dailyecho.co.uk/news/26669010.new-milton-dementia-allotment-celebrates-summer-support/",
+   "d": "2026-10-27",
+   "q": "dailyecho.co.uk",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
    "t": "Washington orders suppliers to axe Iran aircraft contracts - ch - aviation",
    "u": "https://www.ch-aviation.com/news/67061-washington-orders-suppliers-to-axe-iran-aircraft-contracts",
    "d": "2026-10-27",
@@ -210,6 +234,14 @@
    "q": "woc1420.iheart.com",
    "type": "energie",
    "c": "eu"
+  },
+  {
+   "t": "Taiwan Pork",
+   "u": "https://tribune.net.ph/topic/taiwan-pork",
+   "d": "2026-10-27",
+   "q": "tribune.net.ph",
+   "type": "rohstoffe",
+   "c": "as"
   },
   {
    "t": "Middlemen continue to exploit sugarcane growers",
