@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-29T06:51:34Z",
+ "stand": "2026-10-29T08:02:09Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -18,6 +18,46 @@
    "q": "yardbarker.com",
    "type": "rohstoffe",
    "c": null
+  },
+  {
+   "t": "5 things to watch from the Federal Reserve next meeting",
+   "u": "https://www.thesunchronicle.com/business/5-things-to-watch-from-the-federal-reserves-next-meeting/article_7fe45c06-8782-5837-af1d-665ff6a49949.html",
+   "d": "2026-10-27",
+   "q": "thesunchronicle.com",
+   "type": "finanz",
+   "c": "na"
+  },
+  {
+   "t": "RM7bil in Automotive Hi - Tech Valley investments realised , Parliament told",
+   "u": "https://www.thestar.com.my/news/nation/2026/10/27/rm7bil-in-automotive-hi-tech-valley-investments-realised-parliament-told",
+   "d": "2026-10-27",
+   "q": "thestar.com.my",
+   "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "Singapore aims to tighten haze law amid hurdles in gathering evidence , securing cooperation : Minister",
+   "u": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/27/singapore-aims-to-tighten-haze-law-amid-hurdles-in-gathering-evidence-securing-cooperation-minister",
+   "d": "2026-10-27",
+   "q": "thestar.com.my",
+   "type": "logistik",
+   "c": "as"
+  },
+  {
+   "t": "Indian Shares Marginally Lower In Early Trade ; IT Stocks Underperform",
+   "u": "https://www.rttnews.com/3703096/indian-shares-marginally-lower-in-early-trade-it-stocks-underperform.aspx",
+   "d": "2026-10-27",
+   "q": "rttnews.com",
+   "type": "finanz",
+   "c": "as"
+  },
+  {
+   "t": "Asian Markets Trade Mixed",
+   "u": "https://www.rttnews.com/3703088/asian-markets-trade-mixed.aspx",
+   "d": "2026-10-27",
+   "q": "rttnews.com",
+   "type": "finanz",
+   "c": "as"
   },
   {
    "t": "Indian Shares Seen Opening On Flat Note",
@@ -44,6 +84,14 @@
    "c": "sa"
   },
   {
+   "t": "Europe vs . Elon : 5 ways the EU is trying to squeeze out Musk Starlink – POLITICO",
+   "u": "https://www.politico.eu/article/elon-musk-5-ways-eu-starlink/",
+   "d": "2026-10-27",
+   "q": "politico.eu",
+   "type": "logistik",
+   "c": "eu"
+  },
+  {
    "t": "SBP raises interest rate to 12 % amid Iran - US tensions and rising oil prices",
    "u": "https://www.pakistantimes.com/sbp-raises-interest-rate-to-12-amid-iran-us-tensions-and-rising-oil-prices-15846/",
    "d": "2026-10-27",
@@ -66,6 +114,14 @@
    "q": "pakistantimes.com",
    "type": "energie",
    "c": null
+  },
+  {
+   "t": "Iran reports positive talks with Pakistan , Saudi Arabia and Turkiye in Tehran",
+   "u": "https://www.pakistantimes.com/iran-reports-positive-talks-with-pakistan-saudi-arabia-and-turkiye-in-tehran-15839/",
+   "d": "2026-10-27",
+   "q": "pakistantimes.com",
+   "type": "logistik",
+   "c": "as"
   },
   {
    "t": "Algeria to send troops to Niger in first foreign deployment since 1973",
@@ -148,6 +204,14 @@
    "c": null
   },
   {
+   "t": "Anthropic files for potentially the biggest IPO ever as CEO warns of risk to humanity from AI",
+   "u": "http://www.thedailytimes.com/ap/business/anthropic-files-for-potentially-the-biggest-ipo-ever-as-ceo-warns-of-risk-to-humanity/article_5dfd4b80-6ce8-5fb9-89d3-5c05dce075a7.html",
+   "d": "2026-10-27",
+   "q": "thedailytimes.com",
+   "type": "logistik",
+   "c": null
+  },
+  {
    "t": "RBI steps up liquidity support as tighter cash conditions push up borrowing rates : Report",
    "u": "http://www.ohiostandard.com/news/279399101/rbi-steps-up-liquidity-support-as-tighter-cash-conditions-push-up-borrowing-rates-report",
    "d": "2026-10-27",
@@ -156,12 +220,28 @@
    "c": null
   },
   {
+   "t": "Saudi Arabia offered Houthis $1 bn in Iran - brokered ceasefire deal : Israeli media",
+   "u": "http://www.myanmarnews.net/news/279399157/saudi-arabia-offered-houthis-1-bn-in-iran-brokered-ceasefire-deal-israeli-media",
+   "d": "2026-10-27",
+   "q": "myanmarnews.net",
+   "type": "logistik",
+   "c": "as"
+  },
+  {
    "t": "Crisis in Strait of Hormuz will not be last of its kind : Singapore Energy Minister Tan warns of energy supply risks",
    "u": "http://www.myanmarnews.net/news/279399103/crisis-in-strait-of-hormuz-will-not-be-last-of-its-kind-singapore-energy-minister-tan-warns-of-energy-supply-risks",
    "d": "2026-10-27",
    "q": "myanmarnews.net",
    "type": "energie",
    "c": "as"
+  },
+  {
+   "t": "Anthropic warns TSMC disruptions could hit AI chip supply , threaten business",
+   "u": "http://www.milwaukeesun.com/news/279399199/anthropic-warns-tsmc-disruptions-could-hit-ai-chip-supply-threaten-business",
+   "d": "2026-10-27",
+   "q": "milwaukeesun.com",
+   "type": "logistik",
+   "c": null
   },
   {
    "t": "Israelis should allow themselves to enjoy Election Day",
