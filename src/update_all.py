@@ -49,7 +49,7 @@ def main(nur=None):
         json.dump(status, f, ensure_ascii=False, indent=1)
     export.run()
     print("\nFertig. Erfolgreiche Quellen: %d von %d." % (erfolge, len(quellen)))
-    return 0 if erfolge else 1
+    return 0 if (erfolge or nur) else 1
 
 
 if __name__ == "__main__":
