@@ -243,7 +243,7 @@ details ol { margin: 8px 0 0; padding-left: 20px; display: flex; flex-direction:
       <span class="hint">Punkte wandern vom Exporteur zum Importeur. Kontinent oder Verbindung anklicken.</span>
     </div>
     <div class="mapbox"><div class="mapwrap"><svg class="map" id="map" role="img" aria-label="Weltkarte mit Handelsströmen zwischen den sechs Kontinenten">
-      <defs><symbol id="ship" viewBox="-7 -4.5 14 9" overflow="visible"><path d="M-7 0.5 H7 L4.6 4.2 H-4.6 Z" fill="currentColor"></path><rect x="-4.4" y="-1.6" width="2.6" height="2" fill="currentColor"></rect><rect x="-1.4" y="-1.6" width="2.6" height="2" fill="currentColor"></rect><rect x="2" y="-3.9" width="2.4" height="4.3" fill="currentColor"></rect></symbol></defs><g id="g-land"></g><g id="g-flows"></g><g id="g-routes" visibility="hidden"></g><g id="g-ships"></g><g id="g-ports"></g><g id="g-hubs"></g>
+      <defs><symbol id="ship" viewBox="-7 -4.5 14 9" overflow="visible"><path d="M-6.4 0.4 H7 L4.6 4.3 H-5.4 Z" fill="currentColor"></path><rect x="-5.2" y="-3.9" width="2.4" height="4.1" fill="currentColor"></rect><rect x="-1.9" y="-1.9" width="2.5" height="2.1" fill="currentColor"></rect><rect x="1.1" y="-1.9" width="2.5" height="2.1" fill="currentColor"></rect><rect x="4.0" y="-1.0" width="1.9" height="1.2" fill="currentColor"></rect></symbol></defs><g id="g-land"></g><g id="g-flows"></g><g id="g-routes" visibility="hidden"></g><g id="g-ships"></g><g id="g-ports"></g><g id="g-hubs"></g>
     </svg></div>
     <div class="maplegend" aria-label="Legende der Karte">
       <div class="mlrow"><svg width="16" height="10" viewBox="-8 -5 16 10"><use href="#ship" x="-5.6" y="-3.6" width="11.2" height="7.2" style="color:var(--muted)"></use></svg><span>1 Schiff = 150 Mrd. $ Handel pro Jahr</span></div>
@@ -515,7 +515,7 @@ var PORTS = {
   syd:{n:'Sydney',c:'oc',p:[151.25,-33.9],at:'SYDN',w:3}, mel:{n:'Melbourne',c:'oc',p:[144.9,-38.0],at:'MELB',w:2}, fre:{n:'Fremantle',c:'oc',p:[115.75,-32.05],at:'FREN',w:2}
 };
 
-  var SVGNS = 'http://www.w3.org/2000/svg', Speed = 4, SW = 11.2, SH = 7.2, ships = [], raf = null, T0 = performance.now();
+  var SVGNS = 'http://www.w3.org/2000/svg', SPEED = 4, SW = 11.2, SH = 7.2, ships = [], raf = null, T0 = performance.now();
   var CALM = !!(window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches);
   function proj(lo, la) { return [500 + lo * 2.77778, 233.333 - la * 2.77778]; }
   function unwrapLon(prev, lo) { while (lo - prev > 180) lo -= 360; while (lo - prev < -180) lo += 360; return lo; }
