@@ -1,6 +1,95 @@
 {
- "stand": "2026-11-03T01:58:40Z",
+ "stand": "2026-11-03T02:50:57Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
- "items": []
+ "items": [
+  {
+   "t": "Irrigation helps in climate resilience but it not enough",
+   "u": "https://www.thehindubusinessline.com/opinion/irrigation-helps-in-climate-resilience-but-its-not-enough/article71657820.ece",
+   "d": "2026-11-03",
+   "q": "thehindubusinessline.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Building immunity to shocks - The HinduBusinessLine",
+   "u": "https://www.thehindubusinessline.com/opinion/building-immunity-to-shocks/article71657750.ece",
+   "d": "2026-11-03",
+   "q": "thehindubusinessline.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Stock Market Today Live : Gift Nifty points to gap - up opening ; crude oil , US election in focus",
+   "u": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-3-november-2026/article71657258.ece",
+   "d": "2026-11-03",
+   "q": "thehindubusinessline.com",
+   "type": "rohstoffe",
+   "c": "na"
+  },
+  {
+   "t": "Farmers , Ag Professionals Invited to Beginner and Intermediate Grain Marketing Workshop Januar 5 – 6",
+   "u": "https://www.rcreader.com/news-releases/farmers-ag-professionals-invited-beginner-and-intermediate-grain-marketing-workshop",
+   "d": "2026-11-03",
+   "q": "rcreader.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "LG Energy Solution Releases 2026 Third - Quarter Financial Results",
+   "u": "https://www.prnewswire.com/news-releases/lg-energy-solution-releases-2026-third-quarter-financial-results-302927133.html",
+   "d": "2026-11-03",
+   "q": "prnewswire.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Wolodymyr Selenskyj : Selenskyj warnt vor russischem Großangriff während US - Wahl",
+   "u": "https://www.news.de/politik/860154148/selenskyj-warnt-vor-russischem-grossangriff-waehrend-us-wahl-wolodymyr-selenskyj-news-der-dpa-aktuell-zu-krieg-konflikte-wahl-und-midterms/1/",
+   "d": "2026-11-03",
+   "q": "news.de",
+   "type": "politik",
+   "c": "na"
+  },
+  {
+   "t": "Car Leather Seat Care Cleaning And Conditioning Tips",
+   "u": "https://www.motor1.com/features/814124/car-leather-seat-care-tips/",
+   "d": "2026-11-03",
+   "q": "motor1.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Pangilinan calls for price freeze , crackdown on hoarders",
+   "u": "https://www.manilatimes.net/2026/11/03/news/national/pangilinan-calls-for-price-freeze-crackdown-on-hoarders/2459739",
+   "d": "2026-11-03",
+   "q": "manilatimes.net",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Health damages from climate change are increasing faster",
+   "u": "https://recorder.com/2026/11/02/health-damages-from-climate-change-are-increasing-faster/",
+   "d": "2026-11-03",
+   "q": "recorder.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Wildfires Develop as Maine Deals With High Fire Danger",
+   "u": "https://989wclz.com/news/074470-wildfires-develop-as-maine-deals-with-high-fire-danger/",
+   "d": "2026-11-03",
+   "q": "989wclz.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "ELEKTROS ( OTC : ELEK ) Advances Review of U . S . Lithium Opportunity as Critical Minerals Gain Strategic Attention",
+   "u": "http://www.theusnews.com/news/279408624/elektros-otcelek-advances-review-of-us-lithium-opportunity-as-critical-minerals-gain-strategic-attention",
+   "d": "2026-11-03",
+   "q": "theusnews.com",
+   "type": "rohstoffe",
+   "c": null
+  }
+ ]
 }
