@@ -152,6 +152,7 @@ svg.map path, svg.map use { transition: opacity 0.3s; }
 .st-unbekannt { color: var(--muted); }
 .spark { color: var(--muted); vertical-align: middle; }
 .chg.mv { color: var(--high); }
+.chg.fall { color: var(--low); }
 tr.grp td { padding-top: 14px; font-size: 11px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); border-bottom: 1px solid var(--line); }
 #prices .scroll { max-height: 520px; overflow-y: auto; }
 .chg.dn { color: var(--high); } .chg.up { color: var(--import); }
@@ -292,7 +293,7 @@ details ol { margin: 8px 0 0; padding-left: 20px; display: flex; flex-direction:
             </div>
           </div>
           <div>
-            <p class="hint" style="margin-bottom:6px">Effekt auf die Wirtschaftsleistung, Prozentpunkte. Die Karte färbt sich nach Betroffenheit.</p>
+            <p class="hint" style="margin-bottom:6px">Effekt auf die Wirtschaftsleistung, Prozentpunkte.</p>
             <div id="results"></div>
             <p class="summary" id="summary"></p>
           </div>
@@ -861,7 +862,7 @@ var PORTS = {
     el.hidden = !list.length;
     if (!list.length) return;
     function pct(a) { return a == null ? '\u2013' : (a > 0 ? '+' : (a < 0 ? '\u2212' : '')) + nf0.format(Math.abs(a) * 100) + ' %'; }
-    function cls(a) { return a != null && Math.abs(a) >= 0.10 ? 'mv' : ''; }
+    function cls(a) { return a == null || Math.abs(a) < 0.10 ? '' : (a > 0 ? 'mv' : 'fall'); }
     el.innerHTML = '<div class="head"><p class="label" id="t-prices">Rohstoffpreise</p><span class="hint">Weltmarkt, Veränderung gegen 30 Tage und 12 Monate zuvor</span></div>' +
       '<div class="scroll"><table><thead><tr><th>Rohstoff</th><th class="r">Preis</th><th class="r">30 Tage</th><th class="r">12 Monate</th><th class="r">Verlauf</th></tr></thead><tbody>' +
       (function () {
