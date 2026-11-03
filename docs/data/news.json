@@ -1,8 +1,16 @@
 {
- "stand": "2026-11-03T06:17:16Z",
+ "stand": "2026-11-03T07:04:11Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Trump admin will cut South Africa , Rwanda from AGOA trade program",
+   "u": "https://www.wxii12.com/article/trump-cut-south-africa-rwanda-agoa-trade-program/74316061",
+   "d": "2026-11-03",
+   "q": "wxii12.com",
+   "type": "politik",
+   "c": "af"
+  },
   {
    "t": "Half a century later : Remembering Jimmy Carter historic 1976 presidential victory",
    "u": "https://www.wrdw.com/2026/11/02/half-century-later-remembering-jimmy-carters-historic-1976-presidential-victory/",
@@ -49,6 +57,30 @@
    "d": "2026-11-03",
    "q": "thehindu.com",
    "type": "logistik",
+   "c": "as"
+  },
+  {
+   "t": "Businesses still grappling with Brexit red tape and want change , says BCC",
+   "u": "https://www.theargus.co.uk/news/national/26692856.businesses-still-grappling-brexit-red-tape-want-change-says-bcc/",
+   "d": "2026-11-03",
+   "q": "theargus.co.uk",
+   "type": "politik",
+   "c": null
+  },
+  {
+   "t": "The Midterms Will Change Us Politics . But NZ Will Keep Feeling The Trump Effect",
+   "u": "https://www.scoop.co.nz/stories/PO2611/S00019/the-midterms-will-change-us-politics-but-nz-will-keep-feeling-the-trump-effect.htm",
+   "d": "2026-11-03",
+   "q": "scoop.co.nz",
+   "type": "politik",
+   "c": "na"
+  },
+  {
+   "t": "North Korea denies involvement in Binance hack and criticizes FBI probe as  a trite provocation",
+   "u": "https://www.sandiegouniontribune.com/2026/11/02/north-korea-binance/",
+   "d": "2026-11-03",
+   "q": "sandiegouniontribune.com",
+   "type": "politik",
    "c": "as"
   },
   {
@@ -132,6 +164,14 @@
    "c": "na"
   },
   {
+   "t": "Trump makes final midterm pitch as Republican fight to keep control of Congress",
+   "u": "https://wwmt.com/news/nation-world/trump-makes-final-midterm-pitch-as-republican-fight-to-keep-control-of-congress-republicans-president-americans-washington",
+   "d": "2026-11-03",
+   "q": "wwmt.com",
+   "type": "politik",
+   "c": "na"
+  },
+  {
    "t": "Factory job growth hits 5 - year peak as US manufacturing keeps growing in October",
    "u": "https://wwmt.com/news/nation-world/factory-job-growth-hits-5-year-peak-as-us-manufacturing-keeps-growing-in-october-2026-sp-global-us-manufacturing-pmi-ism-manufacturing-pmi",
    "d": "2026-11-03",
@@ -146,6 +186,22 @@
    "q": "recorder.com",
    "type": "rohstoffe",
    "c": null
+  },
+  {
+   "t": "War , tariffs and China : What the US midterms mean for the Asia - Pacific - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
+   "u": "https://dominicanrepublicpost.com/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific/",
+   "d": "2026-11-03",
+   "q": "dominicanrepublicpost.com",
+   "type": "politik",
+   "c": "as"
+  },
+  {
+   "t": "B . C . First Nations file court challenge against the proposed Pacific Link pipeline",
+   "u": "https://calgaryherald.com:443/news/bc-first-nations-file-court-challenge-against-proposed-pacific-link-pipeline/wcm/ccea0cdc-1050-47a6-a975-161bae1cf2fe",
+   "d": "2026-11-03",
+   "q": "calgaryherald.com:443",
+   "type": "politik",
+   "c": "oc"
   },
   {
    "t": "Wildfires Develop as Maine Deals With High Fire Danger",
