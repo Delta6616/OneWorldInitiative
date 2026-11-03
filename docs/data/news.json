@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-03T08:14:17Z",
+ "stand": "2026-11-03T09:56:18Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -20,6 +20,14 @@
    "c": null
   },
   {
+   "t": "Despite Trump harsh rhetoric toward Chicago , he held significant private investments in the region",
+   "u": "https://www.wbez.org/investigations/2026/11/02/president-donald-trump-investments-economic-disclosure-chicago-illinois",
+   "d": "2026-11-03",
+   "q": "wbez.org",
+   "type": "finanz",
+   "c": "na"
+  },
+  {
    "t": "Irrigation helps in climate resilience but it not enough",
    "u": "https://www.thehindubusinessline.com/opinion/irrigation-helps-in-climate-resilience-but-its-not-enough/article71657820.ece",
    "d": "2026-11-03",
@@ -32,7 +40,7 @@
    "u": "https://www.thehindubusinessline.com/opinion/building-immunity-to-shocks/article71657750.ece",
    "d": "2026-11-03",
    "q": "thehindubusinessline.com",
-   "type": "rohstoffe",
+   "type": "finanz",
    "c": null
   },
   {
@@ -58,6 +66,14 @@
    "q": "thehindu.com",
    "type": "logistik",
    "c": "as"
+  },
+  {
+   "t": "PM Commonwealth  debt reset  plan after opening door to slavery apology",
+   "u": "https://www.theargus.co.uk/news/national/26692857.pms-commonwealth-debt-reset-plan-opening-door-slavery-apology/",
+   "d": "2026-11-03",
+   "q": "theargus.co.uk",
+   "type": "finanz",
+   "c": null
   },
   {
    "t": "Businesses still grappling with Brexit red tape and want change , says BCC",
@@ -100,11 +116,27 @@
    "c": null
   },
   {
+   "t": "How President Xi Jinping Has Charted the Course for Boosting China Strength in Finance : Pursuing a Path of Financial Development with Chinese Characteristics",
+   "u": "https://www.prnewswire.com/news-releases/how-president-xi-jinping-has-charted-the-course-for-boosting-chinas-strength-in-finance-pursuing-a-path-of-financial-development-with-chinese-characteristics-302927169.html",
+   "d": "2026-11-03",
+   "q": "prnewswire.com",
+   "type": "finanz",
+   "c": "as"
+  },
+  {
    "t": "Ontario gasoline , diesel prices to plummet Wednesday",
    "u": "https://www.northbaynipissing.com/news/ontario-gas-price-prediction-for-nov-4/article_c181a28f-180f-54d8-a5e6-bfd46681d983.html",
    "d": "2026-11-03",
    "q": "northbaynipissing.com",
    "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "Bank rate hike 2026 : Why real estate pros see opportunity",
+   "u": "https://www.northbaynipissing.com/business/real-estate/lindsay-smith-real-estate-columnrate-hike/article_01262e5f-08ab-59fe-bd99-62754dbb7423.html",
+   "d": "2026-11-03",
+   "q": "northbaynipissing.com",
+   "type": "finanz",
    "c": null
   },
   {
@@ -153,6 +185,14 @@
    "d": "2026-11-03",
    "q": "el-balad.com",
    "type": "logistik",
+   "c": "na"
+  },
+  {
+   "t": "RBA interest rate decision : Xmas , unemployment and Trump",
+   "u": "https://www.crikey.com.au/2026/11/03/interest-rate-decision-reserve-bank-rba-inflation-unemployment-donald-trump/",
+   "d": "2026-11-03",
+   "q": "crikey.com.au",
+   "type": "finanz",
    "c": "na"
   },
   {
