@@ -423,8 +423,7 @@ function start(D) {
     var nodes = $('g-land').querySelectorAll('.land');
     for (var i = 0; i < nodes.length; i++) {
       var id = nodes[i].getAttribute('data-c'), fill = 'var(--land)';
-      if (res && maxv > 0) fill = 'color-mix(in srgb, var(--accent) ' + Math.round(8 + 62 * res[id] / maxv) + '%, var(--land))';
-      else if (state.sel === id) fill = 'color-mix(in srgb, var(--fg) 12%, var(--land))';
+      if (state.sel === id) fill = 'color-mix(in srgb, var(--fg) 12%, var(--land))';
       nodes[i].firstChild.style.fill = fill;
       nodes[i].classList.toggle('is-sel', state.sel === id);
     }
