@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-03T10:55:37Z",
+ "stand": "2026-11-03T11:50:29Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -26,6 +26,14 @@
    "q": "wbez.org",
    "type": "finanz",
    "c": "na"
+  },
+  {
+   "t": "Kazakhstan restarts oil export pipeline after new attack sparks major fire at Russian facility",
+   "u": "https://www.upstreamonline.com/energy-security/kazakhstan-restarts-oil-export-pipeline-after-new-attack-sparks-major-fire-at-russian-facility/2-1-2068033",
+   "d": "2026-11-03",
+   "q": "upstreamonline.com",
+   "type": "energie",
+   "c": "eu"
   },
   {
    "t": "Irrigation helps in climate resilience but it not enough",
@@ -56,8 +64,32 @@
    "u": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-3-november-2026/article71657258.ece",
    "d": "2026-11-03",
    "q": "thehindubusinessline.com",
-   "type": "rohstoffe",
+   "type": "energie",
    "c": "na"
+  },
+  {
+   "t": "Stocks to watch , Nov 3 : GRSE , Dr Reddy , Lupin , NBCC , HPCL and others bag major orders , approvals",
+   "u": "https://www.thehindubusinessline.com/markets/buzzing-stocks-grse-dr-reddys-lupin-nbcc-hpcl-belrise-and-datakosa-in-focus/article71659200.ece",
+   "d": "2026-11-03",
+   "q": "thehindubusinessline.com",
+   "type": "energie",
+   "c": null
+  },
+  {
+   "t": "HPCL Visakhapatnam refinery fire controlled , no damage to units",
+   "u": "https://www.thehindubusinessline.com/companies/hpcl-says-fire-at-visakhapatnam-refinery-controlled-no-damage-to-units/article71658361.ece",
+   "d": "2026-11-03",
+   "q": "thehindubusinessline.com",
+   "type": "energie",
+   "c": null
+  },
+  {
+   "t": "UDF poised to recast LDF  permissive  liquor policy as it prepares to promulgate it on November 30",
+   "u": "https://www.thehindu.com/news/national/kerala/udf-poised-to-recast-ldfs-permissive-liquor-policy-as-it-prepares-to-promulgate-it-on-november-30/article71660374.ece",
+   "d": "2026-11-03",
+   "q": "thehindu.com",
+   "type": "rohstoffe",
+   "c": null
   },
   {
    "t": "U . S . strikes Iran Qeshm Island : report",
@@ -65,6 +97,14 @@
    "d": "2026-11-03",
    "q": "thehindu.com",
    "type": "logistik",
+   "c": "as"
+  },
+  {
+   "t": "Oil rises as peace prospects dim after U . S . hits Iran Qeshm Island",
+   "u": "https://www.theglobeandmail.com/investing/article-oil-rises-as-peace-prospects-dim-after-us-hits-irans-qeshm-island/",
+   "d": "2026-11-03",
+   "q": "theglobeandmail.com",
+   "type": "energie",
    "c": "as"
   },
   {
@@ -98,6 +138,14 @@
    "q": "sandiegouniontribune.com",
    "type": "politik",
    "c": "as"
+  },
+  {
+   "t": "Low Storage Buffers In Europe Could Prolong Gas Market Tightness Into 2027 : IEA",
+   "u": "https://www.rttnews.com/3707610/low-storage-buffers-in-europe-could-prolong-gas-market-tightness-into-2027-iea.aspx",
+   "d": "2026-11-03",
+   "q": "rttnews.com",
+   "type": "energie",
+   "c": "eu"
   },
   {
    "t": "Farmers , Ag Professionals Invited to Beginner and Intermediate Grain Marketing Workshop Januar 5 – 6",
@@ -180,6 +228,14 @@
    "c": null
   },
   {
+   "t": "UltraProlink Travel Mate Pro 33 33W GaN universal travel adapter with 3 AC sockets , 2 USB - C ports and USB - A launched",
+   "u": "https://www.fonearena.com/blog/496251/ultraprolink-travel-mate-pro-33-price-features.html",
+   "d": "2026-11-03",
+   "q": "fonearena.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
    "t": "IRIB says US attacked two fishing boats near Qeshm Island",
    "u": "https://www.el-balad.com/17063414",
    "d": "2026-11-03",
@@ -202,6 +258,14 @@
    "q": "arabnews.com",
    "type": "logistik",
    "c": "na"
+  },
+  {
+   "t": "Mikel Arteta warned Viktor Gyokeres  youll have to go  as Arsenal replacement named",
+   "u": "https://www.aol.co.uk/articles/mikel-arteta-warned-viktor-gyokeres-103148000.html",
+   "d": "2026-11-03",
+   "q": "aol.co.uk",
+   "type": "rohstoffe",
+   "c": null
   },
   {
    "t": "Trump makes final midterm pitch as Republican fight to keep control of Congress",
@@ -240,24 +304,40 @@
    "u": "https://calgaryherald.com:443/news/bc-first-nations-file-court-challenge-against-proposed-pacific-link-pipeline/wcm/ccea0cdc-1050-47a6-a975-161bae1cf2fe",
    "d": "2026-11-03",
    "q": "calgaryherald.com:443",
-   "type": "politik",
+   "type": "energie",
    "c": "oc"
   },
   {
-   "t": "Wildfires Develop as Maine Deals With High Fire Danger",
-   "u": "https://989wclz.com/news/074470-wildfires-develop-as-maine-deals-with-high-fire-danger/",
+   "t": "New investors spend $3 . 1 billion US buying into LNG Canada expansion plans",
+   "u": "https://calgaryherald.com:443/business/new-investors-spend-billions-buying-into-lng-canada-expansion-plans/wcm/f810a557-0af4-4715-9e34-2ed6c0f9f924",
    "d": "2026-11-03",
-   "q": "989wclz.com",
-   "type": "rohstoffe",
+   "q": "calgaryherald.com:443",
+   "type": "energie",
+   "c": "na"
+  },
+  {
+   "t": "Kazakhstan Restores Oil Flows Through Key Export Pipeline",
+   "u": "https://astanatimes.com/2026/11/kazakhstan-restores-oil-flows-through-key-export-pipeline/",
+   "d": "2026-11-03",
+   "q": "astanatimes.com",
+   "type": "energie",
    "c": null
   },
   {
-   "t": "ELEKTROS ( OTC : ELEK ) Advances Review of U . S . Lithium Opportunity as Critical Minerals Gain Strategic Attention",
-   "u": "http://www.theusnews.com/news/279408624/elektros-otcelek-advances-review-of-us-lithium-opportunity-as-critical-minerals-gain-strategic-attention",
+   "t": "Japan , UNDP Commit $ 3 Million to Greener Mining in Kazakhstan",
+   "u": "https://astanatimes.com/2026/11/japan-undp-commit-3-million-to-greener-mining-in-kazakhstan/",
    "d": "2026-11-03",
-   "q": "theusnews.com",
+   "q": "astanatimes.com",
    "type": "rohstoffe",
-   "c": null
+   "c": "as"
+  },
+  {
+   "t": "Trump claims US is world largest supplier of oil and natural gas in final midterm campaign pitch",
+   "u": "http://www.argentinastar.com/news/279408514/trump-claims-us-is-world-largest-supplier-of-oil-and-natural-gas-in-final-midterm-campaign-pitch",
+   "d": "2026-11-03",
+   "q": "argentinastar.com",
+   "type": "energie",
+   "c": "na"
   }
  ]
 }
