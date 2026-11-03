@@ -16,22 +16,20 @@
   "fehler": "1=1/arcgis/Layer0: {'code': 400, 'message': 'Invalid URL', 'deta ## 1=1/ArcGIS/Layer0: {'code': 400, 'message': 'Invalid URL', 'deta ## year >= 2026/arcgis/Layer0: {'code': 400, 'message': 'Invalid URL', 'deta ## year >= 2026/ArcGIS/Layer0: {'code': 400, 'message': 'Invalid URL', 'deta ## year >= 2026/arcgis/Layer0: {'code': 400, 'message': 'Invalid URL', 'deta ## year >= 2026/ArcGIS/Layer0: {'code': 400, 'message': 'Invalid URL', 'deta ## date >= TIMESTAMP '2026-10-15 00:00:00'/arcgis/Layer0: {'code': 400, 'message': 'Invalid URL', 'deta ## date >= TIMESTAMP '2026-10-15 00:00:00'/ArcGIS/Layer0: {'code': 400, 'message': 'Object reference no ## CSV portwatch.imf.org: Abruf fehlgeschlagen: HTTP Error 400: Bad Request ## CSV www.arcgis.com: leere Datei ## Keine Handdatei data/manual/portwatch.csv vorhanden"
  },
  "gdelt": {
-  "ok": false,
-  "zeit": "2026-11-03T11:47:59Z",
-  "neu_oder_geaendert": 14,
-  "zeilen_gesamt": 346,
+  "ok": true,
+  "zeit": "2026-11-03T14:08:51Z",
+  "neu_oder_geaendert": 10,
+  "zeilen_gesamt": 356,
   "warnungen": [
    "logistik/english: HTTP 429",
+   "energie/english: HTTP 429",
    "finanz/english: HTTP 429",
-   "politik/english: HTTP 429",
+   "rohstoffe/english: HTTP 429",
    "logistik/german: HTTP 429",
    "energie/german: HTTP 429",
    "finanz/german: HTTP 429",
-   "politik/german: HTTP 429",
-   "rohstoffe/german: HTTP 429"
-  ],
-  "letzter_versuch": "2026-11-03T12:55:40Z",
-  "fehler": "GDELT lieferte keine Artikel. logistik/english: HTTP 429 | energie/english: HTTP 429 | finanz/english: HTTP 429 | politik/english: HTTP 429 | rohstoffe/english: HTTP 429 | logistik/german: HTTP 429 | energie/german: HTTP 429 | finanz/german: HTTP 429 | politik/german: HTTP 429 | rohstoffe/german: HTTP 429"
+   "politik/german: HTTP 429"
+  ]
  },
  "rohstoffe": {
   "ok": true,

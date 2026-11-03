@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-03T12:57:24Z",
+ "stand": "2026-11-03T14:11:33Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -124,6 +124,22 @@
    "c": null
   },
   {
+   "t": "In the news today : U . S . midterms today , Carney in Antigua , is AI stealing youth jobs ?",
+   "u": "https://www.stcatharinesstandard.ca/news/canada/in-the-news-today-u-s-midterms-today-carney-in-antigua-is-ai-stealing-youth-jobs/article_67947e99-c468-5e65-bebd-541d4208cbcc.html",
+   "d": "2026-11-03",
+   "q": "stcatharinesstandard.ca",
+   "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Americans head to the polls for midterm election referendum on Trump tenure",
+   "u": "https://www.stcatharinesstandard.ca/business/americans-head-to-the-polls-for-midterm-election-referendum-on-trump-s-tenure/article_0afc0a70-bc58-5400-ac96-e1389236f644.html",
+   "d": "2026-11-03",
+   "q": "stcatharinesstandard.ca",
+   "type": "politik",
+   "c": "na"
+  },
+  {
    "t": "The Midterms Will Change Us Politics . But NZ Will Keep Feeling The Trump Effect",
    "u": "https://www.scoop.co.nz/stories/PO2611/S00019/the-midterms-will-change-us-politics-but-nz-will-keep-feeling-the-trump-effect.htm",
    "d": "2026-11-03",
@@ -244,12 +260,52 @@
    "c": "na"
   },
   {
+   "t": "Hochreinquarz : Wie die Chipwelt an Spruce Pine hängt",
+   "u": "https://www.drweb.de/hochreinquarz/",
+   "d": "2026-11-03",
+   "q": "drweb.de",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
    "t": "RBA interest rate decision : Xmas , unemployment and Trump",
    "u": "https://www.crikey.com.au/2026/11/03/interest-rate-decision-reserve-bank-rba-inflation-unemployment-donald-trump/",
    "d": "2026-11-03",
    "q": "crikey.com.au",
    "type": "finanz",
    "c": "na"
+  },
+  {
+   "t": "Screwed either way : Republican senator fights backlash over Trump tariffs in Maine – Brandon Sun",
+   "u": "https://www.brandonsun.com/business/2026/11/03/screwed-either-way-republican-senator-fights-backlash-over-trump-tariffs-in-maine",
+   "d": "2026-11-03",
+   "q": "brandonsun.com",
+   "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Tariff news : Maine Sen . Susan Collins fights backlash",
+   "u": "https://www.bnnbloomberg.ca/tariffs/2026/11/03/screwed-either-way-republican-senator-fights-backlash-over-trump-tariffs-in-maine/",
+   "d": "2026-11-03",
+   "q": "bnnbloomberg.ca",
+   "type": "politik",
+   "c": "na"
+  },
+  {
+   "t": "Tariffs : Manufacturers group optimistic about Canada - U . S . trade",
+   "u": "https://www.bnnbloomberg.ca/tariffs/2026/11/03/progress-on-trade-talks-is-encouraging-says-canadian-industry-group/",
+   "d": "2026-11-03",
+   "q": "bnnbloomberg.ca",
+   "type": "politik",
+   "c": "na"
+  },
+  {
+   "t": "Weihnachtsblumen : 7 Zimmerpflanzen , die im Winter blühen",
+   "u": "https://www.bildderfrau.de/garten/zimmerpflanzen/zimmerpflanzen-winter-7-130459/",
+   "d": "2026-11-03",
+   "q": "bildderfrau.de",
+   "type": "rohstoffe",
+   "c": null
   },
   {
    "t": "Arab News | US struck Iran Qeshm Island , Wall Street Journal reports",
@@ -268,36 +324,12 @@
    "c": null
   },
   {
-   "t": "Trump makes final midterm pitch as Republican fight to keep control of Congress",
-   "u": "https://wwmt.com/news/nation-world/trump-makes-final-midterm-pitch-as-republican-fight-to-keep-control-of-congress-republicans-president-americans-washington",
-   "d": "2026-11-03",
-   "q": "wwmt.com",
-   "type": "politik",
-   "c": "na"
-  },
-  {
    "t": "Factory job growth hits 5 - year peak as US manufacturing keeps growing in October",
    "u": "https://wwmt.com/news/nation-world/factory-job-growth-hits-5-year-peak-as-us-manufacturing-keeps-growing-in-october-2026-sp-global-us-manufacturing-pmi-ism-manufacturing-pmi",
    "d": "2026-11-03",
    "q": "wwmt.com",
    "type": "logistik",
    "c": "na"
-  },
-  {
-   "t": "Health damages from climate change are increasing faster",
-   "u": "https://recorder.com/2026/11/02/health-damages-from-climate-change-are-increasing-faster/",
-   "d": "2026-11-03",
-   "q": "recorder.com",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "War , tariffs and China : What the US midterms mean for the Asia - Pacific - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
-   "u": "https://dominicanrepublicpost.com/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific/",
-   "d": "2026-11-03",
-   "q": "dominicanrepublicpost.com",
-   "type": "politik",
-   "c": "as"
   },
   {
    "t": "B . C . First Nations file court challenge against the proposed Pacific Link pipeline",
@@ -322,14 +354,6 @@
    "q": "astanatimes.com",
    "type": "energie",
    "c": null
-  },
-  {
-   "t": "Japan , UNDP Commit $ 3 Million to Greener Mining in Kazakhstan",
-   "u": "https://astanatimes.com/2026/11/japan-undp-commit-3-million-to-greener-mining-in-kazakhstan/",
-   "d": "2026-11-03",
-   "q": "astanatimes.com",
-   "type": "rohstoffe",
-   "c": "as"
   },
   {
    "t": "Trump claims US is world largest supplier of oil and natural gas in final midterm campaign pitch",
