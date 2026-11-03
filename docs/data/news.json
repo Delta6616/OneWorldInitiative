@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-03T21:43:46Z",
+ "stand": "2026-11-03T22:41:27Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -370,6 +370,14 @@
    "q": "calgaryherald.com:443",
    "type": "energie",
    "c": "na"
+  },
+  {
+   "t": "ATX - Trends : AT & S , Palfinger , Erste Group ...",
+   "u": "https://boerse-social.com/page/newsflow/atx-trends_36",
+   "d": "2026-11-03",
+   "q": "boerse-social.com",
+   "type": "finanz",
+   "c": null
   },
   {
    "t": "Kazakhstan Restores Oil Flows Through Key Export Pipeline",
