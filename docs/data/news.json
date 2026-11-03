@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-03T17:49:40Z",
+ "stand": "2026-11-03T18:49:02Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -132,6 +132,14 @@
    "c": "as"
   },
   {
+   "t": "Global markets were already fragile . Big AI bets could break them",
+   "u": "https://www.theglobeandmail.com/investing/article-global-markets-were-already-fragile-big-ai-bets-could-break-them/",
+   "d": "2026-11-03",
+   "q": "theglobeandmail.com",
+   "type": "finanz",
+   "c": null
+  },
+  {
    "t": "PM Commonwealth  debt reset  plan after opening door to slavery apology",
    "u": "https://www.theargus.co.uk/news/national/26692857.pms-commonwealth-debt-reset-plan-opening-door-slavery-apology/",
    "d": "2026-11-03",
@@ -234,6 +242,14 @@
    "q": "news.de",
    "type": "politik",
    "c": "na"
+  },
+  {
+   "t": "Treasurer urged to rein in spending as rates rise again",
+   "u": "https://www.newcastleherald.com.au/story/9384716/treasurer-urged-to-rein-in-spending-as-rates-rise-again/",
+   "d": "2026-11-03",
+   "q": "newcastleherald.com.au",
+   "type": "finanz",
+   "c": null
   },
   {
    "t": "US military strikes Iran Qeshm Island",
