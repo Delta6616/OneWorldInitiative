@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-03T14:11:33Z",
+ "stand": "2026-11-03T15:50:41Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -16,6 +16,30 @@
    "u": "https://www.wrdw.com/2026/11/02/half-century-later-remembering-jimmy-carters-historic-1976-presidential-victory/",
    "d": "2026-11-03",
    "q": "wrdw.com",
+   "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "Netanyahu Urges Trump to Launch New Strikes on Iran as Diplomatic Talks Continue",
+   "u": "https://www.wgow.com/2026/11/03/netanyahu-urges-trump-to-launch-new-strikes-on-iran-as-diplomatic-talks-continue/",
+   "d": "2026-11-03",
+   "q": "wgow.com",
+   "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "US strikes Iranian targets in the Strait of Hormuz , official says , leaving unclear what comes next",
+   "u": "https://www.wfmz.com/news/ap/ap-national/us-strikes-iranian-targets-in-the-strait-of-hormuz-official-says-leaving-unclear-what-comes-next/article_b7d150b1-b5ee-570b-b828-fab0fd23b46a.html",
+   "d": "2026-11-03",
+   "q": "wfmz.com",
+   "type": "logistik",
+   "c": "as"
+  },
+  {
+   "t": "Iran chief negotiator says the US must act to prevent renewed war , and other Mideast news",
+   "u": "https://www.wfmz.com/news/ap/ap-national/iran-s-chief-negotiator-says-the-us-must-act-to-prevent-renewed-war-and-other-mideast-news/article_4cd51f4d-14df-5d20-90c9-21ddc855c56c.html",
+   "d": "2026-11-03",
+   "q": "wfmz.com",
    "type": "logistik",
    "c": null
   },
@@ -220,6 +244,14 @@
    "c": null
   },
   {
+   "t": "Wer eine PS5 besitzt , sollte jetzt handeln : MediaMarkt haut Sony - Meisterwerk für unter 20 Euro raus",
+   "u": "https://www.netzwelt.de/schnaeppchen/260250-ps5-besitzt-sollte-handeln-mediamarkt-haut-sony-meisterwerk-20-euro-raus.html",
+   "d": "2026-11-03",
+   "q": "netzwelt.de",
+   "type": "logistik",
+   "c": "na"
+  },
+  {
    "t": "Car Leather Seat Care Cleaning And Conditioning Tips",
    "u": "https://www.motor1.com/features/814124/car-leather-seat-care-tips/",
    "d": "2026-11-03",
@@ -250,14 +282,6 @@
    "q": "fonearena.com",
    "type": "rohstoffe",
    "c": null
-  },
-  {
-   "t": "IRIB says US attacked two fishing boats near Qeshm Island",
-   "u": "https://www.el-balad.com/17063414",
-   "d": "2026-11-03",
-   "q": "el-balad.com",
-   "type": "logistik",
-   "c": "na"
   },
   {
    "t": "Hochreinquarz : Wie die Chipwelt an Spruce Pine hängt",
@@ -308,28 +332,12 @@
    "c": null
   },
   {
-   "t": "Arab News | US struck Iran Qeshm Island , Wall Street Journal reports",
-   "u": "https://www.arabnews.com/middle-east/us-struck-irans-qeshm-island-wall-street-journal-reports-3009496",
-   "d": "2026-11-03",
-   "q": "arabnews.com",
-   "type": "logistik",
-   "c": "na"
-  },
-  {
    "t": "Mikel Arteta warned Viktor Gyokeres  youll have to go  as Arsenal replacement named",
    "u": "https://www.aol.co.uk/articles/mikel-arteta-warned-viktor-gyokeres-103148000.html",
    "d": "2026-11-03",
    "q": "aol.co.uk",
    "type": "rohstoffe",
    "c": null
-  },
-  {
-   "t": "Factory job growth hits 5 - year peak as US manufacturing keeps growing in October",
-   "u": "https://wwmt.com/news/nation-world/factory-job-growth-hits-5-year-peak-as-us-manufacturing-keeps-growing-in-october-2026-sp-global-us-manufacturing-pmi-ism-manufacturing-pmi",
-   "d": "2026-11-03",
-   "q": "wwmt.com",
-   "type": "logistik",
-   "c": "na"
   },
   {
    "t": "B . C . First Nations file court challenge against the proposed Pacific Link pipeline",
