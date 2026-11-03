@@ -1,8 +1,16 @@
 {
- "stand": "2026-11-03T03:50:59Z",
+ "stand": "2026-11-03T04:54:21Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Half a century later : Remembering Jimmy Carter historic 1976 presidential victory",
+   "u": "https://www.wrdw.com/2026/11/02/half-century-later-remembering-jimmy-carters-historic-1976-presidential-victory/",
+   "d": "2026-11-03",
+   "q": "wrdw.com",
+   "type": "logistik",
+   "c": null
+  },
   {
    "t": "Irrigation helps in climate resilience but it not enough",
    "u": "https://www.thehindubusinessline.com/opinion/irrigation-helps-in-climate-resilience-but-its-not-enough/article71657820.ece",
@@ -20,12 +28,28 @@
    "c": null
   },
   {
+   "t": "Explosions rock Iran Qeshm Island as Tehran claims three US drones downed",
+   "u": "https://www.thehindubusinessline.com/news/world/explosions-reported-on-irans-qeshm-island-amid-rising-tensions-with-us/article71659179.ece",
+   "d": "2026-11-03",
+   "q": "thehindubusinessline.com",
+   "type": "logistik",
+   "c": null
+  },
+  {
    "t": "Stock Market Today Live : Gift Nifty points to gap - up opening ; crude oil , US election in focus",
    "u": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-3-november-2026/article71657258.ece",
    "d": "2026-11-03",
    "q": "thehindubusinessline.com",
    "type": "rohstoffe",
    "c": "na"
+  },
+  {
+   "t": "U . S . strikes Iran Qeshm Island : report",
+   "u": "https://www.thehindu.com/news/international/us-strikes-irans-qeshm-island-report/article71659212.ece",
+   "d": "2026-11-03",
+   "q": "thehindu.com",
+   "type": "logistik",
+   "c": "as"
   },
   {
    "t": "Farmers , Ag Professionals Invited to Beginner and Intermediate Grain Marketing Workshop Januar 5 – 6",
@@ -40,7 +64,15 @@
    "u": "https://www.prnewswire.com/news-releases/lg-energy-solution-releases-2026-third-quarter-financial-results-302927133.html",
    "d": "2026-11-03",
    "q": "prnewswire.com",
-   "type": "rohstoffe",
+   "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "Ontario gasoline , diesel prices to plummet Wednesday",
+   "u": "https://www.northbaynipissing.com/news/ontario-gas-price-prediction-for-nov-4/article_c181a28f-180f-54d8-a5e6-bfd46681d983.html",
+   "d": "2026-11-03",
+   "q": "northbaynipissing.com",
+   "type": "logistik",
    "c": null
   },
   {
@@ -50,6 +82,14 @@
    "q": "news.de",
    "type": "politik",
    "c": "na"
+  },
+  {
+   "t": "US military strikes Iran Qeshm Island",
+   "u": "https://www.newcastleherald.com.au/story/9384711/us-military-strikes-irans-qeshm-island/",
+   "d": "2026-11-03",
+   "q": "newcastleherald.com.au",
+   "type": "logistik",
+   "c": null
   },
   {
    "t": "Car Leather Seat Care Cleaning And Conditioning Tips",
@@ -66,6 +106,38 @@
    "q": "manilatimes.net",
    "type": "rohstoffe",
    "c": null
+  },
+  {
+   "t": "Das freie Wort - „ Bruno am Sonntag",
+   "u": "https://www.krone.at/das-freie-wort/6ae92b0ba003f013550704ad",
+   "d": "2026-11-03",
+   "q": "krone.at",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "IRIB says US attacked two fishing boats near Qeshm Island",
+   "u": "https://www.el-balad.com/17063414",
+   "d": "2026-11-03",
+   "q": "el-balad.com",
+   "type": "logistik",
+   "c": "na"
+  },
+  {
+   "t": "Arab News | US struck Iran Qeshm Island , Wall Street Journal reports",
+   "u": "https://www.arabnews.com/middle-east/us-struck-irans-qeshm-island-wall-street-journal-reports-3009496",
+   "d": "2026-11-03",
+   "q": "arabnews.com",
+   "type": "logistik",
+   "c": "na"
+  },
+  {
+   "t": "Factory job growth hits 5 - year peak as US manufacturing keeps growing in October",
+   "u": "https://wwmt.com/news/nation-world/factory-job-growth-hits-5-year-peak-as-us-manufacturing-keeps-growing-in-october-2026-sp-global-us-manufacturing-pmi-ism-manufacturing-pmi",
+   "d": "2026-11-03",
+   "q": "wwmt.com",
+   "type": "logistik",
+   "c": "na"
   },
   {
    "t": "Health damages from climate change are increasing faster",
