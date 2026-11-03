@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-03T19:51:56Z",
+ "stand": "2026-11-03T20:46:38Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -292,6 +292,22 @@
    "c": null
   },
   {
+   "t": "Wohn - Schonzeit in der Grundsicherung ist vorbei : Familien trifft das besonders hart",
+   "u": "https://www.kreiszeitung.de/verbraucher/wohn-schonzeit-in-der-grundsicherung-ist-vorbei-familien-trifft-das-besonders-hart-zr-94571616.html",
+   "d": "2026-11-03",
+   "q": "kreiszeitung.de",
+   "type": "politik",
+   "c": null
+  },
+  {
+   "t": "US - Zwischenwahlen : Trumps Pläne zur Umgehung des Kongresses",
+   "u": "https://www.kreiszeitung.de/politik/us-zwischenwahlen-trumps-plaene-zur-umgehung-des-kongresses-zr-94571631.html",
+   "d": "2026-11-03",
+   "q": "kreiszeitung.de",
+   "type": "politik",
+   "c": "na"
+  },
+  {
    "t": "UltraProlink Travel Mate Pro 33 33W GaN universal travel adapter with 3 AC sockets , 2 USB - C ports and USB - A launched",
    "u": "https://www.fonearena.com/blog/496251/ultraprolink-travel-mate-pro-33-price-features.html",
    "d": "2026-11-03",
@@ -308,35 +324,19 @@
    "c": null
   },
   {
+   "t": "ByteDance beendet die Firmentarife von Coze , der Datenexport ist noch ungeklärt",
+   "u": "https://www.drweb.de/coze-bytedance-firmentarife-eingestellt/",
+   "d": "2026-11-03",
+   "q": "drweb.de",
+   "type": "politik",
+   "c": null
+  },
+  {
    "t": "RBA interest rate decision : Xmas , unemployment and Trump",
    "u": "https://www.crikey.com.au/2026/11/03/interest-rate-decision-reserve-bank-rba-inflation-unemployment-donald-trump/",
    "d": "2026-11-03",
    "q": "crikey.com.au",
    "type": "finanz",
-   "c": "na"
-  },
-  {
-   "t": "Screwed either way : Republican senator fights backlash over Trump tariffs in Maine – Brandon Sun",
-   "u": "https://www.brandonsun.com/business/2026/11/03/screwed-either-way-republican-senator-fights-backlash-over-trump-tariffs-in-maine",
-   "d": "2026-11-03",
-   "q": "brandonsun.com",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "Tariff news : Maine Sen . Susan Collins fights backlash",
-   "u": "https://www.bnnbloomberg.ca/tariffs/2026/11/03/screwed-either-way-republican-senator-fights-backlash-over-trump-tariffs-in-maine/",
-   "d": "2026-11-03",
-   "q": "bnnbloomberg.ca",
-   "type": "politik",
-   "c": "na"
-  },
-  {
-   "t": "Tariffs : Manufacturers group optimistic about Canada - U . S . trade",
-   "u": "https://www.bnnbloomberg.ca/tariffs/2026/11/03/progress-on-trade-talks-is-encouraging-says-canadian-industry-group/",
-   "d": "2026-11-03",
-   "q": "bnnbloomberg.ca",
-   "type": "politik",
    "c": "na"
   },
   {
