@@ -1,20 +1,20 @@
 {
  "worldbank": {
   "ok": true,
-  "zeit": "2026-11-02T06:18:37Z",
+  "zeit": "2026-11-03T06:10:34Z",
   "neu_oder_geaendert": 0,
   "zeilen_gesamt": 27953,
   "warnungen": []
  },
  "portwatch": {
   "ok": true,
-  "zeit": "2026-11-02T06:18:44Z",
+  "zeit": "2026-11-03T06:10:41Z",
   "neu_oder_geaendert": 0,
   "zeilen_gesamt": 86436,
   "warnungen": []
  },
  "gdelt": {
-  "ok": true,
+  "ok": false,
   "zeit": "2026-11-03T05:51:27Z",
   "neu_oder_geaendert": 0,
   "zeilen_gesamt": 312,
@@ -27,11 +27,13 @@
    "logistik/german: HTTP 429",
    "finanz/german: HTTP 429",
    "politik/german: HTTP 429"
-  ]
+  ],
+  "letzter_versuch": "2026-11-03T06:15:21Z",
+  "fehler": "GDELT lieferte keine Artikel. logistik/english: HTTP 429 | energie/english: HTTP 429 | finanz/english: HTTP 429 | politik/english: HTTP 429 | rohstoffe/english: HTTP 429 | logistik/german: HTTP 429 | energie/german: HTTP 429 | finanz/german: HTTP 429 | politik/german: HTTP 429 | rohstoffe/german: HTTP 429"
  },
  "rohstoffe": {
   "ok": true,
-  "zeit": "2026-11-02T06:20:33Z",
+  "zeit": "2026-11-03T06:14:52Z",
   "neu_oder_geaendert": 0,
   "zeilen_gesamt": 6758,
   "warnungen": []
