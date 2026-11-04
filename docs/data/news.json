@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-04T02:49:12Z",
+ "stand": "2026-11-04T03:51:51Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -50,6 +50,14 @@
    "q": "business-standard.com",
    "type": "rohstoffe",
    "c": "na"
+  },
+  {
+   "t": "Frankfurter - Kranz - Schnitten : Einfach vom Blech",
+   "u": "https://www.bildderfrau.de/kochen-backen/rezepte/frankfurter-kranz-schnitten-4-133720/",
+   "d": "2026-11-04",
+   "q": "bildderfrau.de",
+   "type": "energie",
+   "c": null
   },
   {
    "t": "Gas Prices Decline , But Still For Election Day",
@@ -244,6 +252,14 @@
    "c": "na"
   },
   {
+   "t": "Zu Midterms : Ölpreise steigen nach US - Angriffen im Iran",
+   "u": "https://www.shz.de/deutschland-welt/wirtschaft/artikel/zu-midterms-olpreise-steigen-nach-us-angriffen-im-iran-51690173",
+   "d": "2026-11-03",
+   "q": "shz.de",
+   "type": "energie",
+   "c": null
+  },
+  {
    "t": "The Midterms Will Change Us Politics . But NZ Will Keep Feeling The Trump Effect",
    "u": "https://www.scoop.co.nz/stories/PO2611/S00019/the-midterms-will-change-us-politics-but-nz-will-keep-feeling-the-trump-effect.htm",
    "d": "2026-11-03",
@@ -388,6 +404,30 @@
    "c": null
   },
   {
+   "t": "EU genehmigt Übernahme von MediaMarktSaturn unter Auflagen",
+   "u": "https://www.finanznachrichten.de/nachrichten-2026-11/70017344-eu-genehmigt-uebernahme-von-mediamarktsaturn-unter-auflagen-016.htm",
+   "d": "2026-11-03",
+   "q": "finanznachrichten.de",
+   "type": "energie",
+   "c": "eu"
+  },
+  {
+   "t": "JEFFERIES stuft Evonik auf  Buy",
+   "u": "https://www.finanznachrichten.de/nachrichten-2026-11/70017306-jefferies-stuft-evonik-auf-buy-322.htm",
+   "d": "2026-11-03",
+   "q": "finanznachrichten.de",
+   "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Aktien Frankfurt : Dax etwas schwächer - Ölpreis , Tech - Schwäche , Quartalszahlen",
+   "u": "https://www.finanznachrichten.de/nachrichten-2026-11/70017281-aktien-frankfurt-dax-etwas-schwaecher-oelpreis-tech-schwaeche-quartalszahlen-016.htm",
+   "d": "2026-11-03",
+   "q": "finanznachrichten.de",
+   "type": "energie",
+   "c": null
+  },
+  {
    "t": "Hochreinquarz : Wie die Chipwelt an Spruce Pine hängt",
    "u": "https://www.drweb.de/hochreinquarz/",
    "d": "2026-11-03",
@@ -428,44 +468,12 @@
    "c": null
   },
   {
-   "t": "B . C . First Nations file court challenge against the proposed Pacific Link pipeline",
-   "u": "https://calgaryherald.com:443/news/bc-first-nations-file-court-challenge-against-proposed-pacific-link-pipeline/wcm/ccea0cdc-1050-47a6-a975-161bae1cf2fe",
-   "d": "2026-11-03",
-   "q": "calgaryherald.com:443",
-   "type": "energie",
-   "c": "oc"
-  },
-  {
-   "t": "New investors spend $3 . 1 billion US buying into LNG Canada expansion plans",
-   "u": "https://calgaryherald.com:443/business/new-investors-spend-billions-buying-into-lng-canada-expansion-plans/wcm/f810a557-0af4-4715-9e34-2ed6c0f9f924",
-   "d": "2026-11-03",
-   "q": "calgaryherald.com:443",
-   "type": "energie",
-   "c": "na"
-  },
-  {
    "t": "ATX - Trends : AT & S , Palfinger , Erste Group ...",
    "u": "https://boerse-social.com/page/newsflow/atx-trends_36",
    "d": "2026-11-03",
    "q": "boerse-social.com",
    "type": "finanz",
    "c": null
-  },
-  {
-   "t": "Kazakhstan Restores Oil Flows Through Key Export Pipeline",
-   "u": "https://astanatimes.com/2026/11/kazakhstan-restores-oil-flows-through-key-export-pipeline/",
-   "d": "2026-11-03",
-   "q": "astanatimes.com",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Trump claims US is world largest supplier of oil and natural gas in final midterm campaign pitch",
-   "u": "http://www.argentinastar.com/news/279408514/trump-claims-us-is-world-largest-supplier-of-oil-and-natural-gas-in-final-midterm-campaign-pitch",
-   "d": "2026-11-03",
-   "q": "argentinastar.com",
-   "type": "energie",
-   "c": "na"
   }
  ]
 }
