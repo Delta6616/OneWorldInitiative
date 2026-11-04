@@ -1,8 +1,16 @@
 {
- "stand": "2026-11-04T03:51:51Z",
+ "stand": "2026-11-04T04:55:50Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Northern Michigan Consumers Could Pay the Price if Opponents Shut Down Line 5",
+   "u": "https://www.stignacenews.com/articles/northern-michigan-consumers-could-pay-the-price-if-opponents-shut-down-line-5/",
+   "d": "2026-11-04",
+   "q": "stignacenews.com",
+   "type": "energie",
+   "c": null
+  },
   {
    "t": "Could America Next Critical - Minerals Opportunity Be Taking Shape ? ...",
    "u": "https://www.pr-inside.com/could-america-s-next-critical-minerals-opportunity-be-taking-shape-r5240339.htm",
