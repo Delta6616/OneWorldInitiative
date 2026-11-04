@@ -1,8 +1,72 @@
 {
- "stand": "2026-11-04T00:57:58Z",
+ "stand": "2026-11-04T01:58:29Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Could America Next Critical - Minerals Opportunity Be Taking Shape ? ...",
+   "u": "https://www.pr-inside.com/could-america-s-next-critical-minerals-opportunity-be-taking-shape-r5240339.htm",
+   "d": "2026-11-04",
+   "q": "pr-inside.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Verizon to Keep Copper Landlines for Some Customers in These 9 States",
+   "u": "https://www.pcmag.com/news/verizon-to-keep-copper-landlines-for-some-customers-in-these-9-states",
+   "d": "2026-11-04",
+   "q": "pcmag.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Democratic Sen . Jon Ossoff cruises to re - election in Georgia",
+   "u": "https://www.nbcnewyork.com/elections/georgia-senate-race-2026/6567183/",
+   "d": "2026-11-04",
+   "q": "nbcnewyork.com",
+   "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Donald Trump farm subsidies hit $47b as Aussie growers suffer | Farm Weekly",
+   "u": "https://www.farmweekly.com.au/story/9385186/donald-trump-farm-subsidies-hit-47b-as-aussie-growers-suffer/",
+   "d": "2026-11-04",
+   "q": "farmweekly.com.au",
+   "type": "rohstoffe",
+   "c": "na"
+  },
+  {
+   "t": "Brewery founder charged with defrauding investors",
+   "u": "https://www.denverpost.com/2026/11/03/live-slow-brewing-grant-babb-fraud/",
+   "d": "2026-11-04",
+   "q": "denverpost.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Indus Towers eyes 100K solar sites by FY29 , says MD & CEO Prachur Sah",
+   "u": "https://www.business-standard.com/companies/people/indus-towers-targets-100-000-solar-installations-by-fy29-md-ceo-126110301846_1.html",
+   "d": "2026-11-04",
+   "q": "business-standard.com",
+   "type": "rohstoffe",
+   "c": "na"
+  },
+  {
+   "t": "France 24 Links Trump Tariffs to Rising U . S . Small - Business Bankruptcies",
+   "u": "https://econotimes.com/France-24-Links-Trump-Tariffs-to-Rising-U-S-Small-Business-Bankruptcies-1770383",
+   "d": "2026-11-04",
+   "q": "econotimes.com",
+   "type": "politik",
+   "c": null
+  },
+  {
+   "t": "China food security foundation further enhanced : report",
+   "u": "http://europe.chinadaily.com.cn/a/202611/03/WS6ae9c3d4e4b06d4aa0566d11.html",
+   "d": "2026-11-04",
+   "q": "europe.chinadaily.com.cn",
+   "type": "rohstoffe",
+   "c": "as"
+  },
   {
    "t": "Trump admin will cut South Africa , Rwanda from AGOA trade program",
    "u": "https://www.wxii12.com/article/trump-cut-south-africa-rwanda-agoa-trade-program/74316061",
