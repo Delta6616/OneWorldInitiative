@@ -1,8 +1,16 @@
 {
- "stand": "2026-11-05T08:58:14Z",
+ "stand": "2026-11-05T10:01:36Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Pasta - Geheimnis – Starkoch warnt : DAS macht jedes Nudelgericht zunichte",
+   "u": "https://www.heute.at/s/starkoch-warnt-das-macht-jedes-nudelgericht-zunichte-120276758",
+   "d": "2026-11-05",
+   "q": "heute.at",
+   "type": "energie",
+   "c": null
+  },
   {
    "t": "Northern Michigan Consumers Could Pay the Price if Opponents Shut Down Line 5",
    "u": "https://www.stignacenews.com/articles/northern-michigan-consumers-could-pay-the-price-if-opponents-shut-down-line-5/",
