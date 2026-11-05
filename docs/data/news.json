@@ -1,8 +1,24 @@
 {
- "stand": "2026-11-05T21:45:58Z",
+ "stand": "2026-11-05T22:48:09Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Pro - Morocco Congressman Joe Wilson Wins 14th Term , Keeps Up Polisario Pressure",
+   "u": "https://www.moroccoworldnews.com/2026/11/345220/pro-morocco-congressman-joe-wilson-wins-14th-term-keeps-up-polisario-pressure/",
+   "d": "2026-11-05",
+   "q": "moroccoworldnews.com",
+   "type": "politik",
+   "c": "af"
+  },
+  {
+   "t": "US escalates economic campaign against Cuba and targets China - based suppliers",
+   "u": "https://www.klkntv.com/i/us-escalates-economic-campaign-against-cuba-and-targets-china-based-suppliers/",
+   "d": "2026-11-05",
+   "q": "klkntv.com",
+   "type": "politik",
+   "c": null
+  },
   {
    "t": "Pasta - Geheimnis – Starkoch warnt : DAS macht jedes Nudelgericht zunichte",
    "u": "https://www.heute.at/s/starkoch-warnt-das-macht-jedes-nudelgericht-zunichte-120276758",
