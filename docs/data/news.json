@@ -1,8 +1,16 @@
 {
- "stand": "2026-11-06T09:59:50Z",
+ "stand": "2026-11-06T11:00:06Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Tanker War Continues : Iran Says 5 Ships Hit Naval Mines In Last 24 Hours",
+   "u": "https://www.zerohedge.com/geopolitical/tanker-war-continues-iran-says-5-ships-hit-naval-mines-last-24-hours",
+   "d": "2026-11-06",
+   "q": "zerohedge.com",
+   "type": "logistik",
+   "c": "as"
+  },
   {
    "t": "Studie warnt vor Wasserstress durch neue Mega - Rechenzentren",
    "u": "https://www.weser-kurier.de/ratgeber/digitales/studie-warnt-vor-wasserstress-durch-neue-mega-rechenzentren-doc88clu4aevg6r4wrdbts",
@@ -25,6 +33,14 @@
    "d": "2026-11-06",
    "q": "wcax.com",
    "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Ölpreise steigen wieder",
+   "u": "https://www.watson.ch/wirtschaft/oel/462130708-oelpreise-steigen-wieder",
+   "d": "2026-11-06",
+   "q": "watson.ch",
+   "type": "politik",
    "c": null
   },
   {
@@ -68,6 +84,14 @@
    "c": "as"
   },
   {
+   "t": "Azerbaijan Azeri Light crude price grows to $106 . 84 per barrel",
+   "u": "https://www.trend.az/azerbaijan/4243568.html",
+   "d": "2026-11-06",
+   "q": "trend.az",
+   "type": "logistik",
+   "c": null
+  },
+  {
    "t": "Cargill und Klim fördern regenerative Landwirtschaft in Ostdeutschland",
    "u": "https://www.topagrar.com/acker/news/cargill-und-klim-wollen-regenerative-landwirtschaft-in-deutschland-voran-bringen-20030884.html",
    "d": "2026-11-06",
@@ -97,6 +121,14 @@
    "d": "2026-11-06",
    "q": "stcatharinesstandard.ca",
    "type": "finanz",
+   "c": "na"
+  },
+  {
+   "t": "Kuba : united states haben neue Sanktionen verhängt – und treffen damit erstmals chinesische Unternehmen",
+   "u": "https://www.spiegel.de/ausland/kuba-usa-haben-neue-sanktionen-verhaengt-und-treffen-damit-erstmals-chinesische-unternehmen-a-eaa0e733-1f01-438f-9bdf-af726432567b",
+   "d": "2026-11-06",
+   "q": "spiegel.de",
+   "type": "politik",
    "c": "na"
   },
   {
@@ -188,6 +220,14 @@
    "c": null
   },
   {
+   "t": "US escalates economic campaign against Cuba and targets China - based suppliers",
+   "u": "https://www.messenger-inquirer.com/news/us-escalates-economic-campaign-against-cuba-and-targets-china-based-suppliers/article_86550c5c-ec94-5b64-b2d1-d824e5771a00.html",
+   "d": "2026-11-06",
+   "q": "messenger-inquirer.com",
+   "type": "politik",
+   "c": null
+  },
+  {
    "t": "Gold safe - haven status is fading ; dont accumulate indiscriminately , says Hitesh Jain of Yes Securities",
    "u": "https://www.livemint.com/market/stock-market-news/golds-safe-haven-status-is-fading-don-t-accumulate-indiscriminately-says-hitesh-jain-of-yes-securities-11793849608912.html",
    "d": "2026-11-06",
@@ -244,6 +284,14 @@
    "c": null
   },
   {
+   "t": "Wirtschaft - US - Regierung bringt neue Sanktionen gegen Kuba auf den Weg",
+   "u": "https://www.deutschlandfunk.de/us-regierung-bringt-neue-sanktionen-gegen-kuba-auf-den-weg-100.html",
+   "d": "2026-11-06",
+   "q": "deutschlandfunk.de",
+   "type": "politik",
+   "c": "na"
+  },
+  {
    "t": "Indonesians snap up government bonds as yields near 8 %: OCBC",
    "u": "https://www.businesstimes.com.sg/international/asean/wealthy-indonesians-snap-government-bonds-yields-near-8-ocbc",
    "d": "2026-11-06",
@@ -252,28 +300,12 @@
    "c": "as"
   },
   {
-   "t": "44 Prozent : Kontrollen bei Schweinehaltern decken illegalen Antibiotika - Einsatz auf",
-   "u": "https://www.agrarheute.com/tier/schwein/44-prozent-kontrollen-schweinehaltern-decken-illegalen-antibiotika-einsatz-643759",
+   "t": "Arab News | Iran Guards say two tankers caught fire in Hormuz",
+   "u": "https://www.arabnews.com/middle-east/iran-guards-say-two-tankers-caught-fire-in-hormuz-3010129",
    "d": "2026-11-06",
-   "q": "agrarheute.com",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "70 years since the Suez Crisis – the demise of  Perfidious Albion  - Workers Revolutionary Party",
-   "u": "https://wrp.org.uk/features/70-years-since-the-suez-crisis-the-demise-of-perfidious-albion/",
-   "d": "2026-11-06",
-   "q": "wrp.org.uk",
+   "q": "arabnews.com",
    "type": "logistik",
-   "c": null
-  },
-  {
-   "t": "No , Republicans Didnt Lose the Midterms Because of the Iran War or Trump Promise of  No New Wars",
-   "u": "https://townhall.com/news/dmitri-bolt/2026/11/05/the-iran-war-is-not-to-blame-for-the-blue-wave-n2685996",
-   "d": "2026-11-06",
-   "q": "townhall.com",
-   "type": "politik",
-   "c": null
+   "c": "as"
   },
   {
    "t": "Paraguay : Bankenkrise kostet Präsidenten den Kopf",
@@ -282,14 +314,6 @@
    "q": "orf.at",
    "type": "finanz",
    "c": null
-  },
-  {
-   "t": "Trump must restore  smart populism  and save his presidency",
-   "u": "https://nypost.com/2026/11/05/opinion/trump-must-restore-smart-populism-and-save-his-presidency/",
-   "d": "2026-11-06",
-   "q": "nypost.com",
-   "type": "politik",
-   "c": "na"
   },
   {
    "t": "MARAD Approves $1 Billion Offshore Crude Oil Export Port Off Louisiana",
@@ -305,14 +329,6 @@
    "d": "2026-11-06",
    "q": "aninews.in",
    "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "NHIA disburses GHC210million to healthcare providers , warns against illegal charges",
-   "u": "http://www.businessghana.com/site/news/general/359149/NHIA-disburses-GHC210million-to-healthcare-providers,-warns-against-illegal-charges",
-   "d": "2026-11-06",
-   "q": "businessghana.com",
-   "type": "politik",
    "c": null
   },
   {
@@ -418,14 +434,6 @@
    "q": "latimes.com",
    "type": "politik",
    "c": "na"
-  },
-  {
-   "t": "US escalates economic campaign against Cuba and targets China - based suppliers",
-   "u": "https://www.klkntv.com/i/us-escalates-economic-campaign-against-cuba-and-targets-china-based-suppliers/",
-   "d": "2026-11-05",
-   "q": "klkntv.com",
-   "type": "politik",
-   "c": null
   },
   {
    "t": "Brazos Valley drought continues into November",
