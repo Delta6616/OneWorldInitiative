@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-06T05:57:57Z",
+ "stand": "2026-11-06T06:20:09Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -124,6 +124,14 @@
    "c": "na"
   },
   {
+   "t": "US - Plan für Ukraine - Krieg : Wieder russisches Gas nach Europa ?",
+   "u": "https://www.hna.de/wirtschaft/us-plan-fuer-ukraine-krieg-wieder-russisches-gas-nach-europa-zr-94576717.html",
+   "d": "2026-11-06",
+   "q": "hna.de",
+   "type": "energie",
+   "c": "eu"
+  },
+  {
    "t": "Royal Caribbean lässt neues Riesenschiff in Europa starten – Europe Online Magazine",
    "u": "https://www.europeonline-magazine.eu/royal-caribbean-laesst-neues-riesenschiff-in-europa-starten/",
    "d": "2026-11-06",
@@ -200,14 +208,6 @@
    "u": "https://gcaptain.com/marad-approves-1-billion-offshore-crude-oil-export-port-off-louisiana/",
    "d": "2026-11-06",
    "q": "gcaptain.com",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "ONGC Q2 net profit rises 57 % to Rs 15 , 489 crore on higher crude realisations",
-   "u": "https://aninews.in/news/business/ongc-q2-net-profit-rises-57-to-rs-15489-crore-on-higher-crude-realisations-16020261105215651/",
-   "d": "2026-11-06",
-   "q": "aninews.in",
    "type": "energie",
    "c": null
   },
