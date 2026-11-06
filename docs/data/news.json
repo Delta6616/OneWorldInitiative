@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-06T03:52:59Z",
+ "stand": "2026-11-06T04:57:19Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -42,6 +42,14 @@
    "q": "vol.at",
    "type": "energie",
    "c": "as"
+  },
+  {
+   "t": "Pembina Pipeline ( TSE : PPL ) Posts Earnings Results",
+   "u": "https://www.themarketsdaily.com/2026/11/06/pembina-pipeline-tseppl-posts-earnings-results.html",
+   "d": "2026-11-06",
+   "q": "themarketsdaily.com",
+   "type": "energie",
+   "c": null
   },
   {
    "t": "This budget should really include a note of thanks to Trump",
@@ -156,11 +164,35 @@
    "c": null
   },
   {
+   "t": "Trump must restore  smart populism  and save his presidency",
+   "u": "https://nypost.com/2026/11/05/opinion/trump-must-restore-smart-populism-and-save-his-presidency/",
+   "d": "2026-11-06",
+   "q": "nypost.com",
+   "type": "politik",
+   "c": "na"
+  },
+  {
    "t": "MARAD Approves $1 Billion Offshore Crude Oil Export Port Off Louisiana",
    "u": "https://gcaptain.com/marad-approves-1-billion-offshore-crude-oil-export-port-off-louisiana/",
    "d": "2026-11-06",
    "q": "gcaptain.com",
    "type": "energie",
+   "c": null
+  },
+  {
+   "t": "ONGC Q2 net profit rises 57 % to Rs 15 , 489 crore on higher crude realisations",
+   "u": "https://aninews.in/news/business/ongc-q2-net-profit-rises-57-to-rs-15489-crore-on-higher-crude-realisations-16020261105215651/",
+   "d": "2026-11-06",
+   "q": "aninews.in",
+   "type": "energie",
+   "c": null
+  },
+  {
+   "t": "NHIA disburses GHC210million to healthcare providers , warns against illegal charges",
+   "u": "http://www.businessghana.com/site/news/general/359149/NHIA-disburses-GHC210million-to-healthcare-providers,-warns-against-illegal-charges",
+   "d": "2026-11-06",
+   "q": "businessghana.com",
+   "type": "politik",
    "c": null
   },
   {
