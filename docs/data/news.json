@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-06T07:11:24Z",
+ "stand": "2026-11-06T08:55:48Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -202,6 +202,22 @@
    "q": "hna.de",
    "type": "energie",
    "c": "eu"
+  },
+  {
+   "t": "Iran - Krieg aktuell : Trump entscheidet über drei Optionen",
+   "u": "https://www.hna.de/politik/trumps-iran-entscheidung-optionen-und-hormus-drohung-zr-94576801.html",
+   "d": "2026-11-06",
+   "q": "hna.de",
+   "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "Ölpreise legen weiter zu - Brent knapp unter 100 US - Dollar",
+   "u": "https://www.finanznachrichten.de/nachrichten-2026-11/70054480-oelpreise-legen-weiter-zu-brent-knapp-unter-100-us-dollar-016.htm",
+   "d": "2026-11-06",
+   "q": "finanznachrichten.de",
+   "type": "logistik",
+   "c": "na"
   },
   {
    "t": "Royal Caribbean lässt neues Riesenschiff in Europa starten – Europe Online Magazine",
