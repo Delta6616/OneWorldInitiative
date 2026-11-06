@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-06T12:59:35Z",
+ "stand": "2026-11-06T14:13:53Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -25,6 +25,14 @@
    "d": "2026-11-06",
    "q": "welt.de",
    "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "Gefahrgutunfall : Einige Schulen in Krefeld geschlossen",
+   "u": "https://www.welt.de/regionales/nrw/article6aed6b2a47b5fce02f879ac8/gefahrgutunfall-einige-schulen-in-krefeld-geschlossen.html",
+   "d": "2026-11-06",
+   "q": "welt.de",
+   "type": "rohstoffe",
    "c": null
   },
   {
@@ -92,6 +100,14 @@
    "c": "as"
   },
   {
+   "t": "ADNOC , Gujarat Energy ink deal for 4 million tonnes of LNG supply",
+   "u": "https://www.trend.az/world/arab/4243726.html",
+   "d": "2026-11-06",
+   "q": "trend.az",
+   "type": "energie",
+   "c": null
+  },
+  {
    "t": "Azerbaijan Azeri Light crude price grows to $106 . 84 per barrel",
    "u": "https://www.trend.az/azerbaijan/4243568.html",
    "d": "2026-11-06",
@@ -116,6 +132,14 @@
    "c": null
   },
   {
+   "t": "Brand auf Netzbooster - Baustelle in Kupferzell : Flammen schlagen meterhoch",
+   "u": "https://www.stimme.de/hohenlohe/feuer-netzbooster-baustelle-kupferzell-flammen-meterhoch-hoher-schaden-eine-halbe-million-euro-kabelbrand-art-5231729",
+   "d": "2026-11-06",
+   "q": "stimme.de",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
    "t": "This budget should really include a note of thanks to Trump",
    "u": "https://www.stcatharinesstandard.ca/rolling-file/this-budget-should-really-include-a-note-of-thanks-to-trump/article_839de5a6-c8e8-5277-9b2e-460b45a5f82f.html",
    "d": "2026-11-06",
@@ -130,6 +154,14 @@
    "q": "stcatharinesstandard.ca",
    "type": "finanz",
    "c": "na"
+  },
+  {
+   "t": "Krefeld : Lkw mit Salpetersäure umgekippt – einige Schulen und Kitas geschlossen",
+   "u": "https://www.spiegel.de/panorama/krefeld-lkw-mit-salpetersaeure-umgekippt-einige-schulen-und-kitas-geschlossen-a-ff2da1d1-2664-4e29-bede-46b798061309",
+   "d": "2026-11-06",
+   "q": "spiegel.de",
+   "type": "rohstoffe",
+   "c": null
   },
   {
    "t": "Kuba : united states haben neue Sanktionen verhängt – und treffen damit erstmals chinesische Unternehmen",
@@ -161,6 +193,14 @@
    "d": "2026-11-06",
    "q": "sandiegouniontribune.com",
    "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Paraguay president resigns after digital bank collapse",
+   "u": "https://www.samaa.tv/2087359777-paraguay-president-resigns-after-digital-bank-collapse",
+   "d": "2026-11-06",
+   "q": "samaa.tv",
+   "type": "finanz",
    "c": null
   },
   {
@@ -200,6 +240,14 @@
    "u": "https://www.ots.at/presseaussendung/OTS_20261106_OTS0042/holzheizungen-sind-oberoesterreichs-wichtigste-raumwaermequelle",
    "d": "2026-11-06",
    "q": "ots.at",
+   "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Usman Memon Traders Brings Its 13 Home and Construction Services",
+   "u": "https://www.openpr.com/news/4683246/usman-memon-traders-brings-its-13-home-and-construction-services",
+   "d": "2026-11-06",
+   "q": "openpr.com",
    "type": "energie",
    "c": null
   },
@@ -248,8 +296,16 @@
    "u": "https://www.n-tv.de/politik/00-23-Gruene-empoert-ueber-AfD-Bundestagstermin-mit-Julija-Mendel-id30859357.html",
    "d": "2026-11-06",
    "q": "n-tv.de",
-   "type": "energie",
+   "type": "politik",
    "c": "eu"
+  },
+  {
+   "t": "Gefahrgutunfall auf der A57 : Lkw mit Salpetersäure kippt um - vier Krefelder Schulen bleiben zu",
+   "u": "https://www.n-tv.de/panorama/Lkw-mit-Salpetersaeure-kippt-um-vier-Krefelder-Schulen-bleiben-zu-id31502048.html",
+   "d": "2026-11-06",
+   "q": "n-tv.de",
+   "type": "rohstoffe",
+   "c": null
   },
   {
    "t": "Dow Jones Top Markets Headlines at 9 PM ET : Wall Street Gets $2 . 5 Trillion AI Reality Check With Historic Rout of Tech Stocks | A ...",
@@ -268,11 +324,11 @@
    "c": null
   },
   {
-   "t": "US escalates economic campaign against Cuba and targets China - based suppliers",
-   "u": "https://www.messenger-inquirer.com/news/us-escalates-economic-campaign-against-cuba-and-targets-china-based-suppliers/article_86550c5c-ec94-5b64-b2d1-d824e5771a00.html",
+   "t": "Premiere im November : Theatergruppe Sandkorn setzt zum 50 . Jubiläum auf „ Braunschlog",
+   "u": "https://www.meinbezirk.at/weiz/c-leute/theatergruppe-sandkorn-setzt-zum-50-jubilaeum-auf-braunschlog_a8996016",
    "d": "2026-11-06",
-   "q": "messenger-inquirer.com",
-   "type": "politik",
+   "q": "meinbezirk.at",
+   "type": "rohstoffe",
    "c": null
   },
   {
@@ -292,11 +348,19 @@
    "c": null
   },
   {
-   "t": "US - Plan für Ukraine - Krieg : Wieder russisches Gas nach Europa ?",
-   "u": "https://www.hna.de/wirtschaft/us-plan-fuer-ukraine-krieg-wieder-russisches-gas-nach-europa-zr-94576717.html",
+   "t": "E - Bike - Akku richtig laden & pflegen : 5 Fehler vermeiden",
+   "u": "https://www.ksta.de:443/shoppingwelt/e-bike-akku-richtig-laden-pflegen-lebensdauer-verkuerzen-fehler-vermeiden-19-1369421",
    "d": "2026-11-06",
-   "q": "hna.de",
-   "type": "energie",
+   "q": "ksta.de:443",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Industrieproduktion in Deutschland wächst überraschend",
+   "u": "https://www.infranken.de/deutschland/industrieproduktion-in-deutschland-waechst-ueberraschend-art-6409159",
+   "d": "2026-11-06",
+   "q": "infranken.de",
+   "type": "rohstoffe",
    "c": "eu"
   },
   {
@@ -313,22 +377,6 @@
    "d": "2026-11-06",
    "q": "express.co.uk",
    "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "Warme Donau : Was in Wien auf dem Spiel steht",
-   "u": "https://www.diepresse.com/a/41423629/warme-donau-was-in-wien-auf-dem-spiel-steht",
-   "d": "2026-11-06",
-   "q": "diepresse.com",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Wie präzise Wetterprognosen vor Extremwetter schützen",
-   "u": "https://www.diepresse.com/a/41380548/wie-praezise-wetterprognosen-vor-extremwetter-schuetzen",
-   "d": "2026-11-06",
-   "q": "diepresse.com",
-   "type": "rohstoffe",
    "c": null
   },
   {
@@ -352,14 +400,6 @@
    "u": "https://orf.at/stories/3447309/",
    "d": "2026-11-06",
    "q": "orf.at",
-   "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "Paraguay President Santiago Peña announces resignation amid bank crisis affecting 3 million customers",
-   "u": "https://dailypioneer.com/world/paraguay-president-santiago-pe%C3%B1a-announces-resignation-amid-bank-crisis-affecting-3-million-customers",
-   "d": "2026-11-06",
-   "q": "dailypioneer.com",
    "type": "finanz",
    "c": null
   },
@@ -466,6 +506,14 @@
    "q": "latimes.com",
    "type": "politik",
    "c": "na"
+  },
+  {
+   "t": "US escalates economic campaign against Cuba and targets China - based suppliers",
+   "u": "https://www.klkntv.com/i/us-escalates-economic-campaign-against-cuba-and-targets-china-based-suppliers/",
+   "d": "2026-11-05",
+   "q": "klkntv.com",
+   "type": "politik",
+   "c": null
   },
   {
    "t": "Brazos Valley drought continues into November",
