@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-06T02:54:56Z",
+ "stand": "2026-11-06T03:52:59Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -28,6 +28,22 @@
    "c": null
   },
   {
+   "t": "Börsen : Südkoreas Börse bricht wegen Sorgen um KI und Ölpreise ein",
+   "u": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/sudkoreas-borse-bricht-wegen-sorgen-um-ki-und-olpreise-ein-4351325",
+   "d": "2026-11-06",
+   "q": "volksstimme.de",
+   "type": "energie",
+   "c": "as"
+  },
+  {
+   "t": "Putin und Irans Sicherheitschef diskutieren Gaspipeline",
+   "u": "https://www.vol.at/putin-und-irans-sicherheitschef-fuehren-gespraeche-in-moskau/10624847",
+   "d": "2026-11-06",
+   "q": "vol.at",
+   "type": "energie",
+   "c": "as"
+  },
+  {
    "t": "This budget should really include a note of thanks to Trump",
    "u": "https://www.stcatharinesstandard.ca/rolling-file/this-budget-should-really-include-a-note-of-thanks-to-trump/article_839de5a6-c8e8-5277-9b2e-460b45a5f82f.html",
    "d": "2026-11-06",
@@ -52,6 +68,14 @@
    "c": null
   },
   {
+   "t": "Südkoreas Börse bricht wegen Sorgen um KI und Ölpreise ein",
+   "u": "https://www.shz.de/deutschland-welt/wirtschaft/artikel/suedkoreas-boerse-bricht-wegen-sorgen-um-ki-und-olpreise-ein-51706898",
+   "d": "2026-11-06",
+   "q": "shz.de",
+   "type": "energie",
+   "c": "as"
+  },
+  {
    "t": "$10B deal that reduces Sempra LNG footprint about to get signed – San Diego Union - Tribune",
    "u": "https://www.sandiegouniontribune.com/2026/11/05/10b-deal-that-reduces-sempras-lng-footprint-about-to-get-signed/",
    "d": "2026-11-06",
@@ -60,11 +84,27 @@
    "c": null
   },
   {
+   "t": "Ukraine - Krieg im Liveticker : +++ 01 : 23 Selenskyj : Russland zieht verschleppte ukrainische Kinder in die Armee ein +++",
+   "u": "https://www.n-tv.de/politik/01-23-Selenskyj-Russland-zieht-verschleppte-ukrainische-Kinder-in-die-Armee-ein-id30859357.html",
+   "d": "2026-11-06",
+   "q": "n-tv.de",
+   "type": "energie",
+   "c": "eu"
+  },
+  {
    "t": "Ukraine - Krieg im Liveticker : +++ 00 : 23 Grüne empört über AfD - Bundestagstermin mit Julija Mendel +++",
    "u": "https://www.n-tv.de/politik/00-23-Gruene-empoert-ueber-AfD-Bundestagstermin-mit-Julija-Mendel-id30859357.html",
    "d": "2026-11-06",
    "q": "n-tv.de",
-   "type": "politik",
+   "type": "energie",
+   "c": "eu"
+  },
+  {
+   "t": "Royal Caribbean lässt neues Riesenschiff in Europa starten – Europe Online Magazine",
+   "u": "https://www.europeonline-magazine.eu/royal-caribbean-laesst-neues-riesenschiff-in-europa-starten/",
+   "d": "2026-11-06",
+   "q": "europeonline-magazine.eu",
+   "type": "energie",
    "c": "eu"
   },
   {
@@ -89,6 +129,14 @@
    "d": "2026-11-06",
    "q": "agrarheute.com",
    "type": "politik",
+   "c": null
+  },
+  {
+   "t": "70 years since the Suez Crisis – the demise of  Perfidious Albion  - Workers Revolutionary Party",
+   "u": "https://wrp.org.uk/features/70-years-since-the-suez-crisis-the-demise-of-perfidious-albion/",
+   "d": "2026-11-06",
+   "q": "wrp.org.uk",
+   "type": "logistik",
    "c": null
   },
   {
