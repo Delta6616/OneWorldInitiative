@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-06T04:57:19Z",
+ "stand": "2026-11-06T05:57:57Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -108,6 +108,22 @@
    "c": "eu"
   },
   {
+   "t": "Dow Jones Top Markets Headlines at 9 PM ET : Wall Street Gets $2 . 5 Trillion AI Reality Check With Historic Rout of Tech Stocks | A ...",
+   "u": "https://www.morningstar.com/news/dow-jones/2026110526443/dow-jones-top-markets-headlines-at-9-pm-et-wall-street-gets-25-trillion-ai-reality-check-with-historic-rout-of-tech-stocks-a",
+   "d": "2026-11-06",
+   "q": "morningstar.com",
+   "type": "finanz",
+   "c": "na"
+  },
+  {
+   "t": "Gold safe - haven status is fading ; dont accumulate indiscriminately , says Hitesh Jain of Yes Securities",
+   "u": "https://www.livemint.com/market/stock-market-news/golds-safe-haven-status-is-fading-don-t-accumulate-indiscriminately-says-hitesh-jain-of-yes-securities-11793849608912.html",
+   "d": "2026-11-06",
+   "q": "livemint.com",
+   "type": "finanz",
+   "c": "na"
+  },
+  {
    "t": "Royal Caribbean lässt neues Riesenschiff in Europa starten – Europe Online Magazine",
    "u": "https://www.europeonline-magazine.eu/royal-caribbean-laesst-neues-riesenschiff-in-europa-starten/",
    "d": "2026-11-06",
@@ -130,6 +146,14 @@
    "q": "diepresse.com",
    "type": "rohstoffe",
    "c": null
+  },
+  {
+   "t": "Indonesians snap up government bonds as yields near 8 %: OCBC",
+   "u": "https://www.businesstimes.com.sg/international/asean/wealthy-indonesians-snap-government-bonds-yields-near-8-ocbc",
+   "d": "2026-11-06",
+   "q": "businesstimes.com.sg",
+   "type": "finanz",
+   "c": "as"
   },
   {
    "t": "44 Prozent : Kontrollen bei Schweinehaltern decken illegalen Antibiotika - Einsatz auf",
@@ -185,6 +209,14 @@
    "d": "2026-11-06",
    "q": "aninews.in",
    "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Gold loan growth surges 83 % YoY in Oct , outpaces core retail credit : Report",
+   "u": "https://aninews.in/news/business/gold-loan-growth-surges-83-yoy-in-oct-outpaces-core-retail-credit-report20261106084246/",
+   "d": "2026-11-06",
+   "q": "aninews.in",
+   "type": "finanz",
    "c": null
   },
   {
