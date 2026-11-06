@@ -1,8 +1,88 @@
 {
- "stand": "2026-11-05T23:44:05Z",
+ "stand": "2026-11-06T01:02:07Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Moderate drought expands to cover nearly a third of Vermont",
+   "u": "https://www.wcax.com/2026/11/05/moderate-drought-expands-cover-nearly-third-vermont/",
+   "d": "2026-11-06",
+   "q": "wcax.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Tages - Trading - Chancen am Donnerstag den 15 . 02 . 2024",
+   "u": "https://www.wallstreet-online.de/diskussion/500-beitraege/1375764-1-500/tages-trading-chancen-donnerstag-15-02-2024",
+   "d": "2026-11-06",
+   "q": "wallstreet-online.de",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Tages - Trading - Chancen am Dienstag den 02 . 01 . 2024",
+   "u": "https://www.wallstreet-online.de/diskussion/500-beitraege/1374780-1-500/tages-trading-chancen-dienstag-02-01-2024",
+   "d": "2026-11-06",
+   "q": "wallstreet-online.de",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Bank of Canada keeps 2 % inflation target in mandate renewal",
+   "u": "https://www.stcatharinesstandard.ca/business/bank-of-canada-keeps-2-inflation-target-in-mandate-renewal/article_1e76b553-d5c6-546a-967f-3ffc92ef6750.html",
+   "d": "2026-11-06",
+   "q": "stcatharinesstandard.ca",
+   "type": "finanz",
+   "c": "na"
+  },
+  {
+   "t": "6 . November 1991 : Beginn der Alpenkonferenz in Salzburg , als deren Ergebnis das  Übereinkommen zum Schutz der Alpen  ( sog . Alpenkonvention ) unterzeichnet wird",
+   "u": "https://www.sn.at/panorama/wissen/6-november-1991-beginn-der-alpenkonferenz-in-salzburg-als-deren-ergebnis-das-uebereinkommen-zum-schutz-der-alpen-sog-alpenkonvention-unterzeichnet-wird-art-681826",
+   "d": "2026-11-06",
+   "q": "sn.at",
+   "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "GPS - Störungen auf der Ostsee nehmen zu : Russische Kriegsschiffe unter Verdacht",
+   "u": "https://www.wz-net.de/weltweit/politik/gps-stoerungen-ostsee-nehmen-russische-kriegsschiffe-verdach-id313906.html",
+   "d": "2026-11-05",
+   "q": "wz-net.de",
+   "type": "logistik",
+   "c": "eu"
+  },
+  {
+   "t": "Rezept : Skartoffelgnocchi mit Käsesoße und Salat",
+   "u": "https://www.swr.de/leben/rezepte/vegetarisch-und-vegan/suesskartoffelgnocchi-mit-kaesesosse-und-salat-100.html",
+   "d": "2026-11-05",
+   "q": "swr.de",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Soaring diesel prices helped usher in Democratic sweep",
+   "u": "https://www.sidneyherald.com/news/national/soaring-diesel-prices-helped-usher-in-democratic-sweep",
+   "d": "2026-11-05",
+   "q": "sidneyherald.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "MARKETS LIVE : Wall Street closes sharply lower as AI selloff wipes out post - election gains",
+   "u": "https://www.proactiveinvestors.com/companies/news/1101271/markets-live-wall-street-closes-sharply-lower-as-ai-selloff-wipes-out-post-election-gains-1101271.html",
+   "d": "2026-11-05",
+   "q": "proactiveinvestors.com",
+   "type": "finanz",
+   "c": "na"
+  },
+  {
+   "t": "Another Decent Drop as Mortgage Rates Move Under 7 . 2 %",
+   "u": "https://www.mortgagenewsdaily.com:443/markets/mortgage-rates-11052026",
+   "d": "2026-11-05",
+   "q": "mortgagenewsdaily.com:443",
+   "type": "finanz",
+   "c": null
+  },
   {
    "t": "Pro - Morocco Congressman Joe Wilson Wins 14th Term , Keeps Up Polisario Pressure",
    "u": "https://www.moroccoworldnews.com/2026/11/345220/pro-morocco-congressman-joe-wilson-wins-14th-term-keeps-up-polisario-pressure/",
@@ -10,6 +90,14 @@
    "q": "moroccoworldnews.com",
    "type": "politik",
    "c": "af"
+  },
+  {
+   "t": "AMG Increases Guidance Following Strong Third Quarter 2026 Earnings",
+   "u": "https://www.manilatimes.net/2026/11/06/tmt-newswire/globenewswire/amg-increases-guidance-following-strong-third-quarter-2026-earnings/2463638",
+   "d": "2026-11-05",
+   "q": "manilatimes.net",
+   "type": "rohstoffe",
+   "c": null
   },
   {
    "t": "US escalates economic campaign against Cuba and targets China - based suppliers",
@@ -20,11 +108,91 @@
    "c": null
   },
   {
+   "t": "Brazos Valley drought continues into November",
+   "u": "https://www.kbtx.com/2026/11/05/brazos-valley-drought-continues-into-november/",
+   "d": "2026-11-05",
+   "q": "kbtx.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Iran Weighs Nuclear Proposals As Qatar Pushes To Avert Renewed US Strikes - Report",
+   "u": "https://www.i24news.tv/en/news/middle-east/iran-eastern-states/artc-iran-weighs-nuclear-proposals-as-qatar-pushes-to-avert-renewed-us-strikes-report",
+   "d": "2026-11-05",
+   "q": "i24news.tv",
+   "type": "logistik",
+   "c": "as"
+  },
+  {
    "t": "Pasta - Geheimnis – Starkoch warnt : DAS macht jedes Nudelgericht zunichte",
    "u": "https://www.heute.at/s/starkoch-warnt-das-macht-jedes-nudelgericht-zunichte-120276758",
    "d": "2026-11-05",
    "q": "heute.at",
    "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Funky Taurus Media - Music Photo Agency & Products",
+   "u": "https://www.funkytaurusmedia.com/shop_content.php?coID=3&XTCsid=94621h6t4gubntdfmg84hoqf44",
+   "d": "2026-11-05",
+   "q": "funkytaurusmedia.com",
+   "type": "logistik",
+   "c": "na"
+  },
+  {
+   "t": "Funky Taurus Media - Music Photo Agency & Products - Liefer - und Versandkosten",
+   "u": "https://www.funkytaurusmedia.com/shop_content.php?coID=1&XTCsid=94621h6t4gubntdfmg84hoqf44",
+   "d": "2026-11-05",
+   "q": "funkytaurusmedia.com",
+   "type": "logistik",
+   "c": "na"
+  },
+  {
+   "t": "Adventskalender 2026 : Das sind die Top 10 Bestseller bei Amazon",
+   "u": "https://www.express.de:443/shoppingwelt/adventskalender-amazon-2026-lego-werkzeug-bestseller-top10-9-1404181",
+   "d": "2026-11-05",
+   "q": "express.de:443",
+   "type": "logistik",
+   "c": "sa"
+  },
+  {
+   "t": "Brent crude jumps , settles up over US$3 after tanker attacks",
+   "u": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/brent-crude-jumps-settles-over-us3-after-tanker-attacks",
+   "d": "2026-11-05",
+   "q": "businesstimes.com.sg",
+   "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "Schiffbruch von 1873 : Archäologen auf den Spuren der „ Espora",
+   "u": "https://www.berliner-zeitung.de:443/article/schiffbruch-von-1873-archaeologen-auf-den-spuren-der-espora-10568646",
+   "d": "2026-11-05",
+   "q": "berliner-zeitung.de:443",
+   "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "Paraguay President Resigns : Three Million Bank Customers Still Cant Get Their Money – RedState",
+   "u": "https://redstate.com/ben-smith/2026/11/05/paraguays-president-resigns-three-million-bank-customers-still-cant-get-their-money-n2209074",
+   "d": "2026-11-05",
+   "q": "redstate.com",
+   "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "Diddy Prison Birthday Meal Revealed As He Turns 57 Behind Bars",
+   "u": "https://kissalbany.iheart.com/content/2026-11-05-diddys-prison-birthday-meal-revealed-as-he-turns-57-behind-bars/",
+   "d": "2026-11-05",
+   "q": "kissalbany.iheart.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "President of Paraguay Resigns as Country Largest Digital Bank Seized",
+   "u": "https://hotair.com/tree-hugging-sister/2026/11/05/president-of-paraguay-resigns-as-countrys-largest-digital-bank-fails-n3820695",
+   "d": "2026-11-05",
+   "q": "hotair.com",
+   "type": "finanz",
    "c": null
   },
   {
