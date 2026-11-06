@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-06T01:02:07Z",
+ "stand": "2026-11-06T02:09:58Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -28,6 +28,14 @@
    "c": null
   },
   {
+   "t": "This budget should really include a note of thanks to Trump",
+   "u": "https://www.stcatharinesstandard.ca/rolling-file/this-budget-should-really-include-a-note-of-thanks-to-trump/article_839de5a6-c8e8-5277-9b2e-460b45a5f82f.html",
+   "d": "2026-11-06",
+   "q": "stcatharinesstandard.ca",
+   "type": "politik",
+   "c": "na"
+  },
+  {
    "t": "Bank of Canada keeps 2 % inflation target in mandate renewal",
    "u": "https://www.stcatharinesstandard.ca/business/bank-of-canada-keeps-2-inflation-target-in-mandate-renewal/article_1e76b553-d5c6-546a-967f-3ffc92ef6750.html",
    "d": "2026-11-06",
@@ -44,12 +52,92 @@
    "c": null
   },
   {
+   "t": "$10B deal that reduces Sempra LNG footprint about to get signed – San Diego Union - Tribune",
+   "u": "https://www.sandiegouniontribune.com/2026/11/05/10b-deal-that-reduces-sempras-lng-footprint-about-to-get-signed/",
+   "d": "2026-11-06",
+   "q": "sandiegouniontribune.com",
+   "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Ukraine - Krieg im Liveticker : +++ 00 : 23 Grüne empört über AfD - Bundestagstermin mit Julija Mendel +++",
+   "u": "https://www.n-tv.de/politik/00-23-Gruene-empoert-ueber-AfD-Bundestagstermin-mit-Julija-Mendel-id30859357.html",
+   "d": "2026-11-06",
+   "q": "n-tv.de",
+   "type": "politik",
+   "c": "eu"
+  },
+  {
+   "t": "Warme Donau : Was in Wien auf dem Spiel steht",
+   "u": "https://www.diepresse.com/a/41423629/warme-donau-was-in-wien-auf-dem-spiel-steht",
+   "d": "2026-11-06",
+   "q": "diepresse.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Wie präzise Wetterprognosen vor Extremwetter schützen",
+   "u": "https://www.diepresse.com/a/41380548/wie-praezise-wetterprognosen-vor-extremwetter-schuetzen",
+   "d": "2026-11-06",
+   "q": "diepresse.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "44 Prozent : Kontrollen bei Schweinehaltern decken illegalen Antibiotika - Einsatz auf",
+   "u": "https://www.agrarheute.com/tier/schwein/44-prozent-kontrollen-schweinehaltern-decken-illegalen-antibiotika-einsatz-643759",
+   "d": "2026-11-06",
+   "q": "agrarheute.com",
+   "type": "politik",
+   "c": null
+  },
+  {
+   "t": "No , Republicans Didnt Lose the Midterms Because of the Iran War or Trump Promise of  No New Wars",
+   "u": "https://townhall.com/news/dmitri-bolt/2026/11/05/the-iran-war-is-not-to-blame-for-the-blue-wave-n2685996",
+   "d": "2026-11-06",
+   "q": "townhall.com",
+   "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Paraguay : Bankenkrise kostet Präsidenten den Kopf",
+   "u": "https://orf.at/stories/3447309/",
+   "d": "2026-11-06",
+   "q": "orf.at",
+   "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "MARAD Approves $1 Billion Offshore Crude Oil Export Port Off Louisiana",
+   "u": "https://gcaptain.com/marad-approves-1-billion-offshore-crude-oil-export-port-off-louisiana/",
+   "d": "2026-11-06",
+   "q": "gcaptain.com",
+   "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Paraguays Präsident Peña tritt wegen Bankenkrise zurück",
+   "u": "https://www.wz-net.de/weltweit/politik/paraguays-praesident-pena-tritt-wegen-bankenkrise-zurueck-id313904.html",
+   "d": "2026-11-05",
+   "q": "wz-net.de",
+   "type": "finanz",
+   "c": null
+  },
+  {
    "t": "GPS - Störungen auf der Ostsee nehmen zu : Russische Kriegsschiffe unter Verdacht",
    "u": "https://www.wz-net.de/weltweit/politik/gps-stoerungen-ostsee-nehmen-russische-kriegsschiffe-verdach-id313906.html",
    "d": "2026-11-05",
    "q": "wz-net.de",
    "type": "logistik",
    "c": "eu"
+  },
+  {
+   "t": "US Imposes Sanctions Targeting Iran Efforts to Obtain Air Defense Systems",
+   "u": "https://www.theepochtimes.com/world/us-imposes-sanctions-targeting-irans-efforts-to-obtain-air-defense-systems-6118624",
+   "d": "2026-11-05",
+   "q": "theepochtimes.com",
+   "type": "politik",
+   "c": null
   },
   {
    "t": "Rezept : Skartoffelgnocchi mit Käsesoße und Salat",
@@ -68,12 +156,28 @@
    "c": null
   },
   {
+   "t": "Pro - russische Demo will am Samstag durch Köln ziehen",
+   "u": "https://www.rundschau-online.de:443/koeln/pro-russische-demo-will-am-samstag-durch-koeln-ziehen-1410225",
+   "d": "2026-11-05",
+   "q": "rundschau-online.de:443",
+   "type": "politik",
+   "c": null
+  },
+  {
    "t": "MARKETS LIVE : Wall Street closes sharply lower as AI selloff wipes out post - election gains",
    "u": "https://www.proactiveinvestors.com/companies/news/1101271/markets-live-wall-street-closes-sharply-lower-as-ai-selloff-wipes-out-post-election-gains-1101271.html",
    "d": "2026-11-05",
    "q": "proactiveinvestors.com",
    "type": "finanz",
    "c": "na"
+  },
+  {
+   "t": "DNR converts ROW leases",
+   "u": "https://www.petroleumnews.com/story/2026/11/08/land-and-leasing/dnr-converts-row-leases/50489.html",
+   "d": "2026-11-05",
+   "q": "petroleumnews.com",
+   "type": "energie",
+   "c": null
   },
   {
    "t": "Another Decent Drop as Mortgage Rates Move Under 7 . 2 %",
@@ -92,12 +196,28 @@
    "c": "af"
   },
   {
+   "t": "Bessere Finanzierung : FPÖ Burgenland will Förderung für Eigenheimerwerb ausbauen",
+   "u": "https://www.meinbezirk.at/guessing/c-politik/fpoe-burgenland-will-foerderung-fuer-eigenheimerwerb-ausbauen_a8995797",
+   "d": "2026-11-05",
+   "q": "meinbezirk.at",
+   "type": "finanz",
+   "c": null
+  },
+  {
    "t": "AMG Increases Guidance Following Strong Third Quarter 2026 Earnings",
    "u": "https://www.manilatimes.net/2026/11/06/tmt-newswire/globenewswire/amg-increases-guidance-following-strong-third-quarter-2026-earnings/2463638",
    "d": "2026-11-05",
    "q": "manilatimes.net",
    "type": "rohstoffe",
    "c": null
+  },
+  {
+   "t": "U . S .- Canada trade war squeezes craft brewers",
+   "u": "https://www.latimes.com/business/story/2026-11-05/u-s-canada-trade-war-squeezes-craft-brewers",
+   "d": "2026-11-05",
+   "q": "latimes.com",
+   "type": "politik",
+   "c": "na"
   },
   {
    "t": "US escalates economic campaign against Cuba and targets China - based suppliers",
@@ -148,6 +268,14 @@
    "c": "na"
   },
   {
+   "t": "Matrix Service ( MTRX ) Q1 2027 Earnings Call Transcript",
+   "u": "https://www.fool.com/earnings/call-transcripts/2026/11/05/matrix-service-mtrx-q1-2027-earnings-call-transcript/?source=iedfolrf0000001",
+   "d": "2026-11-05",
+   "q": "fool.com",
+   "type": "energie",
+   "c": null
+  },
+  {
    "t": "Adventskalender 2026 : Das sind die Top 10 Bestseller bei Amazon",
    "u": "https://www.express.de:443/shoppingwelt/adventskalender-amazon-2026-lego-werkzeug-bestseller-top10-9-1404181",
    "d": "2026-11-05",
@@ -169,6 +297,22 @@
    "d": "2026-11-05",
    "q": "berliner-zeitung.de:443",
    "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "Bangkok Post - Analysts propose cleaner power development plan",
+   "u": "https://www.bangkokpost.com/business/general/3349590/analysts-propose-cleaner-power-development-plan",
+   "d": "2026-11-05",
+   "q": "bangkokpost.com",
+   "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Excelerate Energy and AxDo Bahamas Announce Long - Term LNG Supply Agreement Supporting Planned Bahamas LNG Hub",
+   "u": "https://thevoiceslu.com/2026/11/excelerate-energy-and-axdo-bahamas-announce-long-term-lng-supply-agreement-supporting-planned-bahamas-lng-hub/",
+   "d": "2026-11-05",
+   "q": "thevoiceslu.com",
+   "type": "energie",
    "c": null
   },
   {
