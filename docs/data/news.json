@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-06T11:51:33Z",
+ "stand": "2026-11-06T12:59:35Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -40,7 +40,7 @@
    "u": "https://www.watson.ch/wirtschaft/oel/462130708-oelpreise-steigen-wieder",
    "d": "2026-11-06",
    "q": "watson.ch",
-   "type": "politik",
+   "type": "logistik",
    "c": null
   },
   {
@@ -164,6 +164,14 @@
    "c": null
   },
   {
+   "t": "Lego Star Wars Weihnachts - Set : Warum dieser berühmte Weltraum - Bösewicht jetzt ganz anders aussieht",
+   "u": "https://www.rundschau-online.de:443/shoppingwelt/lego-star-wars-weihnachts-set-warum-dieser-beruehmte-weltraum-boesewicht-jetzt-ganz-anders-aussieht-2-1409271",
+   "d": "2026-11-06",
+   "q": "rundschau-online.de:443",
+   "type": "logistik",
+   "c": null
+  },
+  {
    "t": "Folge des KI - Booms : Studie warnt vor Wasserstress durch neue Mega - Rechenzentren",
    "u": "https://www.rhein-zeitung.de/deutschland-welt/netzwelt/studie-warnt-vor-wasserstress-durch-neue-mega-rechenzentren_arid-4168071.html",
    "d": "2026-11-06",
@@ -212,6 +220,14 @@
    "c": null
   },
   {
+   "t": "Koalitionsstreit beigelegt : Bundesregierung stimmt für Aufschub von EU - Methanregeln",
+   "u": "https://www.n-tv.de/ticker/Bundesregierung-stimmt-fuer-Aufschub-von-EU-Methanregeln-id31503195.html",
+   "d": "2026-11-06",
+   "q": "n-tv.de",
+   "type": "logistik",
+   "c": "eu"
+  },
+  {
    "t": "Telekom - Flat zum Sparpreis ? Klarmobil - Deal im Check",
    "u": "https://www.n-tv.de/shopping-und-service/Telekom-Flat-zum-Sparpreis-Klarmobil-Deal-im-Check-id31078874.html",
    "d": "2026-11-06",
@@ -252,6 +268,14 @@
    "c": null
   },
   {
+   "t": "US escalates economic campaign against Cuba and targets China - based suppliers",
+   "u": "https://www.messenger-inquirer.com/news/us-escalates-economic-campaign-against-cuba-and-targets-china-based-suppliers/article_86550c5c-ec94-5b64-b2d1-d824e5771a00.html",
+   "d": "2026-11-06",
+   "q": "messenger-inquirer.com",
+   "type": "politik",
+   "c": null
+  },
+  {
    "t": "Gold safe - haven status is fading ; dont accumulate indiscriminately , says Hitesh Jain of Yes Securities",
    "u": "https://www.livemint.com/market/stock-market-news/golds-safe-haven-status-is-fading-don-t-accumulate-indiscriminately-says-hitesh-jain-of-yes-securities-11793849608912.html",
    "d": "2026-11-06",
@@ -276,14 +300,6 @@
    "c": "eu"
   },
   {
-   "t": "Iran - Krieg aktuell : Trump entscheidet über drei Optionen",
-   "u": "https://www.hna.de/politik/trumps-iran-entscheidung-optionen-und-hormus-drohung-zr-94576801.html",
-   "d": "2026-11-06",
-   "q": "hna.de",
-   "type": "logistik",
-   "c": null
-  },
-  {
    "t": "Dhanteras Brings A Golden Buying Opportunity , Gold Falls Below ₹1 . 43 Lakh And Silver Sheds ₹3 , 400 As Global Markets Turn Volatile",
    "u": "https://www.freepressjournal.in/business/dhanteras-brings-a-golden-buying-opportunity-gold-falls-below-143-lakh-and-silver-sheds-3400-as-global-markets-turn-volatile",
    "d": "2026-11-06",
@@ -292,28 +308,12 @@
    "c": null
   },
   {
-   "t": "Ölpreise legen weiter zu - Brent knapp unter 100 US - Dollar",
-   "u": "https://www.finanznachrichten.de/nachrichten-2026-11/70054480-oelpreise-legen-weiter-zu-brent-knapp-unter-100-us-dollar-016.htm",
-   "d": "2026-11-06",
-   "q": "finanznachrichten.de",
-   "type": "logistik",
-   "c": "na"
-  },
-  {
    "t": "The hidden catch behind better annuity deals | Personal Finance | Finance",
    "u": "https://www.express.co.uk/finance/personalfinance/2263711/interest-rate-rise-impact-on-annuity-deals",
    "d": "2026-11-06",
    "q": "express.co.uk",
    "type": "finanz",
    "c": null
-  },
-  {
-   "t": "Royal Caribbean lässt neues Riesenschiff in Europa starten – Europe Online Magazine",
-   "u": "https://www.europeonline-magazine.eu/royal-caribbean-laesst-neues-riesenschiff-in-europa-starten/",
-   "d": "2026-11-06",
-   "q": "europeonline-magazine.eu",
-   "type": "logistik",
-   "c": "eu"
   },
   {
    "t": "Warme Donau : Was in Wien auf dem Spiel steht",
@@ -466,14 +466,6 @@
    "q": "latimes.com",
    "type": "politik",
    "c": "na"
-  },
-  {
-   "t": "US escalates economic campaign against Cuba and targets China - based suppliers",
-   "u": "https://www.klkntv.com/i/us-escalates-economic-campaign-against-cuba-and-targets-china-based-suppliers/",
-   "d": "2026-11-05",
-   "q": "klkntv.com",
-   "type": "politik",
-   "c": null
   },
   {
    "t": "Brazos Valley drought continues into November",
