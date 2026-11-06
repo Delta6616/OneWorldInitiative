@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-06T14:13:53Z",
+ "stand": "2026-11-06T15:49:11Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -228,6 +228,14 @@
    "c": "na"
   },
   {
+   "t": "KORREKTUR zu OTS0088 : WKÖ - Smuk : Neue Paket - Bearbeitungsgebühr der EU ist richtiger und wichtiger Schritt gegen Paketflut aus Drittstaaten",
+   "u": "https://www.ots.at/presseaussendung/OTS_20261106_OTS0107/korrektur-zu-ots0088-wkoe-smuk-neue-paket-bearbeitungsgebuehr-der-eu-ist-richtiger-und-wichtiger-schritt-gegen-paketflut-aus-drittstaaten",
+   "d": "2026-11-06",
+   "q": "ots.at",
+   "type": "logistik",
+   "c": "eu"
+  },
+  {
    "t": "Österreich - Premiere : Erdgasleitung erstmals auf 100 Prozent Wasserstoff umgestellt",
    "u": "https://www.ots.at/presseaussendung/OTS_20261106_OTS0094/oesterreich-premiere-erdgasleitung-erstmals-auf-100-prozent-wasserstoff-umgestellt",
    "d": "2026-11-06",
@@ -266,14 +274,6 @@
    "q": "netzwelt.de",
    "type": "logistik",
    "c": null
-  },
-  {
-   "t": "Koalitionsstreit beigelegt : Bundesregierung stimmt für Aufschub von EU - Methanregeln",
-   "u": "https://www.n-tv.de/ticker/Bundesregierung-stimmt-fuer-Aufschub-von-EU-Methanregeln-id31503195.html",
-   "d": "2026-11-06",
-   "q": "n-tv.de",
-   "type": "logistik",
-   "c": "eu"
   },
   {
    "t": "Telekom - Flat zum Sparpreis ? Klarmobil - Deal im Check",
