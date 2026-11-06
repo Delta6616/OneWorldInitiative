@@ -1,8 +1,24 @@
 {
- "stand": "2026-11-06T06:20:09Z",
+ "stand": "2026-11-06T07:11:24Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Studie warnt vor Wasserstress durch neue Mega - Rechenzentren",
+   "u": "https://www.weser-kurier.de/ratgeber/digitales/studie-warnt-vor-wasserstress-durch-neue-mega-rechenzentren-doc88clu4aevg6r4wrdbts",
+   "d": "2026-11-06",
+   "q": "weser-kurier.de",
+   "type": "politik",
+   "c": null
+  },
+  {
+   "t": "BSW will Doppelspitze in Sachsen - Anhalt abschaffen",
+   "u": "https://www.welt.de/regionales/sachsen-anhalt/article6aed46d6a389bc337cfc75d1/bsw-will-doppelspitze-in-sachsen-anhalt-abschaffen.html",
+   "d": "2026-11-06",
+   "q": "welt.de",
+   "type": "logistik",
+   "c": null
+  },
   {
    "t": "Moderate drought expands to cover nearly a third of Vermont",
    "u": "https://www.wcax.com/2026/11/05/moderate-drought-expands-cover-nearly-third-vermont/",
@@ -36,12 +52,28 @@
    "c": "as"
   },
   {
+   "t": "Wasserstress durch Mega - Rechenzentren in Deutschland",
+   "u": "https://www.vol.at/warnung-vor-wasserstress-durch-neue-mega-rechenzentren/10641737",
+   "d": "2026-11-06",
+   "q": "vol.at",
+   "type": "politik",
+   "c": "eu"
+  },
+  {
    "t": "Putin und Irans Sicherheitschef diskutieren Gaspipeline",
    "u": "https://www.vol.at/putin-und-irans-sicherheitschef-fuehren-gespraeche-in-moskau/10624847",
    "d": "2026-11-06",
    "q": "vol.at",
    "type": "energie",
    "c": "as"
+  },
+  {
+   "t": "Cargill und Klim fördern regenerative Landwirtschaft in Ostdeutschland",
+   "u": "https://www.topagrar.com/acker/news/cargill-und-klim-wollen-regenerative-landwirtschaft-in-deutschland-voran-bringen-20030884.html",
+   "d": "2026-11-06",
+   "q": "topagrar.com",
+   "type": "logistik",
+   "c": "eu"
   },
   {
    "t": "Pembina Pipeline ( TSE : PPL ) Posts Earnings Results",
@@ -92,6 +124,38 @@
    "c": null
   },
   {
+   "t": "Folge des KI - Booms : Studie warnt vor Wasserstress durch neue Mega - Rechenzentren",
+   "u": "https://www.rhein-zeitung.de/deutschland-welt/netzwelt/studie-warnt-vor-wasserstress-durch-neue-mega-rechenzentren_arid-4168071.html",
+   "d": "2026-11-06",
+   "q": "rhein-zeitung.de",
+   "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Kommt russischer Diesel in den united states an",
+   "u": "https://www.proplanta.de/agrar-nachrichten/energie/kommt-russischer-diesel-in-den-usa-an_article1793939498.html",
+   "d": "2026-11-06",
+   "q": "proplanta.de",
+   "type": "politik",
+   "c": "na"
+  },
+  {
+   "t": "Smartphone - Bestseller bei Amazon im November 2026 : So gut sind die beliebtesten Handys im Test",
+   "u": "https://www.netzwelt.de/vergleich/smartphone-bestseller-amazon-november-test.html",
+   "d": "2026-11-06",
+   "q": "netzwelt.de",
+   "type": "logistik",
+   "c": "sa"
+  },
+  {
+   "t": "Fensterputz - Muffel aufgepasst : Lidl verkauft Fensterputzroboter für unter 90 Euro",
+   "u": "https://www.netzwelt.de/schnaeppchen/260312-fensterputz-muffel-aufgepasst-lidl-verkauft-fensterputzroboter-90-euro.html",
+   "d": "2026-11-06",
+   "q": "netzwelt.de",
+   "type": "logistik",
+   "c": null
+  },
+  {
    "t": "Ukraine - Krieg im Liveticker : +++ 01 : 23 Selenskyj : Russland zieht verschleppte ukrainische Kinder in die Armee ein +++",
    "u": "https://www.n-tv.de/politik/01-23-Selenskyj-Russland-zieht-verschleppte-ukrainische-Kinder-in-die-Armee-ein-id30859357.html",
    "d": "2026-11-06",
@@ -114,6 +178,14 @@
    "q": "morningstar.com",
    "type": "finanz",
    "c": "na"
+  },
+  {
+   "t": "„ Maybrit Illner : Eilmeldung bestätigt düstere Szenarien nach den Midterms",
+   "u": "https://www.morgenpost.de/kultur/tv-streaming/article413602126/maybrit-illner-eilmeldung-bestaetigt-duestere-szenarien-nach-den-midterms.html",
+   "d": "2026-11-06",
+   "q": "morgenpost.de",
+   "type": "politik",
+   "c": null
   },
   {
    "t": "Gold safe - haven status is fading ; dont accumulate indiscriminately , says Hitesh Jain of Yes Securities",
