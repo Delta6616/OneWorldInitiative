@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-06T11:00:06Z",
+ "stand": "2026-11-06T11:51:33Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -38,6 +38,14 @@
   {
    "t": "Ölpreise steigen wieder",
    "u": "https://www.watson.ch/wirtschaft/oel/462130708-oelpreise-steigen-wieder",
+   "d": "2026-11-06",
+   "q": "watson.ch",
+   "type": "politik",
+   "c": null
+  },
+  {
+   "t": "CO₂ - Gesetz : Bundesrat lockert Regeln für Lieferwagen und Importeure",
+   "u": "https://www.watson.ch/schweiz/auto/543417320-co-gesetz-bundesrat-lockert-regeln-fuer-lieferwagen-und-importeure",
    "d": "2026-11-06",
    "q": "watson.ch",
    "type": "politik",
@@ -172,6 +180,22 @@
    "c": "na"
   },
   {
+   "t": "Österreich - Premiere : Erdgasleitung erstmals auf 100 Prozent Wasserstoff umgestellt",
+   "u": "https://www.ots.at/presseaussendung/OTS_20261106_OTS0094/oesterreich-premiere-erdgasleitung-erstmals-auf-100-prozent-wasserstoff-umgestellt",
+   "d": "2026-11-06",
+   "q": "ots.at",
+   "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Holzheizungen sind Oberösterreichs wichtigste Raumwärmequelle",
+   "u": "https://www.ots.at/presseaussendung/OTS_20261106_OTS0042/holzheizungen-sind-oberoesterreichs-wichtigste-raumwaermequelle",
+   "d": "2026-11-06",
+   "q": "ots.at",
+   "type": "energie",
+   "c": null
+  },
+  {
    "t": "Smartphone - Bestseller bei Amazon im November 2026 : So gut sind die beliebtesten Handys im Test",
    "u": "https://www.netzwelt.de/vergleich/smartphone-bestseller-amazon-november-test.html",
    "d": "2026-11-06",
@@ -185,6 +209,14 @@
    "d": "2026-11-06",
    "q": "netzwelt.de",
    "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "Telekom - Flat zum Sparpreis ? Klarmobil - Deal im Check",
+   "u": "https://www.n-tv.de/shopping-und-service/Telekom-Flat-zum-Sparpreis-Klarmobil-Deal-im-Check-id31078874.html",
+   "d": "2026-11-06",
+   "q": "n-tv.de",
+   "type": "politik",
    "c": null
   },
   {
@@ -220,20 +252,20 @@
    "c": null
   },
   {
-   "t": "US escalates economic campaign against Cuba and targets China - based suppliers",
-   "u": "https://www.messenger-inquirer.com/news/us-escalates-economic-campaign-against-cuba-and-targets-china-based-suppliers/article_86550c5c-ec94-5b64-b2d1-d824e5771a00.html",
-   "d": "2026-11-06",
-   "q": "messenger-inquirer.com",
-   "type": "politik",
-   "c": null
-  },
-  {
    "t": "Gold safe - haven status is fading ; dont accumulate indiscriminately , says Hitesh Jain of Yes Securities",
    "u": "https://www.livemint.com/market/stock-market-news/golds-safe-haven-status-is-fading-don-t-accumulate-indiscriminately-says-hitesh-jain-of-yes-securities-11793849608912.html",
    "d": "2026-11-06",
    "q": "livemint.com",
    "type": "finanz",
    "c": "na"
+  },
+  {
+   "t": "Bond yield rise squeezes bank Q2 treasury gains",
+   "u": "https://www.livemint.com/economy/banks-treasury-income-earnings-bond-yields-11793867170209.html",
+   "d": "2026-11-06",
+   "q": "livemint.com",
+   "type": "finanz",
+   "c": null
   },
   {
    "t": "US - Plan für Ukraine - Krieg : Wieder russisches Gas nach Europa ?",
@@ -252,6 +284,14 @@
    "c": null
   },
   {
+   "t": "Dhanteras Brings A Golden Buying Opportunity , Gold Falls Below ₹1 . 43 Lakh And Silver Sheds ₹3 , 400 As Global Markets Turn Volatile",
+   "u": "https://www.freepressjournal.in/business/dhanteras-brings-a-golden-buying-opportunity-gold-falls-below-143-lakh-and-silver-sheds-3400-as-global-markets-turn-volatile",
+   "d": "2026-11-06",
+   "q": "freepressjournal.in",
+   "type": "finanz",
+   "c": null
+  },
+  {
    "t": "Ölpreise legen weiter zu - Brent knapp unter 100 US - Dollar",
    "u": "https://www.finanznachrichten.de/nachrichten-2026-11/70054480-oelpreise-legen-weiter-zu-brent-knapp-unter-100-us-dollar-016.htm",
    "d": "2026-11-06",
@@ -260,11 +300,19 @@
    "c": "na"
   },
   {
+   "t": "The hidden catch behind better annuity deals | Personal Finance | Finance",
+   "u": "https://www.express.co.uk/finance/personalfinance/2263711/interest-rate-rise-impact-on-annuity-deals",
+   "d": "2026-11-06",
+   "q": "express.co.uk",
+   "type": "finanz",
+   "c": null
+  },
+  {
    "t": "Royal Caribbean lässt neues Riesenschiff in Europa starten – Europe Online Magazine",
    "u": "https://www.europeonline-magazine.eu/royal-caribbean-laesst-neues-riesenschiff-in-europa-starten/",
    "d": "2026-11-06",
    "q": "europeonline-magazine.eu",
-   "type": "energie",
+   "type": "logistik",
    "c": "eu"
   },
   {
@@ -284,14 +332,6 @@
    "c": null
   },
   {
-   "t": "Wirtschaft - US - Regierung bringt neue Sanktionen gegen Kuba auf den Weg",
-   "u": "https://www.deutschlandfunk.de/us-regierung-bringt-neue-sanktionen-gegen-kuba-auf-den-weg-100.html",
-   "d": "2026-11-06",
-   "q": "deutschlandfunk.de",
-   "type": "politik",
-   "c": "na"
-  },
-  {
    "t": "Indonesians snap up government bonds as yields near 8 %: OCBC",
    "u": "https://www.businesstimes.com.sg/international/asean/wealthy-indonesians-snap-government-bonds-yields-near-8-ocbc",
    "d": "2026-11-06",
@@ -300,12 +340,12 @@
    "c": "as"
   },
   {
-   "t": "Arab News | Iran Guards say two tankers caught fire in Hormuz",
-   "u": "https://www.arabnews.com/middle-east/iran-guards-say-two-tankers-caught-fire-in-hormuz-3010129",
+   "t": "Gold loan growth surges 83 % YoY in Oct , outpaces core retail credit : Report",
+   "u": "https://timesofoman.com/article/178850-gold-loan-growth-surges-83-yoy-in-oct-outpaces-core-retail-credit-report",
    "d": "2026-11-06",
-   "q": "arabnews.com",
-   "type": "logistik",
-   "c": "as"
+   "q": "timesofoman.com",
+   "type": "finanz",
+   "c": null
   },
   {
    "t": "Paraguay : Bankenkrise kostet Präsidenten den Kopf",
@@ -316,18 +356,10 @@
    "c": null
   },
   {
-   "t": "MARAD Approves $1 Billion Offshore Crude Oil Export Port Off Louisiana",
-   "u": "https://gcaptain.com/marad-approves-1-billion-offshore-crude-oil-export-port-off-louisiana/",
+   "t": "Paraguay President Santiago Peña announces resignation amid bank crisis affecting 3 million customers",
+   "u": "https://dailypioneer.com/world/paraguay-president-santiago-pe%C3%B1a-announces-resignation-amid-bank-crisis-affecting-3-million-customers",
    "d": "2026-11-06",
-   "q": "gcaptain.com",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Gold loan growth surges 83 % YoY in Oct , outpaces core retail credit : Report",
-   "u": "https://aninews.in/news/business/gold-loan-growth-surges-83-yoy-in-oct-outpaces-core-retail-credit-report20261106084246/",
-   "d": "2026-11-06",
-   "q": "aninews.in",
+   "q": "dailypioneer.com",
    "type": "finanz",
    "c": null
   },
@@ -434,6 +466,14 @@
    "q": "latimes.com",
    "type": "politik",
    "c": "na"
+  },
+  {
+   "t": "US escalates economic campaign against Cuba and targets China - based suppliers",
+   "u": "https://www.klkntv.com/i/us-escalates-economic-campaign-against-cuba-and-targets-china-based-suppliers/",
+   "d": "2026-11-05",
+   "q": "klkntv.com",
+   "type": "politik",
+   "c": null
   },
   {
    "t": "Brazos Valley drought continues into November",
