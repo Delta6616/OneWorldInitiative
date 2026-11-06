@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-06T16:50:31Z",
+ "stand": "2026-11-06T17:48:14Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -260,20 +260,20 @@
    "c": null
   },
   {
+   "t": "من اليمن إلى القرن الأفريقي .. شبكات الحوثي تهدد أمن البحر الأحمر",
+   "u": "https://www.okaz.com.sa/politics/na/2274244",
+   "d": "2026-11-06",
+   "q": "okaz.com.sa",
+   "type": "logistik",
+   "c": null
+  },
+  {
    "t": "Smartphone - Bestseller bei Amazon im November 2026 : So gut sind die beliebtesten Handys im Test",
    "u": "https://www.netzwelt.de/vergleich/smartphone-bestseller-amazon-november-test.html",
    "d": "2026-11-06",
    "q": "netzwelt.de",
    "type": "logistik",
    "c": "sa"
-  },
-  {
-   "t": "Fensterputz - Muffel aufgepasst : Lidl verkauft Fensterputzroboter für unter 90 Euro",
-   "u": "https://www.netzwelt.de/schnaeppchen/260312-fensterputz-muffel-aufgepasst-lidl-verkauft-fensterputzroboter-90-euro.html",
-   "d": "2026-11-06",
-   "q": "netzwelt.de",
-   "type": "logistik",
-   "c": null
   },
   {
    "t": "Telekom - Flat zum Sparpreis ? Klarmobil - Deal im Check",
