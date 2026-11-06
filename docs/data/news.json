@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-06T18:51:12Z",
+ "stand": "2026-11-06T19:52:01Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -132,6 +132,14 @@
    "c": null
   },
   {
+   "t": "Mauritius - based investment firm Soach Global founder moots virtual food grain asset",
+   "u": "https://www.thehindubusinessline.com/economy/agri-business/mauritius-based-investment-firm-soach-global-founder-moots-virtual-food-grain-asset/article71673144.ece",
+   "d": "2026-11-06",
+   "q": "thehindubusinessline.com",
+   "type": "rohstoffe",
+   "c": "na"
+  },
+  {
    "t": "Brand auf Netzbooster - Baustelle in Kupferzell : Flammen schlagen meterhoch",
    "u": "https://www.stimme.de/hohenlohe/feuer-netzbooster-baustelle-kupferzell-flammen-meterhoch-hoher-schaden-eine-halbe-million-euro-kabelbrand-art-5231729",
    "d": "2026-11-06",
@@ -212,6 +220,14 @@
    "c": null
   },
   {
+   "t": "Corn and Wheat Hit 3 - Month Lows as Soy Slides | Grains Wrap , Nov 5",
+   "u": "https://www.riotimesonline.com/grains-soy-corn-latam-thursday-november-5-2026/",
+   "d": "2026-11-06",
+   "q": "riotimesonline.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
    "t": "Folge des KI - Booms : Studie warnt vor Wasserstress durch neue Mega - Rechenzentren",
    "u": "https://www.rhein-zeitung.de/deutschland-welt/netzwelt/studie-warnt-vor-wasserstress-durch-neue-mega-rechenzentren_arid-4168071.html",
    "d": "2026-11-06",
@@ -226,6 +242,14 @@
    "q": "proplanta.de",
    "type": "politik",
    "c": "na"
+  },
+  {
+   "t": "Historic Cotswolds flour mill lands huge Sainsbury deal",
+   "u": "https://www.oxfordmail.co.uk/news/26702896.historic-cotswolds-flour-mill-lands-huge-sainsburys-deal/",
+   "d": "2026-11-06",
+   "q": "oxfordmail.co.uk",
+   "type": "rohstoffe",
+   "c": null
   },
   {
    "t": "KORREKTUR zu OTS0088 : WKÖ - Smuk : Neue Paket - Bearbeitungsgebühr der EU ist richtiger und wichtiger Schritt gegen Paketflut aus Drittstaaten",
@@ -324,14 +348,6 @@
    "c": null
   },
   {
-   "t": "Premiere im November : Theatergruppe Sandkorn setzt zum 50 . Jubiläum auf „ Braunschlog",
-   "u": "https://www.meinbezirk.at/weiz/c-leute/theatergruppe-sandkorn-setzt-zum-50-jubilaeum-auf-braunschlog_a8996016",
-   "d": "2026-11-06",
-   "q": "meinbezirk.at",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
    "t": "Gold safe - haven status is fading ; dont accumulate indiscriminately , says Hitesh Jain of Yes Securities",
    "u": "https://www.livemint.com/market/stock-market-news/golds-safe-haven-status-is-fading-don-t-accumulate-indiscriminately-says-hitesh-jain-of-yes-securities-11793849608912.html",
    "d": "2026-11-06",
@@ -346,22 +362,6 @@
    "q": "livemint.com",
    "type": "finanz",
    "c": null
-  },
-  {
-   "t": "E - Bike - Akku richtig laden & pflegen : 5 Fehler vermeiden",
-   "u": "https://www.ksta.de:443/shoppingwelt/e-bike-akku-richtig-laden-pflegen-lebensdauer-verkuerzen-fehler-vermeiden-19-1369421",
-   "d": "2026-11-06",
-   "q": "ksta.de:443",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Industrieproduktion in Deutschland wächst überraschend",
-   "u": "https://www.infranken.de/deutschland/industrieproduktion-in-deutschland-waechst-ueberraschend-art-6409159",
-   "d": "2026-11-06",
-   "q": "infranken.de",
-   "type": "rohstoffe",
-   "c": "eu"
   },
   {
    "t": "Dhanteras Brings A Golden Buying Opportunity , Gold Falls Below ₹1 . 43 Lakh And Silver Sheds ₹3 , 400 As Global Markets Turn Volatile",
