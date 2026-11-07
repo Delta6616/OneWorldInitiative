@@ -1,8 +1,16 @@
 {
- "stand": "2026-11-07T02:49:13Z",
+ "stand": "2026-11-07T03:49:26Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Carney says Canada welcomes  any move to restore free trade after U . S . midterms",
+   "u": "https://www.therecord.com/news/canada/carney-says-canada-welcomes-any-moves-to-restore-free-trade-after-u-s-midterms/article_ba67c321-72e6-54d3-9334-e49385e7d776.html",
+   "d": "2026-11-07",
+   "q": "therecord.com",
+   "type": "politik",
+   "c": "na"
+  },
   {
    "t": "Pentagon says US troops are poised to strike Iran . Then 5 tankers are hit in the Strait of Hormuz",
    "u": "https://www.themarysue.com/pentagon-says-thousands-of-us-troops-are-poised-to-strike-iran-then-reports-emerge-of-what-happened-to-five-tankers-in-the-strait-of-hormuz/",
@@ -20,6 +28,14 @@
    "c": null
   },
   {
+   "t": "Erick Erickson :  Stephen Miller , Kristi Noem , and Corey Lewandowski are the ones who broke the Hispanic coalition out of the GOP",
+   "u": "https://www.mediamatters.org/erick-erickson/erick-erickson-stephen-miller-kristi-noem-and-corey-lewandowski-are-ones-who-broke",
+   "d": "2026-11-07",
+   "q": "mediamatters.org",
+   "type": "politik",
+   "c": null
+  },
+  {
    "t": "Staatskrise in Paraguay : Peña als Präsident abgesetzt - Politik Ausland",
    "u": "https://www.badische-zeitung.de/staatskrise-in-paraguay-pe-a-als-praesident-abgesetzt",
    "d": "2026-11-07",
@@ -34,6 +50,14 @@
    "q": "aol.co.uk",
    "type": "politik",
    "c": "eu"
+  },
+  {
+   "t": "Impeached Paraguay President Peña placed under house arrest after bank collapse",
+   "u": "https://timesofindia.indiatimes.com/world/rest-of-world/impeached-paraguay-president-pea-placed-under-house-arrest-after-bank-collapse/articleshow/135624172.cms",
+   "d": "2026-11-07",
+   "q": "timesofindia.indiatimes.com",
+   "type": "finanz",
+   "c": null
   },
   {
    "t": "Tanker War Continues : Iran Says 5 Ships Hit Naval Mines In Last 24 Hours",
