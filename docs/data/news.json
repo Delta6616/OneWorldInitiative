@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-07T11:37:05Z",
+ "stand": "2026-11-07T12:48:21Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -57,6 +57,14 @@
    "d": "2026-11-07",
    "q": "pz-news.de",
    "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "Wie geht es mit den Gasnetzen weiter",
+   "u": "https://www.proplanta.de/agrar-nachrichten/energie/wie-geht-es-mit-den-gasnetzen-weiter_article1794044112.html",
+   "d": "2026-11-07",
+   "q": "proplanta.de",
+   "type": "energie",
    "c": null
   },
   {
