@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-07T06:54:43Z",
+ "stand": "2026-11-07T07:58:44Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -25,6 +25,22 @@
    "d": "2026-11-07",
    "q": "themarysue.com",
    "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "Die Tanne wird teurer : 2026 muss für den Weihnachtsbaum mehr gezahlt werden – fast überall",
+   "u": "https://www.tagesspiegel.de/potsdam/brandenburg/die-tanne-wird-teurer-2026-muss-fur-den-weihnachtsbaum-mehr-gezahlt-werden--fast-uberall-16241057.html",
+   "d": "2026-11-07",
+   "q": "tagesspiegel.de",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Bokashi vs . Kompost : Unterschiede , Vor - und Nachteile",
+   "u": "https://www.stuttgarter-zeitung.de/wissen/gartenideen/bokashi-oder-kompost-so-gewinnt-man-duenger-fuer-den-eigenen-garten-79495140.html",
+   "d": "2026-11-07",
+   "q": "stuttgarter-zeitung.de",
+   "type": "rohstoffe",
    "c": null
   },
   {
@@ -58,6 +74,22 @@
    "q": "hna.de",
    "type": "politik",
    "c": "na"
+  },
+  {
+   "t": "Kreatin und Omega - 3 können gesundes Leben verlängern",
+   "u": "https://www.focus.de/gesundheit/longevity/kreatin-und-omega-3-koennen-gesundes-leben-verlaengern_ce2d71c0-0567-4be0-82ad-c7da376f2569.html",
+   "d": "2026-11-07",
+   "q": "focus.de",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Zukunft der Gasnetze vielerorts noch unklar",
+   "u": "https://www.finanznachrichten.de/nachrichten-2026-11/70064959-zukunft-der-gasnetze-vielerorts-noch-unklar-016.htm",
+   "d": "2026-11-07",
+   "q": "finanznachrichten.de",
+   "type": "energie",
+   "c": null
   },
   {
    "t": "Neue Anleihe der Finexity verbindet Depot und Wallet",
@@ -1181,9 +1213,9 @@
   },
   {
    "t": "Aktien Frankfurt : Dax etwas schwächer - Ölpreis , Tech - Schwäche , Quartalszahlen",
-   "u": "https://www.finanznachrichten.de/nachrichten-2026-11/70017281-aktien-frankfurt-dax-etwas-schwaecher-oelpreis-tech-schwaeche-quartalszahlen-016.htm",
+   "u": "https://www.finanzen.net/nachricht/aktien/aktien-frankfurt-dax-etwas-schwaecher-oelpreis-tech-schwaeche-quartalszahlen-16031867",
    "d": "2026-11-03",
-   "q": "finanznachrichten.de",
+   "q": "finanzen.net",
    "type": "energie",
    "c": null
   },
