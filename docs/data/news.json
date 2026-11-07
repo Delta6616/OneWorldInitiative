@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-07T01:58:12Z",
+ "stand": "2026-11-07T02:49:13Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -9,6 +9,22 @@
    "d": "2026-11-07",
    "q": "themarysue.com",
    "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "Staatskrise in Paraguay : Peña als Präsident abgesetzt - Politik",
+   "u": "https://www.pz-news.de/politik_artikel,-Staatskrise-in-Paraguay-Pe%C3%B1a-als-Praesident-abgesetzt-_arid,2376367.html",
+   "d": "2026-11-07",
+   "q": "pz-news.de",
+   "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "Staatskrise in Paraguay : Peña als Präsident abgesetzt - Politik Ausland",
+   "u": "https://www.badische-zeitung.de/staatskrise-in-paraguay-pe-a-als-praesident-abgesetzt",
+   "d": "2026-11-07",
+   "q": "badische-zeitung.de",
+   "type": "finanz",
    "c": null
   },
   {
@@ -324,6 +340,14 @@
    "c": null
   },
   {
+   "t": "Erhebliche Zinsunterschiede : Das sind die besten Ratenkredit - Anbieter",
+   "u": "https://www.n-tv.de/ratgeber/Das-sind-die-besten-Ratenkredit-Anbieter-id31493110.html",
+   "d": "2026-11-06",
+   "q": "n-tv.de",
+   "type": "finanz",
+   "c": null
+  },
+  {
    "t": "Ukraine - Krieg im Liveticker : +++ 01 : 23 Selenskyj : Russland zieht verschleppte ukrainische Kinder in die Armee ein +++",
    "u": "https://www.n-tv.de/politik/01-23-Selenskyj-Russland-zieht-verschleppte-ukrainische-Kinder-in-die-Armee-ein-id30859357.html",
    "d": "2026-11-06",
@@ -354,6 +378,22 @@
    "q": "morningstar.com",
    "type": "finanz",
    "c": "na"
+  },
+  {
+   "t": "Goldpreis aktuell ( 07 . 11 .): Kurs dreht erneut – das kostet Gold heute in Euro",
+   "u": "https://www.morgenpost.de/ratgeber-wissen/finanzen/article409580553/goldpreis-aktuell-kurs-dreht-erneut-preis-in-euro-gamm-0611.html",
+   "d": "2026-11-06",
+   "q": "morgenpost.de",
+   "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "Kredit - Zinsen aktuell : Nach ING – nächste Bank senkt Bauzinsen",
+   "u": "https://www.morgenpost.de/ratgeber-wissen/finanzen/article406511094/kredit-zinsen-aktuell-nach-ing-naechste-bank-senkt-bauzinsen-0611.html",
+   "d": "2026-11-06",
+   "q": "morgenpost.de",
+   "type": "finanz",
+   "c": null
   },
   {
    "t": "„ Maybrit Illner : Eilmeldung bestätigt düstere Szenarien nach den Midterms",
@@ -388,34 +428,10 @@
    "c": null
   },
   {
-   "t": "The hidden catch behind better annuity deals | Personal Finance | Finance",
-   "u": "https://www.express.co.uk/finance/personalfinance/2263711/interest-rate-rise-impact-on-annuity-deals",
+   "t": "NFP - Daten heute : Job - Schock oder Zinsschock - so reagieren die Märkte live !",
+   "u": "https://www.finanznachrichten.de/nachrichten-2026-11/70056518-nfp-daten-heute-job-schock-oder-zinsschock-so-reagieren-die-maerkte-live-268.htm",
    "d": "2026-11-06",
-   "q": "express.co.uk",
-   "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "Indonesians snap up government bonds as yields near 8 %: OCBC",
-   "u": "https://www.businesstimes.com.sg/international/asean/wealthy-indonesians-snap-government-bonds-yields-near-8-ocbc",
-   "d": "2026-11-06",
-   "q": "businesstimes.com.sg",
-   "type": "finanz",
-   "c": "as"
-  },
-  {
-   "t": "Gold loan growth surges 83 % YoY in Oct , outpaces core retail credit : Report",
-   "u": "https://timesofoman.com/article/178850-gold-loan-growth-surges-83-yoy-in-oct-outpaces-core-retail-credit-report",
-   "d": "2026-11-06",
-   "q": "timesofoman.com",
-   "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "Paraguay : Bankenkrise kostet Präsidenten den Kopf",
-   "u": "https://orf.at/stories/3447309/",
-   "d": "2026-11-06",
-   "q": "orf.at",
+   "q": "finanznachrichten.de",
    "type": "finanz",
    "c": null
   },
