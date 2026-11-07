@@ -1,8 +1,16 @@
 {
- "stand": "2026-11-07T06:27:07Z",
+ "stand": "2026-11-07T06:54:43Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Banken - Kollaps stürzt Paraguay in die Krise : Präsident abgesetzt",
+   "u": "https://www.watson.ch/wirtschaft/international/607602349-banken-kollaps-stuerzt-paraguay-in-die-krise-praesident-abgesetzt",
+   "d": "2026-11-07",
+   "q": "watson.ch",
+   "type": "finanz",
+   "c": null
+  },
   {
    "t": "Carney says Canada welcomes  any move to restore free trade after U . S . midterms",
    "u": "https://www.therecord.com/news/canada/carney-says-canada-welcomes-any-moves-to-restore-free-trade-after-u-s-midterms/article_ba67c321-72e6-54d3-9334-e49385e7d776.html",
@@ -28,12 +36,44 @@
    "c": null
   },
   {
+   "t": "Historischer Erfolg : Erster Tunnel unter Panamakanal kommt von Herrenknecht aus Schwanau",
+   "u": "https://www.moz.de/nachrichten/wirtschaft/historischer-erfolg-erster-tunnel-unter-panamakanal-kommt-von-herrenknecht-79667220.html",
+   "d": "2026-11-07",
+   "q": "moz.de",
+   "type": "logistik",
+   "c": "na"
+  },
+  {
    "t": "Erick Erickson :  Stephen Miller , Kristi Noem , and Corey Lewandowski are the ones who broke the Hispanic coalition out of the GOP",
    "u": "https://www.mediamatters.org/erick-erickson/erick-erickson-stephen-miller-kristi-noem-and-corey-lewandowski-are-ones-who-broke",
    "d": "2026-11-07",
    "q": "mediamatters.org",
    "type": "politik",
    "c": null
+  },
+  {
+   "t": "Warum Trumps Diesel - Deal mit Putin zur Unterstützung bei den Zwischenwahlen zum Scheitern verurteilt war",
+   "u": "https://www.hna.de/politik/warum-trumps-diesel-deal-mit-putin-zur-unterstuetzung-bei-den-zwischenwahlen-zum-scheitern-verurteilt-war-zr-94578702.html",
+   "d": "2026-11-07",
+   "q": "hna.de",
+   "type": "politik",
+   "c": "na"
+  },
+  {
+   "t": "Neue Anleihe der Finexity verbindet Depot und Wallet",
+   "u": "https://www.finanznachrichten.de/nachrichten-2026-11/70064888-neue-anleihe-der-finexity-verbindet-depot-und-wallet-144.htm",
+   "d": "2026-11-07",
+   "q": "finanznachrichten.de",
+   "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "Russland - Sanktionen : Schon die Erwartungen entfalten Wirkung",
+   "u": "https://www.finanznachrichten.de/nachrichten-2026-11/70064887-russland-sanktionen-schon-die-erwartungen-entfalten-wirkung-144.htm",
+   "d": "2026-11-07",
+   "q": "finanznachrichten.de",
+   "type": "politik",
+   "c": "eu"
   },
   {
    "t": "Staatskrise in Paraguay : Peña als Präsident abgesetzt - Politik Ausland",
