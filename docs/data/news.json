@@ -1,8 +1,16 @@
 {
- "stand": "2026-11-07T10:41:35Z",
+ "stand": "2026-11-07T11:37:05Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Closing book on weather - damaged harvest – Winnipeg Free Press",
+   "u": "https://www.winnipegfreepress.com/business/2026/11/07/closing-book-on-weather-damaged-harvest",
+   "d": "2026-11-07",
+   "q": "winnipegfreepress.com",
+   "type": "rohstoffe",
+   "c": null
+  },
   {
    "t": "Banken - Kollaps stürzt Paraguay in die Krise : Präsident abgesetzt",
    "u": "https://www.watson.ch/wirtschaft/international/607602349-banken-kollaps-stuerzt-paraguay-in-die-krise-praesident-abgesetzt",
