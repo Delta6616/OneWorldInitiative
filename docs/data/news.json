@@ -1,8 +1,24 @@
 {
- "stand": "2026-11-07T00:57:01Z",
+ "stand": "2026-11-07T01:58:12Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Pentagon says US troops are poised to strike Iran . Then 5 tankers are hit in the Strait of Hormuz",
+   "u": "https://www.themarysue.com/pentagon-says-thousands-of-us-troops-are-poised-to-strike-iran-then-reports-emerge-of-what-happened-to-five-tankers-in-the-strait-of-hormuz/",
+   "d": "2026-11-07",
+   "q": "themarysue.com",
+   "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "Government blocks historic Black Prince sculpture from leaving Britain in £500 , 000 battle",
+   "u": "https://www.aol.co.uk/articles/government-blocks-historic-black-prince-222800000.html",
+   "d": "2026-11-07",
+   "q": "aol.co.uk",
+   "type": "politik",
+   "c": "eu"
+  },
   {
    "t": "Tanker War Continues : Iran Says 5 Ships Hit Naval Mines In Last 24 Hours",
    "u": "https://www.zerohedge.com/geopolitical/tanker-war-continues-iran-says-5-ships-hit-naval-mines-last-24-hours",
