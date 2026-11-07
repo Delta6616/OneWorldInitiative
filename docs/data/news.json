@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-07T12:48:21Z",
+ "stand": "2026-11-07T13:49:49Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -81,6 +81,14 @@
    "d": "2026-11-07",
    "q": "mediamatters.org",
    "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Muhurat trading 2026 : Ganesh Dongre of Anand Rathi sees Sensex at 1 , 00 , 000 next Diwali ? Shares 3 Samvat 2083 stock picks",
+   "u": "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-ganesh-dongre-of-anand-rathi-sees-sensex-at-1-00-000-next-diwali-shares-3-samvat-2083-stock-picks-11794029018255.html",
+   "d": "2026-11-07",
+   "q": "livemint.com",
+   "type": "finanz",
    "c": null
   },
   {
