@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-07T22:38:29Z",
+ "stand": "2026-11-07T23:35:47Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -154,6 +154,14 @@
    "q": "finanznachrichten.de",
    "type": "politik",
    "c": "eu"
+  },
+  {
+   "t": "Skandal um Ueno - Bank - Staatsanwaltschaft in Paraguay erhebt Anklage gegen abgesetzten Präsidenten Peña",
+   "u": "https://www.deutschlandfunk.de/staatsanwaltschaft-in-paraguay-erhebt-anklage-gegen-abgesetzten-praesidenten-pe-a-100.html",
+   "d": "2026-11-07",
+   "q": "deutschlandfunk.de",
+   "type": "finanz",
+   "c": null
   },
   {
    "t": "Global Gas Supplies To Tighten In Winter Amid Hormuz LNG Shock : IEA",
