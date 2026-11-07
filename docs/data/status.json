@@ -16,23 +16,18 @@
   "fehler": "1=1/arcgis/Layer0: {'code': 429, 'message': 'Unable to perform q ## 1=1/ArcGIS/Layer0: {'code': 429, 'message': 'Unable to perform q ## year >= 2026/arcgis/Layer0: {'code': 429, 'message': 'Unable to perform q ## year >= 2026/ArcGIS/Layer0: {'code': 429, 'message': 'Unable to perform q ## year >= 2026/arcgis/Layer0: {'code': 429, 'message': 'Unable to perform q ## year >= 2026/ArcGIS/Layer0: {'code': 429, 'message': 'Unable to perform q ## date >= TIMESTAMP '2026-10-15 00:00:00'/arcgis/Layer0: {'code': 429, 'message': 'Unable to perform q ## date >= TIMESTAMP '2026-10-15 00:00:00'/ArcGIS/Layer0: {'code': 429, 'message': 'Unable to perform q ## CSV portwatch.imf.org: keine CSV-Datei: {\"message\":\"Up to date download file is bei ## CSV www.arcgis.com: leere Datei ## Keine Handdatei data/manual/portwatch.csv vorhanden"
  },
  "gdelt": {
-  "ok": false,
-  "zeit": "2026-11-07T15:35:14Z",
-  "neu_oder_geaendert": 0,
-  "zeilen_gesamt": 591,
+  "ok": true,
+  "zeit": "2026-11-07T17:32:53Z",
+  "neu_oder_geaendert": 7,
+  "zeilen_gesamt": 598,
   "warnungen": [
-   "logistik/english: HTTP 429",
-   "energie/english: HTTP 429",
-   "finanz/english: HTTP 429",
    "politik/english: HTTP 429",
-   "logistik/german: HTTP 429",
+   "rohstoffe/english: HTTP 429",
    "energie/german: HTTP 429",
    "finanz/german: HTTP 429",
    "politik/german: HTTP 429",
    "rohstoffe/german: HTTP 429"
-  ],
-  "letzter_versuch": "2026-11-07T16:37:10Z",
-  "fehler": "GDELT lieferte keine Artikel. logistik/english: HTTP 429 | energie/english: HTTP 429 | finanz/english: HTTP 429 | politik/english: HTTP 429 | rohstoffe/english: HTTP 429 | logistik/german: HTTP 429 | energie/german: HTTP 429 | finanz/german: HTTP 429 | politik/german: HTTP 429 | rohstoffe/german: HTTP 429"
+  ]
  },
  "rohstoffe": {
   "ok": false,

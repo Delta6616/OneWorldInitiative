@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-07T16:38:50Z",
+ "stand": "2026-11-07T17:36:06Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -17,6 +17,14 @@
    "d": "2026-11-07",
    "q": "watson.ch",
    "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "Santos ( OTCMKTS : STOSF ) Stock Falls 4 . 3 % – Here What Happened",
+   "u": "https://www.tickerreport.com/banking-finance/13653440/santos-otcmktsstosf-stock-falls-4-3-heres-what-happened.html",
+   "d": "2026-11-07",
+   "q": "tickerreport.com",
+   "type": "energie",
    "c": null
   },
   {
@@ -52,6 +60,14 @@
    "c": null
   },
   {
+   "t": "Pause kurz beendet - „ Halunder Jet  fährt nach Helgoland",
+   "u": "https://www.shz.de/pagebuilding/artikel-archiv/artikel/pause-kurz-beendet-halunder-jet-faehrt-nach-helgoland-51714201",
+   "d": "2026-11-07",
+   "q": "shz.de",
+   "type": "logistik",
+   "c": null
+  },
+  {
    "t": "Staatskrise in Paraguay : Peña als Präsident abgesetzt - Politik",
    "u": "https://www.pz-news.de/politik_artikel,-Staatskrise-in-Paraguay-Pe%C3%B1a-als-Praesident-abgesetzt-_arid,2376367.html",
    "d": "2026-11-07",
@@ -66,6 +82,14 @@
    "q": "proplanta.de",
    "type": "energie",
    "c": null
+  },
+  {
+   "t": "Kampf gegen Huthis : Syrien schickt offenbar Tausende Soldaten in den Jemen",
+   "u": "https://www.n-tv.de/politik/Syrien-schickt-offenbar-Tausende-Soldaten-in-den-Jemen-id31507260.html",
+   "d": "2026-11-07",
+   "q": "n-tv.de",
+   "type": "logistik",
+   "c": "as"
   },
   {
    "t": "Historischer Erfolg : Erster Tunnel unter Panamakanal kommt von Herrenknecht aus Schwanau",
@@ -132,6 +156,14 @@
    "c": "eu"
   },
   {
+   "t": "Global Gas Supplies To Tighten In Winter Amid Hormuz LNG Shock : IEA",
+   "u": "https://www.businessworld.in/article/global-gas-supplies-to-tighten-in-winter-amid-hormuz-lng-shock-iea-632565",
+   "d": "2026-11-07",
+   "q": "businessworld.in",
+   "type": "energie",
+   "c": "as"
+  },
+  {
    "t": "Staatskrise in Paraguay : Peña als Präsident abgesetzt - Politik Ausland",
    "u": "https://www.badische-zeitung.de/staatskrise-in-paraguay-pe-a-als-praesident-abgesetzt",
    "d": "2026-11-07",
@@ -154,6 +186,22 @@
    "q": "timesofindia.indiatimes.com",
    "type": "finanz",
    "c": null
+  },
+  {
+   "t": "Uae Natural Gas Shipments : Why new LNG projects may not prevent a global gas crunch this winter",
+   "u": "https://timesofindia.indiatimes.com/business/international-business/why-new-lng-projects-may-not-prevent-a-global-gas-crunch-this-winter/articleshow/135627696.cms",
+   "d": "2026-11-07",
+   "q": "timesofindia.indiatimes.com",
+   "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Global gas supplies could tighten in winter amid unprecedented Strait of Hormuz supply shock : IEA",
+   "u": "https://economictimes.indiatimes.com/news/international/world-news/global-gas-supplies-could-tighten-in-winter-amid-unprecedented-strait-of-hormuz-supply-shock-iea/articleshow/135627211.cms",
+   "d": "2026-11-07",
+   "q": "economictimes.indiatimes.com",
+   "type": "energie",
+   "c": "as"
   },
   {
    "t": "Tanker War Continues : Iran Says 5 Ships Hit Naval Mines In Last 24 Hours",
