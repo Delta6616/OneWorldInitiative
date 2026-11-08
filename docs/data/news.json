@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-07T23:35:47Z",
+ "stand": "2026-11-08T00:59:00Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -9,6 +9,14 @@
    "d": "2026-11-07",
    "q": "winnipegfreepress.com",
    "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Pause kurz beendet - „ Halunder Jet  fährt nach Helgoland",
+   "u": "https://www.weser-kurier.de/deutschland-welt/pause-kurz-beendet-halunder-jet-faehrt-nach-helgoland-doc88dcntnhg15rv8irbts",
+   "d": "2026-11-07",
+   "q": "weser-kurier.de",
+   "type": "logistik",
    "c": null
   },
   {
@@ -57,14 +65,6 @@
    "d": "2026-11-07",
    "q": "stuttgarter-zeitung.de",
    "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Pause kurz beendet - „ Halunder Jet  fährt nach Helgoland",
-   "u": "https://www.shz.de/pagebuilding/artikel-archiv/artikel/pause-kurz-beendet-halunder-jet-faehrt-nach-helgoland-51714201",
-   "d": "2026-11-07",
-   "q": "shz.de",
-   "type": "logistik",
    "c": null
   },
   {
@@ -154,6 +154,14 @@
    "q": "finanznachrichten.de",
    "type": "politik",
    "c": "eu"
+  },
+  {
+   "t": "Regen ? Kein Problem :  Diese wasserdichten Timberlands bringen dich trocken durch den Herbst",
+   "u": "https://www.express.de:443/shoppingwelt/regen-kein-problem-diese-wasserdichten-timberlands-bringen-dich-trocken-durch-den-herbst-7-1370603",
+   "d": "2026-11-07",
+   "q": "express.de:443",
+   "type": "logistik",
+   "c": null
   },
   {
    "t": "Skandal um Ueno - Bank - Staatsanwaltschaft in Paraguay erhebt Anklage gegen abgesetzten Präsidenten Peña",
