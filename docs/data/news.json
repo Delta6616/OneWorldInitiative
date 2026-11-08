@@ -1,14 +1,30 @@
 {
- "stand": "2026-11-08T12:48:18Z",
+ "stand": "2026-11-08T13:50:04Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Akku erst bei 0 Prozent laden ? Warum der alte Rat modernen Handys schadet",
+   "u": "https://www.netzwelt.de/news/260356-akku-erst-0-prozent-laden-alte-rat-modernen-handys-schadet.html",
+   "d": "2026-11-08",
+   "q": "netzwelt.de",
+   "type": "rohstoffe",
+   "c": null
+  },
   {
    "t": "US - Militär attackiert Frachter und Ziele an Straße von Hormus",
    "u": "https://www.merkur.de/politik/us-militaer-attackiert-frachter-und-ziele-an-strasse-von-hormus-zr-94579410.html",
    "d": "2026-11-08",
    "q": "merkur.de",
    "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "Waldeck stellt die Weichen für den Wald der Zukunft",
+   "u": "https://www.hna.de/lokales/frankenberg/waldeck-ort79441/waldeck-stellt-die-weichen-fuer-den-wald-der-zukunft-94579477.html",
+   "d": "2026-11-08",
+   "q": "hna.de",
+   "type": "rohstoffe",
    "c": null
   },
   {
