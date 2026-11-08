@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-08T10:41:52Z",
+ "stand": "2026-11-08T11:38:13Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -9,6 +9,30 @@
    "d": "2026-11-08",
    "q": "equitybulls.com",
    "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "56 % of business leaders expect external shocks to severely disrupt operations over next 5 years : KPMG",
+   "u": "https://news.webindia123.com/news/Articles/Business/20261108/4517360.html",
+   "d": "2026-11-08",
+   "q": "news.webindia123.com",
+   "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "Resumption of War in Iran after US Mid - Terms",
+   "u": "https://mg.co.za/thought-leader/2026-11-08-resumption-of-war-in-iran-after-us-mid-terms/",
+   "d": "2026-11-08",
+   "q": "mg.co.za",
+   "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "US military says it fired on commercial vessel in Gulf of Oman after it attempted to breach blockade",
+   "u": "https://www.wsls.com/news/world/2026/11/07/us-military-says-it-fired-on-commercial-vessel-in-gulf-of-oman-after-it-attempted-to-breach-blockade/",
+   "d": "2026-11-07",
+   "q": "wsls.com",
+   "type": "logistik",
    "c": null
   },
   {
@@ -180,6 +204,14 @@
    "c": null
   },
   {
+   "t": "IRAN WAR WEEK 37 , day # 1 : is perpetual combat and chaos Krasnov jam ?",
+   "u": "https://www.dailykos.com/stories/2026/11/7/800124647/community/iran-war-week-37-day-1-is-perpetual-combat-and-chaos-krasnovs-jam/",
+   "d": "2026-11-07",
+   "q": "dailykos.com",
+   "type": "logistik",
+   "c": "as"
+  },
+  {
    "t": "Global Gas Supplies To Tighten In Winter Amid Hormuz LNG Shock : IEA",
    "u": "https://www.businessworld.in/article/global-gas-supplies-to-tighten-in-winter-amid-hormuz-lng-shock-iea-632565",
    "d": "2026-11-07",
@@ -218,6 +250,14 @@
    "q": "timesofindia.indiatimes.com",
    "type": "energie",
    "c": null
+  },
+  {
+   "t": "Trump Insists On Strait Of Hormuz Blockade , Claims  Nothing Is Going To Iran , No Oil Going There",
+   "u": "https://saharareporters.com/2026/11/07/trump-insists-strait-hormuz-blockade-claims-nothing-going-iran-no-oil-going-there",
+   "d": "2026-11-07",
+   "q": "saharareporters.com",
+   "type": "logistik",
+   "c": "as"
   },
   {
    "t": "Global gas supplies could tighten in winter amid unprecedented Strait of Hormuz supply shock : IEA",
