@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-08T15:34:38Z",
+ "stand": "2026-11-08T16:38:41Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -57,6 +57,22 @@
    "d": "2026-11-08",
    "q": "mg.co.za",
    "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "Adnoc to supply 4 million tonnes of LNG annually to India Gujarat Energy",
+   "u": "https://ianslive.in/adnoc-to-supply-4-million-tonnes-of-lng-annually-to-indias-gujarat-energy--20261108140303",
+   "d": "2026-11-08",
+   "q": "ianslive.in",
+   "type": "energie",
+   "c": "as"
+  },
+  {
+   "t": "P95 - B gas - fired power plant eyed in Quezon province - BusinessWorld Online",
+   "u": "https://bworldonline.com/corporate/2026/11/08/792188/p95-b-gas-fired-power-plant-eyed-in-quezon-province/",
+   "d": "2026-11-08",
+   "q": "bworldonline.com",
+   "type": "energie",
    "c": null
   },
   {
