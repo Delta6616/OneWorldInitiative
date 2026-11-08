@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-08T19:43:14Z",
+ "stand": "2026-11-08T20:37:04Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -17,6 +17,14 @@
    "d": "2026-11-08",
    "q": "merkur.de",
    "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "Premiere in Gabersdorf : Erdgasleitung wird auf Wasserstoff umgestellt",
+   "u": "https://www.meinbezirk.at/suedoststeiermark/c-wirtschaft/erdgasleitung-wird-auf-wasserstoff-umgestellt_a8998554",
+   "d": "2026-11-08",
+   "q": "meinbezirk.at",
+   "type": "energie",
    "c": null
   },
   {
@@ -66,6 +74,14 @@
    "q": "ianslive.in",
    "type": "energie",
    "c": "as"
+  },
+  {
+   "t": "Ägypten meldet neues Gasvorkommen im Mittelmeer",
+   "u": "https://de.euronews.com/2026/11/08/agypten-meldet-neues-gasvorkommen-im-mittelmeer-mit-200-milliarden-kubikfuss",
+   "d": "2026-11-08",
+   "q": "de.euronews.com",
+   "type": "energie",
+   "c": "af"
   },
   {
    "t": "P95 - B gas - fired power plant eyed in Quezon province - BusinessWorld Online",
