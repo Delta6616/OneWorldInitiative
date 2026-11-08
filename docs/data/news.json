@@ -1,8 +1,16 @@
 {
- "stand": "2026-11-08T09:46:32Z",
+ "stand": "2026-11-08T10:41:52Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Reading the Market Signals : Motilal Oswal Private Wealth Favours Hybrid and Large Caps",
+   "u": "https://www.equitybulls.com/news/378743/reading-the-market-signals-motilal-oswal-private-wealth-favours-hybrid-and-large",
+   "d": "2026-11-08",
+   "q": "equitybulls.com",
+   "type": "finanz",
+   "c": null
+  },
   {
    "t": "Closing book on weather - damaged harvest – Winnipeg Free Press",
    "u": "https://www.winnipegfreepress.com/business/2026/11/07/closing-book-on-weather-damaged-harvest",
