@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-09T06:02:59Z",
+ "stand": "2026-11-09T07:24:32Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -9,6 +9,22 @@
    "d": "2026-11-09",
    "q": "nordkurier.de",
    "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "Wildvögel richtig füttern : Diese Fehler sollten Gartenbesitzer vermeiden",
+   "u": "https://www.nordbayern.de/service/haustiere/wildvogel-richtig-futtern-diese-fehler-sollten-gartenbesitzer-vermeiden-rep-2-1.15307398",
+   "d": "2026-11-09",
+   "q": "nordbayern.de",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Hessen : Weihnachtsbäume in Hessen werden etwas teurer",
+   "u": "https://www.n-tv.de/regionales/hessen/Weihnachtsbaeume-in-Hessen-werden-etwas-teurer-id31509865.html",
+   "d": "2026-11-09",
+   "q": "n-tv.de",
+   "type": "rohstoffe",
    "c": null
   },
   {
@@ -26,6 +42,14 @@
    "q": "cbc.ca",
    "type": "politik",
    "c": "na"
+  },
+  {
+   "t": "Aktien unter Druck : Ist es jetzt Zeit Gold zu kaufen ?",
+   "u": "https://www.boerse-online.de/nachrichten/rohstoffe/aktien-unter-druck-ist-es-jetzt-zeit-gold-zu-kaufen-20436699.html",
+   "d": "2026-11-09",
+   "q": "boerse-online.de",
+   "type": "finanz",
+   "c": null
   },
   {
    "t": "VW Bank Tagesgeld : 3 , 75 % Zinsen für 6 Monate",
@@ -125,9 +149,9 @@
   },
   {
    "t": "Trump und Putin : united states planen neuen Gas - Deal mit Russland",
-   "u": "http://www.merkur.de/wirtschaft/trump-putin-russland-gas-deal-deutschland-ukraine-frieden-energiepreise-zr-94579437.html",
+   "u": "http://www.soester-anzeiger.de/wirtschaft/trump-putin-russland-gas-deal-deutschland-ukraine-frieden-energiepreise-zr-94579437.html",
    "d": "2026-11-08",
-   "q": "merkur.de",
+   "q": "soester-anzeiger.de",
    "type": "energie",
    "c": "na"
   },
