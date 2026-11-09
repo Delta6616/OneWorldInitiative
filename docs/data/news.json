@@ -1,13 +1,13 @@
 {
- "stand": "2026-11-09T11:55:29Z",
+ "stand": "2026-11-09T13:07:03Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
   {
    "t": "Trump : Ukraine wird „ etwas andere Form  haben",
-   "u": "https://www.shz.de/deutschland-welt/politik/artikel/trump-ukraine-wird-etwas-andere-form-haben-51718060",
+   "u": "https://www.weser-kurier.de/politik/ausland/trump-ukraine-wird-etwas-andere-form-haben-doc88e54hyvyrd12zo447fl",
    "d": "2026-11-09",
-   "q": "shz.de",
+   "q": "weser-kurier.de",
    "type": "politik",
    "c": null
   },
@@ -97,6 +97,14 @@
    "d": "2026-11-09",
    "q": "hna.de",
    "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Five things to watch for in the Canadian business world in the coming week – Winnipeg Free Press",
+   "u": "https://www.winnipegfreepress.com/business/2026/11/08/five-things-to-watch-for-in-the-canadian-business-world-in-the-coming-week-416",
+   "d": "2026-11-08",
+   "q": "winnipegfreepress.com",
+   "type": "finanz",
    "c": null
   },
   {
@@ -297,6 +305,14 @@
    "d": "2026-11-07",
    "q": "stuttgarter-zeitung.de",
    "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Paraguay bank collapse sees president impeached , arrested",
+   "u": "https://www.rte.ie/news/world/2026/1107/1598335-paraguay-bank-collapse-sees-president-impeached-arrested/",
+   "d": "2026-11-07",
+   "q": "rte.ie",
+   "type": "finanz",
    "c": null
   },
   {
@@ -506,14 +522,6 @@
    "q": "economictimes.indiatimes.com",
    "type": "energie",
    "c": "as"
-  },
-  {
-   "t": "Paraguay senate impeaches President Peña , vice assumes office",
-   "u": "https://dailypost.ng/2026/11/07/paraguay-senate-impeaches-president-pena-over-banking-crisis-vice-president-alliana-assumes-office/",
-   "d": "2026-11-07",
-   "q": "dailypost.ng",
-   "type": "finanz",
-   "c": null
   },
   {
    "t": "Tanker War Continues : Iran Says 5 Ships Hit Naval Mines In Last 24 Hours",
