@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-09T05:03:05Z",
+ "stand": "2026-11-09T06:02:59Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -9,6 +9,14 @@
    "d": "2026-11-09",
    "q": "nordkurier.de",
    "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "China extends suspension of 24 % additional tariff on US imports for two months , retains 10 % rate",
+   "u": "https://www.globaltimes.cn/page/202611/1373924.shtml",
+   "d": "2026-11-09",
+   "q": "globaltimes.cn",
+   "type": "politik",
    "c": null
   },
   {
