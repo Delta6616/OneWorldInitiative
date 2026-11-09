@@ -1,8 +1,16 @@
 {
- "stand": "2026-11-09T02:54:49Z",
+ "stand": "2026-11-09T03:56:45Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "US - Militär ergänzt Iran - Seeblockade mit Maßnahmen an Land",
+   "u": "https://www.nordkurier.de/politik/us-militaer-ergaenzt-iran-seeblockade-mit-massnahmen-an-land-4996355",
+   "d": "2026-11-09",
+   "q": "nordkurier.de",
+   "type": "logistik",
+   "c": null
+  },
   {
    "t": "VW Bank Tagesgeld : 3 , 75 % Zinsen für 6 Monate",
    "u": "https://www.onvista.de/news/2026/11-08-vw-bank-zahlt-3-75-dieses-tagesgeld-angebot-kann-sich-sehen-lassen-41122918-19-26561818",
@@ -161,6 +169,14 @@
    "d": "2026-11-07",
    "q": "themarysue.com",
    "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "Paraguay President Santiago Peña impeached and arrested",
+   "u": "https://www.the-star.co.ke/news/world/2026-11-07-paraguays-president-santiago-impeached-and-arrested",
+   "d": "2026-11-07",
+   "q": "the-star.co.ke",
+   "type": "finanz",
    "c": null
   },
   {
