@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-09T17:04:32Z",
+ "stand": "2026-11-09T17:56:45Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -50,6 +50,14 @@
    "q": "n-tv.de",
    "type": "rohstoffe",
    "c": null
+  },
+  {
+   "t": "Taufkirchen : Betrug mit „ Edeka - Belohnung  kostet 85 - Jährigen 80 Euro – Abbuchungen kamen aus Zypern",
+   "u": "https://www.merkur.de/verbraucher/taufkirchen-betrug-mit-edeka-belohnung-kostet-85-jaehrigen-80-euro-abbuchungen-kamen-aus-zypern-94579698.html",
+   "d": "2026-11-09",
+   "q": "merkur.de",
+   "type": "logistik",
+   "c": "na"
   },
   {
    "t": "Nach Dürresommer : Warum 2027 laut Grazer Klimaforschern ein neuer Hitzerekord droht",
@@ -202,6 +210,14 @@
    "q": "hna.de",
    "type": "rohstoffe",
    "c": null
+  },
+  {
+   "t": "Nach dem Versenken von 11 russischen Schiffen sind die ukrainischen Magura - Seedrohnen bereit , das US - Militär zu verführen",
+   "u": "https://www.focus.de/politik/ausland/nach-dem-versenken-von-11-russischen-schiffen-sind-die-ukrainischen-magura-seedrohnen-bereit-das-us-militaer-zu-verfuehren_8d160d51-2bfc-41a0-890d-70d189d62591.html",
+   "d": "2026-11-08",
+   "q": "focus.de",
+   "type": "logistik",
+   "c": "na"
   },
   {
    "t": "Kellogg announces major change to breakfast favourites",
