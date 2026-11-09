@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-09T10:03:22Z",
+ "stand": "2026-11-09T10:56:32Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -25,6 +25,14 @@
    "d": "2026-11-09",
    "q": "n-tv.de",
    "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Russen dürfen Gebiete behalten – Ukraine wird laut Trump bald  etwas andere Form haben",
+   "u": "https://www.heute.at/s/ukraine-wird-laut-trump-bald-etwas-andere-form-haben-120278739",
+   "d": "2026-11-09",
+   "q": "heute.at",
+   "type": "politik",
    "c": null
   },
   {
@@ -297,6 +305,14 @@
    "d": "2026-11-07",
    "q": "proplanta.de",
    "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Innenministerium reagiert : Jetzt friert auch Österreich Vermögen von Linzer Stahlhändler ein",
+   "u": "https://www.news.at/investigativ/european-staal-austria-vermoegen-eingefroren",
+   "d": "2026-11-07",
+   "q": "news.at",
+   "type": "politik",
    "c": null
   },
   {
