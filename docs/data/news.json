@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-09T16:00:20Z",
+ "stand": "2026-11-09T17:04:32Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -98,6 +98,14 @@
    "q": "boerse-online.de",
    "type": "finanz",
    "c": null
+  },
+  {
+   "t": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+   "u": "https://www.bbc.com/news/articles/c6ly3mjx958eo",
+   "d": "2026-11-09",
+   "q": "bbc.com",
+   "type": "politik",
+   "c": "as"
   },
   {
    "t": "Farmers fight to adapt as droughts loom in COP31 host Turkey",
@@ -332,6 +340,14 @@
    "c": null
   },
   {
+   "t": "Republican Post - Midterms War Denialism Is an Exercise in Special Pleading",
+   "u": "https://www.theamericanconservative.com/republicans-post-midterms-war-denialism-is-an-exercise-in-special-pleading/",
+   "d": "2026-11-07",
+   "q": "theamericanconservative.com",
+   "type": "politik",
+   "c": null
+  },
+  {
    "t": "Paraguay President Santiago Peña impeached and arrested",
    "u": "https://www.the-star.co.ke/news/world/2026-11-07-paraguays-president-santiago-impeached-and-arrested",
    "d": "2026-11-07",
@@ -442,6 +458,14 @@
    "q": "hna.de",
    "type": "politik",
    "c": "na"
+  },
+  {
+   "t": "Trump New Chief Of Staff Stephen Miller Accused India Of Funding Russia Ukraine War Through Oil Purchases",
+   "u": "https://www.freepressjournal.in/world/trumps-new-chief-of-staff-stephen-miller-accused-india-of-funding-russias-ukraine-war-through-oil-purchases",
+   "d": "2026-11-07",
+   "q": "freepressjournal.in",
+   "type": "politik",
+   "c": "eu"
   },
   {
    "t": "No Cash , No UPI , Just Grain ! Villagers Keep Centuries - Old Barter System Alive In MP Bhikangaon",
@@ -570,6 +594,14 @@
    "q": "saharareporters.com",
    "type": "logistik",
    "c": "as"
+  },
+  {
+   "t": "Canadians choosing pricier destinations over Cuba amid crisis : travel agents - National",
+   "u": "https://globalnews.ca/news/12141153/canadians-skipping-cuba-amid-crisis/",
+   "d": "2026-11-07",
+   "q": "globalnews.ca",
+   "type": "politik",
+   "c": null
   },
   {
    "t": "Global gas supplies could tighten in winter amid unprecedented Strait of Hormuz supply shock : IEA",
