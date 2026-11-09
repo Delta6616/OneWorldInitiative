@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-09T14:22:23Z",
+ "stand": "2026-11-09T16:00:20Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -17,6 +17,14 @@
    "d": "2026-11-09",
    "q": "weser-kurier.de",
    "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Weihnachtsbaum im November ? Vielleicht noch abwarten",
+   "u": "https://www.swr.de/swraktuell/baden-wuerttemberg/heilbronn/weihnachtsbaum-adventsbaum-christbaum-frueher-trockenheit-probleme-preise-100.html",
+   "d": "2026-11-09",
+   "q": "swr.de",
+   "type": "rohstoffe",
    "c": null
   },
   {
@@ -40,6 +48,14 @@
    "u": "https://www.n-tv.de/regionales/hessen/Weihnachtsbaeume-in-Hessen-werden-etwas-teurer-id31509865.html",
    "d": "2026-11-09",
    "q": "n-tv.de",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Nach Dürresommer : Warum 2027 laut Grazer Klimaforschern ein neuer Hitzerekord droht",
+   "u": "https://www.meinbezirk.at/steiermark/c-wirtschaft/warum-2027-laut-grazer-klimaforschern-ein-neuer-hitzerekord-droht_a8996535",
+   "d": "2026-11-09",
+   "q": "meinbezirk.at",
    "type": "rohstoffe",
    "c": null
   },
@@ -114,6 +130,14 @@
    "q": "winnipegfreepress.com",
    "type": "finanz",
    "c": null
+  },
+  {
+   "t": "Präsidentschaftswahl in Frankreich 2027 : Kann Christine Lagarde die Extreme stoppen ?",
+   "u": "https://www.sueddeutsche.de/politik/frankreich-praesidentschaftswahl-2027-christine-lagarde-marine-le-pen-li.3574735",
+   "d": "2026-11-08",
+   "q": "sueddeutsche.de",
+   "type": "finanz",
+   "c": "eu"
   },
   {
    "t": "Sisi Orders Egypt Emergency Stockpile Study",
@@ -272,6 +296,14 @@
    "u": "https://www.watson.ch/wirtschaft/international/607602349-banken-kollaps-stuerzt-paraguay-in-die-krise-praesident-abgesetzt",
    "d": "2026-11-07",
    "q": "watson.ch",
+   "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "Paraguays abgesetzter Präsident Peña vor Staatsanwaltschaft | Tiroler Tageszeitung – Aktuelle Nachrichten auf tt . com",
+   "u": "https://www.tt.com/artikel/30946332/paraguays-abgesetzter-praesident-pe-a-vor-staatsanwaltschaft",
+   "d": "2026-11-07",
+   "q": "tt.com",
    "type": "finanz",
    "c": null
   },
@@ -522,14 +554,6 @@
    "q": "aol.co.uk",
    "type": "politik",
    "c": "eu"
-  },
-  {
-   "t": "Impeached Paraguay President Peña placed under house arrest after bank collapse",
-   "u": "https://timesofindia.indiatimes.com/world/rest-of-world/impeached-paraguay-president-pea-placed-under-house-arrest-after-bank-collapse/articleshow/135624172.cms",
-   "d": "2026-11-07",
-   "q": "timesofindia.indiatimes.com",
-   "type": "finanz",
-   "c": null
   },
   {
    "t": "Uae Natural Gas Shipments : Why new LNG projects may not prevent a global gas crunch this winter",
