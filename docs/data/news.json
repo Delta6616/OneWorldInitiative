@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-09T09:08:21Z",
+ "stand": "2026-11-09T10:03:22Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -44,11 +44,43 @@
    "c": "na"
   },
   {
+   "t": "US Midterm Results Could Boost India FPI Inflows , Ease Rupee Pressure : Axis MF",
+   "u": "https://www.businessworld.in/article/us-midterm-results-could-boost-india-s-fpi-inflows-ease-rupee-pressure-axis-mf-632702",
+   "d": "2026-11-09",
+   "q": "businessworld.in",
+   "type": "finanz",
+   "c": null
+  },
+  {
    "t": "Aktien unter Druck : Ist es jetzt Zeit Gold zu kaufen ?",
    "u": "https://www.boerse-online.de/nachrichten/rohstoffe/aktien-unter-druck-ist-es-jetzt-zeit-gold-zu-kaufen-20436699.html",
    "d": "2026-11-09",
    "q": "boerse-online.de",
    "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "Farmers fight to adapt as droughts loom in COP31 host Turkey",
+   "u": "https://www.al-monitor.com/originals/2026/11/farmers-fight-adapt-droughts-loom-cop31-host-turkey",
+   "d": "2026-11-09",
+   "q": "al-monitor.com",
+   "type": "rohstoffe",
+   "c": "as"
+  },
+  {
+   "t": "India may gain from changing global investment environment after US midterm elections : Report",
+   "u": "https://aninews.in/news/business/india-may-gain-from-changing-global-investment-environment-after-us-midterm-elections-report20261109081934/",
+   "d": "2026-11-09",
+   "q": "aninews.in",
+   "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "Bis zu 3 , 9 Millionen Tonnen Kupfer schlummern in Nordhessens Boden",
+   "u": "http://www.hna.de/lokales/rotenburg-bebra/rotenburg-fulda-ort305317/bis-zu-millionen-tonnen-kupfer-schlummern-in-nordhessens-boden-94580039.html",
+   "d": "2026-11-09",
+   "q": "hna.de",
+   "type": "rohstoffe",
    "c": null
   },
   {
@@ -84,6 +116,14 @@
    "c": null
   },
   {
+   "t": "Farm debt is set to hit a record $605 billion this year",
+   "u": "https://www.kcra.com/article/farm-finances-worsen-in-2026-as-diesel-and-fertilizer-costs-squeeze-us-farmers/74217744",
+   "d": "2026-11-08",
+   "q": "kcra.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
    "t": "Waldeck stellt die Weichen für den Wald der Zukunft",
    "u": "https://www.hna.de/lokales/frankenberg/waldeck-ort79441/waldeck-stellt-die-weichen-fuer-den-wald-der-zukunft-94579477.html",
    "d": "2026-11-08",
@@ -106,6 +146,14 @@
    "q": "equitybulls.com",
    "type": "finanz",
    "c": null
+  },
+  {
+   "t": "Kenya mining ambitions raising alarm for farmers | The Arkansas Democrat - Gazette",
+   "u": "https://www.arkansasonline.com/news/2026/nov/08/kenyas-mining-ambitions-raising-alarm-for-farmers/",
+   "d": "2026-11-08",
+   "q": "arkansasonline.com",
+   "type": "rohstoffe",
+   "c": "af"
   },
   {
    "t": "56 % of business leaders expect external shocks to severely disrupt operations over next 5 years : KPMG",
@@ -284,12 +332,36 @@
    "c": null
   },
   {
+   "t": "Snap , Crackle , Swap : Rice Krispies Lose Whole Rice In Europe",
+   "u": "https://www.klif.com/2026/11/07/snap-crackle-swap-rice-krispies-lose-whole-rice-in-europe/",
+   "d": "2026-11-07",
+   "q": "klif.com",
+   "type": "rohstoffe",
+   "c": "eu"
+  },
+  {
+   "t": "Why didnt the strong jobs report send mortgage rates skyrocketing ?",
+   "u": "https://www.housingwire.com/articles/jobs-report-mortgage-rates-flat/",
+   "d": "2026-11-07",
+   "q": "housingwire.com",
+   "type": "finanz",
+   "c": null
+  },
+  {
    "t": "Warum Trumps Diesel - Deal mit Putin zur Unterstützung bei den Zwischenwahlen zum Scheitern verurteilt war",
    "u": "https://www.hna.de/politik/warum-trumps-diesel-deal-mit-putin-zur-unterstuetzung-bei-den-zwischenwahlen-zum-scheitern-verurteilt-war-zr-94578702.html",
    "d": "2026-11-07",
    "q": "hna.de",
    "type": "politik",
    "c": "na"
+  },
+  {
+   "t": "No Cash , No UPI , Just Grain ! Villagers Keep Centuries - Old Barter System Alive In MP Bhikangaon",
+   "u": "https://www.freepressjournal.in/indore/no-cash-no-upi-just-grain-villagers-keep-centuries-old-barter-system-alive-in-mps-bhikangaon",
+   "d": "2026-11-07",
+   "q": "freepressjournal.in",
+   "type": "rohstoffe",
+   "c": null
   },
   {
    "t": "Kreatin und Omega - 3 können gesundes Leben verlängern",
@@ -348,6 +420,14 @@
    "c": "as"
   },
   {
+   "t": "Hamilton fire chief welcomes changes to lithium ion battery laws",
+   "u": "https://www.chch.com/chch-news/hamilton-fire-chief-welcomes-changes-to-lithium-ion-battery-laws/",
+   "d": "2026-11-07",
+   "q": "chch.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
    "t": "Global Gas Supplies To Tighten In Winter Amid Hormuz LNG Shock : IEA",
    "u": "https://www.businessworld.in/article/global-gas-supplies-to-tighten-in-winter-amid-hormuz-lng-shock-iea-632565",
    "d": "2026-11-07",
@@ -402,6 +482,14 @@
    "q": "economictimes.indiatimes.com",
    "type": "energie",
    "c": "as"
+  },
+  {
+   "t": "Paraguay senate impeaches President Peña , vice assumes office",
+   "u": "https://dailypost.ng/2026/11/07/paraguay-senate-impeaches-president-pena-over-banking-crisis-vice-president-alliana-assumes-office/",
+   "d": "2026-11-07",
+   "q": "dailypost.ng",
+   "type": "finanz",
+   "c": null
   },
   {
    "t": "Tanker War Continues : Iran Says 5 Ships Hit Naval Mines In Last 24 Hours",
@@ -796,12 +884,12 @@
    "c": null
   },
   {
-   "t": "NFP - Daten heute : Job - Schock oder Zinsschock - so reagieren die Märkte live !",
-   "u": "https://www.finanznachrichten.de/nachrichten-2026-11/70056518-nfp-daten-heute-job-schock-oder-zinsschock-so-reagieren-die-maerkte-live-268.htm",
+   "t": "Fed Chair Kevin Warsh Is Planning to Break 45 Years of Precedent With a Stunning Change to Monetary Policy -- It Could Rattle Wall Street for Years to Come",
+   "u": "https://www.fool.com/investing/2026/11/06/fed-chair-kevin-warsh-planning-fed-policy-change/",
    "d": "2026-11-06",
-   "q": "finanznachrichten.de",
+   "q": "fool.com",
    "type": "finanz",
-   "c": null
+   "c": "na"
   },
   {
    "t": "Paraguays Präsident Peña tritt wegen Bankenkrise zurück",
