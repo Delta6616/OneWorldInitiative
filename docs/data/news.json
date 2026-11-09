@@ -1,8 +1,16 @@
 {
- "stand": "2026-11-09T10:56:32Z",
+ "stand": "2026-11-09T11:55:29Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Trump : Ukraine wird „ etwas andere Form  haben",
+   "u": "https://www.shz.de/deutschland-welt/politik/artikel/trump-ukraine-wird-etwas-andere-form-haben-51718060",
+   "d": "2026-11-09",
+   "q": "shz.de",
+   "type": "politik",
+   "c": null
+  },
   {
    "t": "US - Militär ergänzt Iran - Seeblockade mit Maßnahmen an Land",
    "u": "https://www.nordkurier.de/politik/us-militaer-ergaenzt-iran-seeblockade-mit-massnahmen-an-land-4996355",

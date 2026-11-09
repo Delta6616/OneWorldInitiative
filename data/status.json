@@ -15,9 +15,9 @@
  },
  "gdelt": {
   "ok": true,
-  "zeit": "2026-11-09T10:54:28Z",
-  "neu_oder_geaendert": 2,
-  "zeilen_gesamt": 646,
+  "zeit": "2026-11-09T11:53:30Z",
+  "neu_oder_geaendert": 3,
+  "zeilen_gesamt": 649,
   "warnungen": [
    "logistik/english: HTTP 429",
    "energie/english: HTTP 429",
