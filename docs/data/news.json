@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-09T03:56:45Z",
+ "stand": "2026-11-09T05:03:05Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -10,6 +10,14 @@
    "q": "nordkurier.de",
    "type": "logistik",
    "c": null
+  },
+  {
+   "t": "Canada unlikely trade war influencer fighting for the little guys",
+   "u": "https://www.cbc.ca/player/play/video/9.7412893",
+   "d": "2026-11-09",
+   "q": "cbc.ca",
+   "type": "politik",
+   "c": "na"
   },
   {
    "t": "VW Bank Tagesgeld : 3 , 75 % Zinsen für 6 Monate",
