@@ -1,8 +1,16 @@
 {
- "stand": "2026-11-09T13:07:03Z",
+ "stand": "2026-11-09T14:22:23Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Farm debt is set to hit a record $605 billion this year",
+   "u": "https://www.wlwt.com/article/farm-finances-worsen-in-2026-as-diesel-and-fertilizer-costs-squeeze-us-farmers/74217744",
+   "d": "2026-11-09",
+   "q": "wlwt.com",
+   "type": "rohstoffe",
+   "c": null
+  },
   {
    "t": "Trump : Ukraine wird „ etwas andere Form  haben",
    "u": "https://www.weser-kurier.de/politik/ausland/trump-ukraine-wird-etwas-andere-form-haben-doc88e54hyvyrd12zo447fl",
@@ -108,6 +116,14 @@
    "c": null
   },
   {
+   "t": "Sisi Orders Egypt Emergency Stockpile Study",
+   "u": "https://www.riotimesonline.com/sisi-orders-egypt-emergency-stockpile-study/",
+   "d": "2026-11-08",
+   "q": "riotimesonline.com",
+   "type": "logistik",
+   "c": "af"
+  },
+  {
    "t": "VW Bank Tagesgeld : 3 , 75 % Zinsen für 6 Monate",
    "u": "https://www.onvista.de/news/2026/11-08-vw-bank-zahlt-3-75-dieses-tagesgeld-angebot-kann-sich-sehen-lassen-41122918-19-26561818",
    "d": "2026-11-08",
@@ -140,12 +156,12 @@
    "c": null
   },
   {
-   "t": "Farm debt is set to hit a record $605 billion this year",
-   "u": "https://www.kcra.com/article/farm-finances-worsen-in-2026-as-diesel-and-fertilizer-costs-squeeze-us-farmers/74217744",
+   "t": "US military says it fired on ship that visited Iranian port after it tried to breach Strait of Hormuz blockade",
+   "u": "https://www.independent.co.uk/news/world/americas/usa-military-strait-of-hormuz-ship-iran-st-kitts-b3081226.html",
    "d": "2026-11-08",
-   "q": "kcra.com",
-   "type": "rohstoffe",
-   "c": null
+   "q": "independent.co.uk",
+   "type": "logistik",
+   "c": "as"
   },
   {
    "t": "Waldeck stellt die Weichen für den Wald der Zukunft",
@@ -404,6 +420,14 @@
    "c": null
   },
   {
+   "t": "Lithium - ion battery packs for Bose speakers recalled after overheating concerns",
+   "u": "https://www.fox2detroit.com/news/lithium-ion-battery-packs-recalled-overheating-issues",
+   "d": "2026-11-07",
+   "q": "fox2detroit.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
    "t": "Kreatin und Omega - 3 können gesundes Leben verlängern",
    "u": "https://www.focus.de/gesundheit/longevity/kreatin-und-omega-3-koennen-gesundes-leben-verlaengern_ce2d71c0-0567-4be0-82ad-c7da376f2569.html",
    "d": "2026-11-07",
@@ -474,6 +498,14 @@
    "q": "businessworld.in",
    "type": "energie",
    "c": "as"
+  },
+  {
+   "t": "Trump Says U . S . Strikes on Iran Destroyed Air Defense System in  Minutes",
+   "u": "https://www.breitbart.com/politics/2026/11/07/trump-u-s-carried-out-minor-strikes-iran-destroyed-anti-aircraft-system-minutes/",
+   "d": "2026-11-07",
+   "q": "breitbart.com",
+   "type": "logistik",
+   "c": null
   },
   {
    "t": "Staatskrise in Paraguay : Peña als Präsident abgesetzt - Politik Ausland",
