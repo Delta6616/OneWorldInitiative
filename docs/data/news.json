@@ -1,8 +1,16 @@
 {
- "stand": "2026-11-09T02:07:49Z",
+ "stand": "2026-11-09T02:54:49Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "VW Bank Tagesgeld : 3 , 75 % Zinsen für 6 Monate",
+   "u": "https://www.onvista.de/news/2026/11-08-vw-bank-zahlt-3-75-dieses-tagesgeld-angebot-kann-sich-sehen-lassen-41122918-19-26561818",
+   "d": "2026-11-08",
+   "q": "onvista.de",
+   "type": "finanz",
+   "c": null
+  },
   {
    "t": "Akku erst bei 0 Prozent laden ? Warum der alte Rat modernen Handys schadet",
    "u": "https://www.netzwelt.de/news/260356-akku-erst-0-prozent-laden-alte-rat-modernen-handys-schadet.html",
