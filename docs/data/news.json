@@ -1,8 +1,16 @@
 {
- "stand": "2026-11-10T00:59:02Z",
+ "stand": "2026-11-10T02:02:02Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Verde AgriTech Announces Q3 2026 Financial and Operating Results",
+   "u": "https://www.manilatimes.net/2026/11/10/tmt-newswire/globenewswire/verde-agritech-announces-q3-2026-financial-and-operating-results/2465866",
+   "d": "2026-11-10",
+   "q": "manilatimes.net",
+   "type": "rohstoffe",
+   "c": null
+  },
   {
    "t": "Farm debt is set to hit a record $605 billion this year",
    "u": "https://www.wlwt.com/article/farm-finances-worsen-in-2026-as-diesel-and-fertilizer-costs-squeeze-us-farmers/74217744",
