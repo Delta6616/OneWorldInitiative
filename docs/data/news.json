@@ -1,8 +1,16 @@
 {
- "stand": "2026-11-10T14:10:41Z",
+ "stand": "2026-11-10T15:48:41Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Exclusive : AP joins EU naval patrol as piracy rebounds amid regional conflicts – Winnipeg Free Press",
+   "u": "https://www.winnipegfreepress.com/business/2026/11/10/exclusive-ap-joins-eu-naval-patrol-as-piracy-rebounds-amid-regional-conflicts",
+   "d": "2026-11-10",
+   "q": "winnipegfreepress.com",
+   "type": "logistik",
+   "c": "eu"
+  },
   {
    "t": "Turkmenistan fulfills natural gas production plan at 108 . 3 % in Jan - Oct",
    "u": "https://www.trend.az/casia/turkmenistan/4244802.html",
@@ -124,6 +132,14 @@
    "c": null
   },
   {
+   "t": "Trump says Iran war is  effectively over : How the conflict unfolded",
+   "u": "https://www.business-standard.com/world-news/trump-says-iran-war-is-effectively-over-how-the-conflict-unfolded-126111000144_1.html",
+   "d": "2026-11-10",
+   "q": "business-standard.com",
+   "type": "logistik",
+   "c": null
+  },
+  {
    "t": "Paul LePage lands in Washington , pitching himself as a dealmaker",
    "u": "https://www.bangordailynews.com/2026/11/09/politics/washington/paul-lepage-washington-dealmaker/",
    "d": "2026-11-10",
@@ -154,6 +170,14 @@
    "q": "woc1420.iheart.com",
    "type": "politik",
    "c": "na"
+  },
+  {
+   "t": "Oil Prices : Oil prices today : Crude edges lower as Donald Trump signals pause in military action against Iran",
+   "u": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-crude-edges-lower-as-donald-trump-signals-pause-in-military-action-against-iran/articleshow/135696941.cms",
+   "d": "2026-11-10",
+   "q": "timesofindia.indiatimes.com",
+   "type": "logistik",
+   "c": null
   },
   {
    "t": "Oil Prices Plunge Below $92 as Trump Signals Restraint on Iran",
