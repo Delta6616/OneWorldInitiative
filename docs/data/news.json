@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-10T19:52:35Z",
+ "stand": "2026-11-10T20:45:07Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -394,6 +394,14 @@
    "q": "al-monitor.com",
    "type": "rohstoffe",
    "c": "as"
+  },
+  {
+   "t": "RBA Hunter Warns AI Boom Could Lift Inflation and Interest Rates Before Productivity Gains Arrive",
+   "u": "https://www.actionforex.com/live-comments/660240-rbas-hunter-warns-ai-boom-could-lift-inflation-and-interest-rates-before-productivity-gains-arrive/",
+   "d": "2026-11-09",
+   "q": "actionforex.com",
+   "type": "finanz",
+   "c": null
   },
   {
    "t": "India may gain from changing global investment environment after US midterm elections : Report",
