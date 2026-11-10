@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-10T11:51:13Z",
+ "stand": "2026-11-10T12:59:32Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -321,6 +321,14 @@
    "d": "2026-11-09",
    "q": "boerse-online.de",
    "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "Globale Erwärmung : UN - Klimakonferenzen sind gescheitert – das Klimaproblem dürfte dennoch gelöst werden",
+   "u": "https://www.bild.de/politik/meinung-kommentare-kolumnen/globale-erwaermung-un-klimakonferenzen-sind-gescheitert-das-klimaproblem-duerfte-dennoch-geloest-werden-6aef963f303d53dad458f004",
+   "d": "2026-11-09",
+   "q": "bild.de",
+   "type": "energie",
    "c": null
   },
   {
