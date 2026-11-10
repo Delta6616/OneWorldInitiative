@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-10T02:02:02Z",
+ "stand": "2026-11-10T02:49:50Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -10,6 +10,14 @@
    "q": "manilatimes.net",
    "type": "rohstoffe",
    "c": null
+  },
+  {
+   "t": "Ukraine - Drohnen treffen Großraffinerie bei St . Petersburg",
+   "u": "http://www.fnp.de/politik/ukraine-drohnen-treffen-grossraffinerie-bei-st-petersburg-zr-94582231.html",
+   "d": "2026-11-10",
+   "q": "fnp.de",
+   "type": "energie",
+   "c": "eu"
   },
   {
    "t": "Farm debt is set to hit a record $605 billion this year",
@@ -104,6 +112,14 @@
    "u": "https://www.businessworld.in/article/us-midterm-results-could-boost-india-s-fpi-inflows-ease-rupee-pressure-axis-mf-632702",
    "d": "2026-11-09",
    "q": "businessworld.in",
+   "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "PSU Banks in focus ; SBI , BOI , PNB , Indian Bank , Canara , UBI gain up to 3 %",
+   "u": "https://www.business-standard.com/markets/news/psu-banks-in-focus-sbi-boi-pnb-indian-bank-canara-ubi-gain-up-to-3-126110900233_1.html",
+   "d": "2026-11-09",
+   "q": "business-standard.com",
    "type": "finanz",
    "c": null
   },
@@ -218,6 +234,14 @@
    "q": "hna.de",
    "type": "rohstoffe",
    "c": null
+  },
+  {
+   "t": "Trump Recent Warning Is Sending Shockwaves Through Wall Street . Here What It Could Mean for Your Retirement Savings .",
+   "u": "https://www.fool.com/investing/2026/11/07/trumps-recent-warning-is-sending-shockwaves-throug/",
+   "d": "2026-11-08",
+   "q": "fool.com",
+   "type": "finanz",
+   "c": "na"
   },
   {
    "t": "Nach dem Versenken von 11 russischen Schiffen sind die ukrainischen Magura - Seedrohnen bereit , das US - Militär zu verführen",
