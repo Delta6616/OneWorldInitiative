@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-10T09:56:21Z",
+ "stand": "2026-11-10T10:54:01Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -18,6 +18,38 @@
    "q": "thenationalnews.com",
    "type": "politik",
    "c": "as"
+  },
+  {
+   "t": "Soaring cost of production takes gloss off record barley yields | Stock Journal",
+   "u": "https://www.stockjournal.com.au/story/9388743/soaring-cost-of-production-takes-gloss-off-record-barley-yields/",
+   "d": "2026-11-10",
+   "q": "stockjournal.com.au",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Soaring cost of production takes gloss off record barley yields | Stock & Land",
+   "u": "https://www.stockandland.com.au/story/9388743/soaring-cost-of-production-takes-gloss-off-record-barley-yields/",
+   "d": "2026-11-10",
+   "q": "stockandland.com.au",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Soaring cost of production takes gloss off record barley yields | Queensland Country Life",
+   "u": "https://www.queenslandcountrylife.com.au/story/9388743/soaring-cost-of-production-takes-gloss-off-record-barley-yields/",
+   "d": "2026-11-10",
+   "q": "queenslandcountrylife.com.au",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Soaring cost of production takes gloss off record barley yields | North Queensland Register",
+   "u": "https://www.northqueenslandregister.com.au/story/9388743/soaring-cost-of-production-takes-gloss-off-record-barley-yields/",
+   "d": "2026-11-10",
+   "q": "northqueenslandregister.com.au",
+   "type": "rohstoffe",
+   "c": null
   },
   {
    "t": "Ashurst Perkins Coie Advises Denglin Technology on Hong Kong IPO Sanctions",
@@ -60,6 +92,14 @@
    "c": null
   },
   {
+   "t": "Ultrathin battery design tackles one of solid - state lithium toughest problems",
+   "u": "https://www.digitaljournal.com/article/ultrathin-battery-design-tackles-one-of-solid-state-lithiums-toughest-problems/",
+   "d": "2026-11-10",
+   "q": "digitaljournal.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
    "t": "Paul LePage lands in Washington , pitching himself as a dealmaker",
    "u": "https://www.bangordailynews.com/2026/11/09/politics/washington/paul-lepage-washington-dealmaker/",
    "d": "2026-11-10",
@@ -73,6 +113,14 @@
    "d": "2026-11-10",
    "q": "aol.com",
    "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Economic Pulse : No silver bullet to sustain nation farm economy – AgriNews",
+   "u": "https://www.agrinews-pubs.com:443/opinion/columnists/2026/11/10/economic-pulse-no-silver-bullet-to-sustain-nations-farm-economy/",
+   "d": "2026-11-10",
+   "q": "agrinews-pubs.com:443",
+   "type": "rohstoffe",
    "c": null
   },
   {
@@ -98,6 +146,14 @@
    "q": "deutsche-wirtschafts-nachrichten.de",
    "type": "finanz",
    "c": "na"
+  },
+  {
+   "t": "85 pc of Maharashtra gripped by drought as rural belt struggles during Diwali : Shiv Sena ( UBT ) in  Samaana",
+   "u": "https://bilkulonline.com/2026/11/10/85-pc-of-maharashtra-gripped-by-drought-as-rural-belt-struggles-during-diwali-shiv-senaubt-in-samaana/",
+   "d": "2026-11-10",
+   "q": "bilkulonline.com",
+   "type": "rohstoffe",
+   "c": null
   },
   {
    "t": "Biggest oil deal in world history : JD Vance claims US control of Venezuelan reserves , energy dominance",
