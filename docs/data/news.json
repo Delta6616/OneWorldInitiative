@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-10T10:54:01Z",
+ "stand": "2026-11-10T11:51:13Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -49,6 +49,14 @@
    "d": "2026-11-10",
    "q": "northqueenslandregister.com.au",
    "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "BOJ Opinion Summary Shows Board Remains in Favor of More Tightening",
+   "u": "https://www.morningstar.com/news/dow-jones/2026110914427/boj-opinion-summary-shows-board-remains-in-favor-of-more-tightening",
+   "d": "2026-11-10",
+   "q": "morningstar.com",
+   "type": "finanz",
    "c": null
   },
   {
@@ -161,6 +169,22 @@
    "d": "2026-11-10",
    "q": "aninews.in",
    "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Lower oil prices pull down bond yields ; 10 - year G - sec seen trading at 7 . 10 - 7 . 25 %: Report",
+   "u": "https://aninews.in/news/business/lower-oil-prices-pull-down-bond-yields-10-year-g-sec-seen-trading-at-710-725-report20261110081629/",
+   "d": "2026-11-10",
+   "q": "aninews.in",
+   "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "India may not see US - like rise in natural interest rates despite global yield pressures : Report",
+   "u": "https://aninews.in/news/business/india-may-not-see-us-like-rise-in-natural-interest-rates-despite-global-yield-pressures-report20261110092859/",
+   "d": "2026-11-10",
+   "q": "aninews.in",
+   "type": "finanz",
    "c": null
   },
   {
