@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-10T16:51:16Z",
+ "stand": "2026-11-10T17:47:55Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -26,6 +26,14 @@
    "q": "thenationalnews.com",
    "type": "politik",
    "c": "as"
+  },
+  {
+   "t": "Iraq sets ambitious target to more than double oil production by 2032",
+   "u": "https://www.thenationalnews.com/news/mena/2026/11/09/iraq-sets-ambitious-target-to-more-than-double-oil-production-by-2032/",
+   "d": "2026-11-10",
+   "q": "thenationalnews.com",
+   "type": "energie",
+   "c": null
   },
   {
    "t": "Soaring cost of production takes gloss off record barley yields | Stock Journal",
