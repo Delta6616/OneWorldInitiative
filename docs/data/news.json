@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-10T21:41:29Z",
+ "stand": "2026-11-10T22:41:43Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -33,6 +33,14 @@
    "d": "2026-11-10",
    "q": "thenationalnews.com",
    "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Australian wheat growers face risk from Russian export slump | Stock Journal",
+   "u": "https://www.stockjournal.com.au/story/9388775/australian-wheat-growers-face-risk-from-russian-export-slump/",
+   "d": "2026-11-10",
+   "q": "stockjournal.com.au",
+   "type": "rohstoffe",
    "c": null
   },
   {
@@ -202,14 +210,6 @@
    "q": "deutsche-wirtschafts-nachrichten.de",
    "type": "finanz",
    "c": "na"
-  },
-  {
-   "t": "85 pc of Maharashtra gripped by drought as rural belt struggles during Diwali : Shiv Sena ( UBT ) in  Samaana",
-   "u": "https://bilkulonline.com/2026/11/10/85-pc-of-maharashtra-gripped-by-drought-as-rural-belt-struggles-during-diwali-shiv-senaubt-in-samaana/",
-   "d": "2026-11-10",
-   "q": "bilkulonline.com",
-   "type": "rohstoffe",
-   "c": null
   },
   {
    "t": "Biggest oil deal in world history : JD Vance claims US control of Venezuelan reserves , energy dominance",
