@@ -1,14 +1,70 @@
 {
- "stand": "2026-11-10T04:52:05Z",
+ "stand": "2026-11-10T05:54:15Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "China extends pause on rare earth export curbs for two months",
+   "u": "https://www.thenationalnews.com/news/us/2026/11/09/china-extends-pause-on-rare-earth-export-curbs-for-two-months/",
+   "d": "2026-11-10",
+   "q": "thenationalnews.com",
+   "type": "politik",
+   "c": "as"
+  },
+  {
+   "t": "Ashurst Perkins Coie Advises Denglin Technology on Hong Kong IPO Sanctions",
+   "u": "https://www.miragenews.com/ashurst-perkins-coie-advises-denglin-technology-1774540/",
+   "d": "2026-11-10",
+   "q": "miragenews.com",
+   "type": "politik",
+   "c": null
+  },
   {
    "t": "Verde AgriTech Announces Q3 2026 Financial and Operating Results",
    "u": "https://www.manilatimes.net/2026/11/10/tmt-newswire/globenewswire/verde-agritech-announces-q3-2026-financial-and-operating-results/2465866",
    "d": "2026-11-10",
    "q": "manilatimes.net",
    "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Could the scandal at Nvidia rattle Korea semiconductor industry ?",
+   "u": "https://www.hani.co.kr/arti/english_edition/e_business/1286584.html",
+   "d": "2026-11-10",
+   "q": "hani.co.kr",
+   "type": "politik",
+   "c": "as"
+  },
+  {
+   "t": "Paul LePage lands in Washington , pitching himself as a dealmaker",
+   "u": "https://www.bangordailynews.com/2026/11/09/politics/washington/paul-lepage-washington-dealmaker/",
+   "d": "2026-11-10",
+   "q": "bangordailynews.com",
+   "type": "politik",
+   "c": "na"
+  },
+  {
+   "t": "Trump Praises Nvidia Jensen Huang Amid Spy Probe",
+   "u": "https://woc1420.iheart.com/content/2026-11-09-trump-praises-nvidias-jensen-huang-amid-spy-probe/",
+   "d": "2026-11-10",
+   "q": "woc1420.iheart.com",
+   "type": "politik",
+   "c": "na"
+  },
+  {
+   "t": "US Börsen : Nasdaq legt trotz Nvidia Einbruch stark zu",
+   "u": "https://deutsche-wirtschafts-nachrichten.de/723170/us-boersenbericht-nasdaq-legt-trotz-nvidia-einbruch-kraeftig-zu",
+   "d": "2026-11-10",
+   "q": "deutsche-wirtschafts-nachrichten.de",
+   "type": "finanz",
+   "c": "na"
+  },
+  {
+   "t": "West using  lawles economic warfare to crush rivals",
+   "u": "http://www.russiaherald.com/news/279422736/west-using-lawless-economic-warfare-to-crush-rivals-lavrov",
+   "d": "2026-11-10",
+   "q": "russiaherald.com",
+   "type": "politik",
    "c": null
   },
   {
@@ -249,6 +305,14 @@
    "d": "2026-11-08",
    "q": "focus.de",
    "type": "logistik",
+   "c": "na"
+  },
+  {
+   "t": "Mann findet in Schublade der Großmutter Staatsanleihen aus 1948 : 14 . 700 Lire könnten bis zu 100 . 000 Euro wert sein",
+   "u": "https://www.focus.de/finanzen/mann-findet-in-schublade-der-grossmutter-staatsanleihen-aus-1948-14-700-lire-koennten-bis-zu-100-000-euro-wert-sein_bf9129d1-902f-42ea-844c-a6ff6b43a9c0.html",
+   "d": "2026-11-08",
+   "q": "focus.de",
+   "type": "finanz",
    "c": "na"
   },
   {
@@ -580,6 +644,14 @@
    "c": null
   },
   {
+   "t": "Präsident Paraguays vom Parlament abgesetzt",
+   "u": "https://www.diepresse.com/41428106/praesident-paraguays-vom-parlament-abgesetzt",
+   "d": "2026-11-07",
+   "q": "diepresse.com",
+   "type": "finanz",
+   "c": null
+  },
+  {
    "t": "Skandal um Ueno - Bank - Staatsanwaltschaft in Paraguay erhebt Anklage gegen abgesetzten Präsidenten Peña",
    "u": "https://www.deutschlandfunk.de/staatsanwaltschaft-in-paraguay-erhebt-anklage-gegen-abgesetzten-praesidenten-pe-a-100.html",
    "d": "2026-11-07",
@@ -617,14 +689,6 @@
    "d": "2026-11-07",
    "q": "breitbart.com",
    "type": "logistik",
-   "c": null
-  },
-  {
-   "t": "Staatskrise in Paraguay : Peña als Präsident abgesetzt - Politik Ausland",
-   "u": "https://www.badische-zeitung.de/staatskrise-in-paraguay-pe-a-als-praesident-abgesetzt",
-   "d": "2026-11-07",
-   "q": "badische-zeitung.de",
-   "type": "finanz",
    "c": null
   },
   {
