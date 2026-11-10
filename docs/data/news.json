@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-10T05:54:15Z",
+ "stand": "2026-11-10T07:03:26Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -36,6 +36,22 @@
    "c": "as"
   },
   {
+   "t": "BYD , HPQ Silicon , BMW - Der Batterie - Wettlauf eskaliert",
+   "u": "https://www.finanznachrichten.de/nachrichten-2026-11/70081903-byd-hpq-silicon-bmw-der-batterie-wettlauf-eskaliert-673.htm",
+   "d": "2026-11-10",
+   "q": "finanznachrichten.de",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Parlamentarischer Abend Sonderkulturen : DRV und BVEO fordern bessere wirtschaftliche Rahmenbedingungen",
+   "u": "https://www.finanznachrichten.de/nachrichten-2026-11/70081872-parlamentarischer-abend-sonderkulturen-drv-und-bveo-fordern-bessere-wirtschaftliche-rahmenbedingungen-573.htm",
+   "d": "2026-11-10",
+   "q": "finanznachrichten.de",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
    "t": "Paul LePage lands in Washington , pitching himself as a dealmaker",
    "u": "https://www.bangordailynews.com/2026/11/09/politics/washington/paul-lepage-washington-dealmaker/",
    "d": "2026-11-10",
@@ -60,20 +76,20 @@
    "c": "na"
   },
   {
+   "t": "Ukraine - Drohnen treffen Großraffinerie bei St . Petersburg",
+   "u": "http://www.wlz-online.de/politik/ukraine-drohnen-treffen-grossraffinerie-bei-st-petersburg-zr-94582231.html",
+   "d": "2026-11-10",
+   "q": "wlz-online.de",
+   "type": "energie",
+   "c": "eu"
+  },
+  {
    "t": "West using  lawles economic warfare to crush rivals",
    "u": "http://www.russiaherald.com/news/279422736/west-using-lawless-economic-warfare-to-crush-rivals-lavrov",
    "d": "2026-11-10",
    "q": "russiaherald.com",
    "type": "politik",
    "c": null
-  },
-  {
-   "t": "Ukraine - Drohnen treffen Großraffinerie bei St . Petersburg",
-   "u": "http://www.fnp.de/politik/ukraine-drohnen-treffen-grossraffinerie-bei-st-petersburg-zr-94582231.html",
-   "d": "2026-11-10",
-   "q": "fnp.de",
-   "type": "energie",
-   "c": "eu"
   },
   {
    "t": "Farm debt is set to hit a record $605 billion this year",
@@ -90,6 +106,14 @@
    "q": "weser-kurier.de",
    "type": "politik",
    "c": null
+  },
+  {
+   "t": "Klimagipfel in der Türkei – Worum es geht und woran es hakt",
+   "u": "https://www.t-online.de/nachrichten/ausland/id_101519066/klimagipfel-in-der-tuerkei-worum-es-geht-und-woran-es-hakt.html",
+   "d": "2026-11-09",
+   "q": "t-online.de",
+   "type": "rohstoffe",
+   "c": "as"
   },
   {
    "t": "Weihnachtsbaum im November ? Vielleicht noch abwarten",
