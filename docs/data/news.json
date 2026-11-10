@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-10T12:59:32Z",
+ "stand": "2026-11-10T14:10:41Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -49,6 +49,14 @@
    "d": "2026-11-10",
    "q": "northqueenslandregister.com.au",
    "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Seeblockade bleibt : Trump : Iran - Krieg ist militärisch  effektiv vorüber",
+   "u": "https://www.n-tv.de/politik/Trump-Iran-Krieg-ist-militaerisch-effektiv-vorueber-id31514380.html",
+   "d": "2026-11-10",
+   "q": "n-tv.de",
+   "type": "logistik",
    "c": null
   },
   {
@@ -105,6 +113,14 @@
    "d": "2026-11-10",
    "q": "digitaljournal.com",
    "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Boeing streicht 5 Prozent der Stellen in der Verkehrsflugzeugsparte",
+   "u": "https://www.deraktionaer.de/nachricht/boeingstreicht5prozentderstelleninderverkehrsflugzeugsparte-564553.html",
+   "d": "2026-11-10",
+   "q": "deraktionaer.de",
+   "type": "logistik",
    "c": null
   },
   {
