@@ -1,8 +1,16 @@
 {
- "stand": "2026-11-10T07:03:26Z",
+ "stand": "2026-11-10T08:13:47Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Turkmenistan fulfills natural gas production plan at 108 . 3 % in Jan - Oct",
+   "u": "https://www.trend.az/casia/turkmenistan/4244802.html",
+   "d": "2026-11-10",
+   "q": "trend.az",
+   "type": "energie",
+   "c": null
+  },
   {
    "t": "China extends pause on rare earth export curbs for two months",
    "u": "https://www.thenationalnews.com/news/us/2026/11/09/china-extends-pause-on-rare-earth-export-curbs-for-two-months/",
@@ -60,6 +68,14 @@
    "c": "na"
   },
   {
+   "t": "These 3 Pipeline Stocks Collect Fees on Everything They Move , and $120 , 000 Pays $8 , 791 a Year",
+   "u": "https://www.aol.com/articles/3-pipeline-stocks-collect-fees-233711000.html",
+   "d": "2026-11-10",
+   "q": "aol.com",
+   "type": "energie",
+   "c": null
+  },
+  {
    "t": "Trump Praises Nvidia Jensen Huang Amid Spy Probe",
    "u": "https://woc1420.iheart.com/content/2026-11-09-trump-praises-nvidias-jensen-huang-amid-spy-probe/",
    "d": "2026-11-10",
@@ -68,12 +84,28 @@
    "c": "na"
   },
   {
+   "t": "Oil Prices Plunge Below $92 as Trump Signals Restraint on Iran",
+   "u": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Plunge-Below-92-as-Trump-Signals-Restraint-on-Iran.html",
+   "d": "2026-11-10",
+   "q": "oilprice.com",
+   "type": "energie",
+   "c": null
+  },
+  {
    "t": "US Börsen : Nasdaq legt trotz Nvidia Einbruch stark zu",
    "u": "https://deutsche-wirtschafts-nachrichten.de/723170/us-boersenbericht-nasdaq-legt-trotz-nvidia-einbruch-kraeftig-zu",
    "d": "2026-11-10",
    "q": "deutsche-wirtschafts-nachrichten.de",
    "type": "finanz",
    "c": "na"
+  },
+  {
+   "t": "Biggest oil deal in world history : JD Vance claims US control of Venezuelan reserves , energy dominance",
+   "u": "https://aninews.in/news/world/us/biggest-oil-deal-in-world-history-jd-vance-claims-us-control-of-venezuelan-reserves-energy-dominance20261110033423/",
+   "d": "2026-11-10",
+   "q": "aninews.in",
+   "type": "energie",
+   "c": null
   },
   {
    "t": "Ukraine - Drohnen treffen Großraffinerie bei St . Petersburg",
@@ -569,6 +601,14 @@
    "d": "2026-11-07",
    "q": "mediamatters.org",
    "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Taiwan shuts Papua New Guinea office , ends LNG buying",
+   "u": "https://www.manilatimes.net/2026/11/08/world/asia-oceania/taiwan-shuts-papua-new-guinea-office-ends-lng-buying/2464502",
+   "d": "2026-11-07",
+   "q": "manilatimes.net",
+   "type": "energie",
    "c": null
   },
   {
