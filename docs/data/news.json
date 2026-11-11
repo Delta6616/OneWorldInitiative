@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-11T06:44:12Z",
+ "stand": "2026-11-11T07:09:02Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -33,6 +33,22 @@
    "d": "2026-11-11",
    "q": "hellenicshippingnews.com",
    "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Eon bestätigt Investitionsziel - Gewinn legt leicht zu",
+   "u": "https://www.finanzen.net/nachricht/aktien/eon-bestaetigt-investitionsziel-gewinn-legt-leicht-zu-16055698",
+   "d": "2026-11-11",
+   "q": "finanzen.net",
+   "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "„ Gold ist die Schweiz der Währungswelt  – DiePresse . com",
+   "u": "https://www.diepresse.com/a/41440059/gold-ist-die-schweiz-der-waehrungswelt",
+   "d": "2026-11-11",
+   "q": "diepresse.com",
+   "type": "finanz",
    "c": null
   },
   {
