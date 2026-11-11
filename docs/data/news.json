@@ -1,8 +1,16 @@
 {
- "stand": "2026-11-11T01:00:30Z",
+ "stand": "2026-11-11T02:01:45Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Kinder Morgan proposes 470 - mile natural gas pipeline in Middle Tennessee",
+   "u": "https://www.wsmv.com/2026/11/10/heres-what-know-about-470-mile-natural-gas-pipeline-proposed-middle-tennessee/",
+   "d": "2026-11-11",
+   "q": "wsmv.com",
+   "type": "energie",
+   "c": null
+  },
   {
    "t": "Harvest proclamation extended",
    "u": "https://www.mississippivalleypublishing.com/daily_gate/daily_gate/harvest-proclamation-extended/article_9857bf4c-6bc8-475a-bf72-2c46e776aa73.html",
