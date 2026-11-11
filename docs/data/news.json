@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-11T09:58:11Z",
+ "stand": "2026-11-11T10:59:13Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -10,6 +10,70 @@
    "q": "wsmv.com",
    "type": "energie",
    "c": null
+  },
+  {
+   "t": "Arbeitsrecht : Darf ich bei Kälte die Arbeit verweigern ?",
+   "u": "https://www.wiwo.de/erfolg/beruf/arbeitsrecht-darf-ich-bei-kaelte-die-arbeit-verweigern/100268915.html",
+   "d": "2026-11-11",
+   "q": "wiwo.de",
+   "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Orbit kicks off partner - funded NSW copper - gold drilling",
+   "u": "https://www.theage.com.au/business/companies/orbit-kicks-off-partner-funded-nsw-copper-gold-drilling-20261111-p61dcx.html",
+   "d": "2026-11-11",
+   "q": "theage.com.au",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Mutmaßliche Bedrohungen aus dem Iran : US - Finanzminister Bessent zieht auf militärischen Stützpunkt",
+   "u": "https://www.tagesspiegel.de/internationales/dpa-us-finanzminister-bessent-zieht-auf-militarischen-stutzpunkt-16270697.html",
+   "d": "2026-11-11",
+   "q": "tagesspiegel.de",
+   "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Soybean Fund Rises 2 . 8 % as US Cuts Corn Yield | Grains Wrap , Nov 10",
+   "u": "https://www.riotimesonline.com/grains-soy-corn-latam-tuesday-november-10-2026/",
+   "d": "2026-11-11",
+   "q": "riotimesonline.com",
+   "type": "rohstoffe",
+   "c": "na"
+  },
+  {
+   "t": "Iran weist Verantwortung für Cyberangriffe auf Kühlanlagen zurück",
+   "u": "https://www.proplanta.de/agrar-nachrichten/unternehmen/iran-weist-verantwortung-fuer-cyberangriffe-auf-kuehlanlagen-zurueck_article1794356095.html",
+   "d": "2026-11-11",
+   "q": "proplanta.de",
+   "type": "politik",
+   "c": "as"
+  },
+  {
+   "t": "Darf ich bei Kälte die Arbeit verweigern ?",
+   "u": "https://www.noz.de/lebenswelten/beruf-karriere/artikel/darf-ich-bei-kaelte-die-arbeit-verweigern-51729906",
+   "d": "2026-11-11",
+   "q": "noz.de",
+   "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Promi - News : Medien : Bessent zieht wegen Iran - Drohungen auf Stützpunkt",
+   "u": "https://www.news.de/politik/860178229/medien-bessent-zieht-wegen-iran-drohungen-auf-stuetzpunkt-promi-news-der-dpa-aktuell-zu-regierung-und-leuten/1/",
+   "d": "2026-11-11",
+   "q": "news.de",
+   "type": "politik",
+   "c": "as"
+  },
+  {
+   "t": "EU - Rechnungshof kritisiert Umsetzung der Russland - Sanktionen",
+   "u": "https://www.news.at/politik/eu-rechnungshof-kritisiert-umsetzung-der-russland-sanktionen",
+   "d": "2026-11-11",
+   "q": "news.at",
+   "type": "politik",
+   "c": "eu"
   },
   {
    "t": "Harvest proclamation extended",
@@ -33,6 +97,14 @@
    "d": "2026-11-11",
    "q": "hellenicshippingnews.com",
    "type": "energie",
+   "c": null
+  },
+  {
+   "t": "CoTec Holdings Corp . Files Third Quarter Financial Statements and MD & A and Provides Market Commentary",
+   "u": "https://www.finanznachrichten.de/nachrichten-2026-11/70094327-cotec-holdings-corp-files-third-quarter-financial-statements-and-md-a-and-provides-market-commentary-200.htm",
+   "d": "2026-11-11",
+   "q": "finanznachrichten.de",
+   "type": "rohstoffe",
    "c": null
   },
   {
@@ -156,6 +228,14 @@
    "c": null
   },
   {
+   "t": "Frankreich sieht Iran hinter Angriff auf Kühlanlagen",
+   "u": "https://www.proplanta.de/agrar-nachrichten/unternehmen/frankreich-sieht-iran-hinter-angriff-auf-kuehlanlagen_article1794270911.html",
+   "d": "2026-11-10",
+   "q": "proplanta.de",
+   "type": "politik",
+   "c": null
+  },
+  {
    "t": "Soaring cost of production takes gloss off record barley yields | North Queensland Register",
    "u": "https://www.northqueenslandregister.com.au/story/9388743/soaring-cost-of-production-takes-gloss-off-record-barley-yields/",
    "d": "2026-11-10",
@@ -177,6 +257,22 @@
    "d": "2026-11-10",
    "q": "n-tv.de",
    "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "Ukraine - Krieg im Liveticker : +++ 06 : 18 Wie es zur festgefahrenen Frontlinie kam +++",
+   "u": "https://www.n-tv.de/politik/06-18-Wie-es-zur-festgefahrenen-Frontlinie-kam-id30859357.html",
+   "d": "2026-11-10",
+   "q": "n-tv.de",
+   "type": "politik",
+   "c": "eu"
+  },
+  {
+   "t": "Ukraine - Krieg im Liveticker : +++ 02 : 15 Trump sieht  starke Bereitschaft  für ein Kriegsende +++",
+   "u": "https://www.n-tv.de/politik/02-15-Trump-sieht-starke-Bereitschaft-fuer-ein-Kriegsende-id30859357.html",
+   "d": "2026-11-10",
+   "q": "n-tv.de",
+   "type": "politik",
    "c": null
   },
   {
@@ -1388,14 +1484,6 @@
    "c": "eu"
   },
   {
-   "t": "Ukraine - Krieg im Liveticker : +++ 00 : 23 Grüne empört über AfD - Bundestagstermin mit Julija Mendel +++",
-   "u": "https://www.n-tv.de/politik/00-23-Gruene-empoert-ueber-AfD-Bundestagstermin-mit-Julija-Mendel-id30859357.html",
-   "d": "2026-11-06",
-   "q": "n-tv.de",
-   "type": "politik",
-   "c": "eu"
-  },
-  {
    "t": "Gefahrgutunfall auf der A57 : Lkw mit Salpetersäure kippt um - vier Krefelder Schulen bleiben zu",
    "u": "https://www.n-tv.de/panorama/Lkw-mit-Salpetersaeure-kippt-um-vier-Krefelder-Schulen-bleiben-zu-id31502048.html",
    "d": "2026-11-06",
@@ -1432,6 +1520,14 @@
    "u": "https://www.morgenpost.de/kultur/tv-streaming/article413602126/maybrit-illner-eilmeldung-bestaetigt-duestere-szenarien-nach-den-midterms.html",
    "d": "2026-11-06",
    "q": "morgenpost.de",
+   "type": "politik",
+   "c": null
+  },
+  {
+   "t": "US escalates economic campaign against Cuba and targets China - based suppliers",
+   "u": "https://www.messenger-inquirer.com/news/us-escalates-economic-campaign-against-cuba-and-targets-china-based-suppliers/article_86550c5c-ec94-5b64-b2d1-d824e5771a00.html",
+   "d": "2026-11-06",
+   "q": "messenger-inquirer.com",
    "type": "politik",
    "c": null
   },
