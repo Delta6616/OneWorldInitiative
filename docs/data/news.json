@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-11T10:59:13Z",
+ "stand": "2026-11-11T11:54:56Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -132,6 +132,14 @@
    "c": null
   },
   {
+   "t": "Trump remains wild card after Democrat midterm win",
+   "u": "https://www.citizen.co.za/news/opinion/trump-remains-wild-card-after-democrat-midterm-win/",
+   "d": "2026-11-11",
+   "q": "citizen.co.za",
+   "type": "politik",
+   "c": "na"
+  },
+  {
    "t": "Nvidia security probe looking into Jensen Huang affair , Chinese intelligence allegations and potential export control changes",
    "u": "https://www.afr.com/technology/jensen-huang-s-love-life-could-throw-the-global-chip-trade-into-chaos-20261111-p61cyz",
    "d": "2026-11-11",
@@ -146,6 +154,14 @@
    "q": "jamaica-gleaner.com",
    "type": "politik",
    "c": null
+  },
+  {
+   "t": "Hussein Describes Possible Hormuz Route for Iraqi Oil Tankers",
+   "u": "https://econotimes.com/Hussein-Describes-Possible-Hormuz-Route-for-Iraqi-Oil-Tankers-1775002",
+   "d": "2026-11-11",
+   "q": "econotimes.com",
+   "type": "energie",
+   "c": "as"
   },
   {
    "t": "Exclusive : AP joins EU naval patrol as piracy rebounds amid regional conflicts – Winnipeg Free Press",
