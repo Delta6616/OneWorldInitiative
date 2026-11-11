@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-11T03:53:45Z",
+ "stand": "2026-11-11T04:58:13Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -25,6 +25,22 @@
    "d": "2026-11-11",
    "q": "hellenicshippingnews.com",
    "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Nvidia security probe looking into Jensen Huang affair , Chinese intelligence allegations and potential export control changes",
+   "u": "https://www.afr.com/technology/jensen-huang-s-love-life-could-throw-the-global-chip-trade-into-chaos-20261111-p61cyz",
+   "d": "2026-11-11",
+   "q": "afr.com",
+   "type": "politik",
+   "c": "as"
+  },
+  {
+   "t": "Brown Burke attorneys demand apology , compensation from parliamentary leaders | News",
+   "u": "https://jamaica-gleaner.com/article/news/20261111/brown-burkes-attorneys-demand-apology-compensation-parliamentary-leaders",
+   "d": "2026-11-11",
+   "q": "jamaica-gleaner.com",
+   "type": "politik",
    "c": null
   },
   {
