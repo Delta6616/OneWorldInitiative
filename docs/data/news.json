@@ -1,8 +1,16 @@
 {
- "stand": "2026-11-10T23:35:32Z",
+ "stand": "2026-11-11T01:00:30Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Harvest proclamation extended",
+   "u": "https://www.mississippivalleypublishing.com/daily_gate/daily_gate/harvest-proclamation-extended/article_9857bf4c-6bc8-475a-bf72-2c46e776aa73.html",
+   "d": "2026-11-11",
+   "q": "mississippivalleypublishing.com",
+   "type": "rohstoffe",
+   "c": null
+  },
   {
    "t": "Exclusive : AP joins EU naval patrol as piracy rebounds amid regional conflicts – Winnipeg Free Press",
    "u": "https://www.winnipegfreepress.com/business/2026/11/10/exclusive-ap-joins-eu-naval-patrol-as-piracy-rebounds-amid-regional-conflicts",
@@ -33,6 +41,14 @@
    "d": "2026-11-10",
    "q": "thenationalnews.com",
    "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Nach den Midterms - Trump : Iran - Krieg ist militärisch „ effektiv vorüber  - Politik",
+   "u": "https://www.sueddeutsche.de/politik/nach-den-midterms-trump-iran-krieg-ist-militaerisch-effektiv-vorueber-dpa.urn-newsml-dpa-com-20090101-261109-930-970579",
+   "d": "2026-11-10",
+   "q": "sueddeutsche.de",
+   "type": "logistik",
    "c": null
   },
   {
@@ -1378,230 +1394,6 @@
    "q": "fool.com",
    "type": "finanz",
    "c": "na"
-  },
-  {
-   "t": "Paraguays Präsident Peña tritt wegen Bankenkrise zurück",
-   "u": "https://www.wz-net.de/weltweit/politik/paraguays-praesident-pena-tritt-wegen-bankenkrise-zurueck-id313904.html",
-   "d": "2026-11-05",
-   "q": "wz-net.de",
-   "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "GPS - Störungen auf der Ostsee nehmen zu : Russische Kriegsschiffe unter Verdacht",
-   "u": "https://www.wz-net.de/weltweit/politik/gps-stoerungen-ostsee-nehmen-russische-kriegsschiffe-verdach-id313906.html",
-   "d": "2026-11-05",
-   "q": "wz-net.de",
-   "type": "logistik",
-   "c": "eu"
-  },
-  {
-   "t": "US Imposes Sanctions Targeting Iran Efforts to Obtain Air Defense Systems",
-   "u": "https://www.theepochtimes.com/world/us-imposes-sanctions-targeting-irans-efforts-to-obtain-air-defense-systems-6118624",
-   "d": "2026-11-05",
-   "q": "theepochtimes.com",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "Rezept : Skartoffelgnocchi mit Käsesoße und Salat",
-   "u": "https://www.swr.de/leben/rezepte/vegetarisch-und-vegan/suesskartoffelgnocchi-mit-kaesesosse-und-salat-100.html",
-   "d": "2026-11-05",
-   "q": "swr.de",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Soaring diesel prices helped usher in Democratic sweep",
-   "u": "https://www.sidneyherald.com/news/national/soaring-diesel-prices-helped-usher-in-democratic-sweep",
-   "d": "2026-11-05",
-   "q": "sidneyherald.com",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Pro - russische Demo will am Samstag durch Köln ziehen",
-   "u": "https://www.rundschau-online.de:443/koeln/pro-russische-demo-will-am-samstag-durch-koeln-ziehen-1410225",
-   "d": "2026-11-05",
-   "q": "rundschau-online.de:443",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "MARKETS LIVE : Wall Street closes sharply lower as AI selloff wipes out post - election gains",
-   "u": "https://www.proactiveinvestors.com/companies/news/1101271/markets-live-wall-street-closes-sharply-lower-as-ai-selloff-wipes-out-post-election-gains-1101271.html",
-   "d": "2026-11-05",
-   "q": "proactiveinvestors.com",
-   "type": "finanz",
-   "c": "na"
-  },
-  {
-   "t": "DNR converts ROW leases",
-   "u": "https://www.petroleumnews.com/story/2026/11/08/land-and-leasing/dnr-converts-row-leases/50489.html",
-   "d": "2026-11-05",
-   "q": "petroleumnews.com",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Another Decent Drop as Mortgage Rates Move Under 7 . 2 %",
-   "u": "https://www.mortgagenewsdaily.com:443/markets/mortgage-rates-11052026",
-   "d": "2026-11-05",
-   "q": "mortgagenewsdaily.com:443",
-   "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "Pro - Morocco Congressman Joe Wilson Wins 14th Term , Keeps Up Polisario Pressure",
-   "u": "https://www.moroccoworldnews.com/2026/11/345220/pro-morocco-congressman-joe-wilson-wins-14th-term-keeps-up-polisario-pressure/",
-   "d": "2026-11-05",
-   "q": "moroccoworldnews.com",
-   "type": "politik",
-   "c": "af"
-  },
-  {
-   "t": "Bessere Finanzierung : FPÖ Burgenland will Förderung für Eigenheimerwerb ausbauen",
-   "u": "https://www.meinbezirk.at/guessing/c-politik/fpoe-burgenland-will-foerderung-fuer-eigenheimerwerb-ausbauen_a8995797",
-   "d": "2026-11-05",
-   "q": "meinbezirk.at",
-   "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "AMG Increases Guidance Following Strong Third Quarter 2026 Earnings",
-   "u": "https://www.manilatimes.net/2026/11/06/tmt-newswire/globenewswire/amg-increases-guidance-following-strong-third-quarter-2026-earnings/2463638",
-   "d": "2026-11-05",
-   "q": "manilatimes.net",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "U . S .- Canada trade war squeezes craft brewers",
-   "u": "https://www.latimes.com/business/story/2026-11-05/u-s-canada-trade-war-squeezes-craft-brewers",
-   "d": "2026-11-05",
-   "q": "latimes.com",
-   "type": "politik",
-   "c": "na"
-  },
-  {
-   "t": "US escalates economic campaign against Cuba and targets China - based suppliers",
-   "u": "https://www.klkntv.com/i/us-escalates-economic-campaign-against-cuba-and-targets-china-based-suppliers/",
-   "d": "2026-11-05",
-   "q": "klkntv.com",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "Brazos Valley drought continues into November",
-   "u": "https://www.kbtx.com/2026/11/05/brazos-valley-drought-continues-into-november/",
-   "d": "2026-11-05",
-   "q": "kbtx.com",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Iran Weighs Nuclear Proposals As Qatar Pushes To Avert Renewed US Strikes - Report",
-   "u": "https://www.i24news.tv/en/news/middle-east/iran-eastern-states/artc-iran-weighs-nuclear-proposals-as-qatar-pushes-to-avert-renewed-us-strikes-report",
-   "d": "2026-11-05",
-   "q": "i24news.tv",
-   "type": "logistik",
-   "c": "as"
-  },
-  {
-   "t": "Pasta - Geheimnis – Starkoch warnt : DAS macht jedes Nudelgericht zunichte",
-   "u": "https://www.heute.at/s/starkoch-warnt-das-macht-jedes-nudelgericht-zunichte-120276758",
-   "d": "2026-11-05",
-   "q": "heute.at",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Funky Taurus Media - Music Photo Agency & Products",
-   "u": "https://www.funkytaurusmedia.com/shop_content.php?coID=3&XTCsid=94621h6t4gubntdfmg84hoqf44",
-   "d": "2026-11-05",
-   "q": "funkytaurusmedia.com",
-   "type": "logistik",
-   "c": "na"
-  },
-  {
-   "t": "Funky Taurus Media - Music Photo Agency & Products - Liefer - und Versandkosten",
-   "u": "https://www.funkytaurusmedia.com/shop_content.php?coID=1&XTCsid=94621h6t4gubntdfmg84hoqf44",
-   "d": "2026-11-05",
-   "q": "funkytaurusmedia.com",
-   "type": "logistik",
-   "c": "na"
-  },
-  {
-   "t": "Matrix Service ( MTRX ) Q1 2027 Earnings Call Transcript",
-   "u": "https://www.fool.com/earnings/call-transcripts/2026/11/05/matrix-service-mtrx-q1-2027-earnings-call-transcript/?source=iedfolrf0000001",
-   "d": "2026-11-05",
-   "q": "fool.com",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Adventskalender 2026 : Das sind die Top 10 Bestseller bei Amazon",
-   "u": "https://www.express.de:443/shoppingwelt/adventskalender-amazon-2026-lego-werkzeug-bestseller-top10-9-1404181",
-   "d": "2026-11-05",
-   "q": "express.de:443",
-   "type": "logistik",
-   "c": "sa"
-  },
-  {
-   "t": "Brent crude jumps , settles up over US$3 after tanker attacks",
-   "u": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/brent-crude-jumps-settles-over-us3-after-tanker-attacks",
-   "d": "2026-11-05",
-   "q": "businesstimes.com.sg",
-   "type": "logistik",
-   "c": null
-  },
-  {
-   "t": "Schiffbruch von 1873 : Archäologen auf den Spuren der „ Espora",
-   "u": "https://www.berliner-zeitung.de:443/article/schiffbruch-von-1873-archaeologen-auf-den-spuren-der-espora-10568646",
-   "d": "2026-11-05",
-   "q": "berliner-zeitung.de:443",
-   "type": "logistik",
-   "c": null
-  },
-  {
-   "t": "Bangkok Post - Analysts propose cleaner power development plan",
-   "u": "https://www.bangkokpost.com/business/general/3349590/analysts-propose-cleaner-power-development-plan",
-   "d": "2026-11-05",
-   "q": "bangkokpost.com",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Excelerate Energy and AxDo Bahamas Announce Long - Term LNG Supply Agreement Supporting Planned Bahamas LNG Hub",
-   "u": "https://thevoiceslu.com/2026/11/excelerate-energy-and-axdo-bahamas-announce-long-term-lng-supply-agreement-supporting-planned-bahamas-lng-hub/",
-   "d": "2026-11-05",
-   "q": "thevoiceslu.com",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Paraguay President Resigns : Three Million Bank Customers Still Cant Get Their Money – RedState",
-   "u": "https://redstate.com/ben-smith/2026/11/05/paraguays-president-resigns-three-million-bank-customers-still-cant-get-their-money-n2209074",
-   "d": "2026-11-05",
-   "q": "redstate.com",
-   "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "Diddy Prison Birthday Meal Revealed As He Turns 57 Behind Bars",
-   "u": "https://kissalbany.iheart.com/content/2026-11-05-diddys-prison-birthday-meal-revealed-as-he-turns-57-behind-bars/",
-   "d": "2026-11-05",
-   "q": "kissalbany.iheart.com",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "President of Paraguay Resigns as Country Largest Digital Bank Seized",
-   "u": "https://hotair.com/tree-hugging-sister/2026/11/05/president-of-paraguay-resigns-as-countrys-largest-digital-bank-fails-n3820695",
-   "d": "2026-11-05",
-   "q": "hotair.com",
-   "type": "finanz",
-   "c": null
   }
  ]
 }
