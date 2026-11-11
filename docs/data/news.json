@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-11T04:58:13Z",
+ "stand": "2026-11-11T05:57:57Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -17,6 +17,14 @@
    "d": "2026-11-11",
    "q": "mississippivalleypublishing.com",
    "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Exclusive : AP granted rare access to European Union naval patrol fighting piracy in the Gulf of Aden",
+   "u": "https://www.ironmountaindailynews.com/extra-extra/2026/11/exclusive-ap-granted-rare-access-to-european-union-naval-patrol-fighting-piracy-in-the-gulf-of-aden/",
+   "d": "2026-11-11",
+   "q": "ironmountaindailynews.com",
+   "type": "logistik",
    "c": null
   },
   {
@@ -57,6 +65,14 @@
    "d": "2026-11-10",
    "q": "trend.az",
    "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Oil falls as Trump downplays prospect of escalation with Iran",
+   "u": "https://www.thestar.com.my/business/business-news/2026/11/10/oil-falls-as-trump-downplays-prospect-of-escalation-with-iran",
+   "d": "2026-11-10",
+   "q": "thestar.com.my",
+   "type": "logistik",
    "c": null
   },
   {
