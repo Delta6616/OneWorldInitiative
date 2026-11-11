@@ -28,7 +28,7 @@
    "politik/german: HTTP 429",
    "rohstoffe/german: HTTP 429"
   ],
-  "letzter_versuch": "2026-11-11T21:30:42Z",
+  "letzter_versuch": "2026-11-11T22:49:15Z",
   "fehler": "GDELT lieferte keine Artikel. logistik/english: HTTP 429 | energie/english: HTTP 429 | finanz/english: HTTP 429 | politik/english: HTTP 429 | rohstoffe/english: HTTP 429 | logistik/german: HTTP 429 | energie/german: HTTP 429 | finanz/german: HTTP 429 | politik/german: HTTP 429 | rohstoffe/german: HTTP 429"
  },
  "rohstoffe": {
