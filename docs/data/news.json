@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-11T02:48:43Z",
+ "stand": "2026-11-11T03:53:45Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -17,6 +17,14 @@
    "d": "2026-11-11",
    "q": "mississippivalleypublishing.com",
    "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Arab oil production sharply rebounds in Q3 | Hellenic Shipping News Worldwide",
+   "u": "https://www.hellenicshippingnews.com/arab-oil-production-sharply-rebounds-in-q3/",
+   "d": "2026-11-11",
+   "q": "hellenicshippingnews.com",
+   "type": "energie",
    "c": null
   },
   {
