@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-11T14:15:32Z",
+ "stand": "2026-11-11T15:50:47Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -202,6 +202,22 @@
    "q": "winnipegfreepress.com",
    "type": "logistik",
    "c": "eu"
+  },
+  {
+   "t": "Trump : Iran - Krieg ist militärisch „ effektiv vorüber",
+   "u": "https://www.vol.at/trump-iran-krieg-ist-militaerisch-effektiv-vorueber/10910177",
+   "d": "2026-11-10",
+   "q": "vol.at",
+   "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "Trump : Iran - Krieg ist militärisch  effektiv vorüber  | Tiroler Tageszeitung – Aktuelle Nachrichten auf tt . com",
+   "u": "https://www.tt.com/artikel/30946538/trump-iran-krieg-ist-militaerisch-effektiv-vorueber",
+   "d": "2026-11-10",
+   "q": "tt.com",
+   "type": "logistik",
+   "c": null
   },
   {
    "t": "Turkmenistan fulfills natural gas production plan at 108 . 3 % in Jan - Oct",
@@ -410,6 +426,14 @@
    "q": "bangordailynews.com",
    "type": "politik",
    "c": "na"
+  },
+  {
+   "t": "Trump : Iran - Krieg ist militärisch  effektiv vorüber  - Politik Ausland",
+   "u": "https://www.badische-zeitung.de/trump-iran-krieg-ist-militaerisch-effektiv-vorueber",
+   "d": "2026-11-10",
+   "q": "badische-zeitung.de",
+   "type": "logistik",
+   "c": null
   },
   {
    "t": "These 3 Pipeline Stocks Collect Fees on Everything They Move , and $120 , 000 Pays $8 , 791 a Year",
