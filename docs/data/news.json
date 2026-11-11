@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-11T11:54:56Z",
+ "stand": "2026-11-11T13:04:08Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -18,6 +18,30 @@
    "q": "wiwo.de",
    "type": "politik",
    "c": null
+  },
+  {
+   "t": "US interest rates : The Federal Reserve set to anger Trump with likely decision to raise rates by 25 basis point or higher",
+   "u": "https://www.watoday.com.au/business/the-economy/trump-s-fed-nightmare-rates-won-t-be-slashed-they-could-surge-now-20261111-p61d55.html",
+   "d": "2026-11-11",
+   "q": "watoday.com.au",
+   "type": "finanz",
+   "c": "na"
+  },
+  {
+   "t": "N2 . 45tn Liquidity Inflow Expected in Banking System as DMO Plans N800bn T - bills – THISDAYLIVE",
+   "u": "https://www.thisdaylive.com/2026/11/11/n2-45tn-liquidity-inflow-expected-in-banking-system-as-dmo-plans-n800bn-t-bills/",
+   "d": "2026-11-11",
+   "q": "thisdaylive.com",
+   "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "Trump Fed nightmare : Rates wont be slashed . They could surge now",
+   "u": "https://www.theage.com.au/business/the-economy/trump-s-fed-nightmare-rates-won-t-be-slashed-they-could-surge-now-20261111-p61d55.html",
+   "d": "2026-11-11",
+   "q": "theage.com.au",
+   "type": "finanz",
+   "c": "na"
   },
   {
    "t": "Orbit kicks off partner - funded NSW copper - gold drilling",
@@ -82,6 +106,14 @@
    "q": "mississippivalleypublishing.com",
    "type": "rohstoffe",
    "c": null
+  },
+  {
+   "t": "ECB Experience in Monetary Policy Communication : Science and Practice",
+   "u": "https://www.miragenews.com/ecb-experience-in-monetary-policy-communication-1775435/",
+   "d": "2026-11-11",
+   "q": "miragenews.com",
+   "type": "finanz",
+   "c": "eu"
   },
   {
    "t": "Exclusive : AP granted rare access to European Union naval patrol fighting piracy in the Gulf of Aden",
