@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-11T08:22:43Z",
+ "stand": "2026-11-11T09:58:11Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -34,6 +34,14 @@
    "q": "hellenicshippingnews.com",
    "type": "energie",
    "c": null
+  },
+  {
+   "t": "Crocs : Vom One - Hit - Wonder zur Cash - Maschine – die Aktie bricht aus der Seitwärtsphase seit 2021 aus",
+   "u": "https://www.finanzen.net/plus/trades-derivate/crocs-ausbruch-crocs-vom-one-hit-wonder-zur-cash-maschine-die-aktie-bricht-aus-der-seitwaertsphase-seit-2021-aus-16054550/",
+   "d": "2026-11-11",
+   "q": "finanzen.net",
+   "type": "logistik",
+   "c": "na"
   },
   {
    "t": "Eon bestätigt Investitionsziel - Gewinn legt leicht zu",
