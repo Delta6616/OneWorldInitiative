@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-11T16:54:09Z",
+ "stand": "2026-11-11T17:56:18Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -17,6 +17,14 @@
    "d": "2026-11-11",
    "q": "wiwo.de",
    "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Was bringt eine Gasreserve ? Kabinettsbeschluss erwartet",
+   "u": "https://www.weser-kurier.de/wirtschaft/was-bringt-eine-gasreserve-kabinettsbeschluss-erwartet-doc88f5ykwttdc24yqbkw1",
+   "d": "2026-11-11",
+   "q": "weser-kurier.de",
+   "type": "energie",
    "c": null
   },
   {
@@ -57,6 +65,14 @@
    "d": "2026-11-11",
    "q": "tagesspiegel.de",
    "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Gasversorgung : Was bringt eine Gasreserve ? Kabinettsbeschluss erwartet",
+   "u": "https://www.rnz.de/politik/wirtschaft-regional_artikel,-Gasversorgung-Was-bringt-eine-Gasreserve-Kabinettsbeschluss-erwartet-_arid,2480695.html",
+   "d": "2026-11-11",
+   "q": "rnz.de",
+   "type": "energie",
    "c": null
   },
   {
