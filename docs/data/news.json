@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-12T15:59:30Z",
+ "stand": "2026-11-12T17:00:37Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -82,6 +82,22 @@
    "q": "philstar.com",
    "type": "finanz",
    "c": null
+  },
+  {
+   "t": "Straße von Hormus aktuell : Live - Karte , Schiffe , Ölpreis am 12 . 11 . 2026",
+   "u": "https://www.nwzonline.de/politik/strasse-von-hormus-aktuell-live-karte-schiffe-oelpreis-am-12-11-2026-Z25QTFEN4RFCHM7NS5LPPJZW2A.html",
+   "d": "2026-11-12",
+   "q": "nwzonline.de",
+   "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Gasversorgung in Deutschland : Tägliches Update zu Preisen , Speichern , Import und Verbrauch ( Stand : 12 . 11 . 2026 )",
+   "u": "https://www.nwzonline.de/politik/gasversorgung-in-deutschland-taegliches-update-zu-preisen-speichern-import-und-verbrauch-stand-12-11-GYGJF6NA3FHIPJ4CEZ2K23H2JU.html",
+   "d": "2026-11-12",
+   "q": "nwzonline.de",
+   "type": "energie",
+   "c": "eu"
   },
   {
    "t": "China Pledges Support for Cuba Days After US Sanctions",
