@@ -1,14 +1,38 @@
 {
- "stand": "2026-11-12T04:59:19Z",
+ "stand": "2026-11-12T06:01:55Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "LNG opportunities abound in Canada , but also challenges , study finds",
+   "u": "https://www.theglobeandmail.com/business/article-lng-opportunities-abound-in-canada-but-also-challenges-study-finds/",
+   "d": "2026-11-12",
+   "q": "theglobeandmail.com",
+   "type": "energie",
+   "c": "na"
+  },
+  {
+   "t": "Egypt Regions and Provinces Explained",
+   "u": "https://www.riotimesonline.com/egypt-regions-provinces-explained-2026/",
+   "d": "2026-11-12",
+   "q": "riotimesonline.com",
+   "type": "logistik",
+   "c": "af"
+  },
   {
    "t": "Is more oil going through Hormuz than before the Iran war , as Byron Donalds said ? No . – PolitiFact",
    "u": "https://politifact.com/factchecks/2026/nov/11/byron-donalds/florida-byron-donalds-iran-war-strait-hormuz-oil/",
    "d": "2026-11-12",
    "q": "politifact.com",
    "type": "logistik",
+   "c": "as"
+  },
+  {
+   "t": "Gas prices likely to increase in Pakistan amid winter season",
+   "u": "https://en.dailypakistan.com.pk/12-Nov-2026/gas-prices-likely-to-increase-in-pakistan-amid-winter-season",
+   "d": "2026-11-12",
+   "q": "en.dailypakistan.com.pk",
+   "type": "energie",
    "c": "as"
   },
   {
