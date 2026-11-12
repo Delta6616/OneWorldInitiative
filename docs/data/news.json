@@ -1,8 +1,16 @@
 {
- "stand": "2026-11-12T11:56:38Z",
+ "stand": "2026-11-12T13:05:49Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Iran droht mit Angriffen auf US - Stützpunkte auch in Europa",
+   "u": "https://www.wallstreet-online.de/nachricht/21678753-iran-droht-angriffen-us-stuetzpunkte-europa",
+   "d": "2026-11-12",
+   "q": "wallstreet-online.de",
+   "type": "logistik",
+   "c": null
+  },
   {
    "t": "Russian wheat export delays give Australian growers an edge | The Land",
    "u": "https://www.theland.com.au/story/9389229/russian-wheat-export-delays-give-australian-growers-an-edge/",
@@ -17,6 +25,14 @@
    "d": "2026-11-12",
    "q": "theglobeandmail.com",
    "type": "energie",
+   "c": "na"
+  },
+  {
+   "t": "Warnung an united states - Iran droht mit Angriffen auf US - Stützpunkte auch in Europa - Politik",
+   "u": "https://www.sueddeutsche.de/politik/warnung-an-usa-iran-droht-mit-angriffen-auf-us-stuetzpunkte-auch-in-europa-dpa.urn-newsml-dpa-com-20090101-261111-930-981800",
+   "d": "2026-11-12",
+   "q": "sueddeutsche.de",
+   "type": "logistik",
    "c": "na"
   },
   {
@@ -52,6 +68,14 @@
    "c": null
   },
   {
+   "t": "Armada und Johnson Controls eröffnen Galleon Forge Two in Dublin und bringen damit die Produktion souveräner KI - Infrastruktur nach Europa",
+   "u": "https://www.prnewswire.com/news-releases/armada-und-johnson-controls-eroffnen-galleon-forge-two-in-dublin-und-bringen-damit-die-produktion-souveraner-ki-infrastruktur-nach-europa-302937418.html",
+   "d": "2026-11-12",
+   "q": "prnewswire.com",
+   "type": "logistik",
+   "c": "eu"
+  },
+  {
    "t": "Philippines faces difficult mix of high inflation , sluggish growth â€  BSP",
    "u": "https://www.philstar.com/business/2026/11/12/2569657/philippines-faces-difficult-mix-high-inflation-sluggish-growth-bsp",
    "d": "2026-11-12",
@@ -82,6 +106,14 @@
    "q": "heute.at",
    "type": "finanz",
    "c": "na"
+  },
+  {
+   "t": "BMW & Skoda : Nach Angriffen in der Ukraine – Autoindustrie fehlen Kabelbäume",
+   "u": "https://www.handelsblatt.com/unternehmen/industrie/bmw-skoda-nach-angriffen-in-der-ukraine-autoindustrie-fehlen-kabelbaeume/100268739.html",
+   "d": "2026-11-12",
+   "q": "handelsblatt.com",
+   "type": "logistik",
+   "c": "eu"
   },
   {
    "t": "USA Rare Earth Earnings Report Left Me With 1 Big Unanswered Question",
