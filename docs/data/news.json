@@ -1,8 +1,16 @@
 {
- "stand": "2026-11-12T03:53:59Z",
+ "stand": "2026-11-12T04:59:19Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Is more oil going through Hormuz than before the Iran war , as Byron Donalds said ? No . – PolitiFact",
+   "u": "https://politifact.com/factchecks/2026/nov/11/byron-donalds/florida-byron-donalds-iran-war-strait-hormuz-oil/",
+   "d": "2026-11-12",
+   "q": "politifact.com",
+   "type": "logistik",
+   "c": "as"
+  },
   {
    "t": "Kinder Morgan proposes 470 - mile natural gas pipeline in Middle Tennessee",
    "u": "https://www.wsmv.com/2026/11/10/heres-what-know-about-470-mile-natural-gas-pipeline-proposed-middle-tennessee/",
