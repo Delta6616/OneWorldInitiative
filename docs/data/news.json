@@ -1,14 +1,30 @@
 {
- "stand": "2026-11-12T18:53:53Z",
+ "stand": "2026-11-12T19:55:36Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Trotz Trockenheit – Fischereien erwarten stabile Preise",
+   "u": "https://www.welt.de/regionales/sachsen-anhalt/article6af52cca50175c81de7a2461/trotz-trockenheit-fischereien-erwarten-stabile-preise.html",
+   "d": "2026-11-12",
+   "q": "welt.de",
+   "type": "rohstoffe",
+   "c": null
+  },
   {
    "t": "Iran droht mit Angriffen auf US - Stützpunkte auch in Europa",
    "u": "https://www.wallstreet-online.de/nachricht/21678753-iran-droht-angriffen-us-stuetzpunkte-europa",
    "d": "2026-11-12",
    "q": "wallstreet-online.de",
    "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "UFOP prognostiziert stabilen Winterrapsanbau zur Ernte 2027",
+   "u": "https://www.topagrar.com/acker/news/ufop-prognostiziert-stabilen-winterrapsanbau-20031097.html",
+   "d": "2026-11-12",
+   "q": "topagrar.com",
+   "type": "rohstoffe",
    "c": null
   },
   {
@@ -100,6 +116,14 @@
    "c": "eu"
   },
   {
+   "t": "Einbruch im Bezirk Wolfsberg : Unbekannte Täter stahlen Tresor aus Einfamilienhaus",
+   "u": "https://www.meinbezirk.at/lavanttal/c-lokales/unbekannte-taeter-stahlen-tresor-aus-einfamilienhaus_a9007248",
+   "d": "2026-11-12",
+   "q": "meinbezirk.at",
+   "type": "rohstoffe",
+   "c": "na"
+  },
+  {
    "t": "China Pledges Support for Cuba Days After US Sanctions",
    "u": "https://www.hngn.com/articles/273798/20261111/china-pledges-support-cuba-days-after-us-sanctions.htm",
    "d": "2026-11-12",
@@ -188,6 +212,14 @@
    "c": null
   },
   {
+   "t": "Getreide selbst konservieren und kühlen : Ein Euro pro Tonne Weizen fürs Kühlgerät",
+   "u": "https://www.agrarheute.com/pflanze/getreide/getreide-selbst-konservieren-kuehlen-euro-pro-tonne-weizen-fuers-kuehlgeraet-643825",
+   "d": "2026-11-12",
+   "q": "agrarheute.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
    "t": "Is more oil going through Hormuz than before the Iran war , as Byron Donalds said ? No . – PolitiFact",
    "u": "https://politifact.com/factchecks/2026/nov/11/byron-donalds/florida-byron-donalds-iran-war-strait-hormuz-oil/",
    "d": "2026-11-12",
@@ -210,6 +242,14 @@
    "q": "en.dailypakistan.com.pk",
    "type": "energie",
    "c": "as"
+  },
+  {
+   "t": "Bandschleifer Zubehör SI FANG 10 Stück Schleifbänder 75 X 533 Mm ( 3 X 21 ″) – Körnungen 40 / 60 / 80 / 120 / 180 , Ideal Für Holz & Metall , Zum Schleifen , Schärfen Und Entrosten",
+   "u": "https://cuacfm.org/75-X-533-Mm-3-X-21-K-rnungen-40-60-80-120-180-Ideal-F-629012",
+   "d": "2026-11-12",
+   "q": "cuacfm.org",
+   "type": "rohstoffe",
+   "c": null
   },
   {
    "t": "Kinder Morgan proposes 470 - mile natural gas pipeline in Middle Tennessee",
@@ -540,6 +580,14 @@
    "c": null
   },
   {
+   "t": "Kriege , Klimakrise und jetzt auch noch El Niño : der Hunger wächst , die Mittel schrumpfen / Welthungerhilfe fordert vor der COP31 mehr Mittel für vorausschauende Hilfe und Klimaanpassung",
+   "u": "https://www.politikexpress.de/kriege-klimakrise-und-jetzt-auch-noch-el-ni-o-der-hunger-w-chst-die-mittel-schrumpfen-welthungerhilfe-fordert-vor-der-cop31-mehr-mittel-f-r-vorausschauende-hilfe-und-klimaanpassung-2284699.html",
+   "d": "2026-11-10",
+   "q": "politikexpress.de",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
    "t": "Soaring cost of production takes gloss off record barley yields | North Queensland Register",
    "u": "https://www.northqueenslandregister.com.au/story/9388743/soaring-cost-of-production-takes-gloss-off-record-barley-yields/",
    "d": "2026-11-10",
@@ -689,14 +737,6 @@
    "d": "2026-11-10",
    "q": "aol.com",
    "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Economic Pulse : No silver bullet to sustain nation farm economy – AgriNews",
-   "u": "https://www.agrinews-pubs.com:443/opinion/columnists/2026/11/10/economic-pulse-no-silver-bullet-to-sustain-nations-farm-economy/",
-   "d": "2026-11-10",
-   "q": "agrinews-pubs.com:443",
-   "type": "rohstoffe",
    "c": null
   },
   {
