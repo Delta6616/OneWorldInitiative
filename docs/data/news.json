@@ -1,8 +1,16 @@
 {
- "stand": "2026-11-12T06:46:00Z",
+ "stand": "2026-11-12T07:13:07Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Russian wheat export delays give Australian growers an edge | The Land",
+   "u": "https://www.theland.com.au/story/9389229/russian-wheat-export-delays-give-australian-growers-an-edge/",
+   "d": "2026-11-12",
+   "q": "theland.com.au",
+   "type": "rohstoffe",
+   "c": null
+  },
   {
    "t": "LNG opportunities abound in Canada , but also challenges , study finds",
    "u": "https://www.theglobeandmail.com/business/article-lng-opportunities-abound-in-canada-but-also-challenges-study-finds/",
@@ -12,12 +20,60 @@
    "c": "na"
   },
   {
+   "t": "Russian wheat export delays give Australian growers an edge | Stock & Land",
+   "u": "https://www.stockandland.com.au/story/9389229/russian-wheat-export-delays-give-australian-growers-an-edge/",
+   "d": "2026-11-12",
+   "q": "stockandland.com.au",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
    "t": "Egypt Regions and Provinces Explained",
    "u": "https://www.riotimesonline.com/egypt-regions-provinces-explained-2026/",
    "d": "2026-11-12",
    "q": "riotimesonline.com",
    "type": "logistik",
    "c": "af"
+  },
+  {
+   "t": "Internet - Tarife : Erst « fette » Rabatte , dann vielfache Kosten - Multimedia",
+   "u": "https://www.rheinpfalz.de/ratgeber/multimedia_artikel,-internet-tarife-erst-fette-rabatte-dann-vielfache-kosten-_arid,5947677.html",
+   "d": "2026-11-12",
+   "q": "rheinpfalz.de",
+   "type": "politik",
+   "c": null
+  },
+  {
+   "t": "China Pledges Support for Cuba Days After US Sanctions",
+   "u": "https://www.hngn.com/articles/273798/20261111/china-pledges-support-cuba-days-after-us-sanctions.htm",
+   "d": "2026-11-12",
+   "q": "hngn.com",
+   "type": "politik",
+   "c": null
+  },
+  {
+   "t": "USA Rare Earth Earnings Report Left Me With 1 Big Unanswered Question",
+   "u": "https://www.fool.com/investing/2026/11/11/usa-rare-earth-earnings-report-left-me-with-1-big/",
+   "d": "2026-11-12",
+   "q": "fool.com",
+   "type": "rohstoffe",
+   "c": "na"
+  },
+  {
+   "t": "Trumps Plan , 1 , 8 Millionen Tonnen russischen Diesel zu importieren , stockt auf hoher See : Tankschiffe ändern den Kurs",
+   "u": "https://www.focus.de/finanzen/news/trumps-plan-1-8-millionen-tonnen-russischen-diesel-zu-importieren-stockt-auf-hoher-see-tankschiffe-aendern-den-kurs_c145785b-3e27-4db8-ae31-d63d1e65daac.html",
+   "d": "2026-11-12",
+   "q": "focus.de",
+   "type": "politik",
+   "c": "na"
+  },
+  {
+   "t": "Lutnick stalled Trump crackdown on diversion of Nvidia chips to China",
+   "u": "https://www.business-standard.com/world-news/lutnick-stalled-trump-s-crackdown-on-diversion-of-nvidia-chips-to-china-126111200064_1.html",
+   "d": "2026-11-12",
+   "q": "business-standard.com",
+   "type": "politik",
+   "c": null
   },
   {
    "t": "Is more oil going through Hormuz than before the Iran war , as Byron Donalds said ? No . – PolitiFact",
