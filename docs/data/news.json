@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-11T23:48:51Z",
+ "stand": "2026-11-12T01:07:27Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -65,6 +65,14 @@
    "d": "2026-11-11",
    "q": "tagesspiegel.de",
    "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Kochen wie die Iren : Rezept für ein Guinness Stew",
+   "u": "https://www.shz.de/lebenswelten/kochen-geniessen/artikel/kochen-wie-die-iren-rezept-fuer-ein-guinness-stew-51730029",
+   "d": "2026-11-11",
+   "q": "shz.de",
+   "type": "rohstoffe",
    "c": null
   },
   {
@@ -172,6 +180,14 @@
    "c": null
   },
   {
+   "t": "CFTC warnt Kalshi laut Politico vor einer Anklage",
+   "u": "https://www.drweb.de/kalshi-cftc-anklage-warnung/",
+   "d": "2026-11-11",
+   "q": "drweb.de",
+   "type": "finanz",
+   "c": null
+  },
+  {
    "t": "„ Gold ist die Schweiz der Währungswelt  – DiePresse . com",
    "u": "https://www.diepresse.com/a/41440059/gold-ist-die-schweiz-der-waehrungswelt",
    "d": "2026-11-11",
@@ -194,6 +210,14 @@
    "q": "afr.com",
    "type": "politik",
    "c": "as"
+  },
+  {
+   "t": "Börse - US - Börsen lassen nach - Inflation bremst Anleger aus",
+   "u": "https://unternehmen-heute.de/news.php?newsid=6717577",
+   "d": "2026-11-11",
+   "q": "unternehmen-heute.de",
+   "type": "finanz",
+   "c": "na"
   },
   {
    "t": "Brown Burke attorneys demand apology , compensation from parliamentary leaders | News",
@@ -380,6 +404,14 @@
    "c": null
   },
   {
+   "t": "Saudi - led coalition says it intercepted Houthi attacks",
+   "u": "https://www.jpost.com/middle-east/article-914398",
+   "d": "2026-11-10",
+   "q": "jpost.com",
+   "type": "logistik",
+   "c": "as"
+  },
+  {
    "t": "Could the scandal at Nvidia rattle Korea semiconductor industry ?",
    "u": "https://www.hani.co.kr/arti/english_edition/e_business/1286584.html",
    "d": "2026-11-10",
@@ -476,14 +508,6 @@
    "c": "na"
   },
   {
-   "t": "Oil Prices : Oil prices today : Crude edges lower as Donald Trump signals pause in military action against Iran",
-   "u": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-crude-edges-lower-as-donald-trump-signals-pause-in-military-action-against-iran/articleshow/135696941.cms",
-   "d": "2026-11-10",
-   "q": "timesofindia.indiatimes.com",
-   "type": "logistik",
-   "c": null
-  },
-  {
    "t": "Oil Prices Plunge Below $92 as Trump Signals Restraint on Iran",
    "u": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Plunge-Below-92-as-Trump-Signals-Restraint-on-Iran.html",
    "d": "2026-11-10",
@@ -537,6 +561,14 @@
    "d": "2026-11-10",
    "q": "russiaherald.com",
    "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Klimagipfel in der Türkei – Worum es geht und woran es hakt - Nachrichten aus aller Welt",
+   "u": "https://www.zvw.de/mehr-nachrichten/ausland/klimagipfel-in-der-t%C3%BCrkei-worum-es-geht-und-woran-es-hakt_arid-1104566",
+   "d": "2026-11-09",
+   "q": "zvw.de",
+   "type": "rohstoffe",
    "c": null
   },
   {
@@ -1250,406 +1282,6 @@
    "q": "economictimes.indiatimes.com",
    "type": "energie",
    "c": "as"
-  },
-  {
-   "t": "Tanker War Continues : Iran Says 5 Ships Hit Naval Mines In Last 24 Hours",
-   "u": "https://www.zerohedge.com/geopolitical/tanker-war-continues-iran-says-5-ships-hit-naval-mines-last-24-hours",
-   "d": "2026-11-06",
-   "q": "zerohedge.com",
-   "type": "logistik",
-   "c": "as"
-  },
-  {
-   "t": "Studie warnt vor Wasserstress durch neue Mega - Rechenzentren",
-   "u": "https://www.weser-kurier.de/ratgeber/digitales/studie-warnt-vor-wasserstress-durch-neue-mega-rechenzentren-doc88clu4aevg6r4wrdbts",
-   "d": "2026-11-06",
-   "q": "weser-kurier.de",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "BSW will Doppelspitze in Sachsen - Anhalt abschaffen",
-   "u": "https://www.welt.de/regionales/sachsen-anhalt/article6aed46d6a389bc337cfc75d1/bsw-will-doppelspitze-in-sachsen-anhalt-abschaffen.html",
-   "d": "2026-11-06",
-   "q": "welt.de",
-   "type": "logistik",
-   "c": null
-  },
-  {
-   "t": "Gefahrgutunfall : Einige Schulen in Krefeld geschlossen",
-   "u": "https://www.welt.de/regionales/nrw/article6aed6b2a47b5fce02f879ac8/gefahrgutunfall-einige-schulen-in-krefeld-geschlossen.html",
-   "d": "2026-11-06",
-   "q": "welt.de",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Moderate drought expands to cover nearly a third of Vermont",
-   "u": "https://www.wcax.com/2026/11/05/moderate-drought-expands-cover-nearly-third-vermont/",
-   "d": "2026-11-06",
-   "q": "wcax.com",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Ölpreise steigen wieder",
-   "u": "https://www.watson.ch/wirtschaft/oel/462130708-oelpreise-steigen-wieder",
-   "d": "2026-11-06",
-   "q": "watson.ch",
-   "type": "logistik",
-   "c": null
-  },
-  {
-   "t": "CO₂ - Gesetz : Bundesrat lockert Regeln für Lieferwagen und Importeure",
-   "u": "https://www.watson.ch/schweiz/auto/543417320-co-gesetz-bundesrat-lockert-regeln-fuer-lieferwagen-und-importeure",
-   "d": "2026-11-06",
-   "q": "watson.ch",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "Tages - Trading - Chancen am Donnerstag den 15 . 02 . 2024",
-   "u": "https://www.wallstreet-online.de/diskussion/500-beitraege/1375764-1-500/tages-trading-chancen-donnerstag-15-02-2024",
-   "d": "2026-11-06",
-   "q": "wallstreet-online.de",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Tages - Trading - Chancen am Dienstag den 02 . 01 . 2024",
-   "u": "https://www.wallstreet-online.de/diskussion/500-beitraege/1374780-1-500/tages-trading-chancen-dienstag-02-01-2024",
-   "d": "2026-11-06",
-   "q": "wallstreet-online.de",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Börsen : Südkoreas Börse bricht wegen Sorgen um KI und Ölpreise ein",
-   "u": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/sudkoreas-borse-bricht-wegen-sorgen-um-ki-und-olpreise-ein-4351325",
-   "d": "2026-11-06",
-   "q": "volksstimme.de",
-   "type": "energie",
-   "c": "as"
-  },
-  {
-   "t": "Wasserstress durch Mega - Rechenzentren in Deutschland",
-   "u": "https://www.vol.at/warnung-vor-wasserstress-durch-neue-mega-rechenzentren/10641737",
-   "d": "2026-11-06",
-   "q": "vol.at",
-   "type": "politik",
-   "c": "eu"
-  },
-  {
-   "t": "Putin und Irans Sicherheitschef diskutieren Gaspipeline",
-   "u": "https://www.vol.at/putin-und-irans-sicherheitschef-fuehren-gespraeche-in-moskau/10624847",
-   "d": "2026-11-06",
-   "q": "vol.at",
-   "type": "energie",
-   "c": "as"
-  },
-  {
-   "t": "ADNOC , Gujarat Energy ink deal for 4 million tonnes of LNG supply",
-   "u": "https://www.trend.az/world/arab/4243726.html",
-   "d": "2026-11-06",
-   "q": "trend.az",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Azerbaijan Azeri Light crude price grows to $106 . 84 per barrel",
-   "u": "https://www.trend.az/azerbaijan/4243568.html",
-   "d": "2026-11-06",
-   "q": "trend.az",
-   "type": "logistik",
-   "c": null
-  },
-  {
-   "t": "Cargill und Klim fördern regenerative Landwirtschaft in Ostdeutschland",
-   "u": "https://www.topagrar.com/acker/news/cargill-und-klim-wollen-regenerative-landwirtschaft-in-deutschland-voran-bringen-20030884.html",
-   "d": "2026-11-06",
-   "q": "topagrar.com",
-   "type": "logistik",
-   "c": "eu"
-  },
-  {
-   "t": "Pembina Pipeline ( TSE : PPL ) Posts Earnings Results",
-   "u": "https://www.themarketsdaily.com/2026/11/06/pembina-pipeline-tseppl-posts-earnings-results.html",
-   "d": "2026-11-06",
-   "q": "themarketsdaily.com",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Mauritius - based investment firm Soach Global founder moots virtual food grain asset",
-   "u": "https://www.thehindubusinessline.com/economy/agri-business/mauritius-based-investment-firm-soach-global-founder-moots-virtual-food-grain-asset/article71673144.ece",
-   "d": "2026-11-06",
-   "q": "thehindubusinessline.com",
-   "type": "rohstoffe",
-   "c": "na"
-  },
-  {
-   "t": "Brand auf Netzbooster - Baustelle in Kupferzell : Flammen schlagen meterhoch",
-   "u": "https://www.stimme.de/hohenlohe/feuer-netzbooster-baustelle-kupferzell-flammen-meterhoch-hoher-schaden-eine-halbe-million-euro-kabelbrand-art-5231729",
-   "d": "2026-11-06",
-   "q": "stimme.de",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "This budget should really include a note of thanks to Trump",
-   "u": "https://www.stcatharinesstandard.ca/rolling-file/this-budget-should-really-include-a-note-of-thanks-to-trump/article_839de5a6-c8e8-5277-9b2e-460b45a5f82f.html",
-   "d": "2026-11-06",
-   "q": "stcatharinesstandard.ca",
-   "type": "politik",
-   "c": "na"
-  },
-  {
-   "t": "Bank of Canada keeps 2 % inflation target in mandate renewal",
-   "u": "https://www.stcatharinesstandard.ca/business/bank-of-canada-keeps-2-inflation-target-in-mandate-renewal/article_1e76b553-d5c6-546a-967f-3ffc92ef6750.html",
-   "d": "2026-11-06",
-   "q": "stcatharinesstandard.ca",
-   "type": "finanz",
-   "c": "na"
-  },
-  {
-   "t": "Krefeld : Lkw mit Salpetersäure umgekippt – einige Schulen und Kitas geschlossen",
-   "u": "https://www.spiegel.de/panorama/krefeld-lkw-mit-salpetersaeure-umgekippt-einige-schulen-und-kitas-geschlossen-a-ff2da1d1-2664-4e29-bede-46b798061309",
-   "d": "2026-11-06",
-   "q": "spiegel.de",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Kuba : united states haben neue Sanktionen verhängt – und treffen damit erstmals chinesische Unternehmen",
-   "u": "https://www.spiegel.de/ausland/kuba-usa-haben-neue-sanktionen-verhaengt-und-treffen-damit-erstmals-chinesische-unternehmen-a-eaa0e733-1f01-438f-9bdf-af726432567b",
-   "d": "2026-11-06",
-   "q": "spiegel.de",
-   "type": "politik",
-   "c": "na"
-  },
-  {
-   "t": "6 . November 1991 : Beginn der Alpenkonferenz in Salzburg , als deren Ergebnis das  Übereinkommen zum Schutz der Alpen  ( sog . Alpenkonvention ) unterzeichnet wird",
-   "u": "https://www.sn.at/panorama/wissen/6-november-1991-beginn-der-alpenkonferenz-in-salzburg-als-deren-ergebnis-das-uebereinkommen-zum-schutz-der-alpen-sog-alpenkonvention-unterzeichnet-wird-art-681826",
-   "d": "2026-11-06",
-   "q": "sn.at",
-   "type": "logistik",
-   "c": null
-  },
-  {
-   "t": "Südkoreas Börse bricht wegen Sorgen um KI und Ölpreise ein",
-   "u": "https://www.shz.de/deutschland-welt/wirtschaft/artikel/suedkoreas-boerse-bricht-wegen-sorgen-um-ki-und-olpreise-ein-51706898",
-   "d": "2026-11-06",
-   "q": "shz.de",
-   "type": "energie",
-   "c": "as"
-  },
-  {
-   "t": "$10B deal that reduces Sempra LNG footprint about to get signed – San Diego Union - Tribune",
-   "u": "https://www.sandiegouniontribune.com/2026/11/05/10b-deal-that-reduces-sempras-lng-footprint-about-to-get-signed/",
-   "d": "2026-11-06",
-   "q": "sandiegouniontribune.com",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Paraguay president resigns after digital bank collapse",
-   "u": "https://www.samaa.tv/2087359777-paraguay-president-resigns-after-digital-bank-collapse",
-   "d": "2026-11-06",
-   "q": "samaa.tv",
-   "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "Lego Star Wars Weihnachts - Set : Warum dieser berühmte Weltraum - Bösewicht jetzt ganz anders aussieht",
-   "u": "https://www.rundschau-online.de:443/shoppingwelt/lego-star-wars-weihnachts-set-warum-dieser-beruehmte-weltraum-boesewicht-jetzt-ganz-anders-aussieht-2-1409271",
-   "d": "2026-11-06",
-   "q": "rundschau-online.de:443",
-   "type": "logistik",
-   "c": null
-  },
-  {
-   "t": "Corn and Wheat Hit 3 - Month Lows as Soy Slides | Grains Wrap , Nov 5",
-   "u": "https://www.riotimesonline.com/grains-soy-corn-latam-thursday-november-5-2026/",
-   "d": "2026-11-06",
-   "q": "riotimesonline.com",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Folge des KI - Booms : Studie warnt vor Wasserstress durch neue Mega - Rechenzentren",
-   "u": "https://www.rhein-zeitung.de/deutschland-welt/netzwelt/studie-warnt-vor-wasserstress-durch-neue-mega-rechenzentren_arid-4168071.html",
-   "d": "2026-11-06",
-   "q": "rhein-zeitung.de",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "Kommt russischer Diesel in den united states an",
-   "u": "https://www.proplanta.de/agrar-nachrichten/energie/kommt-russischer-diesel-in-den-usa-an_article1793939498.html",
-   "d": "2026-11-06",
-   "q": "proplanta.de",
-   "type": "politik",
-   "c": "na"
-  },
-  {
-   "t": "Historic Cotswolds flour mill lands huge Sainsbury deal",
-   "u": "https://www.oxfordmail.co.uk/news/26702896.historic-cotswolds-flour-mill-lands-huge-sainsburys-deal/",
-   "d": "2026-11-06",
-   "q": "oxfordmail.co.uk",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "KORREKTUR zu OTS0088 : WKÖ - Smuk : Neue Paket - Bearbeitungsgebühr der EU ist richtiger und wichtiger Schritt gegen Paketflut aus Drittstaaten",
-   "u": "https://www.ots.at/presseaussendung/OTS_20261106_OTS0107/korrektur-zu-ots0088-wkoe-smuk-neue-paket-bearbeitungsgebuehr-der-eu-ist-richtiger-und-wichtiger-schritt-gegen-paketflut-aus-drittstaaten",
-   "d": "2026-11-06",
-   "q": "ots.at",
-   "type": "logistik",
-   "c": "eu"
-  },
-  {
-   "t": "Österreich - Premiere : Erdgasleitung erstmals auf 100 Prozent Wasserstoff umgestellt",
-   "u": "https://www.ots.at/presseaussendung/OTS_20261106_OTS0094/oesterreich-premiere-erdgasleitung-erstmals-auf-100-prozent-wasserstoff-umgestellt",
-   "d": "2026-11-06",
-   "q": "ots.at",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Holzheizungen sind Oberösterreichs wichtigste Raumwärmequelle",
-   "u": "https://www.ots.at/presseaussendung/OTS_20261106_OTS0042/holzheizungen-sind-oberoesterreichs-wichtigste-raumwaermequelle",
-   "d": "2026-11-06",
-   "q": "ots.at",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Usman Memon Traders Brings Its 13 Home and Construction Services",
-   "u": "https://www.openpr.com/news/4683246/usman-memon-traders-brings-its-13-home-and-construction-services",
-   "d": "2026-11-06",
-   "q": "openpr.com",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "من اليمن إلى القرن الأفريقي .. شبكات الحوثي تهدد أمن البحر الأحمر",
-   "u": "https://www.okaz.com.sa/politics/na/2274244",
-   "d": "2026-11-06",
-   "q": "okaz.com.sa",
-   "type": "logistik",
-   "c": null
-  },
-  {
-   "t": "Smartphone - Bestseller bei Amazon im November 2026 : So gut sind die beliebtesten Handys im Test",
-   "u": "https://www.netzwelt.de/vergleich/smartphone-bestseller-amazon-november-test.html",
-   "d": "2026-11-06",
-   "q": "netzwelt.de",
-   "type": "logistik",
-   "c": "sa"
-  },
-  {
-   "t": "Telekom - Flat zum Sparpreis ? Klarmobil - Deal im Check",
-   "u": "https://www.n-tv.de/shopping-und-service/Telekom-Flat-zum-Sparpreis-Klarmobil-Deal-im-Check-id31078874.html",
-   "d": "2026-11-06",
-   "q": "n-tv.de",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "Erhebliche Zinsunterschiede : Das sind die besten Ratenkredit - Anbieter",
-   "u": "https://www.n-tv.de/ratgeber/Das-sind-die-besten-Ratenkredit-Anbieter-id31493110.html",
-   "d": "2026-11-06",
-   "q": "n-tv.de",
-   "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "Ukraine - Krieg im Liveticker : +++ 01 : 23 Selenskyj : Russland zieht verschleppte ukrainische Kinder in die Armee ein +++",
-   "u": "https://www.n-tv.de/politik/01-23-Selenskyj-Russland-zieht-verschleppte-ukrainische-Kinder-in-die-Armee-ein-id30859357.html",
-   "d": "2026-11-06",
-   "q": "n-tv.de",
-   "type": "energie",
-   "c": "eu"
-  },
-  {
-   "t": "Gefahrgutunfall auf der A57 : Lkw mit Salpetersäure kippt um - vier Krefelder Schulen bleiben zu",
-   "u": "https://www.n-tv.de/panorama/Lkw-mit-Salpetersaeure-kippt-um-vier-Krefelder-Schulen-bleiben-zu-id31502048.html",
-   "d": "2026-11-06",
-   "q": "n-tv.de",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Dow Jones Top Markets Headlines at 9 PM ET : Wall Street Gets $2 . 5 Trillion AI Reality Check With Historic Rout of Tech Stocks | A ...",
-   "u": "https://www.morningstar.com/news/dow-jones/2026110526443/dow-jones-top-markets-headlines-at-9-pm-et-wall-street-gets-25-trillion-ai-reality-check-with-historic-rout-of-tech-stocks-a",
-   "d": "2026-11-06",
-   "q": "morningstar.com",
-   "type": "finanz",
-   "c": "na"
-  },
-  {
-   "t": "Goldpreis aktuell ( 07 . 11 .): Kurs dreht erneut – das kostet Gold heute in Euro",
-   "u": "https://www.morgenpost.de/ratgeber-wissen/finanzen/article409580553/goldpreis-aktuell-kurs-dreht-erneut-preis-in-euro-gamm-0611.html",
-   "d": "2026-11-06",
-   "q": "morgenpost.de",
-   "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "Kredit - Zinsen aktuell : Nach ING – nächste Bank senkt Bauzinsen",
-   "u": "https://www.morgenpost.de/ratgeber-wissen/finanzen/article406511094/kredit-zinsen-aktuell-nach-ing-naechste-bank-senkt-bauzinsen-0611.html",
-   "d": "2026-11-06",
-   "q": "morgenpost.de",
-   "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "„ Maybrit Illner : Eilmeldung bestätigt düstere Szenarien nach den Midterms",
-   "u": "https://www.morgenpost.de/kultur/tv-streaming/article413602126/maybrit-illner-eilmeldung-bestaetigt-duestere-szenarien-nach-den-midterms.html",
-   "d": "2026-11-06",
-   "q": "morgenpost.de",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "US escalates economic campaign against Cuba and targets China - based suppliers",
-   "u": "https://www.messenger-inquirer.com/news/us-escalates-economic-campaign-against-cuba-and-targets-china-based-suppliers/article_86550c5c-ec94-5b64-b2d1-d824e5771a00.html",
-   "d": "2026-11-06",
-   "q": "messenger-inquirer.com",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "Gold safe - haven status is fading ; dont accumulate indiscriminately , says Hitesh Jain of Yes Securities",
-   "u": "https://www.livemint.com/market/stock-market-news/golds-safe-haven-status-is-fading-don-t-accumulate-indiscriminately-says-hitesh-jain-of-yes-securities-11793849608912.html",
-   "d": "2026-11-06",
-   "q": "livemint.com",
-   "type": "finanz",
-   "c": "na"
-  },
-  {
-   "t": "Bond yield rise squeezes bank Q2 treasury gains",
-   "u": "https://www.livemint.com/economy/banks-treasury-income-earnings-bond-yields-11793867170209.html",
-   "d": "2026-11-06",
-   "q": "livemint.com",
-   "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "Dhanteras Brings A Golden Buying Opportunity , Gold Falls Below ₹1 . 43 Lakh And Silver Sheds ₹3 , 400 As Global Markets Turn Volatile",
-   "u": "https://www.freepressjournal.in/business/dhanteras-brings-a-golden-buying-opportunity-gold-falls-below-143-lakh-and-silver-sheds-3400-as-global-markets-turn-volatile",
-   "d": "2026-11-06",
-   "q": "freepressjournal.in",
-   "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "Fed Chair Kevin Warsh Is Planning to Break 45 Years of Precedent With a Stunning Change to Monetary Policy -- It Could Rattle Wall Street for Years to Come",
-   "u": "https://www.fool.com/investing/2026/11/06/fed-chair-kevin-warsh-planning-fed-policy-change/",
-   "d": "2026-11-06",
-   "q": "fool.com",
-   "type": "finanz",
-   "c": "na"
   }
  ]
 }
