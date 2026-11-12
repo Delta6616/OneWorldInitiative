@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-12T09:58:04Z",
+ "stand": "2026-11-12T11:00:20Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -52,12 +52,36 @@
    "c": null
   },
   {
+   "t": "Philippines faces difficult mix of high inflation , sluggish growth â€  BSP",
+   "u": "https://www.philstar.com/business/2026/11/12/2569657/philippines-faces-difficult-mix-high-inflation-sluggish-growth-bsp",
+   "d": "2026-11-12",
+   "q": "philstar.com",
+   "type": "finanz",
+   "c": null
+  },
+  {
    "t": "China Pledges Support for Cuba Days After US Sanctions",
    "u": "https://www.hngn.com/articles/273798/20261111/china-pledges-support-cuba-days-after-us-sanctions.htm",
    "d": "2026-11-12",
    "q": "hngn.com",
    "type": "politik",
    "c": null
+  },
+  {
+   "t": "China central bank signals easing restraint as growth holds up",
+   "u": "https://www.hindustantimes.com/business/chinas-central-bank-signals-easing-restraint-as-growth-holds-up-101794462764183.html",
+   "d": "2026-11-12",
+   "q": "hindustantimes.com",
+   "type": "finanz",
+   "c": "as"
+  },
+  {
+   "t": "Vier Prozent auf Erspartes – Trade Republic zahlt vier Milliarden Euro an Zinsen aus",
+   "u": "https://www.heute.at/s/trade-republic-zahlt-vier-milliarden-euro-an-zinsen-aus-120280386",
+   "d": "2026-11-12",
+   "q": "heute.at",
+   "type": "finanz",
+   "c": "na"
   },
   {
    "t": "USA Rare Earth Earnings Report Left Me With 1 Big Unanswered Question",
@@ -76,6 +100,38 @@
    "c": "na"
   },
   {
+   "t": "WOCHENVORSCHAU : Termine bis 25 . November 2026",
+   "u": "https://www.finanzen.net/nachricht/aktien/wochenvorschau-termine-bis-25-november-2026-16057841",
+   "d": "2026-11-12",
+   "q": "finanzen.net",
+   "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "TAGESVORSCHAU : Termine am 12 . November 2026",
+   "u": "https://www.finanzen.net/nachricht/aktien/tagesvorschau-termine-am-12-november-2026-16057843",
+   "d": "2026-11-12",
+   "q": "finanzen.net",
+   "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "MORNING BRIEFING - Deutschland / Europa - 2 -",
+   "u": "https://www.finanzen.net/nachricht/aktien/morning-briefing-deutschland-europa-2-16058958",
+   "d": "2026-11-12",
+   "q": "finanzen.net",
+   "type": "finanz",
+   "c": "eu"
+  },
+  {
+   "t": "Asiens Börsen im MInus",
+   "u": "https://www.finanzen.ch/nachrichten/aktien/boerse-aktuell-12-11-2026-1036754134",
+   "d": "2026-11-12",
+   "q": "finanzen.ch",
+   "type": "finanz",
+   "c": null
+  },
+  {
    "t": "Lutnick stalled Trump crackdown on diversion of Nvidia chips to China",
    "u": "https://www.business-standard.com/world-news/lutnick-stalled-trump-s-crackdown-on-diversion-of-nvidia-chips-to-china-126111200064_1.html",
    "d": "2026-11-12",
@@ -90,6 +146,14 @@
    "q": "politifact.com",
    "type": "logistik",
    "c": "as"
+  },
+  {
+   "t": "ANZ says RBA hike bets have cooled , but 3 . 7 % core inflation will keep it cautious",
+   "u": "https://investinglive.com/central-banks/anz-says-rba-hike-bets-have-cooled-but-3-7-core-inflation-will-keep-it-cautious/",
+   "d": "2026-11-12",
+   "q": "investinglive.com",
+   "type": "finanz",
+   "c": "na"
   },
   {
    "t": "Gas prices likely to increase in Pakistan amid winter season",
@@ -266,14 +330,6 @@
    "q": "finanzen.net",
    "type": "logistik",
    "c": "na"
-  },
-  {
-   "t": "Eon bestätigt Investitionsziel - Gewinn legt leicht zu",
-   "u": "https://www.finanzen.net/nachricht/aktien/eon-bestaetigt-investitionsziel-gewinn-legt-leicht-zu-16055698",
-   "d": "2026-11-11",
-   "q": "finanzen.net",
-   "type": "finanz",
-   "c": null
   },
   {
    "t": "CFTC warnt Kalshi laut Politico vor einer Anklage",
@@ -754,14 +810,6 @@
    "q": "globaltimes.cn",
    "type": "politik",
    "c": null
-  },
-  {
-   "t": "WOCHENAUSBLICK : Dax zwischen KI - Sorgen und Iran - Hoffnung auf Richtungssuche",
-   "u": "https://www.finanzen.net/nachricht/aktien/wochenausblick-dax-zwischen-ki-sorgen-und-iran-hoffnung-auf-richtungssuche-16048824",
-   "d": "2026-11-09",
-   "q": "finanzen.net",
-   "type": "finanz",
-   "c": "as"
   },
   {
    "t": "Canada unlikely trade war influencer fighting for the little guys",
