@@ -1,20 +1,20 @@
 {
  "worldbank": {
   "ok": true,
-  "zeit": "2026-11-11T06:15:21Z",
+  "zeit": "2026-11-12T06:19:21Z",
   "neu_oder_geaendert": 0,
   "zeilen_gesamt": 27953,
   "warnungen": []
  },
  "portwatch": {
   "ok": true,
-  "zeit": "2026-11-11T06:16:58Z",
-  "neu_oder_geaendert": 588,
+  "zeit": "2026-11-12T06:19:27Z",
+  "neu_oder_geaendert": 0,
   "zeilen_gesamt": 87612,
   "warnungen": []
  },
  "gdelt": {
-  "ok": true,
+  "ok": false,
   "zeit": "2026-11-12T05:58:26Z",
   "neu_oder_geaendert": 3,
   "zeilen_gesamt": 782,
@@ -27,7 +27,9 @@
    "finanz/german: HTTP 429",
    "politik/german: Verbindung: <urlopen error _ssl.c:994: The handshake operation timed out>",
    "rohstoffe/german: HTTP 429"
-  ]
+  ],
+  "letzter_versuch": "2026-11-12T06:44:01Z",
+  "fehler": "GDELT lieferte keine Artikel. logistik/english: HTTP 429 | energie/english: HTTP 429 | finanz/english: HTTP 429 | politik/english: HTTP 429 | rohstoffe/english: HTTP 429 | logistik/german: HTTP 429 | energie/german: HTTP 429 | finanz/german: HTTP 429 | politik/german: HTTP 429 | rohstoffe/german: HTTP 429"
  },
  "rohstoffe": {
   "ok": false,
@@ -35,7 +37,7 @@
   "neu_oder_geaendert": 0,
   "zeilen_gesamt": 6773,
   "warnungen": [],
-  "letzter_versuch": "2026-11-11T06:18:51Z",
+  "letzter_versuch": "2026-11-12T06:20:34Z",
   "fehler": "Keine Preise erhalten. DCOILBRENTEU: Verbindung: The read operation timed out | DCOILWTICO: Verbindung: The read operation timed out | POILDUBUSDM: Verbindung: The read operation timed out | DHHNGSP: Verbindung: The read operation timed out | PNGASEUUSDM: Verbindung: The read operation timed out | PNGASJPUSDM: Verbindung: The read operation timed out | PCOALAUUSDM: Verbindung: The read operation timed out | PWHEAMTUSDM: Verbindung: The read operation timed out | PMAIZMTUSDM: Verbindung: The read operation timed out | PRICENPQUSDM: Verbindung: The read operation timed out | PSOYBUSDM: Verbindung: The read operation timed out | PPOILUSDM: Verbindung: The read operation timed out | PSUGAISAUSDM: Verbindung: The read operation timed out | PCOFFOTMUSDM: Verbindung: The read operation timed out | PCOCOUSDM: Verbindung: The read operation timed out | PBEEFUSDM: Verbindung: The read operation timed out | PCOPPUSDM: Verbindung: The read operation timed out | PALUMUSDM: Verbindung: The read operation timed out | PNICKUSDM: Verbindung: The read operation timed out | PZINCUSDM: Verbindung: The read operation timed out | PTINUSDM: Verbindung: The read operation timed out | PIORECRUSDM: Verbindung: The read operation timed out | PURANUSDM: Verbindung: The read operation timed out"
  }
 }
