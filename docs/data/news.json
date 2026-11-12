@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-12T21:46:51Z",
+ "stand": "2026-11-12T22:46:23Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -17,6 +17,14 @@
    "d": "2026-11-12",
    "q": "wallstreet-online.de",
    "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "KazTransOil transports 15 . 5 million tonnes of oil to Kazakh refineries in 10M2026",
+   "u": "https://www.trend.az/casia/kazakhstan/4245482.html",
+   "d": "2026-11-12",
+   "q": "trend.az",
+   "type": "energie",
    "c": null
   },
   {
