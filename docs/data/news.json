@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-13T02:47:27Z",
+ "stand": "2026-11-13T03:53:21Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -132,6 +132,14 @@
    "c": "na"
   },
   {
+   "t": "Strait of Hormuz Latest : Iran Vows Waterway Will Never Return to Pre - War Status as More Tankers Hit Mines",
+   "u": "https://www.ibtimes.com.au/iran-strait-hormuz-prewar-status-shipping-concerns-1878465",
+   "d": "2026-11-12",
+   "q": "ibtimes.com.au",
+   "type": "logistik",
+   "c": "as"
+  },
+  {
    "t": "China Pledges Support for Cuba Days After US Sanctions",
    "u": "https://www.hngn.com/articles/273798/20261111/china-pledges-support-cuba-days-after-us-sanctions.htm",
    "d": "2026-11-12",
@@ -232,6 +240,14 @@
    "u": "https://politifact.com/factchecks/2026/nov/11/byron-donalds/florida-byron-donalds-iran-war-strait-hormuz-oil/",
    "d": "2026-11-12",
    "q": "politifact.com",
+   "type": "logistik",
+   "c": "as"
+  },
+  {
+   "t": "Strait of Hormuz Crisis : Iran Rejects Pre - War Status Amid US Peace Talks Stalemate",
+   "u": "https://openthemagazine.com/world/strait-of-hormuz-crisis-iran-says-key-oil-route-will-never-return-to-pre-war-status-as-us-peace-talks-stall",
+   "d": "2026-11-12",
+   "q": "openthemagazine.com",
    "type": "logistik",
    "c": "as"
   },
