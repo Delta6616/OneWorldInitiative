@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-13T05:58:35Z",
+ "stand": "2026-11-13T07:11:22Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -14,6 +14,14 @@
   {
    "t": "Trotz Trockenheit – Fischereien erwarten stabile Preise",
    "u": "https://www.welt.de/regionales/sachsen-anhalt/article6af52cca50175c81de7a2461/trotz-trockenheit-fischereien-erwarten-stabile-preise.html",
+   "d": "2026-11-12",
+   "q": "welt.de",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Greenpeace will gegen Bayerns Klimagesetz klagen",
+   "u": "https://www.welt.de/regionales/bayern/article6af52cca50175c81de7a2454/greenpeace-will-gegen-bayerns-klimagesetz-klagen.html",
    "d": "2026-11-12",
    "q": "welt.de",
    "type": "rohstoffe",
@@ -41,6 +49,22 @@
    "d": "2026-11-12",
    "q": "topagrar.com",
    "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Körnermais : Landwirte planen eher einen Flächenzuwachs",
+   "u": "https://www.topagrar.com/acker/news/kornermais-eher-flachenzuwachs-geplant-20031056.html",
+   "d": "2026-11-12",
+   "q": "topagrar.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Huang – the last tycoon standing on US - China ties",
+   "u": "https://www.thestar.com.my/business/insight/2026/11/12/huang---the-last-tycoon-standing-on-us-china-ties",
+   "d": "2026-11-12",
+   "q": "thestar.com.my",
+   "type": "politik",
    "c": null
   },
   {
@@ -132,12 +156,28 @@
    "c": "eu"
   },
   {
+   "t": "Rückgaben vorgetäuscht : Betrugsverdacht gegen Tankstellenmitarbeiter im Bezirk St . Veit",
+   "u": "https://www.meinbezirk.at/st-veit/c-lokales/betrugsverdacht-gegen-tankstellenmitarbeiter-im-bezirk-st-veit_a9007245",
+   "d": "2026-11-12",
+   "q": "meinbezirk.at",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
    "t": "Einbruch im Bezirk Wolfsberg : Unbekannte Täter stahlen Tresor aus Einfamilienhaus",
    "u": "https://www.meinbezirk.at/lavanttal/c-lokales/unbekannte-taeter-stahlen-tresor-aus-einfamilienhaus_a9007248",
    "d": "2026-11-12",
    "q": "meinbezirk.at",
    "type": "rohstoffe",
    "c": "na"
+  },
+  {
+   "t": "The Iran War is transforming liquefied natural gas deals",
+   "u": "https://www.marketplace.org/story/2026/11/11/the-iran-war-is-transforming-liquefied-natural-gas-deals",
+   "d": "2026-11-12",
+   "q": "marketplace.org",
+   "type": "energie",
+   "c": "as"
   },
   {
    "t": "Strait of Hormuz Latest : Iran Vows Waterway Will Never Return to Pre - War Status as More Tankers Hit Mines",
@@ -236,6 +276,14 @@
    "c": null
   },
   {
+   "t": "Singapore opens applications for LNG floating storage unit licences",
+   "u": "https://www.asiaone.com:443/singapore/mpa-lng-floating-storage-unit-licences-singapore",
+   "d": "2026-11-12",
+   "q": "asiaone.com:443",
+   "type": "energie",
+   "c": "as"
+  },
+  {
    "t": "Getreide selbst konservieren und kühlen : Ein Euro pro Tonne Weizen fürs Kühlgerät",
    "u": "https://www.agrarheute.com/pflanze/getreide/getreide-selbst-konservieren-kuehlen-euro-pro-tonne-weizen-fuers-kuehlgeraet-643825",
    "d": "2026-11-12",
@@ -260,6 +308,14 @@
    "c": "as"
   },
   {
+   "t": "Who Will Buy Sable Oil if California Keeps Closing Refineries ?",
+   "u": "https://oilprice.com/Energy/Crude-Oil/Who-Will-Buy-Sables-Oil-if-California-Keeps-Closing-Refineries.html",
+   "d": "2026-11-12",
+   "q": "oilprice.com",
+   "type": "energie",
+   "c": null
+  },
+  {
    "t": "ANZ says RBA hike bets have cooled , but 3 . 7 % core inflation will keep it cautious",
    "u": "https://investinglive.com/central-banks/anz-says-rba-hike-bets-have-cooled-but-3-7-core-inflation-will-keep-it-cautious/",
    "d": "2026-11-12",
@@ -276,12 +332,12 @@
    "c": "as"
   },
   {
-   "t": "Bandschleifer Zubehör SI FANG 10 Stück Schleifbänder 75 X 533 Mm ( 3 X 21 ″) – Körnungen 40 / 60 / 80 / 120 / 180 , Ideal Für Holz & Metall , Zum Schleifen , Schärfen Und Entrosten",
-   "u": "https://cuacfm.org/75-X-533-Mm-3-X-21-K-rnungen-40-60-80-120-180-Ideal-F-629012",
-   "d": "2026-11-12",
-   "q": "cuacfm.org",
-   "type": "rohstoffe",
-   "c": null
+   "t": "Hakim Adi  Pan - Africanism and Communism : A pro - Stalinist attempt to erase the Trotskyist alternative Part Eight",
+   "u": "https://www.wsws.org/en/articles/2026/11/10/uael-n10.html",
+   "d": "2026-11-11",
+   "q": "wsws.org",
+   "type": "politik",
+   "c": "af"
   },
   {
    "t": "Kinder Morgan proposes 470 - mile natural gas pipeline in Middle Tennessee",
@@ -321,6 +377,30 @@
    "d": "2026-11-11",
    "q": "thisdaylive.com",
    "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "Oil hits two - month lows as US eases Iran fears",
+   "u": "https://www.thestar.com.my/business/2026/11/11/oil-hits-two-month-lows-as-us-eases-iran-fears",
+   "d": "2026-11-11",
+   "q": "thestar.com.my",
+   "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Nvidia CEO probe and Singapore ties : Will future chip orders suffer ?",
+   "u": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/11/nvidias-ceo-probe-and-singapore-ties-will-future-chip-orders-suffer",
+   "d": "2026-11-11",
+   "q": "thestar.com.my",
+   "type": "politik",
+   "c": "as"
+  },
+  {
+   "t": "China Trade Surplus Exceeds $1 Trillion for 2nd Time",
+   "u": "https://www.theepochtimes.com/china/chinas-trade-surplus-exceeds-1-trillion-for-2nd-time-6123268",
+   "d": "2026-11-11",
+   "q": "theepochtimes.com",
+   "type": "politik",
    "c": null
   },
   {
@@ -436,6 +516,14 @@
    "c": null
   },
   {
+   "t": "Rohstoffe mit Perspektive : Blue Moon fokussiert sich , Axo plant Finanzierung , Hannan wartet auf Analysen !",
+   "u": "https://www.finanznachrichten.de/nachrichten-2026-11/70094638-rohstoffe-mit-perspektive-blue-moon-fokussiert-sich-axo-plant-finanzierung-hannan-wartet-auf-analysen-687.htm",
+   "d": "2026-11-11",
+   "q": "finanznachrichten.de",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
    "t": "CoTec Holdings Corp . Files Third Quarter Financial Statements and MD & A and Provides Market Commentary",
    "u": "https://www.finanznachrichten.de/nachrichten-2026-11/70094327-cotec-holdings-corp-files-third-quarter-financial-statements-and-md-a-and-provides-market-commentary-200.htm",
    "d": "2026-11-11",
@@ -468,36 +556,12 @@
    "c": null
   },
   {
-   "t": "Trump remains wild card after Democrat midterm win",
-   "u": "https://www.citizen.co.za/news/opinion/trump-remains-wild-card-after-democrat-midterm-win/",
-   "d": "2026-11-11",
-   "q": "citizen.co.za",
-   "type": "politik",
-   "c": "na"
-  },
-  {
-   "t": "Nvidia security probe looking into Jensen Huang affair , Chinese intelligence allegations and potential export control changes",
-   "u": "https://www.afr.com/technology/jensen-huang-s-love-life-could-throw-the-global-chip-trade-into-chaos-20261111-p61cyz",
-   "d": "2026-11-11",
-   "q": "afr.com",
-   "type": "politik",
-   "c": "as"
-  },
-  {
    "t": "Börse - US - Börsen lassen nach - Inflation bremst Anleger aus",
    "u": "https://unternehmen-heute.de/news.php?newsid=6717577",
    "d": "2026-11-11",
    "q": "unternehmen-heute.de",
    "type": "finanz",
    "c": "na"
-  },
-  {
-   "t": "Brown Burke attorneys demand apology , compensation from parliamentary leaders | News",
-   "u": "https://jamaica-gleaner.com/article/news/20261111/brown-burkes-attorneys-demand-apology-compensation-parliamentary-leaders",
-   "d": "2026-11-11",
-   "q": "jamaica-gleaner.com",
-   "type": "politik",
-   "c": null
   },
   {
    "t": "Hussein Describes Possible Hormuz Route for Iraqi Oil Tankers",
@@ -716,14 +780,6 @@
    "c": null
   },
   {
-   "t": "Parlamentarischer Abend Sonderkulturen : DRV und BVEO fordern bessere wirtschaftliche Rahmenbedingungen",
-   "u": "https://www.finanznachrichten.de/nachrichten-2026-11/70081872-parlamentarischer-abend-sonderkulturen-drv-und-bveo-fordern-bessere-wirtschaftliche-rahmenbedingungen-573.htm",
-   "d": "2026-11-10",
-   "q": "finanznachrichten.de",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
    "t": "Ultrathin battery design tackles one of solid - state lithium toughest problems",
    "u": "https://www.digitaljournal.com/article/ultrathin-battery-design-tackles-one-of-solid-state-lithiums-toughest-problems/",
    "d": "2026-11-10",
@@ -769,6 +825,14 @@
    "d": "2026-11-10",
    "q": "aol.com",
    "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Economic Pulse : No silver bullet to sustain nation farm economy – AgriNews",
+   "u": "https://www.agrinews-pubs.com:443/opinion/columnists/2026/11/10/economic-pulse-no-silver-bullet-to-sustain-nations-farm-economy/",
+   "d": "2026-11-10",
+   "q": "agrinews-pubs.com:443",
+   "type": "rohstoffe",
    "c": null
   },
   {
