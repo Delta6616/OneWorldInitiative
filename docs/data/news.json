@@ -1,8 +1,16 @@
 {
- "stand": "2026-11-13T03:53:21Z",
+ "stand": "2026-11-13T04:58:34Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Condor Announces 2026 Third Quarter Results and Record Production of 18 , 631 boe / d",
+   "u": "https://www.simcoereformer.ca/press-releases/globe-newswire/condor-announces-2026-third-quarter-results-and-record-production-of-18631-boe-d/",
+   "d": "2026-11-13",
+   "q": "simcoereformer.ca",
+   "type": "energie",
+   "c": null
+  },
   {
    "t": "Trotz Trockenheit – Fischereien erwarten stabile Preise",
    "u": "https://www.welt.de/regionales/sachsen-anhalt/article6af52cca50175c81de7a2461/trotz-trockenheit-fischereien-erwarten-stabile-preise.html",
