@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-13T16:53:49Z",
+ "stand": "2026-11-13T17:51:22Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -42,6 +42,14 @@
    "q": "wallstreet-online.de",
    "type": "logistik",
    "c": null
+  },
+  {
+   "t": "Warnung an united states : Iran droht mit Angriffen auf US - Stützpunkte auch in Europa",
+   "u": "https://www.volksstimme.de/deutschland-und-welt/politik/iran-droht-mit-angriffen-auf-us-stutzpunkte-auch-in-europa-4354764",
+   "d": "2026-11-12",
+   "q": "volksstimme.de",
+   "type": "logistik",
+   "c": "na"
   },
   {
    "t": "KazTransOil transports 15 . 5 million tonnes of oil to Kazakh refineries in 10M2026",
@@ -97,14 +105,6 @@
    "d": "2026-11-12",
    "q": "theglobeandmail.com",
    "type": "energie",
-   "c": "na"
-  },
-  {
-   "t": "Warnung an united states - Iran droht mit Angriffen auf US - Stützpunkte auch in Europa - Politik",
-   "u": "https://www.sueddeutsche.de/politik/warnung-an-usa-iran-droht-mit-angriffen-auf-us-stuetzpunkte-auch-in-europa-dpa.urn-newsml-dpa-com-20090101-261111-930-981800",
-   "d": "2026-11-12",
-   "q": "sueddeutsche.de",
-   "type": "logistik",
    "c": "na"
   },
   {
