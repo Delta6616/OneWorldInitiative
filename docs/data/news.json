@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-13T18:51:38Z",
+ "stand": "2026-11-13T19:54:25Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -36,6 +36,14 @@
    "c": null
   },
   {
+   "t": "Überall steigen die Heizkosten , doch in Wutach könnten sie sogar sinken",
+   "u": "https://www.badische-zeitung.de/ueberall-steigen-die-heizkosten-doch-in-wutach-koennten-sie-sogar-sinken",
+   "d": "2026-11-13",
+   "q": "badische-zeitung.de",
+   "type": "politik",
+   "c": null
+  },
+  {
    "t": "Hapag - Lloyd Profit Surges as Freight Rates Rise , Red Sea Services Return",
    "u": "https://gcaptain.com/hapag-lloyd-profit-surges-as-freight-rates-rise-red-sea-services-return/",
    "d": "2026-11-13",
@@ -50,6 +58,14 @@
    "q": "de.euronews.com",
    "type": "logistik",
    "c": "na"
+  },
+  {
+   "t": "EZB - Präsidentschaft : Frankreich und Deutschland einigen sich fast auf Pablo Hernández de Cos",
+   "u": "https://de.euronews.com/2026/11/13/ezb-prasidentschaft-frankreich-und-deutschland-einigen-sich-fast-auf-pablo-hernandez-de-co",
+   "d": "2026-11-13",
+   "q": "de.euronews.com",
+   "type": "finanz",
+   "c": "eu"
   },
   {
    "t": "Trotz Trockenheit – Fischereien erwarten stabile Preise",
