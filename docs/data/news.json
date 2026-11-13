@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-13T17:51:22Z",
+ "stand": "2026-11-13T18:51:38Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -18,6 +18,38 @@
    "q": "simcoereformer.ca",
    "type": "energie",
    "c": null
+  },
+  {
+   "t": "Press Release",
+   "u": "https://www.mining.com/press-release?id=6af71d55f6300c82dfd412eb",
+   "d": "2026-11-13",
+   "q": "mining.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "US military denies Iran claim of attack on radar in Bahrain , says it shot down two drones",
+   "u": "https://www.hindustantimes.com/world-news/us-military-denies-iran-s-claim-of-attack-on-radar-in-bahrain-says-it-shot-down-two-drones-101794581485752.html",
+   "d": "2026-11-13",
+   "q": "hindustantimes.com",
+   "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "Hapag - Lloyd Profit Surges as Freight Rates Rise , Red Sea Services Return",
+   "u": "https://gcaptain.com/hapag-lloyd-profit-surges-as-freight-rates-rise-red-sea-services-return/",
+   "d": "2026-11-13",
+   "q": "gcaptain.com",
+   "type": "logistik",
+   "c": "as"
+  },
+  {
+   "t": "Wollen united states Iran - Krieg beenden ? Revolutionsgarden melden Angriff auf US - Radar in Bahrain",
+   "u": "https://de.euronews.com/2026/11/13/wollen-usa-iran-krieg-beenden-revolutionsgarden-melden-angriff-auf-us-radar-in-bahrain",
+   "d": "2026-11-13",
+   "q": "de.euronews.com",
+   "type": "logistik",
+   "c": "na"
   },
   {
    "t": "Trotz Trockenheit – Fischereien erwarten stabile Preise",
