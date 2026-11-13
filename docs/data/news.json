@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-13T19:54:25Z",
+ "stand": "2026-11-13T20:53:09Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -18,6 +18,14 @@
    "q": "simcoereformer.ca",
    "type": "energie",
    "c": null
+  },
+  {
+   "t": "REPLOID prüft Potenzial für österreichische Land - und Forstwirte , jährlich hunderte Millionen Euro Mineralölsteuer einzusparen : Regional hergestellter Biodiesel aus Insektenfett",
+   "u": "https://www.ots.at/presseaussendung/EQS_20261113_EQS0006/reploid-prueft-potenzial-fuer-oesterreichische-land-und-forstwirte-jaehrlich-hunderte-millionen-euro-mineraloelsteuer-einzusparen-regional-hergestellter-biodiesel-aus-insektenfett",
+   "d": "2026-11-13",
+   "q": "ots.at",
+   "type": "rohstoffe",
+   "c": "na"
   },
   {
    "t": "Press Release",
