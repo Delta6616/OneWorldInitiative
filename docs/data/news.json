@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-13T10:57:56Z",
+ "stand": "2026-11-13T11:54:56Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -82,6 +82,14 @@
    "q": "theland.com.au",
    "type": "rohstoffe",
    "c": null
+  },
+  {
+   "t": "Oil slicks seen from space : the devastating impact of boat strikes on fragile Gulf ecosystems",
+   "u": "https://www.theguardian.com/world/2026/nov/12/oil-slicks-seen-from-space-the-devastating-impact-of-boat-strikes-on-fragile-gulf-ecosystems",
+   "d": "2026-11-12",
+   "q": "theguardian.com",
+   "type": "logistik",
+   "c": "as"
   },
   {
    "t": "LNG opportunities abound in Canada , but also challenges , study finds",
@@ -300,6 +308,14 @@
    "c": "as"
   },
   {
+   "t": "Saudi Arabia intercepts Houthi missiles , drones ; group denies targeting Mecca",
+   "u": "https://www.asiaone.com:443/asia/saudi-arabia-intercepts-houthi-missiles-drones-group-denies-targeting-mecca",
+   "d": "2026-11-12",
+   "q": "asiaone.com:443",
+   "type": "logistik",
+   "c": "as"
+  },
+  {
    "t": "Is more oil going through Hormuz than before the Iran war , as Byron Donalds said ? No . – PolitiFact",
    "u": "https://politifact.com/factchecks/2026/nov/11/byron-donalds/florida-byron-donalds-iran-war-strait-hormuz-oil/",
    "d": "2026-11-12",
@@ -388,6 +404,14 @@
    "c": null
   },
   {
+   "t": "FOLD YOUR HAND : Iran Security Chief Tells President Trump To  Surrender  To Tehran Seven Conditions – The Yeshiva World",
+   "u": "https://www.theyeshivaworld.com/news/israel-news/2621420/__trashed-128.html",
+   "d": "2026-11-11",
+   "q": "theyeshivaworld.com",
+   "type": "logistik",
+   "c": null
+  },
+  {
    "t": "Oil hits two - month lows as US eases Iran fears",
    "u": "https://www.thestar.com.my/business/2026/11/11/oil-hits-two-month-lows-as-us-eases-iran-fears",
    "d": "2026-11-11",
@@ -401,6 +425,14 @@
    "d": "2026-11-11",
    "q": "thestar.com.my",
    "type": "politik",
+   "c": "as"
+  },
+  {
+   "t": "Rubio says  no need  to attack Iran as diplomacy gathers pace",
+   "u": "https://www.thehindu.com/news/international/rubio-says-no-need-to-attack-iran-as-diplomacy-gathers-pace/article71688168.ece",
+   "d": "2026-11-11",
+   "q": "thehindu.com",
+   "type": "logistik",
    "c": "as"
   },
   {
