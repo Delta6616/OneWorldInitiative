@@ -1,8 +1,16 @@
 {
- "stand": "2026-11-13T07:11:22Z",
+ "stand": "2026-11-13T08:57:05Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Abstimmungen vom 29 . 11 .: Was ist die Nichtwiederausfuhrerklärung ?",
+   "u": "https://www.srf.ch/news/nichtwiederausfuhrerklaerungen-kriegsmaterial-lieferungen-kuenftig-ohne-diplomatisches-ehrenwort",
+   "d": "2026-11-13",
+   "q": "srf.ch",
+   "type": "politik",
+   "c": null
+  },
   {
    "t": "Condor Announces 2026 Third Quarter Results and Record Production of 18 , 631 boe / d",
    "u": "https://www.simcoereformer.ca/press-releases/globe-newswire/condor-announces-2026-third-quarter-results-and-record-production-of-18631-boe-d/",
@@ -220,6 +228,14 @@
    "c": "eu"
   },
   {
+   "t": "Farmer Focus : No - till has been a steep learning curve",
+   "u": "https://www.fwi.co.uk/arable/farmer-focus/farmer-focus-no-till-has-been-a-steep-learning-curve",
+   "d": "2026-11-12",
+   "q": "fwi.co.uk",
+   "type": "rohstoffe",
+   "c": "na"
+  },
+  {
    "t": "USA Rare Earth Earnings Report Left Me With 1 Big Unanswered Question",
    "u": "https://www.fool.com/investing/2026/11/11/usa-rare-earth-earnings-report-left-me-with-1-big/",
    "d": "2026-11-12",
@@ -282,14 +298,6 @@
    "q": "asiaone.com:443",
    "type": "energie",
    "c": "as"
-  },
-  {
-   "t": "Getreide selbst konservieren und kühlen : Ein Euro pro Tonne Weizen fürs Kühlgerät",
-   "u": "https://www.agrarheute.com/pflanze/getreide/getreide-selbst-konservieren-kuehlen-euro-pro-tonne-weizen-fuers-kuehlgeraet-643825",
-   "d": "2026-11-12",
-   "q": "agrarheute.com",
-   "type": "rohstoffe",
-   "c": null
   },
   {
    "t": "Is more oil going through Hormuz than before the Iran war , as Byron Donalds said ? No . – PolitiFact",
@@ -508,10 +516,26 @@
    "c": null
   },
   {
+   "t": "Outlook 2027 : The world right now | Hellenic Shipping News Worldwide",
+   "u": "https://www.hellenicshippingnews.com/outlook-2027-the-world-right-now/",
+   "d": "2026-11-11",
+   "q": "hellenicshippingnews.com",
+   "type": "finanz",
+   "c": null
+  },
+  {
    "t": "Arab oil production sharply rebounds in Q3 | Hellenic Shipping News Worldwide",
    "u": "https://www.hellenicshippingnews.com/arab-oil-production-sharply-rebounds-in-q3/",
    "d": "2026-11-11",
    "q": "hellenicshippingnews.com",
+   "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Was bringt eine Gasreserve ? Kabinettsbeschluss erwartet - Wirtschafts - Nachrichten - Reutlinger General - Anzeiger",
+   "u": "https://www.gea.de/welt/wirtschaft_artikel,-was-bringt-eine-gasreserve-kabinettsbeschluss-erwartet-_arid,7175061.html",
+   "d": "2026-11-11",
+   "q": "gea.de",
    "type": "energie",
    "c": null
   },
