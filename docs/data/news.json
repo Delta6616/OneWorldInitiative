@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-14T05:49:49Z",
+ "stand": "2026-11-14T06:57:27Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -32,7 +32,7 @@
    "u": "https://www.ots.at/presseaussendung/EQS_20261113_EQS0006/reploid-prueft-potenzial-fuer-oesterreichische-land-und-forstwirte-jaehrlich-hunderte-millionen-euro-mineraloelsteuer-einzusparen-regional-hergestellter-biodiesel-aus-insektenfett",
    "d": "2026-11-13",
    "q": "ots.at",
-   "type": "rohstoffe",
+   "type": "energie",
    "c": "na"
   },
   {
@@ -80,8 +80,16 @@
    "u": "https://de.euronews.com/2026/11/13/wollen-usa-iran-krieg-beenden-revolutionsgarden-melden-angriff-auf-us-radar-in-bahrain",
    "d": "2026-11-13",
    "q": "de.euronews.com",
-   "type": "logistik",
+   "type": "energie",
    "c": "na"
+  },
+  {
+   "t": "Ungarischer Konzern MOL fordert EU - Geld : Chef warnt vor Unruhen bei Ausstieg aus russischem Öl",
+   "u": "https://de.euronews.com/2026/11/13/ungarischer-konzern-mol-fordert-eu-geld-chef-warnt-vor-unruhen-bei-ausstieg-aus-russischem",
+   "d": "2026-11-13",
+   "q": "de.euronews.com",
+   "type": "energie",
+   "c": null
   },
   {
    "t": "EZB - Präsidentschaft : Frankreich und Deutschland einigen sich fast auf Pablo Hernández de Cos",
@@ -180,6 +188,14 @@
    "c": "na"
   },
   {
+   "t": "Neues Heizungsgesetz : Gasetagenheizung tauschen – diese Regeln gelten",
+   "u": "https://www.t-online.de/heim-garten/energie/id_100929522/neues-heizungsgesetz-gasetagenheizung-tauschen-diese-regeln-gelten.html",
+   "d": "2026-11-12",
+   "q": "t-online.de",
+   "type": "energie",
+   "c": null
+  },
+  {
    "t": "Russian wheat export delays give Australian growers an edge | Stock & Land",
    "u": "https://www.stockandland.com.au/story/9389229/russian-wheat-export-delays-give-australian-growers-an-edge/",
    "d": "2026-11-12",
@@ -236,20 +252,28 @@
    "c": null
   },
   {
-   "t": "Straße von Hormus aktuell : Live - Karte , Schiffe , Ölpreis am 12 . 11 . 2026",
-   "u": "https://www.nwzonline.de/politik/strasse-von-hormus-aktuell-live-karte-schiffe-oelpreis-am-12-11-2026-Z25QTFEN4RFCHM7NS5LPPJZW2A.html",
+   "t": "Tankrabatt beschlossen : Wann werden Benzin und Diesel billiger ?",
+   "u": "https://www.nwzonline.de/politik/tankrabatt-beschlossen-wann-werden-benzin-und-diesel-billiger-PBBKVACHJFEK5OOBSKSILJKOBE.html",
    "d": "2026-11-12",
    "q": "nwzonline.de",
    "type": "energie",
    "c": null
   },
   {
-   "t": "Gasversorgung in Deutschland : Tägliches Update zu Preisen , Speichern , Import und Verbrauch ( Stand : 12 . 11 . 2026 )",
-   "u": "https://www.nwzonline.de/politik/gasversorgung-in-deutschland-taegliches-update-zu-preisen-speichern-import-und-verbrauch-stand-12-11-GYGJF6NA3FHIPJ4CEZ2K23H2JU.html",
+   "t": "Stromversorgung aktuell : Gas , Kohle , Solar , Wind - so viel Strom wird heute erzeugt ( 12 . 11 . 2026 )",
+   "u": "https://www.nwzonline.de/politik/stromversorgung-aktuell-gas-kohle-solar-wind-so-viel-strom-wird-heute-erzeugt-12-11-2026-J7KSHFAGQBGMHE35WYMKNHOADA.html",
    "d": "2026-11-12",
    "q": "nwzonline.de",
    "type": "energie",
-   "c": "eu"
+   "c": null
+  },
+  {
+   "t": "Straße von Hormus aktuell : Live - Karte , Schiffe , Ölpreis am 12 . 11 . 2026",
+   "u": "https://www.nwzonline.de/politik/strasse-von-hormus-aktuell-live-karte-schiffe-oelpreis-am-12-11-2026-Z25QTFEN4RFCHM7NS5LPPJZW2A.html",
+   "d": "2026-11-12",
+   "q": "nwzonline.de",
+   "type": "energie",
+   "c": null
   },
   {
    "t": "Australian farmers blindsided by strict new grain dust limits | North Queensland Register",
@@ -292,6 +316,14 @@
    "c": "as"
   },
   {
+   "t": "ON YOUR SIDE : Local experts share tips to prevent lithium - ion battery fires",
+   "u": "https://www.ky3.com/2026/11/11/your-side-local-experts-share-tips-prevent-lithium-ion-battery-fires/",
+   "d": "2026-11-12",
+   "q": "ky3.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
    "t": "Strait of Hormuz Latest : Iran Vows Waterway Will Never Return to Pre - War Status as More Tankers Hit Mines",
    "u": "https://www.ibtimes.com.au/iran-strait-hormuz-prewar-status-shipping-concerns-1878465",
    "d": "2026-11-12",
@@ -332,20 +364,20 @@
    "c": "eu"
   },
   {
-   "t": "Farmer Focus : No - till has been a steep learning curve",
-   "u": "https://www.fwi.co.uk/arable/farmer-focus/farmer-focus-no-till-has-been-a-steep-learning-curve",
-   "d": "2026-11-12",
-   "q": "fwi.co.uk",
-   "type": "rohstoffe",
-   "c": "na"
-  },
-  {
    "t": "Trumps Plan , 1 , 8 Millionen Tonnen russischen Diesel zu importieren , stockt auf hoher See : Tankschiffe ändern den Kurs",
    "u": "https://www.focus.de/finanzen/news/trumps-plan-1-8-millionen-tonnen-russischen-diesel-zu-importieren-stockt-auf-hoher-see-tankschiffe-aendern-den-kurs_c145785b-3e27-4db8-ae31-d63d1e65daac.html",
    "d": "2026-11-12",
    "q": "focus.de",
    "type": "politik",
    "c": "na"
+  },
+  {
+   "t": "Iran - Krieg vor dem Ende ? Diese Aktien könnten jetzt profitieren !",
+   "u": "https://www.finanznachrichten.de/nachrichten-2026-11/70105199-iran-krieg-vor-dem-ende-diese-aktien-koennten-jetzt-profitieren-486.htm",
+   "d": "2026-11-12",
+   "q": "finanznachrichten.de",
+   "type": "energie",
+   "c": "as"
   },
   {
    "t": "WOCHENVORSCHAU : Termine bis 25 . November 2026",
@@ -370,6 +402,14 @@
    "q": "finanzen.net",
    "type": "finanz",
    "c": "eu"
+  },
+  {
+   "t": "Füllstand der bayerischen Gasspeicher zum Winterbeginn niedrig wie nie",
+   "u": "https://www.finanzen.net/nachricht/aktien/fuellstand-der-bayerischen-gasspeicher-zum-winterbeginn-niedrig-wie-nie-16057850",
+   "d": "2026-11-12",
+   "q": "finanzen.net",
+   "type": "energie",
+   "c": null
   },
   {
    "t": "Asiens Börsen im MInus",
@@ -428,28 +468,12 @@
    "c": "as"
   },
   {
-   "t": "Who Will Buy Sable Oil if California Keeps Closing Refineries ?",
-   "u": "https://oilprice.com/Energy/Crude-Oil/Who-Will-Buy-Sables-Oil-if-California-Keeps-Closing-Refineries.html",
-   "d": "2026-11-12",
-   "q": "oilprice.com",
-   "type": "energie",
-   "c": null
-  },
-  {
    "t": "ANZ says RBA hike bets have cooled , but 3 . 7 % core inflation will keep it cautious",
    "u": "https://investinglive.com/central-banks/anz-says-rba-hike-bets-have-cooled-but-3-7-core-inflation-will-keep-it-cautious/",
    "d": "2026-11-12",
    "q": "investinglive.com",
    "type": "finanz",
    "c": "na"
-  },
-  {
-   "t": "Gas prices likely to increase in Pakistan amid winter season",
-   "u": "https://en.dailypakistan.com.pk/12-Nov-2026/gas-prices-likely-to-increase-in-pakistan-amid-winter-season",
-   "d": "2026-11-12",
-   "q": "en.dailypakistan.com.pk",
-   "type": "energie",
-   "c": "as"
   },
   {
    "t": "CEO Jensen Huang job is suddenly on the line at Nvidia",
