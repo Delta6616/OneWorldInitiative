@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-14T03:52:09Z",
+ "stand": "2026-11-14T04:53:27Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -56,6 +56,14 @@
    "u": "https://www.badische-zeitung.de/ueberall-steigen-die-heizkosten-doch-in-wutach-koennten-sie-sogar-sinken",
    "d": "2026-11-13",
    "q": "badische-zeitung.de",
+   "type": "politik",
+   "c": null
+  },
+  {
+   "t": "The fight over Canadian steelworker jobs",
+   "u": "https://www.aljazeera.com/economy/2026/11/13/the-fight-over-canadian-steelworker-jobs",
+   "d": "2026-11-13",
+   "q": "aljazeera.com",
    "type": "politik",
    "c": null
   },
@@ -204,6 +212,14 @@
    "c": null
   },
   {
+   "t": "Total breakdown : Expert gobsmacked as Trump Cabinet faces mutiny",
+   "u": "https://www.rawstory.com/total-breakdown-expert-gobsmacked-as-trump-cabinet-faces-mutiny/",
+   "d": "2026-11-12",
+   "q": "rawstory.com",
+   "type": "politik",
+   "c": "na"
+  },
+  {
    "t": "Armada und Johnson Controls eröffnen Galleon Forge Two in Dublin und bringen damit die Produktion souveräner KI - Infrastruktur nach Europa",
    "u": "https://www.prnewswire.com/news-releases/armada-und-johnson-controls-eroffnen-galleon-forge-two-in-dublin-und-bringen-damit-die-produktion-souveraner-ki-infrastruktur-nach-europa-302937418.html",
    "d": "2026-11-12",
@@ -234,6 +250,22 @@
    "q": "nwzonline.de",
    "type": "energie",
    "c": "eu"
+  },
+  {
+   "t": "Australian farmers blindsided by strict new grain dust limits | North Queensland Register",
+   "u": "https://www.northqueenslandregister.com.au/story/9389998/australian-farmers-blindsided-by-strict-new-grain-dust-limits/",
+   "d": "2026-11-12",
+   "q": "northqueenslandregister.com.au",
+   "type": "rohstoffe",
+   "c": "oc"
+  },
+  {
+   "t": "Jensen Huang controversy sends Chinese AI firms scrambling for Nvidia computing power overseas",
+   "u": "https://www.moneycontrol.com/news/business/jensen-huang-controversy-sends-chinese-ai-firms-scrambling-for-nvidia-computing-power-overseas-14078021.html",
+   "d": "2026-11-12",
+   "q": "moneycontrol.com",
+   "type": "politik",
+   "c": "as"
   },
   {
    "t": "Rückgaben vorgetäuscht : Betrugsverdacht gegen Tankstellenmitarbeiter im Bezirk St . Veit",
@@ -304,14 +336,6 @@
    "u": "https://www.fwi.co.uk/arable/farmer-focus/farmer-focus-no-till-has-been-a-steep-learning-curve",
    "d": "2026-11-12",
    "q": "fwi.co.uk",
-   "type": "rohstoffe",
-   "c": "na"
-  },
-  {
-   "t": "USA Rare Earth Earnings Report Left Me With 1 Big Unanswered Question",
-   "u": "https://www.fool.com/investing/2026/11/11/usa-rare-earth-earnings-report-left-me-with-1-big/",
-   "d": "2026-11-12",
-   "q": "fool.com",
    "type": "rohstoffe",
    "c": "na"
   },
@@ -428,6 +452,14 @@
    "c": "as"
   },
   {
+   "t": "CEO Jensen Huang job is suddenly on the line at Nvidia",
+   "u": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
+   "d": "2026-11-12",
+   "q": "arstechnica.com",
+   "type": "politik",
+   "c": null
+  },
+  {
    "t": "Hakim Adi  Pan - Africanism and Communism : A pro - Stalinist attempt to erase the Trotskyist alternative Part Eight",
    "u": "https://www.wsws.org/en/articles/2026/11/10/uael-n10.html",
    "d": "2026-11-11",
@@ -466,6 +498,14 @@
    "q": "watoday.com.au",
    "type": "finanz",
    "c": "na"
+  },
+  {
+   "t": "NERC Approves N30bn for Fresh Tranche of Nationwide Free Metering Programme – THISDAYLIVE",
+   "u": "https://www.thisdaylive.com/2026/11/11/nerc-approves-n30bn-for-fresh-tranche-of-nationwide-free-metering-programme/",
+   "d": "2026-11-11",
+   "q": "thisdaylive.com",
+   "type": "politik",
+   "c": null
   },
   {
    "t": "N2 . 45tn Liquidity Inflow Expected in Banking System as DMO Plans N800bn T - bills – THISDAYLIVE",
@@ -586,14 +626,6 @@
    "q": "news.de",
    "type": "politik",
    "c": "as"
-  },
-  {
-   "t": "EU - Rechnungshof kritisiert Umsetzung der Russland - Sanktionen",
-   "u": "https://www.news.at/politik/eu-rechnungshof-kritisiert-umsetzung-der-russland-sanktionen",
-   "d": "2026-11-11",
-   "q": "news.at",
-   "type": "politik",
-   "c": "eu"
   },
   {
    "t": "Harvest proclamation extended",
