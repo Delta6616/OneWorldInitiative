@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-14T07:59:43Z",
+ "stand": "2026-11-14T08:50:18Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -156,12 +156,28 @@
    "c": null
   },
   {
+   "t": "As higher prices seep into broader economy , Fed considers faster hikes",
+   "u": "https://www.timescall.com/2026/11/11/higher-prices-fed-rate-hikes/",
+   "d": "2026-11-12",
+   "q": "timescall.com",
+   "type": "finanz",
+   "c": "na"
+  },
+  {
    "t": "Huang – the last tycoon standing on US - China ties",
    "u": "https://www.thestar.com.my/business/insight/2026/11/12/huang---the-last-tycoon-standing-on-us-china-ties",
    "d": "2026-11-12",
    "q": "thestar.com.my",
    "type": "politik",
    "c": null
+  },
+  {
+   "t": "Indonesia rupiah drops to record low on strong dollar , MSCI woes",
+   "u": "https://www.thestar.com.my/business/business-news/2026/11/12/indonesia-rupiah-drops-to-record-low-on-strong-dollar-msci-woes",
+   "d": "2026-11-12",
+   "q": "thestar.com.my",
+   "type": "finanz",
+   "c": "as"
   },
   {
    "t": "Russian wheat export delays give Australian growers an edge | The Land",
@@ -284,6 +300,14 @@
    "c": "oc"
   },
   {
+   "t": "Dovish BOJ Member Urges Caution in Raising Rates Further",
+   "u": "https://www.morningstar.com/news/dow-jones/202611119702/dovish-boj-member-urges-caution-in-raising-rates-further",
+   "d": "2026-11-12",
+   "q": "morningstar.com",
+   "type": "finanz",
+   "c": null
+  },
+  {
    "t": "Jensen Huang controversy sends Chinese AI firms scrambling for Nvidia computing power overseas",
    "u": "https://www.moneycontrol.com/news/business/jensen-huang-controversy-sends-chinese-ai-firms-scrambling-for-nvidia-computing-power-overseas-14078021.html",
    "d": "2026-11-12",
@@ -364,6 +388,14 @@
    "c": "eu"
   },
   {
+   "t": "Indonesian rupiah drops to record low on strong dollar , MSCI woes",
+   "u": "https://www.freemalaysiatoday.com/category/business/2026/11/12/indonesian-rupiah-drops-to-record-low-on-strong-dollar-msci-woes",
+   "d": "2026-11-12",
+   "q": "freemalaysiatoday.com",
+   "type": "finanz",
+   "c": "as"
+  },
+  {
    "t": "Trumps Plan , 1 , 8 Millionen Tonnen russischen Diesel zu importieren , stockt auf hoher See : Tankschiffe ändern den Kurs",
    "u": "https://www.focus.de/finanzen/news/trumps-plan-1-8-millionen-tonnen-russischen-diesel-zu-importieren-stockt-auf-hoher-see-tankschiffe-aendern-den-kurs_c145785b-3e27-4db8-ae31-d63d1e65daac.html",
    "d": "2026-11-12",
@@ -412,28 +444,12 @@
    "c": null
   },
   {
-   "t": "Asiens Börsen im MInus",
-   "u": "https://www.finanzen.ch/nachrichten/aktien/boerse-aktuell-12-11-2026-1036754134",
-   "d": "2026-11-12",
-   "q": "finanzen.ch",
-   "type": "finanz",
-   "c": null
-  },
-  {
    "t": "Lutnick stalled Trump crackdown on diversion of Nvidia chips to China",
    "u": "https://www.business-standard.com/world-news/lutnick-stalled-trump-s-crackdown-on-diversion-of-nvidia-chips-to-china-126111200064_1.html",
    "d": "2026-11-12",
    "q": "business-standard.com",
    "type": "politik",
    "c": null
-  },
-  {
-   "t": "Intesa Sanpaolo Aktie : EZB hebt den Zeigefinger bei Dividenden",
-   "u": "https://www.boerse-express.com/news/articles/intesa-sanpaolo-aktie-ezb-hebt-den-zeigefinger-bei-dividenden-962090",
-   "d": "2026-11-12",
-   "q": "boerse-express.com",
-   "type": "finanz",
-   "c": "eu"
   },
   {
    "t": "Singapore opens applications for LNG floating storage unit licences",
@@ -466,14 +482,6 @@
    "q": "openthemagazine.com",
    "type": "logistik",
    "c": "as"
-  },
-  {
-   "t": "ANZ says RBA hike bets have cooled , but 3 . 7 % core inflation will keep it cautious",
-   "u": "https://investinglive.com/central-banks/anz-says-rba-hike-bets-have-cooled-but-3-7-core-inflation-will-keep-it-cautious/",
-   "d": "2026-11-12",
-   "q": "investinglive.com",
-   "type": "finanz",
-   "c": "na"
   },
   {
    "t": "CEO Jensen Huang job is suddenly on the line at Nvidia",
