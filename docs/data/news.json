@@ -1,8 +1,16 @@
 {
- "stand": "2026-11-14T19:42:24Z",
+ "stand": "2026-11-14T20:38:22Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Israeli drone strike kills 2 Palestinians in Gaza , and other Mideast news",
+   "u": "https://bakersfieldnow.com/news/nation-world/israeli-drone-strike-kills-2-palestinians-in-gaza-and-other-mideast-news",
+   "d": "2026-11-14",
+   "q": "bakersfieldnow.com",
+   "type": "logistik",
+   "c": "as"
+  },
   {
    "t": "Abstimmungen vom 29 . 11 .: Was ist die Nichtwiederausfuhrerklärung ?",
    "u": "https://www.srf.ch/news/nichtwiederausfuhrerklaerungen-kriegsmaterial-lieferungen-kuenftig-ohne-diplomatisches-ehrenwort",
