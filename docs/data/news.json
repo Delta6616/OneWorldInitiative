@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-14T22:38:35Z",
+ "stand": "2026-11-14T23:35:21Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -10,6 +10,14 @@
    "q": "bakersfieldnow.com",
    "type": "logistik",
    "c": "as"
+  },
+  {
+   "t": "Handpuppen - Ausstellung in Hanau zeigt Set von Arnold Böcklins Sohn aus dem Jahr 1911",
+   "u": "http://www.op-online.de/region/hanau/handpuppen-ausstellung-in-hanau-zeigt-set-von-arnold-boecklins-sohn-aus-dem-jahr-1911-94589134.html",
+   "d": "2026-11-14",
+   "q": "op-online.de",
+   "type": "rohstoffe",
+   "c": "na"
   },
   {
    "t": "Abstimmungen vom 29 . 11 .: Was ist die Nichtwiederausfuhrerklärung ?",
