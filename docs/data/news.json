@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-13T23:40:15Z",
+ "stand": "2026-11-14T00:56:42Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -354,6 +354,14 @@
    "q": "business-standard.com",
    "type": "politik",
    "c": null
+  },
+  {
+   "t": "Intesa Sanpaolo Aktie : EZB hebt den Zeigefinger bei Dividenden",
+   "u": "https://www.boerse-express.com/news/articles/intesa-sanpaolo-aktie-ezb-hebt-den-zeigefinger-bei-dividenden-962090",
+   "d": "2026-11-12",
+   "q": "boerse-express.com",
+   "type": "finanz",
+   "c": "eu"
   },
   {
    "t": "Singapore opens applications for LNG floating storage unit licences",
@@ -1194,190 +1202,6 @@
    "q": "hna.de",
    "type": "rohstoffe",
    "c": null
-  },
-  {
-   "t": "Five things to watch for in the Canadian business world in the coming week – Winnipeg Free Press",
-   "u": "https://www.winnipegfreepress.com/business/2026/11/08/five-things-to-watch-for-in-the-canadian-business-world-in-the-coming-week-416",
-   "d": "2026-11-08",
-   "q": "winnipegfreepress.com",
-   "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "Präsidentschaftswahl in Frankreich 2027 : Kann Christine Lagarde die Extreme stoppen ?",
-   "u": "https://www.sueddeutsche.de/politik/frankreich-praesidentschaftswahl-2027-christine-lagarde-marine-le-pen-li.3574735",
-   "d": "2026-11-08",
-   "q": "sueddeutsche.de",
-   "type": "finanz",
-   "c": "eu"
-  },
-  {
-   "t": "Sisi Orders Egypt Emergency Stockpile Study",
-   "u": "https://www.riotimesonline.com/sisi-orders-egypt-emergency-stockpile-study/",
-   "d": "2026-11-08",
-   "q": "riotimesonline.com",
-   "type": "logistik",
-   "c": "af"
-  },
-  {
-   "t": "VW Bank Tagesgeld : 3 , 75 % Zinsen für 6 Monate",
-   "u": "https://www.onvista.de/news/2026/11-08-vw-bank-zahlt-3-75-dieses-tagesgeld-angebot-kann-sich-sehen-lassen-41122918-19-26561818",
-   "d": "2026-11-08",
-   "q": "onvista.de",
-   "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "Akku erst bei 0 Prozent laden ? Warum der alte Rat modernen Handys schadet",
-   "u": "https://www.netzwelt.de/news/260356-akku-erst-0-prozent-laden-alte-rat-modernen-handys-schadet.html",
-   "d": "2026-11-08",
-   "q": "netzwelt.de",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "US - Militär attackiert Frachter und Ziele an Straße von Hormus",
-   "u": "https://www.merkur.de/politik/us-militaer-attackiert-frachter-und-ziele-an-strasse-von-hormus-zr-94579410.html",
-   "d": "2026-11-08",
-   "q": "merkur.de",
-   "type": "logistik",
-   "c": null
-  },
-  {
-   "t": "Premiere in Gabersdorf : Erdgasleitung wird auf Wasserstoff umgestellt",
-   "u": "https://www.meinbezirk.at/suedoststeiermark/c-wirtschaft/erdgasleitung-wird-auf-wasserstoff-umgestellt_a8998554",
-   "d": "2026-11-08",
-   "q": "meinbezirk.at",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "US military says it fired on ship that visited Iranian port after it tried to breach Strait of Hormuz blockade",
-   "u": "https://www.independent.co.uk/news/world/americas/usa-military-strait-of-hormuz-ship-iran-st-kitts-b3081226.html",
-   "d": "2026-11-08",
-   "q": "independent.co.uk",
-   "type": "logistik",
-   "c": "as"
-  },
-  {
-   "t": "Waldeck stellt die Weichen für den Wald der Zukunft",
-   "u": "https://www.hna.de/lokales/frankenberg/waldeck-ort79441/waldeck-stellt-die-weichen-fuer-den-wald-der-zukunft-94579477.html",
-   "d": "2026-11-08",
-   "q": "hna.de",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Trump Recent Warning Is Sending Shockwaves Through Wall Street . Here What It Could Mean for Your Retirement Savings .",
-   "u": "https://www.fool.com/investing/2026/11/07/trumps-recent-warning-is-sending-shockwaves-throug/",
-   "d": "2026-11-08",
-   "q": "fool.com",
-   "type": "finanz",
-   "c": "na"
-  },
-  {
-   "t": "Nach dem Versenken von 11 russischen Schiffen sind die ukrainischen Magura - Seedrohnen bereit , das US - Militär zu verführen",
-   "u": "https://www.focus.de/politik/ausland/nach-dem-versenken-von-11-russischen-schiffen-sind-die-ukrainischen-magura-seedrohnen-bereit-das-us-militaer-zu-verfuehren_8d160d51-2bfc-41a0-890d-70d189d62591.html",
-   "d": "2026-11-08",
-   "q": "focus.de",
-   "type": "logistik",
-   "c": "na"
-  },
-  {
-   "t": "Mann findet in Schublade der Großmutter Staatsanleihen aus 1948 : 14 . 700 Lire könnten bis zu 100 . 000 Euro wert sein",
-   "u": "https://www.focus.de/finanzen/mann-findet-in-schublade-der-grossmutter-staatsanleihen-aus-1948-14-700-lire-koennten-bis-zu-100-000-euro-wert-sein_bf9129d1-902f-42ea-844c-a6ff6b43a9c0.html",
-   "d": "2026-11-08",
-   "q": "focus.de",
-   "type": "finanz",
-   "c": "na"
-  },
-  {
-   "t": "Kellogg announces major change to breakfast favourites",
-   "u": "https://www.express.co.uk/news/uk/2263002/kelloggs-breakfast-cereal-change",
-   "d": "2026-11-08",
-   "q": "express.co.uk",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Reading the Market Signals : Motilal Oswal Private Wealth Favours Hybrid and Large Caps",
-   "u": "https://www.equitybulls.com/news/378743/reading-the-market-signals-motilal-oswal-private-wealth-favours-hybrid-and-large",
-   "d": "2026-11-08",
-   "q": "equitybulls.com",
-   "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "Kenya mining ambitions raising alarm for farmers | The Arkansas Democrat - Gazette",
-   "u": "https://www.arkansasonline.com/news/2026/nov/08/kenyas-mining-ambitions-raising-alarm-for-farmers/",
-   "d": "2026-11-08",
-   "q": "arkansasonline.com",
-   "type": "rohstoffe",
-   "c": "af"
-  },
-  {
-   "t": "Klimapolitik vor der COP31 : Rechte Regierungen machen Rolle rückwärts",
-   "u": "https://taz.de/Klimapolitik-vor-der-COP31/!6227177/",
-   "d": "2026-11-08",
-   "q": "taz.de",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "56 % of business leaders expect external shocks to severely disrupt operations over next 5 years : KPMG",
-   "u": "https://news.webindia123.com/news/Articles/Business/20261108/4517360.html",
-   "d": "2026-11-08",
-   "q": "news.webindia123.com",
-   "type": "logistik",
-   "c": null
-  },
-  {
-   "t": "Resumption of War in Iran after US Mid - Terms",
-   "u": "https://mg.co.za/thought-leader/2026-11-08-resumption-of-war-in-iran-after-us-mid-terms/",
-   "d": "2026-11-08",
-   "q": "mg.co.za",
-   "type": "logistik",
-   "c": null
-  },
-  {
-   "t": "Adnoc to supply 4 million tonnes of LNG annually to India Gujarat Energy",
-   "u": "https://ianslive.in/adnoc-to-supply-4-million-tonnes-of-lng-annually-to-indias-gujarat-energy--20261108140303",
-   "d": "2026-11-08",
-   "q": "ianslive.in",
-   "type": "energie",
-   "c": "as"
-  },
-  {
-   "t": "Ägypten meldet neues Gasvorkommen im Mittelmeer",
-   "u": "https://de.euronews.com/2026/11/08/agypten-meldet-neues-gasvorkommen-im-mittelmeer-mit-200-milliarden-kubikfuss",
-   "d": "2026-11-08",
-   "q": "de.euronews.com",
-   "type": "energie",
-   "c": "af"
-  },
-  {
-   "t": "P95 - B gas - fired power plant eyed in Quezon province - BusinessWorld Online",
-   "u": "https://bworldonline.com/corporate/2026/11/08/792188/p95-b-gas-fired-power-plant-eyed-in-quezon-province/",
-   "d": "2026-11-08",
-   "q": "bworldonline.com",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Paraguays gestürzter Präsident Peña in Untersuchungshaft",
-   "u": "https://brf.be/international/2124023/",
-   "d": "2026-11-08",
-   "q": "brf.be",
-   "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "Trump und Putin : united states planen neuen Gas - Deal mit Russland",
-   "u": "http://www.soester-anzeiger.de/wirtschaft/trump-putin-russland-gas-deal-deutschland-ukraine-frieden-energiepreise-zr-94579437.html",
-   "d": "2026-11-08",
-   "q": "soester-anzeiger.de",
-   "type": "energie",
-   "c": "na"
   }
  ]
 }
