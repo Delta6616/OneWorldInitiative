@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-14T10:41:38Z",
+ "stand": "2026-11-14T11:38:28Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -98,6 +98,14 @@
    "q": "de.euronews.com",
    "type": "finanz",
    "c": "eu"
+  },
+  {
+   "t": "Gas prices fall below $4 as more oil flows , but experts warn relief may not last",
+   "u": "https://www.wxyz.com/science-and-tech/energy/gas-prices-fall-below-4-as-more-oil-flows-but-experts-warn-relief-may-not-last",
+   "d": "2026-11-12",
+   "q": "wxyz.com",
+   "type": "energie",
+   "c": null
   },
   {
    "t": "Trotz Trockenheit – Fischereien erwarten stabile Preise",
@@ -466,14 +474,6 @@
    "q": "business-standard.com",
    "type": "politik",
    "c": null
-  },
-  {
-   "t": "Singapore opens applications for LNG floating storage unit licences",
-   "u": "https://www.asiaone.com:443/singapore/mpa-lng-floating-storage-unit-licences-singapore",
-   "d": "2026-11-12",
-   "q": "asiaone.com:443",
-   "type": "energie",
-   "c": "as"
   },
   {
    "t": "Saudi Arabia intercepts Houthi missiles , drones ; group denies targeting Mecca",
