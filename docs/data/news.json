@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-14T02:49:18Z",
+ "stand": "2026-11-14T03:52:09Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -681,6 +681,14 @@
    "d": "2026-11-11",
    "q": "diepresse.com",
    "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "Venture Global Q3 Earnings Call Highlights",
+   "u": "https://www.dailypolitical.com/2026/11/10/venture-global-q3-earnings-call-highlights.html",
+   "d": "2026-11-11",
+   "q": "dailypolitical.com",
+   "type": "energie",
    "c": null
   },
   {
