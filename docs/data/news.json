@@ -1,8 +1,16 @@
 {
- "stand": "2026-11-15T03:52:49Z",
+ "stand": "2026-11-15T04:55:30Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Haryana Agriculture Minister assures oilseed purchase centre at Pipli grain market",
+   "u": "https://www.tribuneindia.com/news/haryana/haryana-agriculture-minister-assures-oilseed-purchase-centre-at-pipli-grain-market/",
+   "d": "2026-11-14",
+   "q": "tribuneindia.com",
+   "type": "rohstoffe",
+   "c": null
+  },
   {
    "t": "Azerbaijani bank Bloomberg deals approach $34B in nine months",
    "u": "https://www.trend.az/azerbaijan/4246502.html",
@@ -17,6 +25,14 @@
    "d": "2026-11-14",
    "q": "insidermonkey.com",
    "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "Solarförderung für kleine Anlagen soll bleiben",
+   "u": "https://www.die-glocke.de/blickindiewelt/solarfoerderung-fuer-kleine-anlagen-soll-bleiben-1794671402",
+   "d": "2026-11-14",
+   "q": "die-glocke.de",
+   "type": "politik",
    "c": null
   },
   {
@@ -50,6 +66,14 @@
    "q": "bakersfieldnow.com",
    "type": "logistik",
    "c": "as"
+  },
+  {
+   "t": "Urlauber - Trick spart viel Geld : So kostet der Mietwagen weniger",
+   "u": "http://www.op-online.de/verbraucher/urlauber-trick-spart-viel-geld-so-kostet-der-mietwagen-weniger-zr-94590403.html",
+   "d": "2026-11-14",
+   "q": "op-online.de",
+   "type": "politik",
+   "c": null
   },
   {
    "t": "Handpuppen - Ausstellung in Hanau zeigt Set von Arnold Böcklins Sohn aus dem Jahr 1911",
@@ -114,6 +138,14 @@
    "q": "hindustantimes.com",
    "type": "logistik",
    "c": null
+  },
+  {
+   "t": "Chinese industrial advances fuel Jiaolong deep - sea upgrades",
+   "u": "https://www.globaltimes.cn/page/202611/1374266.shtml",
+   "d": "2026-11-13",
+   "q": "globaltimes.cn",
+   "type": "rohstoffe",
+   "c": "as"
   },
   {
    "t": "Bessent blames Lutnick Commerce Department for not restricting Nvidia chips to China",
@@ -297,6 +329,14 @@
    "d": "2026-11-12",
    "q": "thehindu.com",
    "type": "politik",
+   "c": null
+  },
+  {
+   "t": "MLA , farmers protest Centre  failure to release drought relief  in Karnataka",
+   "u": "https://www.thehindu.com/news/national/karnataka/mla-farmers-protest-centres-failure-to-release-drought-relief-in-karnataka/article71690011.ece",
+   "d": "2026-11-12",
+   "q": "thehindu.com",
+   "type": "rohstoffe",
    "c": null
   },
   {
@@ -500,14 +540,6 @@
    "c": "as"
   },
   {
-   "t": "ON YOUR SIDE : Local experts share tips to prevent lithium - ion battery fires",
-   "u": "https://www.ky3.com/2026/11/11/your-side-local-experts-share-tips-prevent-lithium-ion-battery-fires/",
-   "d": "2026-11-12",
-   "q": "ky3.com",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
    "t": "Strait of Hormuz Latest : Iran Vows Waterway Will Never Return to Pre - War Status as More Tankers Hit Mines",
    "u": "https://www.ibtimes.com.au/iran-strait-hormuz-prewar-status-shipping-concerns-1878465",
    "d": "2026-11-12",
@@ -568,7 +600,7 @@
    "u": "https://www.finanzen.net/nachricht/aktien/wochenvorschau-termine-bis-25-november-2026-16057841",
    "d": "2026-11-12",
    "q": "finanzen.net",
-   "type": "finanz",
+   "type": "energie",
    "c": null
   },
   {
@@ -588,11 +620,11 @@
    "c": "eu"
   },
   {
-   "t": "Füllstand der bayerischen Gasspeicher zum Winterbeginn niedrig wie nie",
-   "u": "https://www.finanzen.net/nachricht/aktien/fuellstand-der-bayerischen-gasspeicher-zum-winterbeginn-niedrig-wie-nie-16057850",
+   "t": "Asiens Börsen im MInus",
+   "u": "https://www.finanzen.ch/nachrichten/aktien/boerse-aktuell-12-11-2026-1036754134",
    "d": "2026-11-12",
-   "q": "finanzen.net",
-   "type": "energie",
+   "q": "finanzen.ch",
+   "type": "finanz",
    "c": null
   },
   {
@@ -834,6 +866,14 @@
    "q": "finanzen.net",
    "type": "logistik",
    "c": "na"
+  },
+  {
+   "t": "Eon bestätigt Investitionsziel - Gewinn legt leicht zu",
+   "u": "https://www.finanzen.net/nachricht/aktien/eon-bestaetigt-investitionsziel-gewinn-legt-leicht-zu-16055698",
+   "d": "2026-11-11",
+   "q": "finanzen.net",
+   "type": "finanz",
+   "c": null
   },
   {
    "t": "CFTC warnt Kalshi laut Politico vor einer Anklage",
