@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-15T12:48:29Z",
+ "stand": "2026-11-15T13:53:37Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -36,6 +36,14 @@
    "c": null
   },
   {
+   "t": "Blasts , sirens in Bahrain as Iran attacks on US base",
+   "u": "https://www.omanobserver.om/article/1199692/world/region/blasts-sirens-in-bahrain-as-iran-attacks-on-us-base",
+   "d": "2026-11-15",
+   "q": "omanobserver.om",
+   "type": "logistik",
+   "c": null
+  },
+  {
    "t": "Göttinger Weihnachtsmarkt 2025 : 17 Buslinien trotz Sperrungen",
    "u": "https://www.hna.de/lokales/goettingen/goettingen-ort28741/goettinger-weihnachtsmarkt-2025-17-buslinien-trotz-sperrungen-94589507.html",
    "d": "2026-11-15",
@@ -58,6 +66,14 @@
    "q": "aol.com",
    "type": "finanz",
    "c": null
+  },
+  {
+   "t": "Iran navy says three tankers on fire after hitting mines in Hormuz",
+   "u": "https://bdnews24.com/world/middle-east/47mh9vo0tx",
+   "d": "2026-11-15",
+   "q": "bdnews24.com",
+   "type": "logistik",
+   "c": "as"
   },
   {
    "t": "US diesel below $6 a gallon at 2 - month low on easing tensions , weaker demand",
@@ -104,7 +120,7 @@
    "u": "https://www.theyeshivaworld.com/news/israel-news/2623104/iran-showdown-trump-weighs-halting-new-strikes-despite-israeli-pressure-as-u-s-tightens-economic-blockade.html",
    "d": "2026-11-14",
    "q": "theyeshivaworld.com",
-   "type": "politik",
+   "type": "logistik",
    "c": "as"
   },
   {
@@ -340,6 +356,14 @@
    "c": null
   },
   {
+   "t": "Ontario gasoline , diesel prices expected to climb",
+   "u": "https://www.northumberlandnews.com/news/ontario-gas-price-prediction-for-nov-13-14/article_3a987cc8-8db6-5e61-9a96-a5485cd02c2f.html",
+   "d": "2026-11-13",
+   "q": "northumberlandnews.com",
+   "type": "logistik",
+   "c": null
+  },
+  {
    "t": "Press Release",
    "u": "https://www.mining.com/press-release?id=6af71d55f6300c82dfd412eb",
    "d": "2026-11-13",
@@ -425,6 +449,14 @@
    "d": "2026-11-13",
    "q": "magazine.hms.harvard.edu",
    "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "World Oil Market is Returning to Surplus as Gulf Exports Recover",
+   "u": "https://gcaptain.com/world-oil-market-is-returning-to-surplus-as-gulf-exports-recover/",
+   "d": "2026-11-13",
+   "q": "gcaptain.com",
+   "type": "logistik",
    "c": null
   },
   {
