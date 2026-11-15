@@ -1,8 +1,48 @@
 {
- "stand": "2026-11-15T08:04:59Z",
+ "stand": "2026-11-15T08:53:12Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Aeschi unterschrieb Absichtserklärung schon Wochen vor Kandidatur",
+   "u": "https://www.watson.ch/schweiz/gesellschaft-politik/580723686-aeschi-unterschrieb-absichtserklaerung-schon-wochen-vor-kandidatur",
+   "d": "2026-11-15",
+   "q": "watson.ch",
+   "type": "politik",
+   "c": null
+  },
+  {
+   "t": "ONGC takes charge of Cambay block as Vedanta records ₹379 crore impairment",
+   "u": "https://www.thehindubusinessline.com/companies/ongc-takes-charge-of-cambay-block-as-vedanta-records-379-crore-impairment/article71704266.ece",
+   "d": "2026-11-15",
+   "q": "thehindubusinessline.com",
+   "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Göttinger Weihnachtsmarkt 2025 : 17 Buslinien trotz Sperrungen",
+   "u": "https://www.hna.de/lokales/goettingen/goettingen-ort28741/goettinger-weihnachtsmarkt-2025-17-buslinien-trotz-sperrungen-94589507.html",
+   "d": "2026-11-15",
+   "q": "hna.de",
+   "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Kritik an  Last Christmas : Giovanni Zarrella findet klare Worte",
+   "u": "https://www.gmx.at/magazine/unterhaltung/stars/kritik-last-christmas-giovanni-zarrella-worte-42945194",
+   "d": "2026-11-15",
+   "q": "gmx.at",
+   "type": "energie",
+   "c": null
+  },
+  {
+   "t": "US diesel below $6 a gallon at 2 - month low on easing tensions , weaker demand",
+   "u": "https://bdnews24.com/business/29lzj7z8ab",
+   "d": "2026-11-15",
+   "q": "bdnews24.com",
+   "type": "energie",
+   "c": "na"
+  },
   {
    "t": "Haryana Agriculture Minister assures oilseed purchase centre at Pipli grain market",
    "u": "https://www.tribuneindia.com/news/haryana/haryana-agriculture-minister-assures-oilseed-purchase-centre-at-pipli-grain-market/",
@@ -52,12 +92,28 @@
    "c": null
   },
   {
+   "t": "Geschenke für die Schwiegertochter : 15 schöne Ideen",
+   "u": "https://www.freundin.de/lifestyle/geschenke-fuer-schwiegertochter-ideen",
+   "d": "2026-11-14",
+   "q": "freundin.de",
+   "type": "energie",
+   "c": null
+  },
+  {
    "t": "Solarförderung für kleine Anlagen soll bleiben",
    "u": "https://www.die-glocke.de/blickindiewelt/solarfoerderung-fuer-kleine-anlagen-soll-bleiben-1794671402",
    "d": "2026-11-14",
    "q": "die-glocke.de",
    "type": "politik",
    "c": null
+  },
+  {
+   "t": "Nur für kurze Zeit ! Ferrero bringt eine völlig neue Nutella - Sorte heraus",
+   "u": "https://www.berliner-kurier.de:443/article/ferrero-neue-nutella-sorte-limited-edition-10597476",
+   "d": "2026-11-14",
+   "q": "berliner-kurier.de:443",
+   "type": "energie",
+   "c": "na"
   },
   {
    "t": "Drought slows state rabi sowing ; deficit hits 5 . 4 lakh hectares | Pune News",
@@ -74,6 +130,14 @@
    "q": "peoplesreview.com.np",
    "type": "rohstoffe",
    "c": "as"
+  },
+  {
+   "t": "Standortkosten erschweren die Dekarbonisierung",
+   "u": "https://nnz-online.de/news/news_lang.php?ArtNr=394858&kom=1",
+   "d": "2026-11-14",
+   "q": "nnz-online.de",
+   "type": "energie",
+   "c": null
   },
   {
    "t": "Protesters urge united kingdom to impose sanctions on Israel over Gaza genocide - Shafaqna English",
@@ -130,6 +194,14 @@
    "q": "come-on.de",
    "type": "logistik",
    "c": null
+  },
+  {
+   "t": "Trump weist Vize JD Vance nach Wahlschlappe zurecht",
+   "u": "https://www.vol.at/nach-wahlschlappe-trump-macht-seinem-vize-eine-ansage/11124797",
+   "d": "2026-11-13",
+   "q": "vol.at",
+   "type": "energie",
+   "c": "na"
   },
   {
    "t": "NCDMB , NLNG Unveil $9m For Professorial Endowment Research Chairs In Six Varsities",
@@ -228,6 +300,14 @@
    "c": "as"
   },
   {
+   "t": "MÄRKTE EUROPA / Knapp behauptet - Technologie - Sektor gibt deutlich nach",
+   "u": "https://www.finanznachrichten.de/nachrichten-2026-11/70128095-maerkte-europa-knapp-behauptet-technologie-sektor-gibt-deutlich-nach-015.htm",
+   "d": "2026-11-13",
+   "q": "finanznachrichten.de",
+   "type": "energie",
+   "c": "eu"
+  },
+  {
    "t": "Bessent blames Lutnick Commerce Department for not restricting Nvidia chips to China",
    "u": "https://www.click2houston.com/business/2026/11/13/bessent-blames-commerces-lutnick-for-not-restricting-nvidia-chip-exports-to-china/",
    "d": "2026-11-13",
@@ -248,7 +328,7 @@
    "u": "https://www.badische-zeitung.de/ueberall-steigen-die-heizkosten-doch-in-wutach-koennten-sie-sogar-sinken",
    "d": "2026-11-13",
    "q": "badische-zeitung.de",
-   "type": "politik",
+   "type": "energie",
    "c": null
   },
   {
@@ -268,36 +348,12 @@
    "c": null
   },
   {
-   "t": "Tackling LPG sector challenges effectively - Pakistan Observer",
-   "u": "https://pakobserver.net/tackling-lpg-sector-challenges-effectively/",
-   "d": "2026-11-13",
-   "q": "pakobserver.net",
-   "type": "energie",
-   "c": "as"
-  },
-  {
    "t": "The Puzzle of Alzheimer Disease | Harvard Medicine Magazine",
    "u": "https://magazine.hms.harvard.edu/articles/puzzle-alzheimers-disease",
    "d": "2026-11-13",
    "q": "magazine.hms.harvard.edu",
    "type": "rohstoffe",
    "c": null
-  },
-  {
-   "t": "World Oil Market is Returning to Surplus as Gulf Exports Recover",
-   "u": "https://gcaptain.com/world-oil-market-is-returning-to-surplus-as-gulf-exports-recover/",
-   "d": "2026-11-13",
-   "q": "gcaptain.com",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Russia Oil Revenues Hit Five - Month High on Crude Rally , IEA Says",
-   "u": "https://gcaptain.com/russia-oil-revenues-hit-five-month-high-on-crude-rally-iea-says/",
-   "d": "2026-11-13",
-   "q": "gcaptain.com",
-   "type": "energie",
-   "c": "eu"
   },
   {
    "t": "Hapag - Lloyd Profit Surges as Freight Rates Rise , Red Sea Services Return",
@@ -314,6 +370,14 @@
    "q": "de.euronews.com",
    "type": "logistik",
    "c": "na"
+  },
+  {
+   "t": "Ungarischer Konzern MOL fordert EU - Geld : Chef warnt vor Unruhen bei Ausstieg aus russischem Öl",
+   "u": "https://de.euronews.com/2026/11/13/ungarischer-konzern-mol-fordert-eu-geld-chef-warnt-vor-unruhen-bei-ausstieg-aus-russischem",
+   "d": "2026-11-13",
+   "q": "de.euronews.com",
+   "type": "politik",
+   "c": null
   },
   {
    "t": "EZB - Präsidentschaft : Frankreich und Deutschland einigen sich fast auf Pablo Hernández de Cos",
