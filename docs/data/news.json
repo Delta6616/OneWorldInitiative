@@ -1,8 +1,40 @@
 {
- "stand": "2026-11-15T00:59:49Z",
+ "stand": "2026-11-15T02:03:57Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Azerbaijani bank Bloomberg deals approach $34B in nine months",
+   "u": "https://www.trend.az/azerbaijan/4246502.html",
+   "d": "2026-11-14",
+   "q": "trend.az",
+   "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "What Citi Expects From Alibaba ( BABA ) Before November 19",
+   "u": "https://www.insidermonkey.com/news/what-citi-expects-from-alibaba-baba-before-november-19-1865512/",
+   "d": "2026-11-14",
+   "q": "insidermonkey.com",
+   "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "Drought slows state rabi sowing ; deficit hits 5 . 4 lakh hectares | Pune News",
+   "u": "https://timesofindia.indiatimes.com/city/pune/drought-slows-states-rabi-sowing-deficit-hits-5-4-lakh-hectares/articleshow/135842195.cms",
+   "d": "2026-11-14",
+   "q": "timesofindia.indiatimes.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Technology reshapes China agricultural modernization",
+   "u": "https://peoplesreview.com.np/2026/11/14/technology-reshapes-chinas-agricultural-modernization/",
+   "d": "2026-11-14",
+   "q": "peoplesreview.com.np",
+   "type": "rohstoffe",
+   "c": "as"
+  },
   {
    "t": "Israeli drone strike kills 2 Palestinians in Gaza , and other Mideast news",
    "u": "https://bakersfieldnow.com/news/nation-world/israeli-drone-strike-kills-2-palestinians-in-gaza-and-other-mideast-news",
@@ -81,6 +113,14 @@
    "d": "2026-11-13",
    "q": "aljazeera.com",
    "type": "politik",
+   "c": null
+  },
+  {
+   "t": "The Puzzle of Alzheimer Disease | Harvard Medicine Magazine",
+   "u": "https://magazine.hms.harvard.edu/articles/puzzle-alzheimers-disease",
+   "d": "2026-11-13",
+   "q": "magazine.hms.harvard.edu",
+   "type": "rohstoffe",
    "c": null
   },
   {
@@ -233,6 +273,14 @@
    "d": "2026-11-12",
    "q": "theglobeandmail.com",
    "type": "energie",
+   "c": "na"
+  },
+  {
+   "t": "As Geopolitical Realities Shift , Trump Power to Shape Events Recedes",
+   "u": "https://www.theamericanconservative.com/as-geopolitical-realities-shift-trumps-power-to-shape-events-recedes/",
+   "d": "2026-11-12",
+   "q": "theamericanconservative.com",
+   "type": "politik",
    "c": "na"
   },
   {
@@ -480,14 +528,6 @@
    "u": "https://www.eurasiareview.com/12112026-economic-sanctions-state-power-and-cuba-a-rothbardian-critique-of-u-s-interventionism-oped/",
    "d": "2026-11-12",
    "q": "eurasiareview.com",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "Lutnick stalled Trump crackdown on diversion of Nvidia chips to China",
-   "u": "https://www.business-standard.com/world-news/lutnick-stalled-trump-s-crackdown-on-diversion-of-nvidia-chips-to-china-126111200064_1.html",
-   "d": "2026-11-12",
-   "q": "business-standard.com",
    "type": "politik",
    "c": null
   },
