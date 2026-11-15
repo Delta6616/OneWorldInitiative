@@ -1,8 +1,16 @@
 {
- "stand": "2026-11-15T09:47:17Z",
+ "stand": "2026-11-15T10:44:40Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Technik - Panne in den united states : Weiter Tausende Flüge gestrichen",
+   "u": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/panorama_nt/article6af95a7a4495f9bd85b807a2/technik-panne-in-den-usa-weiter-tausende-fluege-gestrichen.html",
+   "d": "2026-11-15",
+   "q": "welt.de",
+   "type": "rohstoffe",
+   "c": "na"
+  },
   {
    "t": "Aeschi unterschrieb Absichtserklärung schon Wochen vor Kandidatur",
    "u": "https://www.watson.ch/schweiz/gesellschaft-politik/580723686-aeschi-unterschrieb-absichtserklaerung-schon-wochen-vor-kandidatur",
@@ -41,6 +49,14 @@
    "d": "2026-11-15",
    "q": "gmx.at",
    "type": "energie",
+   "c": null
+  },
+  {
+   "t": "The world is facing a new credit crunch",
+   "u": "https://www.aol.com/articles/world-facing-credit-crunch-060000000.html",
+   "d": "2026-11-15",
+   "q": "aol.com",
+   "type": "finanz",
    "c": null
   },
   {
@@ -164,6 +180,14 @@
    "c": null
   },
   {
+   "t": "Dramatic drop in US home sales in October",
+   "u": "https://littleapplepost.com/posts/d34492de-e62d-4cff-8a92-69bc4fae244c",
+   "d": "2026-11-14",
+   "q": "littleapplepost.com",
+   "type": "finanz",
+   "c": "na"
+  },
+  {
    "t": "Protesters urge united kingdom to impose sanctions on Israel over Gaza genocide - Shafaqna English",
    "u": "https://en.shafaqna.com/491991/protesters-urge-uk-to-impose-sanctions-on-israel-over-gaza-genocide/",
    "d": "2026-11-14",
@@ -185,6 +209,14 @@
    "d": "2026-11-14",
    "q": "economictimes.indiatimes.com",
    "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Grammelpogatscherl und Hausstangerl",
+   "u": "https://burgenland.orf.at/magazin/stories/3379583/",
+   "d": "2026-11-14",
+   "q": "burgenland.orf.at",
+   "type": "rohstoffe",
    "c": null
   },
   {
@@ -300,6 +332,14 @@
    "c": "na"
   },
   {
+   "t": "Wholesale inflation declined in October yet remains elevated",
+   "u": "https://www.orlandosentinel.com/2026/11/13/wholesale-inflation-declined-october/",
+   "d": "2026-11-13",
+   "q": "orlandosentinel.com",
+   "type": "finanz",
+   "c": null
+  },
+  {
    "t": "Press Release",
    "u": "https://www.mining.com/press-release?id=6af71d55f6300c82dfd412eb",
    "d": "2026-11-13",
@@ -356,6 +396,14 @@
    "c": null
   },
   {
+   "t": "US Treasury warns against rate hikes during US - Iran war energy  shock  | US - Israel war on Iran News",
+   "u": "https://www.aljazeera.com/economy/2026/11/13/us-treasury-warns-against-rate-hikes-during-us-iran-war-energy-shock",
+   "d": "2026-11-13",
+   "q": "aljazeera.com",
+   "type": "finanz",
+   "c": "as"
+  },
+  {
    "t": "The fight over Canadian steelworker jobs",
    "u": "https://www.aljazeera.com/economy/2026/11/13/the-fight-over-canadian-steelworker-jobs",
    "d": "2026-11-13",
@@ -368,7 +416,7 @@
    "u": "https://veropatriot.iheart.com/content/2026-11-13-wholesale-prices-rise-less-than-expected-in-october/",
    "d": "2026-11-13",
    "q": "veropatriot.iheart.com",
-   "type": "politik",
+   "type": "finanz",
    "c": null
   },
   {
