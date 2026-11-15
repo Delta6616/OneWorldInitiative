@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-15T08:53:12Z",
+ "stand": "2026-11-15T09:47:17Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -10,6 +10,14 @@
    "q": "watson.ch",
    "type": "politik",
    "c": null
+  },
+  {
+   "t": "Japan business delegation to seek loan of giant panda from China",
+   "u": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/15/japan-business-delegation-to-seek-loan-of-giant-panda-from-china",
+   "d": "2026-11-15",
+   "q": "thestar.com.my",
+   "type": "rohstoffe",
+   "c": "as"
   },
   {
    "t": "ONGC takes charge of Cambay block as Vedanta records ₹379 crore impairment",
@@ -42,6 +50,22 @@
    "q": "bdnews24.com",
    "type": "energie",
    "c": "na"
+  },
+  {
+   "t": "Data center diaspora : Democrat blue wave wins could send AI buildout out of US | News",
+   "u": "http://www.thedailytimes.com/news/data-center-diaspora-democrats-blue-wave-wins-could-send-ai-buildout-out-of-us/article_d4f73402-6cf0-5101-9ba0-a99e495487bb.html",
+   "d": "2026-11-15",
+   "q": "thedailytimes.com",
+   "type": "politik",
+   "c": "na"
+  },
+  {
+   "t": "What caused the FAA ground stop ? Officials point to router failure during update",
+   "u": "https://www.wtvr.com/life/travel/what-caused-the-faa-ground-stop-officials-point-to-router-failure",
+   "d": "2026-11-14",
+   "q": "wtvr.com",
+   "type": "rohstoffe",
+   "c": null
   },
   {
    "t": "Haryana Agriculture Minister assures oilseed purchase centre at Pipli grain market",
