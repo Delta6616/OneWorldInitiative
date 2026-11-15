@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-15T05:53:18Z",
+ "stand": "2026-11-15T07:00:06Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -18,6 +18,14 @@
    "q": "trend.az",
    "type": "finanz",
    "c": null
+  },
+  {
+   "t": "IRAN SHOWDOWN : Trump Weighs Halting New Strikes Despite Israeli Pressure As U . S . Tightens Economic Blockade",
+   "u": "https://www.theyeshivaworld.com/news/israel-news/2623104/iran-showdown-trump-weighs-halting-new-strikes-despite-israeli-pressure-as-u-s-tightens-economic-blockade.html",
+   "d": "2026-11-14",
+   "q": "theyeshivaworld.com",
+   "type": "politik",
+   "c": "as"
   },
   {
    "t": "What Citi Expects From Alibaba ( BABA ) Before November 19",
@@ -58,6 +66,14 @@
    "q": "en.shafaqna.com",
    "type": "politik",
    "c": "as"
+  },
+  {
+   "t": "WMO : Central America Prepares for drought - Shafaqna English | International Shia News & Fatwas",
+   "u": "https://en.shafaqna.com/491985/wmo-central-america-prepares-for-drought/",
+   "d": "2026-11-14",
+   "q": "en.shafaqna.com",
+   "type": "rohstoffe",
+   "c": null
   },
   {
    "t": "Israeli drone strike kills 2 Palestinians in Gaza , and other Mideast news",
@@ -113,6 +129,14 @@
    "d": "2026-11-13",
    "q": "prnewswire.com",
    "type": "energie",
+   "c": null
+  },
+  {
+   "t": "REPLOID explores potential for Austrian farmers and foresters to save hundreds of millions of euros annually in mineral oil tax with locally produced biodiesel from insect fat",
+   "u": "https://www.ots.at/presseaussendung/EQS_20261113_EQS0007/reploid-explores-potential-for-austrian-farmers-and-foresters-to-save-hundreds-of-millions-of-euros-annually-in-mineral-oil-tax-with-locally-produced-biodiesel-from-insect-fat",
+   "d": "2026-11-13",
+   "q": "ots.at",
+   "type": "rohstoffe",
    "c": null
   },
   {
@@ -428,6 +452,14 @@
    "c": "na"
   },
   {
+   "t": "Adani Kutch Copper joins Codelco to explore key copper belt in Chile",
+   "u": "https://www.prokerala.com/news/articles/a1835725.html",
+   "d": "2026-11-12",
+   "q": "prokerala.com",
+   "type": "rohstoffe",
+   "c": "sa"
+  },
+  {
    "t": "Armada und Johnson Controls eröffnen Galleon Forge Two in Dublin und bringen damit die Produktion souveräner KI - Infrastruktur nach Europa",
    "u": "https://www.prnewswire.com/news-releases/armada-und-johnson-controls-eroffnen-galleon-forge-two-in-dublin-und-bringen-damit-die-produktion-souveraner-ki-infrastruktur-nach-europa-302937418.html",
    "d": "2026-11-12",
@@ -522,14 +554,6 @@
    "q": "meinbezirk.at",
    "type": "rohstoffe",
    "c": null
-  },
-  {
-   "t": "Einbruch im Bezirk Wolfsberg : Unbekannte Täter stahlen Tresor aus Einfamilienhaus",
-   "u": "https://www.meinbezirk.at/lavanttal/c-lokales/unbekannte-taeter-stahlen-tresor-aus-einfamilienhaus_a9007248",
-   "d": "2026-11-12",
-   "q": "meinbezirk.at",
-   "type": "rohstoffe",
-   "c": "na"
   },
   {
    "t": "The Iran War is transforming liquefied natural gas deals",
