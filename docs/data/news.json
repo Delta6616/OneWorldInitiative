@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-15T02:50:50Z",
+ "stand": "2026-11-15T03:52:49Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -36,6 +36,14 @@
    "c": "as"
   },
   {
+   "t": "Protesters urge united kingdom to impose sanctions on Israel over Gaza genocide - Shafaqna English",
+   "u": "https://en.shafaqna.com/491991/protesters-urge-uk-to-impose-sanctions-on-israel-over-gaza-genocide/",
+   "d": "2026-11-14",
+   "q": "en.shafaqna.com",
+   "type": "politik",
+   "c": "as"
+  },
+  {
    "t": "Israeli drone strike kills 2 Palestinians in Gaza , and other Mideast news",
    "u": "https://bakersfieldnow.com/news/nation-world/israeli-drone-strike-kills-2-palestinians-in-gaza-and-other-mideast-news",
    "d": "2026-11-14",
@@ -50,6 +58,14 @@
    "q": "op-online.de",
    "type": "rohstoffe",
    "c": "na"
+  },
+  {
+   "t": "Meyer Werft : MSC verhandelt über Einstieg bei Schiffbauer",
+   "u": "http://www.come-on.de/wirtschaft/meyer-werft-msc-verhandelt-ueber-einstieg-bei-schiffbauer-zr-94590423.html",
+   "d": "2026-11-14",
+   "q": "come-on.de",
+   "type": "logistik",
+   "c": null
   },
   {
    "t": "Abstimmungen vom 29 . 11 .: Was ist die Nichtwiederausfuhrerklärung ?",
@@ -98,6 +114,14 @@
    "q": "hindustantimes.com",
    "type": "logistik",
    "c": null
+  },
+  {
+   "t": "Bessent blames Lutnick Commerce Department for not restricting Nvidia chips to China",
+   "u": "https://www.click2houston.com/business/2026/11/13/bessent-blames-commerces-lutnick-for-not-restricting-nvidia-chip-exports-to-china/",
+   "d": "2026-11-13",
+   "q": "click2houston.com",
+   "type": "politik",
+   "c": "as"
   },
   {
    "t": "Überall steigen die Heizkosten , doch in Wutach könnten sie sogar sinken",
@@ -154,6 +178,22 @@
    "q": "de.euronews.com",
    "type": "finanz",
    "c": "eu"
+  },
+  {
+   "t": "Schwere Stürme auf dem Atlantik : AIDA und weitere Kreuzfahrtschiffe müssen Routen ändern",
+   "u": "http://www.tz.de/welt/stuerme-auf-dem-atlantik-kreuzfahrtschiffe-aendern-routen-zr-94589680.html",
+   "d": "2026-11-13",
+   "q": "tz.de",
+   "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "Canada threatens to sue Stellantis over auto plant sale as Trump trade war shifts production south",
+   "u": "http://www.sitkasentinel.com/stories/canada-threatens-to-sue-stellantis-over-auto-plant-sale-as-trumps-trade-war-shifts-production,185849",
+   "d": "2026-11-13",
+   "q": "sitkasentinel.com",
+   "type": "politik",
+   "c": "na"
   },
   {
    "t": "Gas prices fall below $4 as more oil flows , but experts warn relief may not last",
@@ -284,11 +324,27 @@
    "c": "na"
   },
   {
+   "t": "Israel : Angriff auf Spital in Gaza galt Hamas",
+   "u": "https://www.tagesanzeiger.ch/nahost-ticker-iran-israel-usa-jemen-33-872658086267",
+   "d": "2026-11-12",
+   "q": "tagesanzeiger.ch",
+   "type": "logistik",
+   "c": "as"
+  },
+  {
    "t": "Neues Heizungsgesetz : Gasetagenheizung tauschen – diese Regeln gelten",
    "u": "https://www.t-online.de/heim-garten/energie/id_100929522/neues-heizungsgesetz-gasetagenheizung-tauschen-diese-regeln-gelten.html",
    "d": "2026-11-12",
    "q": "t-online.de",
    "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Kreuzfahrt : Wenn das Schiff kollidiert , die Route ändert oder Passagiere rausfliegen",
+   "u": "https://www.sueddeutsche.de/reise/kreuzfahrt-kreuzfahrtschiffe-urlaub-reise-glosse-li.3573151",
+   "d": "2026-11-12",
+   "q": "sueddeutsche.de",
+   "type": "logistik",
    "c": null
   },
   {
@@ -380,6 +436,30 @@
    "c": "oc"
   },
   {
+   "t": "Russia Justifies Control of Japan Tobacco Assets",
+   "u": "https://www.nippon.com/en/articles/-/57304",
+   "d": "2026-11-12",
+   "q": "nippon.com",
+   "type": "politik",
+   "c": null
+  },
+  {
+   "t": "GTA 6 noch nicht vorbestellt ? Dann solltet ihr jetzt bei Lidl reinschauen",
+   "u": "https://www.netzwelt.de/schnaeppchen/260591-gta-6-noch-vorbestellt-dann-solltet-lidl-reinschauen.html",
+   "d": "2026-11-12",
+   "q": "netzwelt.de",
+   "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "MediaMarkt senkt Segway - E - Scooter auf unter 300 Euro : Hier ist er noch günstiger",
+   "u": "https://www.netzwelt.de/schnaeppchen/260588-mediamarkt-senkt-segway-e-scooter-300-euro-noch-guenstiger.html",
+   "d": "2026-11-12",
+   "q": "netzwelt.de",
+   "type": "logistik",
+   "c": null
+  },
+  {
    "t": "Dovish BOJ Member Urges Caution in Raising Rates Further",
    "u": "https://www.morningstar.com/news/dow-jones/202611119702/dovish-boj-member-urges-caution-in-raising-rates-further",
    "d": "2026-11-12",
@@ -460,14 +540,6 @@
    "c": "na"
   },
   {
-   "t": "BMW & Skoda : Nach Angriffen in der Ukraine – Autoindustrie fehlen Kabelbäume",
-   "u": "https://www.handelsblatt.com/unternehmen/industrie/bmw-skoda-nach-angriffen-in-der-ukraine-autoindustrie-fehlen-kabelbaeume/100268739.html",
-   "d": "2026-11-12",
-   "q": "handelsblatt.com",
-   "type": "logistik",
-   "c": "eu"
-  },
-  {
    "t": "Indonesian rupiah drops to record low on strong dollar , MSCI woes",
    "u": "https://www.freemalaysiatoday.com/category/business/2026/11/12/indonesian-rupiah-drops-to-record-low-on-strong-dollar-msci-woes",
    "d": "2026-11-12",
@@ -522,38 +594,6 @@
    "q": "finanzen.net",
    "type": "energie",
    "c": null
-  },
-  {
-   "t": "Economic Sanctions , State Power , And Cuba : A Rothbardian Critique Of U . S . Interventionism - OpEd",
-   "u": "https://www.eurasiareview.com/12112026-economic-sanctions-state-power-and-cuba-a-rothbardian-critique-of-u-s-interventionism-oped/",
-   "d": "2026-11-12",
-   "q": "eurasiareview.com",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "Saudi Arabia intercepts Houthi missiles , drones ; group denies targeting Mecca",
-   "u": "https://www.asiaone.com:443/asia/saudi-arabia-intercepts-houthi-missiles-drones-group-denies-targeting-mecca",
-   "d": "2026-11-12",
-   "q": "asiaone.com:443",
-   "type": "logistik",
-   "c": "as"
-  },
-  {
-   "t": "Is more oil going through Hormuz than before the Iran war , as Byron Donalds said ? No . – PolitiFact",
-   "u": "https://politifact.com/factchecks/2026/nov/11/byron-donalds/florida-byron-donalds-iran-war-strait-hormuz-oil/",
-   "d": "2026-11-12",
-   "q": "politifact.com",
-   "type": "logistik",
-   "c": "as"
-  },
-  {
-   "t": "Strait of Hormuz Crisis : Iran Rejects Pre - War Status Amid US Peace Talks Stalemate",
-   "u": "https://openthemagazine.com/world/strait-of-hormuz-crisis-iran-says-key-oil-route-will-never-return-to-pre-war-status-as-us-peace-talks-stall",
-   "d": "2026-11-12",
-   "q": "openthemagazine.com",
-   "type": "logistik",
-   "c": "as"
   },
   {
    "t": "Hakim Adi  Pan - Africanism and Communism : A pro - Stalinist attempt to erase the Trotskyist alternative Part Eight",
