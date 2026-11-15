@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-15T13:53:37Z",
+ "stand": "2026-11-15T14:43:40Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -172,6 +172,14 @@
    "c": "na"
   },
   {
+   "t": "Meyer Werft : MSC verhandelt über Einstieg bei Schiffbauer",
+   "u": "https://www.az-online.de/wirtschaft/meyer-werft-msc-verhandelt-ueber-einstieg-bei-schiffbauer-zr-94590423.html",
+   "d": "2026-11-14",
+   "q": "az-online.de",
+   "type": "logistik",
+   "c": null
+  },
+  {
    "t": "Drought slows state rabi sowing ; deficit hits 5 . 4 lakh hectares | Pune News",
    "u": "https://timesofindia.indiatimes.com/city/pune/drought-slows-states-rabi-sowing-deficit-hits-5-4-lakh-hectares/articleshow/135842195.cms",
    "d": "2026-11-14",
@@ -258,14 +266,6 @@
    "q": "op-online.de",
    "type": "rohstoffe",
    "c": "na"
-  },
-  {
-   "t": "Meyer Werft : MSC verhandelt über Einstieg bei Schiffbauer",
-   "u": "http://www.come-on.de/wirtschaft/meyer-werft-msc-verhandelt-ueber-einstieg-bei-schiffbauer-zr-94590423.html",
-   "d": "2026-11-14",
-   "q": "come-on.de",
-   "type": "logistik",
-   "c": null
   },
   {
    "t": "Trump weist Vize JD Vance nach Wahlschlappe zurecht",
