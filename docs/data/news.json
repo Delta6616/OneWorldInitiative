@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-15T16:41:43Z",
+ "stand": "2026-11-15T17:36:55Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -42,6 +42,14 @@
    "q": "omanobserver.om",
    "type": "logistik",
    "c": null
+  },
+  {
+   "t": "Putins Friedensplan für die Ukraine : Das Ultimatum von vor dem Krieg",
+   "u": "https://www.merkur.de/politik/putins-friedensplan-fuer-die-ukraine-das-ultimatum-von-vor-dem-krieg-zuzueglich-zinsen-zr-94590480.html",
+   "d": "2026-11-15",
+   "q": "merkur.de",
+   "type": "finanz",
+   "c": "eu"
   },
   {
    "t": "Göttinger Weihnachtsmarkt 2025 : 17 Buslinien trotz Sperrungen",
