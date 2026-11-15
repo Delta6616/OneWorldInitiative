@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-15T07:00:06Z",
+ "stand": "2026-11-15T08:04:59Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -26,6 +26,22 @@
    "q": "theyeshivaworld.com",
    "type": "politik",
    "c": "as"
+  },
+  {
+   "t": "How the Nvidia scandal lifted the curtain on a loophole that giving China access to US chips | Business",
+   "u": "https://www.kten.com/news/business/how-the-nvidia-scandal-lifted-the-curtain-on-a-loophole-that-s-giving-china-access/article_e4b6e215-c378-52ac-a9c3-c83dcc324a38.html",
+   "d": "2026-11-14",
+   "q": "kten.com",
+   "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Trump , Xi and Putin plan an unprecedented joint meeting , White House says",
+   "u": "https://www.kcbd.com/2026/11/14/trump-xi-putin-plan-an-unprecedented-joint-meeting-white-house-says/",
+   "d": "2026-11-14",
+   "q": "kcbd.com",
+   "type": "politik",
+   "c": "na"
   },
   {
    "t": "What Citi Expects From Alibaba ( BABA ) Before November 19",
@@ -76,6 +92,14 @@
    "c": null
   },
   {
+   "t": "Oil markets stay flush despite tanker attacks",
+   "u": "https://economictimes.indiatimes.com/industry/energy/oil-gas/oil-markets-stay-flush-despite-tanker-attacks/articleshow/135841578.cms",
+   "d": "2026-11-14",
+   "q": "economictimes.indiatimes.com",
+   "type": "energie",
+   "c": null
+  },
+  {
    "t": "Israeli drone strike kills 2 Palestinians in Gaza , and other Mideast news",
    "u": "https://bakersfieldnow.com/news/nation-world/israeli-drone-strike-kills-2-palestinians-in-gaza-and-other-mideast-news",
    "d": "2026-11-14",
@@ -108,6 +132,22 @@
    "c": null
   },
   {
+   "t": "NCDMB , NLNG Unveil $9m For Professorial Endowment Research Chairs In Six Varsities",
+   "u": "https://www.thetidenewsonline.com/2026/11/ncdmb-nlng-unveil-9m-for-professorial-endowment-research-chairs-in-six-varsities/",
+   "d": "2026-11-13",
+   "q": "thetidenewsonline.com",
+   "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Fish Production Deficit , A Major Investment Opportunity – Minister",
+   "u": "https://www.thetidenewsonline.com/2026/11/fish-production-deficit-a-major-investment-opportunity-minister/",
+   "d": "2026-11-13",
+   "q": "thetidenewsonline.com",
+   "type": "energie",
+   "c": null
+  },
+  {
    "t": "Abstimmungen vom 29 . 11 .: Was ist die Nichtwiederausfuhrerklärung ?",
    "u": "https://www.srf.ch/news/nichtwiederausfuhrerklaerungen-kriegsmaterial-lieferungen-kuenftig-ohne-diplomatisches-ehrenwort",
    "d": "2026-11-13",
@@ -124,12 +164,28 @@
    "c": null
   },
   {
+   "t": "Atlas Energy Corp Reports Third Quarter 2026 Financial Results",
+   "u": "https://www.simcoereformer.ca/press-releases/globe-newswire/atlas-energy-corp-reports-third-quarter-2026-financial-results/",
+   "d": "2026-11-13",
+   "q": "simcoereformer.ca",
+   "type": "energie",
+   "c": null
+  },
+  {
    "t": "The inner circle acknowledges Philip D . Scroggie , Exec . Dir . as an Inner Circle Lifetime Member",
    "u": "https://www.prnewswire.com/news-releases/the-inner-circle-acknowledges-philip-d-scroggie-exec-dir-as-an-inner-circle-lifetime-member-302939030.html",
    "d": "2026-11-13",
    "q": "prnewswire.com",
    "type": "energie",
    "c": null
+  },
+  {
+   "t": "Ukraine launches nearly 1200 drones at Russia",
+   "u": "https://www.perthnow.com.au/news/conflict/ukraine-launches-nearly-1200-drones-at-russia-c-23161052",
+   "d": "2026-11-13",
+   "q": "perthnow.com.au",
+   "type": "energie",
+   "c": "eu"
   },
   {
    "t": "REPLOID explores potential for Austrian farmers and foresters to save hundreds of millions of euros annually in mineral oil tax with locally produced biodiesel from insect fat",
@@ -180,6 +236,14 @@
    "c": "as"
   },
   {
+   "t": "Fallout from the Nvidia scandal may dampen the exuberance around AI",
+   "u": "https://www.bostonglobe.com/2026/11/13/business/nvidia-fallout-jensen-huang/",
+   "d": "2026-11-13",
+   "q": "bostonglobe.com",
+   "type": "politik",
+   "c": null
+  },
+  {
    "t": "Überall steigen die Heizkosten , doch in Wutach könnten sie sogar sinken",
    "u": "https://www.badische-zeitung.de/ueberall-steigen-die-heizkosten-doch-in-wutach-koennten-sie-sogar-sinken",
    "d": "2026-11-13",
@@ -196,12 +260,44 @@
    "c": null
   },
   {
+   "t": "Wholesale Prices Rise Less Than Expected In October",
+   "u": "https://veropatriot.iheart.com/content/2026-11-13-wholesale-prices-rise-less-than-expected-in-october/",
+   "d": "2026-11-13",
+   "q": "veropatriot.iheart.com",
+   "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Tackling LPG sector challenges effectively - Pakistan Observer",
+   "u": "https://pakobserver.net/tackling-lpg-sector-challenges-effectively/",
+   "d": "2026-11-13",
+   "q": "pakobserver.net",
+   "type": "energie",
+   "c": "as"
+  },
+  {
    "t": "The Puzzle of Alzheimer Disease | Harvard Medicine Magazine",
    "u": "https://magazine.hms.harvard.edu/articles/puzzle-alzheimers-disease",
    "d": "2026-11-13",
    "q": "magazine.hms.harvard.edu",
    "type": "rohstoffe",
    "c": null
+  },
+  {
+   "t": "World Oil Market is Returning to Surplus as Gulf Exports Recover",
+   "u": "https://gcaptain.com/world-oil-market-is-returning-to-surplus-as-gulf-exports-recover/",
+   "d": "2026-11-13",
+   "q": "gcaptain.com",
+   "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Russia Oil Revenues Hit Five - Month High on Crude Rally , IEA Says",
+   "u": "https://gcaptain.com/russia-oil-revenues-hit-five-month-high-on-crude-rally-iea-says/",
+   "d": "2026-11-13",
+   "q": "gcaptain.com",
+   "type": "energie",
+   "c": "eu"
   },
   {
    "t": "Hapag - Lloyd Profit Surges as Freight Rates Rise , Red Sea Services Return",
@@ -216,16 +312,8 @@
    "u": "https://de.euronews.com/2026/11/13/wollen-usa-iran-krieg-beenden-revolutionsgarden-melden-angriff-auf-us-radar-in-bahrain",
    "d": "2026-11-13",
    "q": "de.euronews.com",
-   "type": "energie",
+   "type": "logistik",
    "c": "na"
-  },
-  {
-   "t": "Ungarischer Konzern MOL fordert EU - Geld : Chef warnt vor Unruhen bei Ausstieg aus russischem Öl",
-   "u": "https://de.euronews.com/2026/11/13/ungarischer-konzern-mol-fordert-eu-geld-chef-warnt-vor-unruhen-bei-ausstieg-aus-russischem",
-   "d": "2026-11-13",
-   "q": "de.euronews.com",
-   "type": "energie",
-   "c": null
   },
   {
    "t": "EZB - Präsidentschaft : Frankreich und Deutschland einigen sich fast auf Pablo Hernández de Cos",
