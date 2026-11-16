@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-16T15:02:49Z",
+ "stand": "2026-11-16T16:42:07Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -8,7 +8,7 @@
    "u": "https://www.weser-kurier.de/wirtschaft/industrie-verbraucht-deutlich-weniger-energie-doc88ht8xf0hhv1k6w8bau6",
    "d": "2026-11-16",
    "q": "weser-kurier.de",
-   "type": "rohstoffe",
+   "type": "energie",
    "c": null
   },
   {
@@ -16,7 +16,7 @@
    "u": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/industrie-verbraucht-deutlich-weniger-energie-4357060",
    "d": "2026-11-16",
    "q": "volksstimme.de",
-   "type": "rohstoffe",
+   "type": "energie",
    "c": null
   },
   {
@@ -33,6 +33,14 @@
    "d": "2026-11-16",
    "q": "t-online.de",
    "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Erstes Gas soll in Stader LNG - Terminal fließen",
+   "u": "https://www.radiohamburg.de/aktuelles/hamburg/Erstes-Gas-soll-in-Stader-LNG-Terminal-flie%C3%9Fen-id1758186.html",
+   "d": "2026-11-16",
+   "q": "radiohamburg.de",
+   "type": "energie",
    "c": null
   },
   {
@@ -80,7 +88,7 @@
    "u": "https://www.finanzen.net/nachricht/aktien/deutschland-industrie-verbraucht-deutlich-weniger-energie-16067538",
    "d": "2026-11-16",
    "q": "finanzen.net",
-   "type": "rohstoffe",
+   "type": "energie",
    "c": "eu"
   },
   {
@@ -98,6 +106,22 @@
    "q": "businesstoday.in",
    "type": "finanz",
    "c": null
+  },
+  {
+   "t": "Kvasir and Crossbridge Partner on Low - Carbon Marine Fuels Ship & Bunker",
+   "u": "https://shipandbunker.com/news/world/409230-kvasir-and-crossbridge-partner-on-low-carbon-marine-fuels",
+   "d": "2026-11-16",
+   "q": "shipandbunker.com",
+   "type": "energie",
+   "c": null
+  },
+  {
+   "t": "UK Sanctions Slavneft and Vessels in New Russia Measures Ship & Bunker",
+   "u": "https://shipandbunker.com/news/emea/557303-uk-sanctions-slavneft-and-vessels-in-new-russia-measures",
+   "d": "2026-11-16",
+   "q": "shipandbunker.com",
+   "type": "energie",
+   "c": "eu"
   },
   {
    "t": "Sen .- elect Kurt Alme outlines priorities for Montana",
@@ -233,6 +257,14 @@
    "d": "2026-11-14",
    "q": "wtvr.com",
    "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Power outage at Livonia substation causes outages across Pointe Coupee Parish",
+   "u": "https://www.wbrz.com/news/power-outage-at-livonia-substation-causes-outages-across-pointe-coupee-parish",
+   "d": "2026-11-14",
+   "q": "wbrz.com",
+   "type": "energie",
    "c": null
   },
   {
