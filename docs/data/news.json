@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-16T16:42:07Z",
+ "stand": "2026-11-16T18:03:04Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -122,6 +122,22 @@
    "q": "shipandbunker.com",
    "type": "energie",
    "c": "eu"
+  },
+  {
+   "t": "ONE Returns to Suez Canal as Container Lines Gradually Resume Transits Ship & Bunker",
+   "u": "https://shipandbunker.com/news/emea/260199-one-returns-to-suez-canal-as-container-lines-gradually-resume-transits",
+   "d": "2026-11-16",
+   "q": "shipandbunker.com",
+   "type": "logistik",
+   "c": "af"
+  },
+  {
+   "t": "China Turns to Iraqi Oil as U . S . Blockade Chokes Iranian Supply",
+   "u": "https://oilprice.com/Latest-Energy-News/World-News/China-Turns-to-Iraqi-Oil-as-US-Blockade-Chokes-Iranian-Supply.html",
+   "d": "2026-11-16",
+   "q": "oilprice.com",
+   "type": "logistik",
+   "c": "as"
   },
   {
    "t": "Sen .- elect Kurt Alme outlines priorities for Montana",
