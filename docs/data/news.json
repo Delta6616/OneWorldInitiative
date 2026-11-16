@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-16T02:55:08Z",
+ "stand": "2026-11-16T04:10:38Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -34,6 +34,14 @@
    "q": "thehindubusinessline.com",
    "type": "energie",
    "c": null
+  },
+  {
+   "t": "Sirens sound in Bahrain as Iran Guards claim drone attack",
+   "u": "https://www.rnz.co.nz/news/world/2609842/sirens-sound-in-bahrain-as-iran-s-guards-claim-drone-attack",
+   "d": "2026-11-15",
+   "q": "rnz.co.nz",
+   "type": "logistik",
+   "c": "as"
   },
   {
    "t": "Blasts , sirens in Bahrain as Iran attacks on US base",
@@ -412,6 +420,14 @@
    "c": "as"
   },
   {
+   "t": "Reports : U . N . Atomic Agency  Increasingly Concerned  Iran Wont Let It Inspect Uranium Facility Trump Bombed",
+   "u": "https://www.breitbart.com/middle-east/2026/11/13/reports-u-n-atomic-agency-increasingly-concerned-iran-wont-let-it-inspect-uranium-facility-trump-bombed/",
+   "d": "2026-11-13",
+   "q": "breitbart.com",
+   "type": "logistik",
+   "c": null
+  },
+  {
    "t": "Fallout from the Nvidia scandal may dampen the exuberance around AI",
    "u": "https://www.bostonglobe.com/2026/11/13/business/nvidia-fallout-jensen-huang/",
    "d": "2026-11-13",
@@ -490,6 +506,14 @@
    "q": "de.euronews.com",
    "type": "politik",
    "c": null
+  },
+  {
+   "t": "Kaja Kallas : „ Russen wollen mich nicht  als EU - Friedensgesandte",
+   "u": "https://de.euronews.com/2026/11/13/kaja-kallas-russen-wollen-mich-nicht-als-eu-friedensgesandte",
+   "d": "2026-11-13",
+   "q": "de.euronews.com",
+   "type": "politik",
+   "c": "eu"
   },
   {
    "t": "EZB - Präsidentschaft : Frankreich und Deutschland einigen sich fast auf Pablo Hernández de Cos",
