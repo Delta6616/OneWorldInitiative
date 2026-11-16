@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-16T20:50:46Z",
+ "stand": "2026-11-16T21:49:33Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -204,6 +204,14 @@
    "c": "eu"
   },
   {
+   "t": "Africa : AS FAR Make History With Third African Women Title After Beating Sundowns in Final",
+   "u": "https://allafrica.com/stories/202611160196.html",
+   "d": "2026-11-16",
+   "q": "allafrica.com",
+   "type": "logistik",
+   "c": "af"
+  },
+  {
    "t": "Technik - Panne in den united states : Weiter Tausende Flüge gestrichen",
    "u": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/panorama_nt/article6af95a7a4495f9bd85b807a2/technik-panne-in-den-usa-weiter-tausende-fluege-gestrichen.html",
    "d": "2026-11-15",
@@ -345,6 +353,14 @@
    "d": "2026-11-14",
    "q": "tribuneindia.com",
    "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Nvidia risks losing critical supply chain deals without Jensen Huang , warns Elon Musk",
+   "u": "https://www.tribuneindia.com/news/business/nvidia-risks-losing-critical-supply-chain-deals-without-jensen-huang-warns-elon-musk/",
+   "d": "2026-11-14",
+   "q": "tribuneindia.com",
+   "type": "logistik",
    "c": null
   },
   {
