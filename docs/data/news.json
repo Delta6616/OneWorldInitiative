@@ -1,8 +1,48 @@
 {
- "stand": "2026-11-16T06:06:51Z",
+ "stand": "2026-11-16T08:44:04Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Meridian Energy Shares Jump Nearly 6 % on ASX , Leading Gainers as Kiwi Power Giant Bucks a Soft Monday Market",
+   "u": "https://www.ibtimes.com.au/meridian-energy-shares-jump-asx-thin-trading-1878678",
+   "d": "2026-11-16",
+   "q": "ibtimes.com.au",
+   "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "Silver prices crash by Rs 7 , 000 ; dollar strength , rate hike prospects weigh",
+   "u": "https://www.businesstoday.in/personal-finance/news/story/silver-prices-crash-by-rs-7000-dollar-strength-rate-hike-prospects-weigh-567625-2026-11-16",
+   "d": "2026-11-16",
+   "q": "businesstoday.in",
+   "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "Silver ETF crash : Nippon , HDFC , ICICI take beating ; reasons behind 50 % fall from Feb highs",
+   "u": "https://www.businesstoday.in/markets/stocks/story/silver-etf-crash-nippon-hdfc-icici-take-beating-reasons-behind-50-fall-from-feb-highs-567628-2026-11-16",
+   "d": "2026-11-16",
+   "q": "businesstoday.in",
+   "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "Liberia : Govt Officially Launches Seed Development and Certification Agency",
+   "u": "https://frontpageafricaonline.com/liberia-govt-officially-launches-seed-development-and-certification-agency/",
+   "d": "2026-11-16",
+   "q": "frontpageafricaonline.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "BOJ Takata calls for early rate hikes to curb inflation risks",
+   "u": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/bojs-takata-calls-for-early-rate-hikes-to-curb-inflation-risks/articleshow/135876217.cms",
+   "d": "2026-11-16",
+   "q": "economictimes.indiatimes.com",
+   "type": "finanz",
+   "c": null
+  },
   {
    "t": "Technik - Panne in den united states : Weiter Tausende Flüge gestrichen",
    "u": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/panorama_nt/article6af95a7a4495f9bd85b807a2/technik-panne-in-den-usa-weiter-tausende-fluege-gestrichen.html",
