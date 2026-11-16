@@ -15,13 +15,14 @@
  },
  "gdelt": {
   "ok": true,
-  "zeit": "2026-11-16T17:58:38Z",
-  "neu_oder_geaendert": 2,
-  "zeilen_gesamt": 1012,
+  "zeit": "2026-11-16T18:51:51Z",
+  "neu_oder_geaendert": 7,
+  "zeilen_gesamt": 1019,
   "warnungen": [
+   "logistik/english: HTTP 429",
    "energie/english: HTTP 429",
-   "rohstoffe/english: Verbindung: <urlopen error _ssl.c:994: The handshake operation timed out>",
-   "energie/german: HTTP 429",
+   "politik/english: HTTP 429",
+   "logistik/german: HTTP 429",
    "finanz/german: HTTP 429",
    "politik/german: HTTP 429",
    "rohstoffe/german: HTTP 429"

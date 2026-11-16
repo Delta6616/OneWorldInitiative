@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-16T18:03:04Z",
+ "stand": "2026-11-16T18:54:38Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -52,6 +52,14 @@
    "c": null
   },
   {
+   "t": "Ukraine - Krieg aktuell : Kiew startet massive Angriffe",
+   "u": "https://www.hna.de/politik/ukraine-krieg-aktuell-kiew-startet-massive-angriffe-zr-94591703.html",
+   "d": "2026-11-16",
+   "q": "hna.de",
+   "type": "energie",
+   "c": "eu"
+  },
+  {
    "t": "Trump tariffs cast shadow over Apec talks",
    "u": "https://www.freemalaysiatoday.com/category/world/2026/11/16/trump-s-tariffs-cast-shadow-over-apec-talks",
    "d": "2026-11-16",
@@ -72,7 +80,7 @@
    "u": "https://www.finanzen.net/nachricht/devisen/devisen-euro-gibt-weiter-nach-und-faellt-auf-jahrestief-16067546",
    "d": "2026-11-16",
    "q": "finanzen.net",
-   "type": "finanz",
+   "type": "energie",
    "c": null
   },
   {
@@ -308,6 +316,22 @@
    "c": "as"
   },
   {
+   "t": "Why the US had to shut down its airspace and ground all flights",
+   "u": "https://www.theage.com.au/world/north-america/an-old-copper-line-in-the-bush-why-the-us-had-to-shut-down-its-airspace-20261115-p61e6x.html",
+   "d": "2026-11-14",
+   "q": "theage.com.au",
+   "type": "rohstoffe",
+   "c": "na"
+  },
+  {
+   "t": "Retirement planning : Paul Benson advises on superannuation strategy and salary sacrifice",
+   "u": "https://www.smh.com.au/money/planning-and-budgeting/i-m-worried-our-super-could-get-hacked-is-my-money-safer-in-the-bank-20261115-p61dw1.html",
+   "d": "2026-11-14",
+   "q": "smh.com.au",
+   "type": "finanz",
+   "c": null
+  },
+  {
    "t": "How the Nvidia scandal lifted the curtain on a loophole that giving China access to US chips | Business",
    "u": "https://www.kten.com/news/business/how-the-nvidia-scandal-lifted-the-curtain-on-a-loophole-that-s-giving-china-access/article_e4b6e215-c378-52ac-a9c3-c83dcc324a38.html",
    "d": "2026-11-14",
@@ -330,6 +354,14 @@
    "q": "insidermonkey.com",
    "type": "finanz",
    "c": null
+  },
+  {
+   "t": "What Caused the US FAA Ground Stop and How Did a Copper - To - Fibre Switch Disrupt Flight Radar Feeds ?",
+   "u": "https://www.ibtimes.co.uk/faa-ground-stop-fibre-upgrade-network-fault-1832252",
+   "d": "2026-11-14",
+   "q": "ibtimes.co.uk",
+   "type": "rohstoffe",
+   "c": "na"
   },
   {
    "t": "Geschenke für die Schwiegertochter : 15 schöne Ideen",
@@ -361,6 +393,14 @@
    "d": "2026-11-14",
    "q": "az-online.de",
    "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "Retired banker loses ₹42L in 15 - day  digital arrest  | Rajkot News",
+   "u": "https://timesofindia.indiatimes.com/city/rajkot/retired-banker-loses-42l-in-15-day-digital-arrest/articleshow/135841352.cms",
+   "d": "2026-11-14",
+   "q": "timesofindia.indiatimes.com",
+   "type": "finanz",
    "c": null
   },
   {
@@ -1346,6 +1386,14 @@
    "q": "finanzen.net",
    "type": "logistik",
    "c": "na"
+  },
+  {
+   "t": "Eon bestätigt Investitionsziel - Gewinn legt leicht zu",
+   "u": "https://www.finanzen.net/nachricht/aktien/eon-bestaetigt-investitionsziel-gewinn-legt-leicht-zu-16055698",
+   "d": "2026-11-11",
+   "q": "finanzen.net",
+   "type": "finanz",
+   "c": null
   },
   {
    "t": "CFTC warnt Kalshi laut Politico vor einer Anklage",
