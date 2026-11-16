@@ -1,14 +1,54 @@
 {
- "stand": "2026-11-16T08:44:04Z",
+ "stand": "2026-11-16T10:41:44Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Umfrage : Hohe Lebenskosten : Nur die Hälfte der Menschen kann sparen",
+   "u": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/hohe-lebenskosten-nur-die-halfte-der-menschen-kann-sparen-4357017",
+   "d": "2026-11-16",
+   "q": "volksstimme.de",
+   "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "Bessent : Irans Wirtschaft steht vor schnellem Zusammenbruch",
+   "u": "https://www.t-online.de/nachrichten/ausland/id_101530336/bessent-irans-wirtschaft-steht-vor-schnellem-zusammenbruch.html",
+   "d": "2026-11-16",
+   "q": "t-online.de",
+   "type": "politik",
+   "c": null
+  },
   {
    "t": "Meridian Energy Shares Jump Nearly 6 % on ASX , Leading Gainers as Kiwi Power Giant Bucks a Soft Monday Market",
    "u": "https://www.ibtimes.com.au/meridian-energy-shares-jump-asx-thin-trading-1878678",
    "d": "2026-11-16",
    "q": "ibtimes.com.au",
    "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "CLOs : Resilient in einem sich verändernden Zinsumfeld",
+   "u": "https://www.finews.ch/service/advertorials/74419-janus-henderson-clos-resilient-in-einem-sich-veraendernden-zinsumfeld",
+   "d": "2026-11-16",
+   "q": "finews.ch",
+   "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "Devisen : Euro gibt weiter nach und fällt auf Jahrestief",
+   "u": "https://www.finanzen.net/nachricht/devisen/devisen-euro-gibt-weiter-nach-und-faellt-auf-jahrestief-16067546",
+   "d": "2026-11-16",
+   "q": "finanzen.net",
+   "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "Samsung - und SK - hynix - Aktie stürzen ab : Ist das jetzt die Kaufchance ?",
+   "u": "https://www.finanzen.net/nachricht/aktien/tech-aktien-unter-druck-aktien-von-samsung-sk-hynix-co-im-ausverkauf-ist-der-ruecksetzer-eine-kaufchance-16067464",
+   "d": "2026-11-16",
+   "q": "finanzen.net",
+   "type": "logistik",
    "c": null
   },
   {
@@ -1218,14 +1258,6 @@
    "q": "finanzen.net",
    "type": "logistik",
    "c": "na"
-  },
-  {
-   "t": "Eon bestätigt Investitionsziel - Gewinn legt leicht zu",
-   "u": "https://www.finanzen.net/nachricht/aktien/eon-bestaetigt-investitionsziel-gewinn-legt-leicht-zu-16055698",
-   "d": "2026-11-11",
-   "q": "finanzen.net",
-   "type": "finanz",
-   "c": null
   },
   {
    "t": "CFTC warnt Kalshi laut Politico vor einer Anklage",
