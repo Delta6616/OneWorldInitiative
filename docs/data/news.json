@@ -1,8 +1,24 @@
 {
- "stand": "2026-11-16T10:41:44Z",
+ "stand": "2026-11-16T12:06:05Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Industrie verbraucht deutlich weniger Energie",
+   "u": "https://www.weser-kurier.de/wirtschaft/industrie-verbraucht-deutlich-weniger-energie-doc88ht8xf0hhv1k6w8bau6",
+   "d": "2026-11-16",
+   "q": "weser-kurier.de",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Gas bleibt wichtig : Industrie verbraucht deutlich weniger Energie",
+   "u": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/industrie-verbraucht-deutlich-weniger-energie-4357060",
+   "d": "2026-11-16",
+   "q": "volksstimme.de",
+   "type": "rohstoffe",
+   "c": null
+  },
   {
    "t": "Umfrage : Hohe Lebenskosten : Nur die Hälfte der Menschen kann sparen",
    "u": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/hohe-lebenskosten-nur-die-halfte-der-menschen-kann-sparen-4357017",
@@ -26,6 +42,14 @@
    "q": "ibtimes.com.au",
    "type": "finanz",
    "c": null
+  },
+  {
+   "t": "Trump tariffs cast shadow over Apec talks",
+   "u": "https://www.freemalaysiatoday.com/category/world/2026/11/16/trump-s-tariffs-cast-shadow-over-apec-talks",
+   "d": "2026-11-16",
+   "q": "freemalaysiatoday.com",
+   "type": "politik",
+   "c": "na"
   },
   {
    "t": "CLOs : Resilient in einem sich verändernden Zinsumfeld",
@@ -52,6 +76,14 @@
    "c": null
   },
   {
+   "t": "Deutschland : Industrie verbraucht deutlich weniger Energie",
+   "u": "https://www.finanzen.net/nachricht/aktien/deutschland-industrie-verbraucht-deutlich-weniger-energie-16067538",
+   "d": "2026-11-16",
+   "q": "finanzen.net",
+   "type": "rohstoffe",
+   "c": "eu"
+  },
+  {
    "t": "Silver prices crash by Rs 7 , 000 ; dollar strength , rate hike prospects weigh",
    "u": "https://www.businesstoday.in/personal-finance/news/story/silver-prices-crash-by-rs-7000-dollar-strength-rate-hike-prospects-weigh-567625-2026-11-16",
    "d": "2026-11-16",
@@ -65,6 +97,14 @@
    "d": "2026-11-16",
    "q": "businesstoday.in",
    "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "Sen .- elect Kurt Alme outlines priorities for Montana",
+   "u": "https://nbcmontana.com/news/local/sen-elect-kurt-alme-outlines-priorities-for-montana",
+   "d": "2026-11-16",
+   "q": "nbcmontana.com",
+   "type": "politik",
    "c": null
   },
   {
