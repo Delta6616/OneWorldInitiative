@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-16T18:54:38Z",
+ "stand": "2026-11-16T19:57:09Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -40,6 +40,22 @@
    "u": "https://www.radiohamburg.de/aktuelles/hamburg/Erstes-Gas-soll-in-Stader-LNG-Terminal-flie%C3%9Fen-id1758186.html",
    "d": "2026-11-16",
    "q": "radiohamburg.de",
+   "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Iran - Krieg : Bessent : Irans Wirtschaft steht vor schnellem Zusammenbruch",
+   "u": "https://www.mz.de/deutschland-und-welt/politik/bessent-irans-wirtschaft-steht-vor-schnellem-zusammenbruch-4357046",
+   "d": "2026-11-16",
+   "q": "mz.de",
+   "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Heating Allowance : What data you need for applications",
+   "u": "https://www.keeptalkinggreece.com/2026/11/11/heating-allowance-online-application-data-needed/",
+   "d": "2026-11-16",
+   "q": "keeptalkinggreece.com",
    "type": "energie",
    "c": null
   },
@@ -164,12 +180,28 @@
    "c": null
   },
   {
+   "t": "China once feared becoming roadkill for Western automakers , but now the tables have turned",
+   "u": "https://fortune.com/2026/11/16/china-evs-tariffs-europe-reversal-wto-tesla/",
+   "d": "2026-11-16",
+   "q": "fortune.com",
+   "type": "politik",
+   "c": "as"
+  },
+  {
    "t": "BOJ Takata calls for early rate hikes to curb inflation risks",
    "u": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/bojs-takata-calls-for-early-rate-hikes-to-curb-inflation-risks/articleshow/135876217.cms",
    "d": "2026-11-16",
    "q": "economictimes.indiatimes.com",
    "type": "finanz",
    "c": null
+  },
+  {
+   "t": "Ukraine War , Day 1 , 726 : Zelensky - We Have Neutralized 55 % of Russia Refineries",
+   "u": "https://eaworldview.com/2026/11/ukraine-war-russia-refineries-zelensky-we-have-neutralized-55-percent/",
+   "d": "2026-11-16",
+   "q": "eaworldview.com",
+   "type": "energie",
+   "c": "eu"
   },
   {
    "t": "Technik - Panne in den united states : Weiter Tausende Flüge gestrichen",
@@ -220,11 +252,27 @@
    "c": null
   },
   {
+   "t": "Jobcenter : Wann Bürgergeld und Grundsicherung gekürzt werden",
+   "u": "https://www.merkur.de/verbraucher/jobcenter-wann-buergergeld-und-grundsicherung-gekuerzt-werden-zr-94590476.html",
+   "d": "2026-11-15",
+   "q": "merkur.de",
+   "type": "politik",
+   "c": null
+  },
+  {
    "t": "Putins Friedensplan für die Ukraine : Das Ultimatum von vor dem Krieg",
    "u": "https://www.merkur.de/politik/putins-friedensplan-fuer-die-ukraine-das-ultimatum-von-vor-dem-krieg-zuzueglich-zinsen-zr-94590480.html",
    "d": "2026-11-15",
    "q": "merkur.de",
    "type": "finanz",
+   "c": "eu"
+  },
+  {
+   "t": "Russian economy growth slows to 1 percent in third quarter",
+   "u": "https://www.hurriyetdailynews.com/russian-economy-growth-slows-to-1-percent-in-third-quarter-229399",
+   "d": "2026-11-15",
+   "q": "hurriyetdailynews.com",
+   "type": "politik",
    "c": "eu"
   },
   {
@@ -332,6 +380,22 @@
    "c": null
   },
   {
+   "t": "Zelenskyy says a new European security framework floated by US could benefit Putin",
+   "u": "https://www.newsday.com/news/nation/russia-ukraine-war-nato-us-zelenskyy-n54910",
+   "d": "2026-11-14",
+   "q": "newsday.com",
+   "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Ukraine Open Thread 2026 - 251 – Moon of Alabama",
+   "u": "https://www.moonofalabama.org/2026/11/ukraine-open-thread-2026-251.html/comment-page-2",
+   "d": "2026-11-14",
+   "q": "moonofalabama.org",
+   "type": "politik",
+   "c": "eu"
+  },
+  {
    "t": "How the Nvidia scandal lifted the curtain on a loophole that giving China access to US chips | Business",
    "u": "https://www.kten.com/news/business/how-the-nvidia-scandal-lifted-the-curtain-on-a-loophole-that-s-giving-china-access/article_e4b6e215-c378-52ac-a9c3-c83dcc324a38.html",
    "d": "2026-11-14",
@@ -396,6 +460,14 @@
    "c": null
   },
   {
+   "t": "Urlauber - Trick spart viel Geld : So kostet der Mietwagen weniger",
+   "u": "https://www.az-online.de/verbraucher/urlauber-trick-spart-viel-geld-so-kostet-der-mietwagen-weniger-zr-94590403.html",
+   "d": "2026-11-14",
+   "q": "az-online.de",
+   "type": "politik",
+   "c": null
+  },
+  {
    "t": "Retired banker loses ₹42L in 15 - day  digital arrest  | Rajkot News",
    "u": "https://timesofindia.indiatimes.com/city/rajkot/retired-banker-loses-42l-in-15-day-digital-arrest/articleshow/135841352.cms",
    "d": "2026-11-14",
@@ -436,6 +508,14 @@
    "c": "na"
   },
   {
+   "t": "Crimson Desert Developer Doubles Down On AI Controversy",
+   "u": "https://gamerant.com/pearl-abyss-crimson-desert-ai-development/",
+   "d": "2026-11-14",
+   "q": "gamerant.com",
+   "type": "energie",
+   "c": null
+  },
+  {
    "t": "Protesters urge united kingdom to impose sanctions on Israel over Gaza genocide - Shafaqna English",
    "u": "https://en.shafaqna.com/491991/protesters-urge-uk-to-impose-sanctions-on-israel-over-gaza-genocide/",
    "d": "2026-11-14",
@@ -474,14 +554,6 @@
    "q": "bakersfieldnow.com",
    "type": "logistik",
    "c": "as"
-  },
-  {
-   "t": "Urlauber - Trick spart viel Geld : So kostet der Mietwagen weniger",
-   "u": "http://www.op-online.de/verbraucher/urlauber-trick-spart-viel-geld-so-kostet-der-mietwagen-weniger-zr-94590403.html",
-   "d": "2026-11-14",
-   "q": "op-online.de",
-   "type": "politik",
-   "c": null
   },
   {
    "t": "Handpuppen - Ausstellung in Hanau zeigt Set von Arnold Böcklins Sohn aus dem Jahr 1911",
