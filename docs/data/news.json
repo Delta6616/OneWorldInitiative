@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-17T20:53:18Z",
+ "stand": "2026-11-17T21:53:49Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -40,6 +40,14 @@
    "u": "https://www.radiohamburg.de/aktuelles/hamburg/Erstes-Gas-soll-in-Stader-LNG-Terminal-flie%C3%9Fen-id1758186.html",
    "d": "2026-11-16",
    "q": "radiohamburg.de",
+   "type": "energie",
+   "c": null
+  },
+  {
+   "t": "WPI Inflation Rises to 12 . 29 % in October on Costlier Food , Fuel",
+   "u": "https://www.oneindia.com/india/wpi-inflation-rises-to-12-29-in-october-on-costlier-food-fuel-8260795.html",
+   "d": "2026-11-16",
+   "q": "oneindia.com",
    "type": "energie",
    "c": null
   },
@@ -148,6 +156,14 @@
    "c": null
   },
   {
+   "t": "Almanac for Nov . 16 , 2026 - Daily Press",
+   "u": "https://www.dailypress.net/opinion/local-columns/2026/11/almanac-for-nov-16-2026/",
+   "d": "2026-11-16",
+   "q": "dailypress.net",
+   "type": "energie",
+   "c": null
+  },
+  {
    "t": "Silver prices crash by Rs 7 , 000 ; dollar strength , rate hike prospects weigh",
    "u": "https://www.businesstoday.in/personal-finance/news/story/silver-prices-crash-by-rs-7000-dollar-strength-rate-hike-prospects-weigh-567625-2026-11-16",
    "d": "2026-11-16",
@@ -164,10 +180,10 @@
    "c": null
   },
   {
-   "t": "Kvasir and Crossbridge Partner on Low - Carbon Marine Fuels Ship & Bunker",
-   "u": "https://shipandbunker.com/news/world/409230-kvasir-and-crossbridge-partner-on-low-carbon-marine-fuels",
+   "t": "Defence stock : Astra Microwave shares rise 2 %; Jefferies sees 21 % upside ; here why",
+   "u": "https://www.businesstoday.in/markets/stocks/story/defence-stock-astra-microwave-shares-rise-2-jefferies-sees-21-upside-heres-why-567563-2026-11-16",
    "d": "2026-11-16",
-   "q": "shipandbunker.com",
+   "q": "businesstoday.in",
    "type": "energie",
    "c": null
   },
@@ -176,7 +192,7 @@
    "u": "https://shipandbunker.com/news/emea/557303-uk-sanctions-slavneft-and-vessels-in-new-russia-measures",
    "d": "2026-11-16",
    "q": "shipandbunker.com",
-   "type": "energie",
+   "type": "politik",
    "c": "eu"
   },
   {
@@ -186,6 +202,14 @@
    "q": "shipandbunker.com",
    "type": "logistik",
    "c": "af"
+  },
+  {
+   "t": "Singapore tops world maritime city rankings for seventh straight time",
+   "u": "https://sbr.com.sg/news/singapore-tops-world-maritime-city-rankings-seventh-straight-time",
+   "d": "2026-11-16",
+   "q": "sbr.com.sg",
+   "type": "logistik",
+   "c": "as"
   },
   {
    "t": "China Turns to Iraqi Oil as U . S . Blockade Chokes Iranian Supply",
@@ -220,20 +244,20 @@
    "c": "as"
   },
   {
+   "t": "APEC Reviews China Trade Framework Before Shenzhen Leader Meeting",
+   "u": "https://econotimes.com/APEC-Reviews-China-s-Trade-Framework-Before-Shenzhen-Leaders-Meeting-1777507",
+   "d": "2026-11-16",
+   "q": "econotimes.com",
+   "type": "logistik",
+   "c": "as"
+  },
+  {
    "t": "BOJ Takata calls for early rate hikes to curb inflation risks",
    "u": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/bojs-takata-calls-for-early-rate-hikes-to-curb-inflation-risks/articleshow/135876217.cms",
    "d": "2026-11-16",
    "q": "economictimes.indiatimes.com",
    "type": "finanz",
    "c": null
-  },
-  {
-   "t": "Ukraine War , Day 1 , 726 : Zelensky - We Have Neutralized 55 % of Russia Refineries",
-   "u": "https://eaworldview.com/2026/11/ukraine-war-russia-refineries-zelensky-we-have-neutralized-55-percent/",
-   "d": "2026-11-16",
-   "q": "eaworldview.com",
-   "type": "energie",
-   "c": "eu"
   },
   {
    "t": "Africa : AS FAR Make History With Third African Women Title After Beating Sundowns in Final",
@@ -337,6 +361,14 @@
    "d": "2026-11-15",
    "q": "business-standard.com",
    "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Waitrose strikes deal to transform huge Bristol site",
+   "u": "https://www.bristolpost.co.uk/news/business/waitrose-strikes-deal-transform-huge-11239179",
+   "d": "2026-11-15",
+   "q": "bristolpost.co.uk",
+   "type": "logistik",
    "c": null
   },
   {
