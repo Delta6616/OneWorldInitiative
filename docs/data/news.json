@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-17T20:03:42Z",
+ "stand": "2026-11-17T20:53:18Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -138,6 +138,14 @@
    "q": "finanzen.net",
    "type": "energie",
    "c": "eu"
+  },
+  {
+   "t": "Auslegung eines Aktivkühlers bei festgelegtem Boarddesign",
+   "u": "https://www.elektronikpraxis.de/auslegung-eines-aktivkuehlers-bei-festgelegtem-boarddesign-a-1145645bc04ea5bb7e3b69965a305d20/",
+   "d": "2026-11-16",
+   "q": "elektronikpraxis.de",
+   "type": "rohstoffe",
+   "c": null
   },
   {
    "t": "Silver prices crash by Rs 7 , 000 ; dollar strength , rate hike prospects weigh",
