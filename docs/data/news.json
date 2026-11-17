@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-17T18:58:39Z",
+ "stand": "2026-11-17T20:03:42Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -52,11 +52,35 @@
    "c": null
   },
   {
+   "t": "AI startup Zelmier . com cuts discovery & bidding of government tenders to minutes",
+   "u": "https://www.livemint.com/companies/start-ups/ai-startup-zelmier-com-cuts-discovery-bidding-of-government-tenders-to-minutes-11794805216212.html",
+   "d": "2026-11-16",
+   "q": "livemint.com",
+   "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "SpaceX launch : After Starship spectacular midair catch , Musk firm to launch Falcon 9 on Thursday",
+   "u": "https://www.livemint.com/companies/news/spacex-launch-after-starship-s-spectacular-midair-catch-musk-s-firm-to-launch-falcon-9-on-thursday-11794808344348.html",
+   "d": "2026-11-16",
+   "q": "livemint.com",
+   "type": "finanz",
+   "c": null
+  },
+  {
    "t": "Heating Allowance : What data you need for applications",
    "u": "https://www.keeptalkinggreece.com/2026/11/11/heating-allowance-online-application-data-needed/",
    "d": "2026-11-16",
    "q": "keeptalkinggreece.com",
    "type": "energie",
+   "c": null
+  },
+  {
+   "t": "SCGJWD Strengthens Its Position as a Leading Integrated Logistics Provider in ASEAN Through Strategic Freight Forwarding Partnership with Triple i",
+   "u": "https://www.jcnnewswire.com/pressrelease/111596/2/SCGJWD-Strengthens-Its-Position-as-a-Leading-Integrated-Logistics-Provider-in-ASEAN-Through-Strategi",
+   "d": "2026-11-16",
+   "q": "jcnnewswire.com",
+   "type": "logistik",
    "c": null
   },
   {
@@ -300,6 +324,14 @@
    "c": null
   },
   {
+   "t": "From bicycle parts to satellites : Inside Sunil Mittal 50 - year journey",
+   "u": "https://www.business-standard.com/companies/people/from-bicycle-parts-to-satellites-inside-sunil-mittal-s-50-year-journey-126111500180_1.html",
+   "d": "2026-11-15",
+   "q": "business-standard.com",
+   "type": "politik",
+   "c": null
+  },
+  {
    "t": "The world is facing a new credit crunch",
    "u": "https://www.aol.com/articles/world-facing-credit-crunch-060000000.html",
    "d": "2026-11-15",
@@ -337,6 +369,14 @@
    "d": "2026-11-14",
    "q": "wtvr.com",
    "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "With shifting Iran rhetoric , Trump leaves Mideast in limbo",
+   "u": "https://www.wisn.com/article/iran-rhetoric-elections-trump-mideast-limbo/74431136",
+   "d": "2026-11-14",
+   "q": "wisn.com",
+   "type": "logistik",
    "c": null
   },
   {
@@ -401,6 +441,14 @@
    "d": "2026-11-14",
    "q": "newsday.com",
    "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Bank of Baroda raises rates on 555 - day  bob Golden Goal  deposit by 10 bps | MorungExpress",
+   "u": "https://www.morungexpress.com/bank-of-baroda-raises-rates-on-555-day-bob-golden-goal-deposit-by-10-bps",
+   "d": "2026-11-14",
+   "q": "morungexpress.com",
+   "type": "finanz",
    "c": null
   },
   {
