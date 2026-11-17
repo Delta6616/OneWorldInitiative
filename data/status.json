@@ -16,21 +16,19 @@
   "fehler": "1=1/arcgis/Layer0: {'code': 499, 'message': 'Token Required', 'm ## 1=1/ArcGIS/Layer0: {'code': 499, 'message': 'Token Required', 'm ## year >= 2026/arcgis/Layer0: {'code': 499, 'message': 'Token Required', 'm ## year >= 2026/ArcGIS/Layer0: {'code': 499, 'message': 'Token Required', 'm ## year >= 2026/arcgis/Layer0: {'code': 499, 'message': 'Token Required', 'm ## year >= 2026/ArcGIS/Layer0: {'code': 499, 'message': 'Token Required', 'm ## date >= TIMESTAMP '2026-10-29 00:00:00'/arcgis/Layer0: {'code': 499, 'message': 'Token Required', 'm ## date >= TIMESTAMP '2026-10-29 00:00:00'/ArcGIS/Layer0: {'code': 499, 'message': 'Token Required', 'm ## CSV portwatch.imf.org: Abruf fehlgeschlagen: HTTP Error 403: Forbidden ## CSV www.arcgis.com: Abruf fehlgeschlagen: HTTP Error 403: Forbidden ## Keine Handdatei data/manual/portwatch.csv vorhanden"
  },
  "gdelt": {
-  "ok": false,
-  "zeit": "2026-11-17T05:57:39Z",
+  "ok": true,
+  "zeit": "2026-11-17T07:12:03Z",
   "neu_oder_geaendert": 0,
   "zeilen_gesamt": 1032,
   "warnungen": [
-   "energie/english: HTTP 429",
+   "logistik/english: HTTP 429",
    "finanz/english: HTTP 429",
-   "politik/english: HTTP 429",
    "rohstoffe/english: HTTP 429",
+   "logistik/german: HTTP 429",
    "energie/german: HTTP 429",
    "politik/german: HTTP 429",
    "rohstoffe/german: HTTP 429"
-  ],
-  "letzter_versuch": "2026-11-17T06:44:01Z",
-  "fehler": "GDELT lieferte keine Artikel. logistik/english: HTTP 429 | energie/english: HTTP 429 | finanz/english: HTTP 429 | politik/english: HTTP 429 | rohstoffe/english: HTTP 429 | logistik/german: HTTP 429 | energie/german: HTTP 429 | finanz/german: HTTP 429 | politik/german: HTTP 429 | rohstoffe/german: HTTP 429"
+  ]
  },
  "rohstoffe": {
   "ok": false,
