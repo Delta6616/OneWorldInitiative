@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-17T21:53:49Z",
+ "stand": "2026-11-17T22:54:56Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -116,6 +116,14 @@
    "c": "na"
   },
   {
+   "t": "US flight cancellations top 17 , 000 in worst tech - related outage",
+   "u": "https://www.freemalaysiatoday.com/category/business/2026/11/16/us-flight-cancellations-top-17-000-in-worst-tech-related-outage",
+   "d": "2026-11-16",
+   "q": "freemalaysiatoday.com",
+   "type": "rohstoffe",
+   "c": "na"
+  },
+  {
    "t": "CLOs : Resilient in einem sich verändernden Zinsumfeld",
    "u": "https://www.finews.ch/service/advertorials/74419-janus-henderson-clos-resilient-in-einem-sich-veraendernden-zinsumfeld",
    "d": "2026-11-16",
@@ -188,6 +196,22 @@
    "c": null
   },
   {
+   "t": "U . S . Trade negotiators still insisting on market access in Indian Agri - Foods sector",
+   "u": "https://thenorthlines.com/u-s-trade-negotiators-still-insisting-on-market-access-in-indian-agri-foods-sector/",
+   "d": "2026-11-16",
+   "q": "thenorthlines.com",
+   "type": "politik",
+   "c": "as"
+  },
+  {
+   "t": "L3Harris Router Blamed for Major US Aviation Shutdown Affecting 20 , 000 Flights , ETTelecom",
+   "u": "https://telecom.economictimes.indiatimes.com/news/telecom-equipment/us-aviation-shutdown-blamed-on-l3-harris-installed-router/135870972",
+   "d": "2026-11-16",
+   "q": "telecom.economictimes.indiatimes.com",
+   "type": "rohstoffe",
+   "c": "na"
+  },
+  {
    "t": "UK Sanctions Slavneft and Vessels in New Russia Measures Ship & Bunker",
    "u": "https://shipandbunker.com/news/emea/557303-uk-sanctions-slavneft-and-vessels-in-new-russia-measures",
    "d": "2026-11-16",
@@ -224,6 +248,14 @@
    "u": "https://nbcmontana.com/news/local/sen-elect-kurt-alme-outlines-priorities-for-montana",
    "d": "2026-11-16",
    "q": "nbcmontana.com",
+   "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Black Friday tech deals : Three things to check before upgrading your home",
+   "u": "https://it-online.co.za/2026/11/16/black-friday-tech-deals-three-things-to-check-before-upgrading-your-home/",
+   "d": "2026-11-16",
+   "q": "it-online.co.za",
    "type": "politik",
    "c": null
   },
@@ -268,6 +300,14 @@
    "c": "af"
   },
   {
+   "t": "Airlines Still Playing Catch - Up After FAA Ground Stop | NewsRadio 1450 / 1370 WKIP",
+   "u": "https://1450wkip.iheart.com/content/2026-11-16-airlines-still-playing-catch-up-after-faa-ground-stop/",
+   "d": "2026-11-16",
+   "q": "1450wkip.iheart.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
    "t": "Technik - Panne in den united states : Weiter Tausende Flüge gestrichen",
    "u": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/panorama_nt/article6af95a7a4495f9bd85b807a2/technik-panne-in-den-usa-weiter-tausende-fluege-gestrichen.html",
    "d": "2026-11-15",
@@ -292,12 +332,28 @@
    "c": "as"
   },
   {
+   "t": "17th Agrovision to focus on water mgmt , crop planning",
+   "u": "https://www.thehitavada.com/Encyc/2026/11/15/17th-agrovision-to-focus-on-water-mgmt-crop-planning.html",
+   "d": "2026-11-15",
+   "q": "thehitavada.com",
+   "type": "rohstoffe",
+   "c": "na"
+  },
+  {
    "t": "ONGC takes charge of Cambay block as Vedanta records ₹379 crore impairment",
    "u": "https://www.thehindubusinessline.com/companies/ongc-takes-charge-of-cambay-block-as-vedanta-records-379-crore-impairment/article71704266.ece",
    "d": "2026-11-15",
    "q": "thehindubusinessline.com",
    "type": "energie",
    "c": null
+  },
+  {
+   "t": "Motherson eyes bigger India play with global technologies amid auto sector shift",
+   "u": "https://www.thehindubusinessline.com/companies/motherson-eyes-bigger-india-play-with-global-technologies-amid-auto-sector-shift/article71704177.ece",
+   "d": "2026-11-15",
+   "q": "thehindubusinessline.com",
+   "type": "rohstoffe",
+   "c": "as"
   },
   {
    "t": "Sirens sound in Bahrain as Iran Guards claim drone attack",
@@ -364,6 +420,14 @@
    "c": null
   },
   {
+   "t": "Motherson eyes bigger India play with global technologies to drive growth",
+   "u": "https://www.business-standard.com/companies/news/motherson-eyes-bigger-india-play-with-global-technologies-to-drive-growth-126111500169_1.html",
+   "d": "2026-11-15",
+   "q": "business-standard.com",
+   "type": "rohstoffe",
+   "c": "as"
+  },
+  {
    "t": "Waitrose strikes deal to transform huge Bristol site",
    "u": "https://www.bristolpost.co.uk/news/business/waitrose-strikes-deal-transform-huge-11239179",
    "d": "2026-11-15",
@@ -372,11 +436,27 @@
    "c": null
   },
   {
+   "t": "Dorset developed county - wide climate adaptation strategy",
+   "u": "https://www.bournemouthecho.co.uk/news/26727487.dorset-developed-county-wide-climate-adaptation-strategy/",
+   "d": "2026-11-15",
+   "q": "bournemouthecho.co.uk",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
    "t": "The world is facing a new credit crunch",
    "u": "https://www.aol.com/articles/world-facing-credit-crunch-060000000.html",
    "d": "2026-11-15",
    "q": "aol.com",
    "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "Two injured after UPS and Copa Airlines planes collide on Miami International Airport taxiway",
+   "u": "https://gulfnews.com/business/aviation/ups-and-copa-airlines-planes-collide-at-miami-international-airport-1.500747874",
+   "d": "2026-11-15",
+   "q": "gulfnews.com",
+   "type": "rohstoffe",
    "c": null
   },
   {
