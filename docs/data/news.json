@@ -1,8 +1,48 @@
 {
- "stand": "2026-11-18T03:55:50Z",
+ "stand": "2026-11-18T05:01:06Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "China Expand Tariff Relief as Carney Meets Xi",
+   "u": "https://www.khaama.com/canada-and-china-expand-tariff-relief-as-carney-and-xi-deepen-partnership-despite-u-s-pressure/",
+   "d": "2026-11-18",
+   "q": "khaama.com",
+   "type": "politik",
+   "c": "as"
+  },
+  {
+   "t": "Dominic LeBlanc fields questions about trade negotiations",
+   "u": "https://www.bnnbloomberg.ca/tariffs/2026/11/17/leblanc-fields-questions-about-trade-negotiations-with-trump-administration/",
+   "d": "2026-11-18",
+   "q": "bnnbloomberg.ca",
+   "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Nvidia forecasts Q4 revenue above Wall Street estimates",
+   "u": "https://www.bnnbloomberg.ca/business/company-news/2026/11/17/nvidia-forecasts-quarterly-revenue-above-estimates-in-first-report-since-huangs-exit-as-ceo/",
+   "d": "2026-11-18",
+   "q": "bnnbloomberg.ca",
+   "type": "politik",
+   "c": "na"
+  },
+  {
+   "t": "Jensen Huang signals interest in return to role as Nvidia CEO",
+   "u": "https://www.bnnbloomberg.ca/business/2026/11/17/nvidia-chairman-says-board-does-not-intend-to-reinstate-jensen-huang-as-ceo/",
+   "d": "2026-11-18",
+   "q": "bnnbloomberg.ca",
+   "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Australia sanctions Israeli settlers , organisations over West Bank expansion",
+   "u": "https://www.al-monitor.com/originals/2026/11/australia-sanctions-israeli-settlers-organisations-over-west-bank-expansion",
+   "d": "2026-11-18",
+   "q": "al-monitor.com",
+   "type": "politik",
+   "c": null
+  },
   {
    "t": "Agrana präsentiert neuen Markenauftritt auf der Fi Europe",
    "u": "https://medianet.at/news/retail/agrana-praesentiert-neuen-markenauftritt-auf-der-fi-europe-78741.html",
@@ -10,6 +50,14 @@
    "q": "medianet.at",
    "type": "rohstoffe",
    "c": "eu"
+  },
+  {
+   "t": "Ontario Premier Doug Ford touts stronger ties with Quebec in Montreal speech",
+   "u": "https://globalnews.ca/news/12155086/ontario-doug-ford-quebec-montreal-speech/",
+   "d": "2026-11-18",
+   "q": "globalnews.ca",
+   "type": "politik",
+   "c": null
   },
   {
    "t": "Industrie verbraucht deutlich weniger Energie",
