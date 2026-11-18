@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-18T17:03:32Z",
+ "stand": "2026-11-18T17:57:01Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -26,6 +26,14 @@
    "q": "kwit.org",
    "type": "logistik",
    "c": "as"
+  },
+  {
+   "t": "Daten - Leak : Deutsche Bank muss Neuanfang beweisen",
+   "u": "https://www.ksta.de:443/wirtschaft/deutsche-bank-neues-daten-leak-belastet-das-vertrauen-1419812",
+   "d": "2026-11-18",
+   "q": "ksta.de:443",
+   "type": "finanz",
+   "c": null
   },
   {
    "t": "China Expand Tariff Relief as Carney Meets Xi",
@@ -58,6 +66,22 @@
    "q": "fool.com",
    "type": "energie",
    "c": null
+  },
+  {
+   "t": "MÄRKTE EUROPA / Schwach trotz guter Nvidia - Zahlen - Zurückhaltung vor Anthropic - IPO",
+   "u": "https://www.finanzen.ch/nachrichten/aktien/maerkte-europa-schwach-trotz-guter-nvidia-zahlen-zurueckhaltung-vor-anthropic-ipo-1036779930",
+   "d": "2026-11-18",
+   "q": "finanzen.ch",
+   "type": "energie",
+   "c": "eu"
+  },
+  {
+   "t": "DAX - Schluss : Schwache Wall Street drückt Leitindex unter 26 . 000 Punkte",
+   "u": "https://www.deraktionaer.de/artikel/maerkte-forex-zinsen/dax-schluss-schwache-wall-street-drueckt-leitindex-unter-26000-punkte-20445922.html",
+   "d": "2026-11-18",
+   "q": "deraktionaer.de",
+   "type": "finanz",
+   "c": "na"
   },
   {
    "t": "Venture Global and China Gas Announce Increased Long - Term LNG Agreement",
