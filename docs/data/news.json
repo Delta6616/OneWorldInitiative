@@ -1,8 +1,16 @@
 {
- "stand": "2026-11-18T01:09:32Z",
+ "stand": "2026-11-18T02:20:56Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Agrana präsentiert neuen Markenauftritt auf der Fi Europe",
+   "u": "https://medianet.at/news/retail/agrana-praesentiert-neuen-markenauftritt-auf-der-fi-europe-78741.html",
+   "d": "2026-11-18",
+   "q": "medianet.at",
+   "type": "rohstoffe",
+   "c": "eu"
+  },
   {
    "t": "Industrie verbraucht deutlich weniger Energie",
    "u": "https://www.weser-kurier.de/wirtschaft/industrie-verbraucht-deutlich-weniger-energie-doc88ht8xf0hhv1k6w8bau6",
@@ -390,6 +398,14 @@
   {
    "t": "Jobcenter : Wann Bürgergeld und Grundsicherung gekürzt werden",
    "u": "https://www.merkur.de/verbraucher/jobcenter-wann-buergergeld-und-grundsicherung-gekuerzt-werden-zr-94590476.html",
+   "d": "2026-11-15",
+   "q": "merkur.de",
+   "type": "politik",
+   "c": null
+  },
+  {
+   "t": "SPD - Machtkampf : Wer nach Heils Bewerbung zu Klingbeil hält",
+   "u": "https://www.merkur.de/politik/spd-machtkampf-wer-nach-heils-bewerbung-zu-klingbeil-haelt-zr-94590515.html",
    "d": "2026-11-15",
    "q": "merkur.de",
    "type": "politik",
