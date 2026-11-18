@@ -1,8 +1,32 @@
 {
- "stand": "2026-11-18T15:59:12Z",
+ "stand": "2026-11-18T17:03:32Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "What tech CEOs are saying about the saga around Jensen Huang exit from Nvidia :: WRAL . com",
+   "u": "https://www.wral.com/news/ap/06331-what-tech-ceos-are-saying-about-the-saga-around-jensen-huang-s-exit-from-nvidia/",
+   "d": "2026-11-18",
+   "q": "wral.com",
+   "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Two - month lull ends with another Iranian strike in Bahrain , and US retaliation",
+   "u": "https://www.wiltsglosstandard.co.uk/news/national/26736144.two-month-lull-ends-another-iranian-strike-bahrain-us-retaliation/",
+   "d": "2026-11-18",
+   "q": "wiltsglosstandard.co.uk",
+   "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "Iran launches a third round of strikes on Bahrain , host of U . S . Navy 5th Fleet",
+   "u": "https://www.kwit.org/2026-11-17/iran-launches-a-third-round-of-strikes-on-bahrain-host-of-u-s-navys-5th-fleet",
+   "d": "2026-11-18",
+   "q": "kwit.org",
+   "type": "logistik",
+   "c": "as"
+  },
   {
    "t": "China Expand Tariff Relief as Carney Meets Xi",
    "u": "https://www.khaama.com/canada-and-china-expand-tariff-relief-as-carney-and-xi-deepen-partnership-despite-u-s-pressure/",
