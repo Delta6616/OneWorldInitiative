@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-18T05:01:06Z",
+ "stand": "2026-11-18T06:02:45Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -41,6 +41,14 @@
    "d": "2026-11-18",
    "q": "al-monitor.com",
    "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Weihnachtspostamt in der Wiener Stadthalle eröffnet",
+   "u": "https://medianet.at/news/retail/weihnachtspostamt-in-der-wiener-stadthalle-eroeffnet-78738.html",
+   "d": "2026-11-18",
+   "q": "medianet.at",
+   "type": "logistik",
    "c": null
   },
   {
