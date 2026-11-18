@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-17T23:51:30Z",
+ "stand": "2026-11-18T01:09:32Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -90,6 +90,22 @@
    "q": "jcnnewswire.com",
    "type": "logistik",
    "c": null
+  },
+  {
+   "t": "KOSPI Plunges 3 . 6 % as South Korean Stocks Shed 190 Points , Sliding to 5 , 100 in a Brutal Session for Seoul",
+   "u": "https://www.ibtimes.com.au/south-korea-kospi-falls-chip-stocks-asian-selloff-1878668",
+   "d": "2026-11-16",
+   "q": "ibtimes.com.au",
+   "type": "finanz",
+   "c": "as"
+  },
+  {
+   "t": "Nikkei 225 Tumbles 2 . 4 % Below 60 , 000 Mark as Japanese Stocks Lose Nearly 1 , 500 Points in Sharp Monday Selloff",
+   "u": "https://www.ibtimes.com.au/nikkei-225-falls-below-60000-asian-markets-slide-1878666",
+   "d": "2026-11-16",
+   "q": "ibtimes.com.au",
+   "type": "finanz",
+   "c": "as"
   },
   {
    "t": "Meridian Energy Shares Jump Nearly 6 % on ASX , Leading Gainers as Kiwi Power Giant Bucks a Soft Monday Market",
@@ -252,6 +268,14 @@
    "c": null
   },
   {
+   "t": "Kenya Central Bank and CMA Roll Out Licensing Regime for Crypto Firms",
+   "u": "https://kenya-today.com/report-kenyas-central-bank-and-cma-roll-out-licensing-regime-for-crypto-firms-27728/",
+   "d": "2026-11-16",
+   "q": "kenya-today.com",
+   "type": "finanz",
+   "c": "af"
+  },
+  {
    "t": "Black Friday tech deals : Three things to check before upgrading your home",
    "u": "https://it-online.co.za/2026/11/16/black-friday-tech-deals-three-things-to-check-before-upgrading-your-home/",
    "d": "2026-11-16",
@@ -282,14 +306,6 @@
    "q": "econotimes.com",
    "type": "logistik",
    "c": "as"
-  },
-  {
-   "t": "BOJ Takata calls for early rate hikes to curb inflation risks",
-   "u": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/bojs-takata-calls-for-early-rate-hikes-to-curb-inflation-risks/articleshow/135876217.cms",
-   "d": "2026-11-16",
-   "q": "economictimes.indiatimes.com",
-   "type": "finanz",
-   "c": null
   },
   {
    "t": "Africa : AS FAR Make History With Third African Women Title After Beating Sundowns in Final",
@@ -1002,406 +1018,6 @@
    "q": "sitkasentinel.com",
    "type": "politik",
    "c": "na"
-  },
-  {
-   "t": "Gas prices fall below $4 as more oil flows , but experts warn relief may not last",
-   "u": "https://www.wxyz.com/science-and-tech/energy/gas-prices-fall-below-4-as-more-oil-flows-but-experts-warn-relief-may-not-last",
-   "d": "2026-11-12",
-   "q": "wxyz.com",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Trotz Trockenheit – Fischereien erwarten stabile Preise",
-   "u": "https://www.welt.de/regionales/sachsen-anhalt/article6af52cca50175c81de7a2461/trotz-trockenheit-fischereien-erwarten-stabile-preise.html",
-   "d": "2026-11-12",
-   "q": "welt.de",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Greenpeace will gegen Bayerns Klimagesetz klagen",
-   "u": "https://www.welt.de/regionales/bayern/article6af52cca50175c81de7a2454/greenpeace-will-gegen-bayerns-klimagesetz-klagen.html",
-   "d": "2026-11-12",
-   "q": "welt.de",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Iran droht mit Angriffen auf US - Stützpunkte auch in Europa",
-   "u": "https://www.wallstreet-online.de/nachricht/21678753-iran-droht-angriffen-us-stuetzpunkte-europa",
-   "d": "2026-11-12",
-   "q": "wallstreet-online.de",
-   "type": "logistik",
-   "c": null
-  },
-  {
-   "t": "Warnung an united states : Iran droht mit Angriffen auf US - Stützpunkte auch in Europa",
-   "u": "https://www.volksstimme.de/deutschland-und-welt/politik/iran-droht-mit-angriffen-auf-us-stutzpunkte-auch-in-europa-4354764",
-   "d": "2026-11-12",
-   "q": "volksstimme.de",
-   "type": "logistik",
-   "c": "na"
-  },
-  {
-   "t": "KazTransOil transports 15 . 5 million tonnes of oil to Kazakh refineries in 10M2026",
-   "u": "https://www.trend.az/casia/kazakhstan/4245482.html",
-   "d": "2026-11-12",
-   "q": "trend.az",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "UFOP prognostiziert stabilen Winterrapsanbau zur Ernte 2027",
-   "u": "https://www.topagrar.com/acker/news/ufop-prognostiziert-stabilen-winterrapsanbau-20031097.html",
-   "d": "2026-11-12",
-   "q": "topagrar.com",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Körnermais : Landwirte planen eher einen Flächenzuwachs",
-   "u": "https://www.topagrar.com/acker/news/kornermais-eher-flachenzuwachs-geplant-20031056.html",
-   "d": "2026-11-12",
-   "q": "topagrar.com",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "As higher prices seep into broader economy , Fed considers faster hikes",
-   "u": "https://www.timescall.com/2026/11/11/higher-prices-fed-rate-hikes/",
-   "d": "2026-11-12",
-   "q": "timescall.com",
-   "type": "finanz",
-   "c": "na"
-  },
-  {
-   "t": "Huang – the last tycoon standing on US - China ties",
-   "u": "https://www.thestar.com.my/business/insight/2026/11/12/huang---the-last-tycoon-standing-on-us-china-ties",
-   "d": "2026-11-12",
-   "q": "thestar.com.my",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "Indonesia rupiah drops to record low on strong dollar , MSCI woes",
-   "u": "https://www.thestar.com.my/business/business-news/2026/11/12/indonesia-rupiah-drops-to-record-low-on-strong-dollar-msci-woes",
-   "d": "2026-11-12",
-   "q": "thestar.com.my",
-   "type": "finanz",
-   "c": "as"
-  },
-  {
-   "t": "Russian wheat export delays give Australian growers an edge | The Land",
-   "u": "https://www.theland.com.au/story/9389229/russian-wheat-export-delays-give-australian-growers-an-edge/",
-   "d": "2026-11-12",
-   "q": "theland.com.au",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Military - linked Chinese university bought Nvidia H200 chips despite US blacklist , records show",
-   "u": "https://www.thehindu.com/sci-tech/technology/military-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-records-show/article71692215.ece",
-   "d": "2026-11-12",
-   "q": "thehindu.com",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "MLA , farmers protest Centre  failure to release drought relief  in Karnataka",
-   "u": "https://www.thehindu.com/news/national/karnataka/mla-farmers-protest-centres-failure-to-release-drought-relief-in-karnataka/article71690011.ece",
-   "d": "2026-11-12",
-   "q": "thehindu.com",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Oil slicks seen from space : the devastating impact of boat strikes on fragile Gulf ecosystems",
-   "u": "https://www.theguardian.com/world/2026/nov/12/oil-slicks-seen-from-space-the-devastating-impact-of-boat-strikes-on-fragile-gulf-ecosystems",
-   "d": "2026-11-12",
-   "q": "theguardian.com",
-   "type": "logistik",
-   "c": "as"
-  },
-  {
-   "t": "LNG opportunities abound in Canada , but also challenges , study finds",
-   "u": "https://www.theglobeandmail.com/business/article-lng-opportunities-abound-in-canada-but-also-challenges-study-finds/",
-   "d": "2026-11-12",
-   "q": "theglobeandmail.com",
-   "type": "energie",
-   "c": "na"
-  },
-  {
-   "t": "As Geopolitical Realities Shift , Trump Power to Shape Events Recedes",
-   "u": "https://www.theamericanconservative.com/as-geopolitical-realities-shift-trumps-power-to-shape-events-recedes/",
-   "d": "2026-11-12",
-   "q": "theamericanconservative.com",
-   "type": "politik",
-   "c": "na"
-  },
-  {
-   "t": "Israel : Angriff auf Spital in Gaza galt Hamas",
-   "u": "https://www.tagesanzeiger.ch/nahost-ticker-iran-israel-usa-jemen-33-872658086267",
-   "d": "2026-11-12",
-   "q": "tagesanzeiger.ch",
-   "type": "logistik",
-   "c": "as"
-  },
-  {
-   "t": "Neues Heizungsgesetz : Gasetagenheizung tauschen – diese Regeln gelten",
-   "u": "https://www.t-online.de/heim-garten/energie/id_100929522/neues-heizungsgesetz-gasetagenheizung-tauschen-diese-regeln-gelten.html",
-   "d": "2026-11-12",
-   "q": "t-online.de",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Kreuzfahrt : Wenn das Schiff kollidiert , die Route ändert oder Passagiere rausfliegen",
-   "u": "https://www.sueddeutsche.de/reise/kreuzfahrt-kreuzfahrtschiffe-urlaub-reise-glosse-li.3573151",
-   "d": "2026-11-12",
-   "q": "sueddeutsche.de",
-   "type": "logistik",
-   "c": null
-  },
-  {
-   "t": "Russian wheat export delays give Australian growers an edge | Stock & Land",
-   "u": "https://www.stockandland.com.au/story/9389229/russian-wheat-export-delays-give-australian-growers-an-edge/",
-   "d": "2026-11-12",
-   "q": "stockandland.com.au",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Internet - Tarife : Erst „ fette  Rabatte , dann vielfache Kosten",
-   "u": "https://www.shz.de/deutschland-welt/wirtschaft/artikel/internet-tarife-erst-fette-rabatte-dann-vielfache-kosten-51736547",
-   "d": "2026-11-12",
-   "q": "shz.de",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "Egypt Regions and Provinces Explained",
-   "u": "https://www.riotimesonline.com/egypt-regions-provinces-explained-2026/",
-   "d": "2026-11-12",
-   "q": "riotimesonline.com",
-   "type": "logistik",
-   "c": "af"
-  },
-  {
-   "t": "Internet - Tarife : Erst « fette » Rabatte , dann vielfache Kosten - Multimedia",
-   "u": "https://www.rheinpfalz.de/ratgeber/multimedia_artikel,-internet-tarife-erst-fette-rabatte-dann-vielfache-kosten-_arid,5947677.html",
-   "d": "2026-11-12",
-   "q": "rheinpfalz.de",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "Total breakdown : Expert gobsmacked as Trump Cabinet faces mutiny",
-   "u": "https://www.rawstory.com/total-breakdown-expert-gobsmacked-as-trump-cabinet-faces-mutiny/",
-   "d": "2026-11-12",
-   "q": "rawstory.com",
-   "type": "politik",
-   "c": "na"
-  },
-  {
-   "t": "Adani Kutch Copper joins Codelco to explore key copper belt in Chile",
-   "u": "https://www.prokerala.com/news/articles/a1835725.html",
-   "d": "2026-11-12",
-   "q": "prokerala.com",
-   "type": "rohstoffe",
-   "c": "sa"
-  },
-  {
-   "t": "Armada und Johnson Controls eröffnen Galleon Forge Two in Dublin und bringen damit die Produktion souveräner KI - Infrastruktur nach Europa",
-   "u": "https://www.prnewswire.com/news-releases/armada-und-johnson-controls-eroffnen-galleon-forge-two-in-dublin-und-bringen-damit-die-produktion-souveraner-ki-infrastruktur-nach-europa-302937418.html",
-   "d": "2026-11-12",
-   "q": "prnewswire.com",
-   "type": "logistik",
-   "c": "eu"
-  },
-  {
-   "t": "Philippines faces difficult mix of high inflation , sluggish growth â€  BSP",
-   "u": "https://www.philstar.com/business/2026/11/12/2569657/philippines-faces-difficult-mix-high-inflation-sluggish-growth-bsp",
-   "d": "2026-11-12",
-   "q": "philstar.com",
-   "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "Tankrabatt beschlossen : Wann werden Benzin und Diesel billiger ?",
-   "u": "https://www.nwzonline.de/politik/tankrabatt-beschlossen-wann-werden-benzin-und-diesel-billiger-PBBKVACHJFEK5OOBSKSILJKOBE.html",
-   "d": "2026-11-12",
-   "q": "nwzonline.de",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Stromversorgung aktuell : Gas , Kohle , Solar , Wind - so viel Strom wird heute erzeugt ( 12 . 11 . 2026 )",
-   "u": "https://www.nwzonline.de/politik/stromversorgung-aktuell-gas-kohle-solar-wind-so-viel-strom-wird-heute-erzeugt-12-11-2026-J7KSHFAGQBGMHE35WYMKNHOADA.html",
-   "d": "2026-11-12",
-   "q": "nwzonline.de",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Straße von Hormus aktuell : Live - Karte , Schiffe , Ölpreis am 12 . 11 . 2026",
-   "u": "https://www.nwzonline.de/politik/strasse-von-hormus-aktuell-live-karte-schiffe-oelpreis-am-12-11-2026-Z25QTFEN4RFCHM7NS5LPPJZW2A.html",
-   "d": "2026-11-12",
-   "q": "nwzonline.de",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Australian farmers blindsided by strict new grain dust limits | North Queensland Register",
-   "u": "https://www.northqueenslandregister.com.au/story/9389998/australian-farmers-blindsided-by-strict-new-grain-dust-limits/",
-   "d": "2026-11-12",
-   "q": "northqueenslandregister.com.au",
-   "type": "rohstoffe",
-   "c": "oc"
-  },
-  {
-   "t": "Russia Justifies Control of Japan Tobacco Assets",
-   "u": "https://www.nippon.com/en/articles/-/57304",
-   "d": "2026-11-12",
-   "q": "nippon.com",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "GTA 6 noch nicht vorbestellt ? Dann solltet ihr jetzt bei Lidl reinschauen",
-   "u": "https://www.netzwelt.de/schnaeppchen/260591-gta-6-noch-vorbestellt-dann-solltet-lidl-reinschauen.html",
-   "d": "2026-11-12",
-   "q": "netzwelt.de",
-   "type": "logistik",
-   "c": null
-  },
-  {
-   "t": "MediaMarkt senkt Segway - E - Scooter auf unter 300 Euro : Hier ist er noch günstiger",
-   "u": "https://www.netzwelt.de/schnaeppchen/260588-mediamarkt-senkt-segway-e-scooter-300-euro-noch-guenstiger.html",
-   "d": "2026-11-12",
-   "q": "netzwelt.de",
-   "type": "logistik",
-   "c": null
-  },
-  {
-   "t": "Dovish BOJ Member Urges Caution in Raising Rates Further",
-   "u": "https://www.morningstar.com/news/dow-jones/202611119702/dovish-boj-member-urges-caution-in-raising-rates-further",
-   "d": "2026-11-12",
-   "q": "morningstar.com",
-   "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "Jensen Huang controversy sends Chinese AI firms scrambling for Nvidia computing power overseas",
-   "u": "https://www.moneycontrol.com/news/business/jensen-huang-controversy-sends-chinese-ai-firms-scrambling-for-nvidia-computing-power-overseas-14078021.html",
-   "d": "2026-11-12",
-   "q": "moneycontrol.com",
-   "type": "politik",
-   "c": "as"
-  },
-  {
-   "t": "Rückgaben vorgetäuscht : Betrugsverdacht gegen Tankstellenmitarbeiter im Bezirk St . Veit",
-   "u": "https://www.meinbezirk.at/st-veit/c-lokales/betrugsverdacht-gegen-tankstellenmitarbeiter-im-bezirk-st-veit_a9007245",
-   "d": "2026-11-12",
-   "q": "meinbezirk.at",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "The Iran War is transforming liquefied natural gas deals",
-   "u": "https://www.marketplace.org/story/2026/11/11/the-iran-war-is-transforming-liquefied-natural-gas-deals",
-   "d": "2026-11-12",
-   "q": "marketplace.org",
-   "type": "energie",
-   "c": "as"
-  },
-  {
-   "t": "Strait of Hormuz Latest : Iran Vows Waterway Will Never Return to Pre - War Status as More Tankers Hit Mines",
-   "u": "https://www.ibtimes.com.au/iran-strait-hormuz-prewar-status-shipping-concerns-1878465",
-   "d": "2026-11-12",
-   "q": "ibtimes.com.au",
-   "type": "logistik",
-   "c": "as"
-  },
-  {
-   "t": "China Pledges Support for Cuba Days After US Sanctions",
-   "u": "https://www.hngn.com/articles/273798/20261111/china-pledges-support-cuba-days-after-us-sanctions.htm",
-   "d": "2026-11-12",
-   "q": "hngn.com",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "China central bank signals easing restraint as growth holds up",
-   "u": "https://www.hindustantimes.com/business/chinas-central-bank-signals-easing-restraint-as-growth-holds-up-101794462764183.html",
-   "d": "2026-11-12",
-   "q": "hindustantimes.com",
-   "type": "finanz",
-   "c": "as"
-  },
-  {
-   "t": "Vier Prozent auf Erspartes – Trade Republic zahlt vier Milliarden Euro an Zinsen aus",
-   "u": "https://www.heute.at/s/trade-republic-zahlt-vier-milliarden-euro-an-zinsen-aus-120280386",
-   "d": "2026-11-12",
-   "q": "heute.at",
-   "type": "finanz",
-   "c": "na"
-  },
-  {
-   "t": "Indonesian rupiah drops to record low on strong dollar , MSCI woes",
-   "u": "https://www.freemalaysiatoday.com/category/business/2026/11/12/indonesian-rupiah-drops-to-record-low-on-strong-dollar-msci-woes",
-   "d": "2026-11-12",
-   "q": "freemalaysiatoday.com",
-   "type": "finanz",
-   "c": "as"
-  },
-  {
-   "t": "Trumps Plan , 1 , 8 Millionen Tonnen russischen Diesel zu importieren , stockt auf hoher See : Tankschiffe ändern den Kurs",
-   "u": "https://www.focus.de/finanzen/news/trumps-plan-1-8-millionen-tonnen-russischen-diesel-zu-importieren-stockt-auf-hoher-see-tankschiffe-aendern-den-kurs_c145785b-3e27-4db8-ae31-d63d1e65daac.html",
-   "d": "2026-11-12",
-   "q": "focus.de",
-   "type": "politik",
-   "c": "na"
-  },
-  {
-   "t": "Iran - Krieg vor dem Ende ? Diese Aktien könnten jetzt profitieren !",
-   "u": "https://www.finanznachrichten.de/nachrichten-2026-11/70105199-iran-krieg-vor-dem-ende-diese-aktien-koennten-jetzt-profitieren-486.htm",
-   "d": "2026-11-12",
-   "q": "finanznachrichten.de",
-   "type": "energie",
-   "c": "as"
-  },
-  {
-   "t": "WOCHENVORSCHAU : Termine bis 25 . November 2026",
-   "u": "https://www.finanzen.net/nachricht/aktien/wochenvorschau-termine-bis-25-november-2026-16057841",
-   "d": "2026-11-12",
-   "q": "finanzen.net",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "TAGESVORSCHAU : Termine am 12 . November 2026",
-   "u": "https://www.finanzen.net/nachricht/aktien/tagesvorschau-termine-am-12-november-2026-16057843",
-   "d": "2026-11-12",
-   "q": "finanzen.net",
-   "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "MORNING BRIEFING - Deutschland / Europa - 2 -",
-   "u": "https://www.finanzen.net/nachricht/aktien/morning-briefing-deutschland-europa-2-16058958",
-   "d": "2026-11-12",
-   "q": "finanzen.net",
-   "type": "finanz",
-   "c": "eu"
-  },
-  {
-   "t": "Asiens Börsen im MInus",
-   "u": "https://www.finanzen.ch/nachrichten/aktien/boerse-aktuell-12-11-2026-1036754134",
-   "d": "2026-11-12",
-   "q": "finanzen.ch",
-   "type": "finanz",
-   "c": null
   }
  ]
 }
