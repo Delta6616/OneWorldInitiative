@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-18T22:52:37Z",
+ "stand": "2026-11-18T23:51:52Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -36,6 +36,14 @@
    "c": null
   },
   {
+   "t": "Texas regulators are resuming environmental permits for data centers",
+   "u": "https://www.ksat.com/news/texas/2026/11/17/texas-regulators-are-resuming-environmental-permits-for-data-centers/",
+   "d": "2026-11-18",
+   "q": "ksat.com",
+   "type": "rohstoffe",
+   "c": "na"
+  },
+  {
    "t": "China Expand Tariff Relief as Carney Meets Xi",
    "u": "https://www.khaama.com/canada-and-china-expand-tariff-relief-as-carney-and-xi-deepen-partnership-despite-u-s-pressure/",
    "d": "2026-11-18",
@@ -52,10 +60,26 @@
    "c": "as"
   },
   {
+   "t": "Recent storms bring welcome drought relief to Sanpete County and Utah | News , Sports , Jobs",
+   "u": "https://www.heraldextra.com/sanpete-county/2026/nov/18/recent-storms-bring-welcome-drought-relief-to-sanpete-county-and-utah/",
+   "d": "2026-11-18",
+   "q": "heraldextra.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
    "t": "Ich habe meine Haare immer falsch gewaschen – bis mir eine Friseurin gesagt hat , wie es richtig geht",
    "u": "https://www.glamour.de/artikel/ich-habe-meine-haare-immer-falsch-gewaschen-laut-friseurin",
    "d": "2026-11-18",
    "q": "glamour.de",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "California growers expand pomegranate cultivation on drought - prone and saline soils",
+   "u": "https://www.freshplaza.com/north-america/article/9893942/california-growers-expand-pomegranate-cultivation-on-drought-prone-and-saline-soils/",
+   "d": "2026-11-18",
+   "q": "freshplaza.com",
    "type": "rohstoffe",
    "c": null
   },
@@ -65,6 +89,14 @@
    "d": "2026-11-18",
    "q": "foreignpolicyjournal.com",
    "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Here What $10 , 000 Invested in MP Materials Could Be Worth by 2030 as EV Demand Accelerates",
+   "u": "https://www.fool.com/investing/2026/11/17/heres-what-10000-invested-in-mp-materials-could-be-worth-by-2030-as-ev-demand-accelerates/",
+   "d": "2026-11-18",
+   "q": "fool.com",
+   "type": "rohstoffe",
    "c": null
   },
   {
@@ -148,6 +180,14 @@
    "c": null
   },
   {
+   "t": "Ukraine strikes Putin prized Crimean Bridge , destroys central road section ahead of US - China meet",
+   "u": "https://timesofindia.indiatimes.com/world/europe/ukraine-strikes-putins-prized-crimean-bridge-destroys-central-road-section-ahead-of-us-china-meet/articleshow/135944199.cms",
+   "d": "2026-11-18",
+   "q": "timesofindia.indiatimes.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
    "t": "Wolkenkratzer Saudi - Arabien : 466 Meter und noch nicht einmal die Hälfte : Der Jeddah Tower soll als erstes Gebäude der Welt einen Kilometer hoch werden",
    "u": "https://solidbau.at/news/jeddah-tower-dschidda-466-meter-erstes-gebaeude-ein-kilometer-doka/",
    "d": "2026-11-18",
@@ -170,6 +210,14 @@
    "q": "medianet.at",
    "type": "rohstoffe",
    "c": "eu"
+  },
+  {
+   "t": "Diesel : The fuel that affects everything",
+   "u": "https://hpr1.com/diesel-the-fuel-that-affects-everything/",
+   "d": "2026-11-18",
+   "q": "hpr1.com",
+   "type": "rohstoffe",
+   "c": null
   },
   {
    "t": "Ontario Premier Doug Ford touts stronger ties with Quebec in Montreal speech",
@@ -284,6 +332,14 @@
    "c": null
   },
   {
+   "t": "Xero Shares Surge Nearly 5 % to $80 . 56 as Battered Accounting Software Firm Stages Rally After 34 % Annual Slide",
+   "u": "https://www.ibtimes.com.au/xero-shares-rise-after-year-long-decline-1878676",
+   "d": "2026-11-16",
+   "q": "ibtimes.com.au",
+   "type": "finanz",
+   "c": null
+  },
+  {
    "t": "KOSPI Plunges 3 . 6 % as South Korean Stocks Shed 190 Points , Sliding to 5 , 100 in a Brutal Session for Seoul",
    "u": "https://www.ibtimes.com.au/south-korea-kospi-falls-chip-stocks-asian-selloff-1878668",
    "d": "2026-11-16",
@@ -298,14 +354,6 @@
    "q": "ibtimes.com.au",
    "type": "finanz",
    "c": "as"
-  },
-  {
-   "t": "Meridian Energy Shares Jump Nearly 6 % on ASX , Leading Gainers as Kiwi Power Giant Bucks a Soft Monday Market",
-   "u": "https://www.ibtimes.com.au/meridian-energy-shares-jump-asx-thin-trading-1878678",
-   "d": "2026-11-16",
-   "q": "ibtimes.com.au",
-   "type": "finanz",
-   "c": null
   },
   {
    "t": "Ukraine - Krieg aktuell : Kiew startet massive Angriffe",
