@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-18T14:22:30Z",
+ "stand": "2026-11-18T15:59:12Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -76,6 +76,14 @@
    "c": null
   },
   {
+   "t": "Emergency alert test today is real . A blackout is not .",
+   "u": "https://tucson.com/news/local/article_58cd2491-2a2f-45e5-a0e4-54c73646f54b.html",
+   "d": "2026-11-18",
+   "q": "tucson.com",
+   "type": "energie",
+   "c": null
+  },
+  {
    "t": "Weihnachtspostamt in der Wiener Stadthalle eröffnet",
    "u": "https://medianet.at/news/retail/weihnachtspostamt-in-der-wiener-stadthalle-eroeffnet-78738.html",
    "d": "2026-11-18",
@@ -98,6 +106,14 @@
    "q": "globalnews.ca",
    "type": "politik",
    "c": null
+  },
+  {
+   "t": "Alberta CEOs split on Carney bid for EU associate membership : survey",
+   "u": "https://edmontonjournal.com/business/alberta-ceos-split-mark-carney-bid-european-union-associate-membership/wcm/f9338a87-304f-412a-bc62-76b106e4f615",
+   "d": "2026-11-18",
+   "q": "edmontonjournal.com",
+   "type": "energie",
+   "c": "eu"
   },
   {
    "t": "Industrie verbraucht deutlich weniger Energie",
