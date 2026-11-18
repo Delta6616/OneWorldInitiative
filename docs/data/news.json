@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-18T06:50:22Z",
+ "stand": "2026-11-18T07:13:33Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -9,6 +9,38 @@
    "d": "2026-11-18",
    "q": "khaama.com",
    "type": "politik",
+   "c": "as"
+  },
+  {
+   "t": "Federal Iraqi pipeline ready to restart Turkey oil exports",
+   "u": "https://www.iraqoilreport.com/news/federal-iraqi-pipeline-ready-to-restart-turkey-oil-exports-48081/",
+   "d": "2026-11-18",
+   "q": "iraqoilreport.com",
+   "type": "energie",
+   "c": "as"
+  },
+  {
+   "t": "4 . 4 - Gigawatt Position On U . S . Gas Power Takes Shape As GE Vernova ( NYSE : GEV ) Turbines Land In Pennsylvania",
+   "u": "https://www.foreignpolicyjournal.com/2026/11/17/4-4-gigawatt-position-on-u-s-gas-power-takes-shape-as-ge-vernova-nyse-gev-turbines-land-in-pennsylvania/",
+   "d": "2026-11-18",
+   "q": "foreignpolicyjournal.com",
+   "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Chevron Says AI Has Already Captured Over $100 Million in Value . Here Where It Might Find an Even Bigger Payoff .",
+   "u": "https://www.fool.com/investing/2026/11/17/chevron-says-ai-has-already-captured-over-usd100-million-in-value-here-s-where-it-might-find-an-even-bigger-payoff/",
+   "d": "2026-11-18",
+   "q": "fool.com",
+   "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Venture Global and China Gas Announce Increased Long - Term LNG Agreement",
+   "u": "https://www.brantfordexpositor.ca/press-releases/business-wire/venture-global-and-china-gas-announce-increased-long-term-lng-agreement/",
+   "d": "2026-11-18",
+   "q": "brantfordexpositor.ca",
+   "type": "energie",
    "c": "as"
   },
   {
