@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-18T18:55:41Z",
+ "stand": "2026-11-18T19:59:07Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -50,6 +50,14 @@
    "q": "iraqoilreport.com",
    "type": "energie",
    "c": "as"
+  },
+  {
+   "t": "Ich habe meine Haare immer falsch gewaschen – bis mir eine Friseurin gesagt hat , wie es richtig geht",
+   "u": "https://www.glamour.de/artikel/ich-habe-meine-haare-immer-falsch-gewaschen-laut-friseurin",
+   "d": "2026-11-18",
+   "q": "glamour.de",
+   "type": "rohstoffe",
+   "c": null
   },
   {
    "t": "4 . 4 - Gigawatt Position On U . S . Gas Power Takes Shape As GE Vernova ( NYSE : GEV ) Turbines Land In Pennsylvania",
@@ -178,6 +186,14 @@
    "q": "edmontonjournal.com",
    "type": "energie",
    "c": "eu"
+  },
+  {
+   "t": "„ Ich find ganz schlimm : Gastgeberin bestellt beim „ perfekten Dinner  Pizza",
+   "u": "http://www.az-online.de/boulevard/ich-find-ganz-schlimm-gastgeberin-bestellt-beim-perfekten-dinner-pizza-zr-94596992.html",
+   "d": "2026-11-18",
+   "q": "az-online.de",
+   "type": "rohstoffe",
+   "c": null
   },
   {
    "t": "Industrie verbraucht deutlich weniger Energie",
