@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-18T17:57:01Z",
+ "stand": "2026-11-18T18:55:41Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -84,6 +84,14 @@
    "c": "na"
   },
   {
+   "t": "Rupee strength , not weakness , may pose challenge in FY28 : CEA Nageswaran",
+   "u": "https://www.business-standard.com/economy/news/lower-crude-oil-prices-could-bring-huge-windfall-for-india-in-fy28-cea-126111801445_1.html",
+   "d": "2026-11-18",
+   "q": "business-standard.com",
+   "type": "energie",
+   "c": null
+  },
+  {
    "t": "Venture Global and China Gas Announce Increased Long - Term LNG Agreement",
    "u": "https://www.brantfordexpositor.ca/press-releases/business-wire/venture-global-and-china-gas-announce-increased-long-term-lng-agreement/",
    "d": "2026-11-18",
@@ -130,6 +138,14 @@
    "q": "tucson.com",
    "type": "energie",
    "c": null
+  },
+  {
+   "t": "Wolkenkratzer Saudi - Arabien : 466 Meter und noch nicht einmal die Hälfte : Der Jeddah Tower soll als erstes Gebäude der Welt einen Kilometer hoch werden",
+   "u": "https://solidbau.at/news/jeddah-tower-dschidda-466-meter-erstes-gebaeude-ein-kilometer-doka/",
+   "d": "2026-11-18",
+   "q": "solidbau.at",
+   "type": "logistik",
+   "c": "as"
   },
   {
    "t": "Weihnachtspostamt in der Wiener Stadthalle eröffnet",
