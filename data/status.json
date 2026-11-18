@@ -1,30 +1,30 @@
 {
  "worldbank": {
   "ok": true,
-  "zeit": "2026-11-17T06:17:03Z",
-  "neu_oder_geaendert": 0,
-  "zeilen_gesamt": 27953,
-  "warnungen": []
+  "zeit": "2026-11-18T06:21:13Z",
+  "neu_oder_geaendert": 22,
+  "zeilen_gesamt": 27975,
+  "warnungen": [
+   "GE.EST: Abruf fehlgeschlagen: HTTP Error 502: Bad Gateway"
+  ]
  },
  "portwatch": {
-  "ok": false,
-  "zeit": "2026-11-12T06:19:27Z",
-  "neu_oder_geaendert": 0,
-  "zeilen_gesamt": 87612,
-  "warnungen": [],
-  "letzter_versuch": "2026-11-17T06:20:34Z",
-  "fehler": "1=1/arcgis/Layer0: {'code': 499, 'message': 'Token Required', 'm ## 1=1/ArcGIS/Layer0: {'code': 499, 'message': 'Token Required', 'm ## year >= 2026/arcgis/Layer0: {'code': 499, 'message': 'Token Required', 'm ## year >= 2026/ArcGIS/Layer0: {'code': 499, 'message': 'Token Required', 'm ## year >= 2026/arcgis/Layer0: {'code': 499, 'message': 'Token Required', 'm ## year >= 2026/ArcGIS/Layer0: {'code': 499, 'message': 'Token Required', 'm ## date >= TIMESTAMP '2026-10-29 00:00:00'/arcgis/Layer0: {'code': 499, 'message': 'Token Required', 'm ## date >= TIMESTAMP '2026-10-29 00:00:00'/ArcGIS/Layer0: {'code': 499, 'message': 'Token Required', 'm ## CSV portwatch.imf.org: Abruf fehlgeschlagen: HTTP Error 403: Forbidden ## CSV www.arcgis.com: Abruf fehlgeschlagen: HTTP Error 403: Forbidden ## Keine Handdatei data/manual/portwatch.csv vorhanden"
+  "ok": true,
+  "zeit": "2026-11-18T06:23:44Z",
+  "neu_oder_geaendert": 588,
+  "zeilen_gesamt": 88200,
+  "warnungen": []
  },
  "gdelt": {
   "ok": true,
-  "zeit": "2026-11-18T05:59:31Z",
-  "neu_oder_geaendert": 1,
+  "zeit": "2026-11-18T06:47:24Z",
+  "neu_oder_geaendert": 0,
   "zeilen_gesamt": 1071,
   "warnungen": [
    "logistik/english: HTTP 429",
    "energie/english: HTTP 429",
-   "finanz/english: HTTP 429",
    "rohstoffe/english: HTTP 429",
+   "logistik/german: HTTP 429",
    "energie/german: HTTP 429",
    "finanz/german: HTTP 429",
    "rohstoffe/german: HTTP 429"
@@ -36,7 +36,7 @@
   "neu_oder_geaendert": 0,
   "zeilen_gesamt": 6773,
   "warnungen": [],
-  "letzter_versuch": "2026-11-17T06:20:35Z",
+  "letzter_versuch": "2026-11-18T06:24:00Z",
   "fehler": "Keine Preise erhalten. DCOILBRENTEU: Verbindung: The read operation timed out | DCOILWTICO: Verbindung: The read operation timed out | POILDUBUSDM: Verbindung: The read operation timed out | DHHNGSP: Verbindung: The read operation timed out | PNGASEUUSDM: Verbindung: The read operation timed out | PNGASJPUSDM: Verbindung: The read operation timed out | PCOALAUUSDM: Verbindung: The read operation timed out | PWHEAMTUSDM: Verbindung: The read operation timed out | PMAIZMTUSDM: Verbindung: The read operation timed out | PRICENPQUSDM: Verbindung: The read operation timed out | PSOYBUSDM: Verbindung: The read operation timed out | PPOILUSDM: Verbindung: The read operation timed out | PSUGAISAUSDM: Verbindung: The read operation timed out | PCOFFOTMUSDM: Verbindung: The read operation timed out | PCOCOUSDM: Verbindung: The read operation timed out | PBEEFUSDM: Verbindung: The read operation timed out | PCOPPUSDM: Verbindung: The read operation timed out | PALUMUSDM: Verbindung: The read operation timed out | PNICKUSDM: Verbindung: The read operation timed out | PZINCUSDM: Verbindung: The read operation timed out | PTINUSDM: Verbindung: The read operation timed out | PIORECRUSDM: Verbindung: The read operation timed out | PURANUSDM: Verbindung: The read operation timed out"
  }
 }

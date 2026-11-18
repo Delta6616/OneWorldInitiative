@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-18T06:02:45Z",
+ "stand": "2026-11-18T06:50:22Z",
  "quelle": "Weltbank, neuester Wert je Land",
  "daten_bis": {
   "NY.GDP.MKTP.CD": "2025",
@@ -13,7 +13,7 @@
     "wachstum": 1.0,
     "inflation": 1.0,
     "handel": 1.0,
-    "schulden": 0.34,
+    "schulden": 0.75,
     "stab_roh": 1.0,
     "regierung": 1.0
    },
@@ -21,7 +21,7 @@
    "wachstum": 1.5,
    "inflation": 3.1,
    "handel": 87.1,
-   "schulden": 82.0,
+   "schulden": 60.2,
    "stab_roh": 0.06,
    "regierung": 0.71,
    "stab": 51,
@@ -33,7 +33,7 @@
     "wachstum": 1.0,
     "inflation": 1.0,
     "handel": 1.0,
-    "schulden": 0.32,
+    "schulden": 0.34,
     "stab_roh": 1.0,
     "regierung": 1.0
    },
@@ -41,7 +41,7 @@
    "wachstum": 4.3,
    "inflation": 3.0,
    "handel": 60.1,
-   "schulden": 46.5,
+   "schulden": 48.5,
    "stab_roh": -0.49,
    "regierung": 0.3,
    "stab": 40,
@@ -53,7 +53,7 @@
     "wachstum": 1.0,
     "inflation": 0.99,
     "handel": 1.0,
-    "schulden": 0.98,
+    "schulden": 0.99,
     "stab_roh": 1.0,
     "regierung": 1.0
    },
@@ -61,7 +61,7 @@
    "wachstum": 2.1,
    "inflation": 2.9,
    "handel": 31.6,
-   "schulden": 108.3,
+   "schulden": 108.0,
    "stab_roh": -0.25,
    "regierung": 0.66,
    "stab": 45,
@@ -93,7 +93,7 @@
     "wachstum": 1.0,
     "inflation": 1.0,
     "handel": 0.91,
-    "schulden": 0.47,
+    "schulden": 0.55,
     "stab_roh": 1.0,
     "regierung": 1.0
    },
@@ -101,7 +101,7 @@
    "wachstum": 4.3,
    "inflation": 11.3,
    "handel": 58.2,
-   "schulden": 64.3,
+   "schulden": 98.6,
    "stab_roh": -1.2,
    "regierung": -0.68,
    "stab": 26,
