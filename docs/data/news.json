@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-19T15:59:14Z",
+ "stand": "2026-11-19T17:04:26Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -53,9 +53,9 @@
   },
   {
    "t": "Iran launches a third round of strikes on Bahrain , host of U . S . Navy 5th Fleet",
-   "u": "https://www.kwit.org/2026-11-17/iran-launches-a-third-round-of-strikes-on-bahrain-host-of-u-s-navys-5th-fleet",
+   "u": "https://www.publicradiotulsa.org/npr-national-news/2026-11-17/iran-launches-a-third-round-of-strikes-on-bahrain-host-of-u-s-navys-5th-fleet",
    "d": "2026-11-18",
-   "q": "kwit.org",
+   "q": "publicradiotulsa.org",
    "type": "logistik",
    "c": "as"
   },
