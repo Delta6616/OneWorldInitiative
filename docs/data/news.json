@@ -1,14 +1,30 @@
 {
- "stand": "2026-11-19T07:13:30Z",
+ "stand": "2026-11-19T09:02:23Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Southern Highlands home values drop as sale times hit 70 days",
+   "u": "https://www.yasstribune.com.au/story/9393178/southern-highlands-home-values-drop-as-sale-times-hit-70-days/",
+   "d": "2026-11-18",
+   "q": "yasstribune.com.au",
+   "type": "finanz",
+   "c": null
+  },
   {
    "t": "What tech CEOs are saying about the saga around Jensen Huang exit from Nvidia :: WRAL . com",
    "u": "https://www.wral.com/news/ap/06331-what-tech-ceos-are-saying-about-the-saga-around-jensen-huang-s-exit-from-nvidia/",
    "d": "2026-11-18",
    "q": "wral.com",
    "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Bank chief says interest rates not  pre - set  amid further potential rise",
+   "u": "https://www.witneygazette.co.uk/news/national/26742400.bank-chief-says-interest-rates-not-pre-set-amid-potential-rise/",
+   "d": "2026-11-18",
+   "q": "witneygazette.co.uk",
+   "type": "finanz",
    "c": null
   },
   {
@@ -124,6 +140,14 @@
    "c": "na"
   },
   {
+   "t": "Rising federal loan bills under new Trump rules put financial squeeze on California students",
+   "u": "https://www.capradio.org/articles/2026/11/17/rising-federal-loan-bills-under-new-trump-rules-put-financial-squeeze-on-california-students/",
+   "d": "2026-11-18",
+   "q": "capradio.org",
+   "type": "finanz",
+   "c": "na"
+  },
+  {
    "t": "Rupee strength , not weakness , may pose challenge in FY28 : CEA Nageswaran",
    "u": "https://www.business-standard.com/economy/news/lower-crude-oil-prices-could-bring-huge-windfall-for-india-in-fy28-cea-126111801445_1.html",
    "d": "2026-11-18",
@@ -218,6 +242,22 @@
    "q": "medianet.at",
    "type": "rohstoffe",
    "c": "eu"
+  },
+  {
+   "t": "MLS # 2652035 : 9622 Perry Lane B , Overland Park , KS 66212",
+   "u": "https://kansascityhomes.com/listing/KS/Overland-Park/9622-Perry-Lane-B-66212/236858079",
+   "d": "2026-11-18",
+   "q": "kansascityhomes.com",
+   "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "MLS # 2652078 : 17332 Caenen Street , Overland Park , KS 66221",
+   "u": "https://kansascityhomes.com/listing/KS/Overland-Park/17332-Caenen-Street-66221/236868388",
+   "d": "2026-11-18",
+   "q": "kansascityhomes.com",
+   "type": "finanz",
+   "c": null
   },
   {
    "t": "Diesel : The fuel that affects everything",
