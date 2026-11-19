@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-19T01:07:36Z",
+ "stand": "2026-11-19T02:18:06Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -185,6 +185,14 @@
    "d": "2026-11-18",
    "q": "timesofindia.indiatimes.com",
    "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Targeted News Service",
+   "u": "https://targetednews.com/pr_disp.php?pr_id=9853357",
+   "d": "2026-11-18",
+   "q": "targetednews.com",
+   "type": "politik",
    "c": null
   },
   {
