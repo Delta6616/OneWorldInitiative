@@ -1,8 +1,48 @@
 {
- "stand": "2026-11-19T17:04:26Z",
+ "stand": "2026-11-19T17:56:21Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Wyoming Whiskey Introduces Saddle Up Santa In New Annual Holiday Series",
+   "u": "https://thewhiskeywash.com/whiskey-news/wyoming-whiskey-introduces-saddle-up-santa-in-time-for-christmas/",
+   "d": "2026-11-19",
+   "q": "thewhiskeywash.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "EU Central Banker Plans to Plant Barren AI Crops Across the Continent",
+   "u": "https://thenewamerican.com/opinion/eu-central-banker-plans-to-plant-barren-ai-crops-across-the-continent/",
+   "d": "2026-11-19",
+   "q": "thenewamerican.com",
+   "type": "finanz",
+   "c": "eu"
+  },
+  {
+   "t": "Bangladesh Bank directs open disbursement of agricultural loans",
+   "u": "https://bdnews24.com/economy/1fyn5bspbg",
+   "d": "2026-11-19",
+   "q": "bdnews24.com",
+   "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "Paul Scribner on General Holdings Limited Role as a Principal Investor in Complex , Cross - Border Opportunities",
+   "u": "http://www.newjerseytelegraph.com/news/279443527/paul-scribner-on-general-holdings-limited-role-as-a-principal-investor-in-complex-cross-border-opportunities",
+   "d": "2026-11-19",
+   "q": "newjerseytelegraph.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "SEBI preparing guidelines for responsible AI use in capital markets , including disclosures and accountability : KVR Murty",
+   "u": "http://www.mainemirror.com/news/279443485/sebi-preparing-guidelines-for-responsible-ai-use-in-capital-markets-including-disclosures-and-accountability-kvr-murty",
+   "d": "2026-11-19",
+   "q": "mainemirror.com",
+   "type": "finanz",
+   "c": null
+  },
   {
    "t": "Southern Highlands home values drop as sale times hit 70 days",
    "u": "https://www.yasstribune.com.au/story/9393178/southern-highlands-home-values-drop-as-sale-times-hit-70-days/",
