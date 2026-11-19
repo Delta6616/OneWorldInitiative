@@ -1,8 +1,16 @@
 {
- "stand": "2026-11-19T21:51:04Z",
+ "stand": "2026-11-19T22:50:20Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Boone County employees impacted by second data breach",
+   "u": "https://www.wishtv.com/news/boone-county-employees-impacted-by-second-data-breach/",
+   "d": "2026-11-19",
+   "q": "wishtv.com",
+   "type": "rohstoffe",
+   "c": null
+  },
   {
    "t": "Zwei Ohrfeigen für den Westen : Das war der Dreiergipfel in China",
    "u": "https://www.watson.ch/international/usa/196576163-zwei-ohrfeigen-fuer-den-westen-das-war-der-dreiergipfel-in-china",
@@ -10,6 +18,14 @@
    "q": "watson.ch",
    "type": "energie",
    "c": "as"
+  },
+  {
+   "t": "North Sea faces diver drought as veterans head for retirement",
+   "u": "https://www.upstreamonline.com/exclusive/north-sea-faces-diver-drought-as-veterans-head-for-retirement/2-1-2073255",
+   "d": "2026-11-19",
+   "q": "upstreamonline.com",
+   "type": "rohstoffe",
+   "c": null
   },
   {
    "t": "Österreichische Botschaft in Kiew bei russischem Angriff beschädigt | Tiroler Tageszeitung – Aktuelle Nachrichten auf tt . com",
@@ -84,6 +100,22 @@
    "c": null
   },
   {
+   "t": "Solago Black - Friday - Sale : Balkonkraftwerke für kurze Zeit bis 30 Prozent günstiger",
+   "u": "https://www.ksta.de:443/shoppingwelt/solago-black-friday-sale-balkonkraftwerke-fuer-kurze-zeit-bis-30-prozent-guenstiger-3-1418001",
+   "d": "2026-11-19",
+   "q": "ksta.de:443",
+   "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "Kenya picks US consortium for critical minerals project as residents seek answers",
+   "u": "https://www.ksat.com/business/2026/11/19/kenya-picks-us-consortium-for-critical-minerals-project-as-residents-seek-answers/",
+   "d": "2026-11-19",
+   "q": "ksat.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
    "t": "Ärger in der Formel 1 - Als „ Mistkerl  bezeichnet ! Jetzt reagiert Leclerc",
    "u": "https://www.krone.at/4382369",
    "d": "2026-11-19",
@@ -100,6 +132,22 @@
    "c": null
   },
   {
+   "t": "Funky Taurus Media - Music Photo Agency & Products",
+   "u": "https://www.funkytaurusmedia.com/shop_content.php?coID=3&XTCsid=ml2r9dfhi8ebm5756s4jcug253",
+   "d": "2026-11-19",
+   "q": "funkytaurusmedia.com",
+   "type": "logistik",
+   "c": "na"
+  },
+  {
+   "t": "Funky Taurus Media - Music Photo Agency & Products - Liefer - und Versandkosten",
+   "u": "https://www.funkytaurusmedia.com/shop_content.php?coID=1&XTCsid=ml2r9dfhi8ebm5756s4jcug253",
+   "d": "2026-11-19",
+   "q": "funkytaurusmedia.com",
+   "type": "logistik",
+   "c": "na"
+  },
+  {
    "t": "WOCHENVORSCHAU : Termine bis 3 . Dezember 2026",
    "u": "https://www.finanznachrichten.de/nachrichten-2026-11/70181381-wochenvorschau-termine-bis-3-dezember-2026-016.htm",
    "d": "2026-11-19",
@@ -113,6 +161,14 @@
    "d": "2026-11-19",
    "q": "bostonglobe.com",
    "type": "energie",
+   "c": null
+  },
+  {
+   "t": "dm plant „ Gesundheits - Checkpunkte  | APOTHEKE ADHOC",
+   "u": "https://www.apotheke-adhoc.de/nachrichten/detail/markt/dm-plant-gesundheits-checkpunkte/",
+   "d": "2026-11-19",
+   "q": "apotheke-adhoc.de",
+   "type": "logistik",
    "c": null
   },
   {
@@ -140,6 +196,14 @@
    "c": "eu"
   },
   {
+   "t": "Thanksgiving Dinner Costs Rise 6 % This Year | NewsRadio 1170 WWVA",
+   "u": "https://newsradio1170.iheart.com/content/2026-11-19-thanksgiving-dinner-costs-rise-6-this-year/",
+   "d": "2026-11-19",
+   "q": "newsradio1170.iheart.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
    "t": "Reserve Bank holds rates at 7 . 25 % as MPC split over possible hike",
    "u": "https://mg.co.za/news/south-africa/2026-11-19-reserve-bank-holds-rates-at-7-25-as-mpc-split-over-possible-hike/",
    "d": "2026-11-19",
@@ -154,6 +218,30 @@
    "q": "kpic.com",
    "type": "energie",
    "c": "as"
+  },
+  {
+   "t": "Endlich : Schnappt euch jetzt die Gratis - Prämie zu Zelda : Ocarina of Time im Nintendo Store • JPGAMES . DE",
+   "u": "https://jpgames.de/2026/11/endlich-schnappt-euch-jetzt-die-gratis-praemie-zu-zelda-ocarina-of-time-im-nintendo-store/",
+   "d": "2026-11-19",
+   "q": "jpgames.de",
+   "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "The Next Generation Of U . S .- Made EV Batteries Is Getting Closer To Reality",
+   "u": "https://insideevs.com/news/815929/panasonic-sila-domestic-battery-production/",
+   "d": "2026-11-19",
+   "q": "insideevs.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Fresh Ink , First Pours",
+   "u": "https://inkedmag.com/culture/fresh-ink-first-pours",
+   "d": "2026-11-19",
+   "q": "inkedmag.com",
+   "type": "rohstoffe",
+   "c": null
   },
   {
    "t": "Bangladesh Bank directs open disbursement of agricultural loans",
