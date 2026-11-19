@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-19T20:02:37Z",
+ "stand": "2026-11-19T20:53:38Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -10,6 +10,46 @@
    "q": "watson.ch",
    "type": "energie",
    "c": "as"
+  },
+  {
+   "t": "Österreichische Botschaft in Kiew bei russischem Angriff beschädigt | Tiroler Tageszeitung – Aktuelle Nachrichten auf tt . com",
+   "u": "https://www.tt.com/artikel/30947306/oesterreichische-botschaft-in-kiew-bei-russischem-angriff-beschaedigt",
+   "d": "2026-11-19",
+   "q": "tt.com",
+   "type": "politik",
+   "c": "eu"
+  },
+  {
+   "t": "Koalition der Willigen stellt sich hinter Ukraine | Tiroler Tageszeitung – Aktuelle Nachrichten auf tt . com",
+   "u": "https://www.tt.com/artikel/30947243/koalition-der-willigen-stellt-sich-hinter-ukraine",
+   "d": "2026-11-19",
+   "q": "tt.com",
+   "type": "politik",
+   "c": "eu"
+  },
+  {
+   "t": "Koalition der Willigen sagt Ukraine weitere Hilfen zu : „ So lange es nötig ist , werden wir Kyjiw unterstützen",
+   "u": "https://www.tagesspiegel.de/internationales/liveblog/koalition-der-willigen-sagt-ukraine-weitere-hilfen-zu-so-lange-es-notig-ist-werden-wir-kyjiw-unterstutzen-16206302.html",
+   "d": "2026-11-19",
+   "q": "tagesspiegel.de",
+   "type": "politik",
+   "c": "eu"
+  },
+  {
+   "t": "Russischer Angriff beschädigt Österreichs Botschaft in Kiew",
+   "u": "https://www.suedtirolnews.it/politik/russischer-angriff-beschaedigt-oesterreichs-botschaft-in-kiew",
+   "d": "2026-11-19",
+   "q": "suedtirolnews.it",
+   "type": "politik",
+   "c": "eu"
+  },
+  {
+   "t": "Koalition der Willigen stellt sich hinter Ukraine",
+   "u": "https://www.suedtirolnews.it/politik/koalition-der-willigen-stellt-sich-hinter-ukraine",
+   "d": "2026-11-19",
+   "q": "suedtirolnews.it",
+   "type": "politik",
+   "c": "eu"
   },
   {
    "t": "Klimaclub glaubt an Gasausstieg bis 2040",
@@ -36,6 +76,22 @@
    "c": null
   },
   {
+   "t": "Kürzungen im Etat in München : So hart trifft uns der Spar - Hammer",
+   "u": "https://www.merkur.de/lokales/muenchen/muenchen-streicht-41-millionen-musisches-zentrum-und-radio-lora-vor-dem-aus-94599212.html",
+   "d": "2026-11-19",
+   "q": "merkur.de",
+   "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Ärger in der Formel 1 - Als „ Mistkerl  bezeichnet ! Jetzt reagiert Leclerc",
+   "u": "https://www.krone.at/4382369",
+   "d": "2026-11-19",
+   "q": "krone.at",
+   "type": "politik",
+   "c": null
+  },
+  {
    "t": "Werder - Profi Reis über HSV - Fans , Hasskommentare und Nordderby !",
    "u": "https://www.kreiszeitung.de/werder-bremen/werder-bremen-ludovit-reis-ueber-hsv-fans-hasskommentare-nordderby-hamburger-sv-derby-bundesliga-94599051.html",
    "d": "2026-11-19",
@@ -50,6 +106,22 @@
    "q": "finanznachrichten.de",
    "type": "energie",
    "c": null
+  },
+  {
+   "t": "Opinion | Voters reject data centers : Can remote areas fill the gap ?",
+   "u": "https://www.bostonglobe.com/2026/11/19/opinion/data-center-backlash-rural-possibilities/",
+   "d": "2026-11-19",
+   "q": "bostonglobe.com",
+   "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Exclusive - Canada BMO returning to US oil and gas investment banking , sources say",
+   "u": "https://www.aol.com/articles/exclusive-canadas-bmo-returning-us-185124000.html",
+   "d": "2026-11-19",
+   "q": "aol.com",
+   "type": "energie",
+   "c": "na"
   },
   {
    "t": "Wyoming Whiskey Introduces Saddle Up Santa In New Annual Holiday Series",
@@ -68,6 +140,22 @@
    "c": "eu"
   },
   {
+   "t": "Reserve Bank holds rates at 7 . 25 % as MPC split over possible hike",
+   "u": "https://mg.co.za/news/south-africa/2026-11-19-reserve-bank-holds-rates-at-7-25-as-mpc-split-over-possible-hike/",
+   "d": "2026-11-19",
+   "q": "mg.co.za",
+   "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Iran war could leave consumers facing years of uncertainty over energy costs",
+   "u": "https://kpic.com/news/nation-world/iran-war-could-leave-consumers-facing-years-of-uncertainty-over-energy-costs",
+   "d": "2026-11-19",
+   "q": "kpic.com",
+   "type": "energie",
+   "c": "as"
+  },
+  {
    "t": "Bangladesh Bank directs open disbursement of agricultural loans",
    "u": "https://bdnews24.com/economy/1fyn5bspbg",
    "d": "2026-11-19",
@@ -82,6 +170,14 @@
    "q": "newjerseytelegraph.com",
    "type": "rohstoffe",
    "c": null
+  },
+  {
+   "t": "India LPG stocks fell to 25 days of supply during Hormuz crisis , says Hardeep Singh Puri",
+   "u": "http://www.mexicostar.com/news/279443799/india-lpg-stocks-fell-to-25-days-of-supply-during-hormuz-crisis-says-hardeep-singh-puri",
+   "d": "2026-11-19",
+   "q": "mexicostar.com",
+   "type": "energie",
+   "c": "as"
   },
   {
    "t": "SEBI preparing guidelines for responsible AI use in capital markets , including disclosures and accountability : KVR Murty",
