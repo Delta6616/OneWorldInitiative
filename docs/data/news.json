@@ -1,14 +1,54 @@
 {
- "stand": "2026-11-19T18:58:43Z",
+ "stand": "2026-11-19T20:02:37Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Zwei Ohrfeigen für den Westen : Das war der Dreiergipfel in China",
+   "u": "https://www.watson.ch/international/usa/196576163-zwei-ohrfeigen-fuer-den-westen-das-war-der-dreiergipfel-in-china",
+   "d": "2026-11-19",
+   "q": "watson.ch",
+   "type": "energie",
+   "c": "as"
+  },
+  {
+   "t": "Klimaclub glaubt an Gasausstieg bis 2040",
+   "u": "https://www.suedtirolnews.it/politik/klimaclub-glaubt-an-gasausstieg-bis-2040",
+   "d": "2026-11-19",
+   "q": "suedtirolnews.it",
+   "type": "energie",
+   "c": null
+  },
+  {
+   "t": "US - Anleihen : Leichte Kursverluste",
+   "u": "https://www.onvista.de/news/2026/11-19-us-anleihen-leichte-kursverluste-0-10-26578471",
+   "d": "2026-11-19",
+   "q": "onvista.de",
+   "type": "energie",
+   "c": "na"
+  },
   {
    "t": "„ Lebensgefährdende Bedingungen : Mutmaßlicher Schleuser rechtfertigt sich mit bizarrer Erklärung",
    "u": "https://www.nordkurier.de/regional/pasewalk/pasewalk-und-strasburg/lebensgefaehrdende-bedingungen-mutmasslicher-schleuser-rechtfertigt-sich-mit-bizarrer-erklaerung-5024047",
    "d": "2026-11-19",
    "q": "nordkurier.de",
    "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Werder - Profi Reis über HSV - Fans , Hasskommentare und Nordderby !",
+   "u": "https://www.kreiszeitung.de/werder-bremen/werder-bremen-ludovit-reis-ueber-hsv-fans-hasskommentare-nordderby-hamburger-sv-derby-bundesliga-94599051.html",
+   "d": "2026-11-19",
+   "q": "kreiszeitung.de",
+   "type": "energie",
+   "c": null
+  },
+  {
+   "t": "WOCHENVORSCHAU : Termine bis 3 . Dezember 2026",
+   "u": "https://www.finanznachrichten.de/nachrichten-2026-11/70181381-wochenvorschau-termine-bis-3-dezember-2026-016.htm",
+   "d": "2026-11-19",
+   "q": "finanznachrichten.de",
+   "type": "energie",
    "c": null
   },
   {
