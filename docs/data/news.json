@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-19T10:04:16Z",
+ "stand": "2026-11-19T11:00:25Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -41,6 +41,14 @@
    "d": "2026-11-18",
    "q": "wiltsglosstandard.co.uk",
    "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "Career Nights from Mantas Juzenas and Vangelis Zougris Power Gaels to 94 – 78 Victory over Portland State",
+   "u": "https://www.stmarys-ca.edu/news/career-nights-mantas-juzenas-and-vangelis-zougris-power-gaels-94-78-victory-over-portland",
+   "d": "2026-11-18",
+   "q": "stmarys-ca.edu",
+   "type": "rohstoffe",
    "c": null
   },
   {
@@ -138,6 +146,14 @@
    "q": "finanzen.ch",
    "type": "energie",
    "c": "eu"
+  },
+  {
+   "t": "A plant on the Atlantic City shoreline traps 580 million plastic specks a year , and it runs that way full time before its water reaches the ocean",
+   "u": "https://www.ecoportal.net/en/plant-atlantic-city-shoreline-traps-580/46614/",
+   "d": "2026-11-18",
+   "q": "ecoportal.net",
+   "type": "rohstoffe",
+   "c": null
   },
   {
    "t": "DAX - Schluss : Schwache Wall Street drückt Leitindex unter 26 . 000 Punkte",
@@ -260,6 +276,14 @@
    "c": "eu"
   },
   {
+   "t": "Voyager 1 Becomes First Human Object One Light Day From Earth",
+   "u": "https://kogo.iheart.com/content/2026-11-18-voyager-1-becomes-first-human-object-one-light-day-from-earth/",
+   "d": "2026-11-18",
+   "q": "kogo.iheart.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
    "t": "MLS # 2652035 : 9622 Perry Lane B , Overland Park , KS 66212",
    "u": "https://kansascityhomes.com/listing/KS/Overland-Park/9622-Perry-Lane-B-66212/236858079",
    "d": "2026-11-18",
@@ -273,14 +297,6 @@
    "d": "2026-11-18",
    "q": "kansascityhomes.com",
    "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "Diesel : The fuel that affects everything",
-   "u": "https://hpr1.com/diesel-the-fuel-that-affects-everything/",
-   "d": "2026-11-18",
-   "q": "hpr1.com",
-   "type": "rohstoffe",
    "c": null
   },
   {
@@ -298,14 +314,6 @@
    "q": "edmontonjournal.com",
    "type": "energie",
    "c": "eu"
-  },
-  {
-   "t": "„ Ich find ganz schlimm : Gastgeberin bestellt beim „ perfekten Dinner  Pizza",
-   "u": "http://www.az-online.de/boulevard/ich-find-ganz-schlimm-gastgeberin-bestellt-beim-perfekten-dinner-pizza-zr-94596992.html",
-   "d": "2026-11-18",
-   "q": "az-online.de",
-   "type": "rohstoffe",
-   "c": null
   },
   {
    "t": "Industrie verbraucht deutlich weniger Energie",
