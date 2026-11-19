@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-19T13:11:44Z",
+ "stand": "2026-11-19T14:55:19Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -124,6 +124,14 @@
    "c": null
   },
   {
+   "t": "Only 11 % of the Power Plants Vistra Just Bought Are in Texas . Here Why That Matters After the Election .",
+   "u": "https://www.fool.com/investing/2026/11/17/only-11-of-the-power-plants-vistra-just-bought-are/",
+   "d": "2026-11-18",
+   "q": "fool.com",
+   "type": "energie",
+   "c": "na"
+  },
+  {
    "t": "Here What $10 , 000 Invested in MP Materials Could Be Worth by 2030 as EV Demand Accelerates",
    "u": "https://www.fool.com/investing/2026/11/17/heres-what-10000-invested-in-mp-materials-could-be-worth-by-2030-as-ev-demand-accelerates/",
    "d": "2026-11-18",
@@ -134,6 +142,14 @@
   {
    "t": "Chevron Says AI Has Already Captured Over $100 Million in Value . Here Where It Might Find an Even Bigger Payoff .",
    "u": "https://www.fool.com/investing/2026/11/17/chevron-says-ai-has-already-captured-over-usd100-million-in-value-here-s-where-it-might-find-an-even-bigger-payoff/",
+   "d": "2026-11-18",
+   "q": "fool.com",
+   "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Johnson & Johnson vs . Vertex Pharmaceuticals : Which Healthcare Stock Is a Better Buy for 2027 ?",
+   "u": "https://www.fool.com/coverage/better-buy/2026/11/17/johnson-johnson-vs-vertex-pharmaceuticals-which-healthcare-stock-is-a-better-buy-for-2027/",
    "d": "2026-11-18",
    "q": "fool.com",
    "type": "energie",
@@ -228,6 +244,14 @@
    "c": null
   },
   {
+   "t": "DC Council delays condo insurance bill over concerns raised after Logan Circle shooting",
+   "u": "https://wjla.com/news/local/dc-council-condo-washington-insurance-amendment-logan-circle-damage-pinto-councilmembers-legan-extensive-damage",
+   "d": "2026-11-18",
+   "q": "wjla.com",
+   "type": "energie",
+   "c": null
+  },
+  {
    "t": "Emergency alert test today is real . A blackout is not .",
    "u": "https://tucson.com/news/local/article_58cd2491-2a2f-45e5-a0e4-54c73646f54b.html",
    "d": "2026-11-18",
@@ -306,14 +330,6 @@
    "q": "globalnews.ca",
    "type": "politik",
    "c": null
-  },
-  {
-   "t": "Alberta CEOs split on Carney bid for EU associate membership : survey",
-   "u": "https://edmontonjournal.com/business/alberta-ceos-split-mark-carney-bid-european-union-associate-membership/wcm/f9338a87-304f-412a-bc62-76b106e4f615",
-   "d": "2026-11-18",
-   "q": "edmontonjournal.com",
-   "type": "energie",
-   "c": "eu"
   },
   {
    "t": "Industrie verbraucht deutlich weniger Energie",
