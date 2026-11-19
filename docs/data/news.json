@@ -1,8 +1,16 @@
 {
- "stand": "2026-11-19T17:56:21Z",
+ "stand": "2026-11-19T18:58:43Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "„ Lebensgefährdende Bedingungen : Mutmaßlicher Schleuser rechtfertigt sich mit bizarrer Erklärung",
+   "u": "https://www.nordkurier.de/regional/pasewalk/pasewalk-und-strasburg/lebensgefaehrdende-bedingungen-mutmasslicher-schleuser-rechtfertigt-sich-mit-bizarrer-erklaerung-5024047",
+   "d": "2026-11-19",
+   "q": "nordkurier.de",
+   "type": "politik",
+   "c": null
+  },
   {
    "t": "Wyoming Whiskey Introduces Saddle Up Santa In New Annual Holiday Series",
    "u": "https://thewhiskeywash.com/whiskey-news/wyoming-whiskey-introduces-saddle-up-santa-in-time-for-christmas/",
