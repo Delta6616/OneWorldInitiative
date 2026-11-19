@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-19T09:02:23Z",
+ "stand": "2026-11-19T10:04:16Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -9,6 +9,14 @@
    "d": "2026-11-18",
    "q": "yasstribune.com.au",
    "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "Trump heads to China , betting on unscripted diplomacy with Xi and Putin",
+   "u": "https://www.wral.com/news/ap/3fc81-trump-heads-to-china-betting-on-unscripted-diplomacy-with-xi-and-putin/",
+   "d": "2026-11-18",
+   "q": "wral.com",
+   "type": "politik",
    "c": null
   },
   {
@@ -184,6 +192,14 @@
    "u": "https://www.bnnbloomberg.ca/business/2026/11/17/nvidia-chairman-says-board-does-not-intend-to-reinstate-jensen-huang-as-ceo/",
    "d": "2026-11-18",
    "q": "bnnbloomberg.ca",
+   "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Nvidia chair says the board will not rehire Huang as CEO",
+   "u": "https://www.asiaone.com/money/nvidia-chair-says-board-will-not-rehire-huang-ceo",
+   "d": "2026-11-18",
+   "q": "asiaone.com",
    "type": "politik",
    "c": null
   },
