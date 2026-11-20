@@ -1,14 +1,30 @@
 {
- "stand": "2026-11-20T01:01:53Z",
+ "stand": "2026-11-20T02:08:55Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Ukraine - Krieg im Liveticker : +++ 00 : 30 Pistorius will Militärpakt mit Polen ausbauen und warnt vor Nationalismus +++",
+   "u": "https://www.n-tv.de/politik/00-30-Pistorius-will-Militaerpakt-mit-Polen-ausbauen-und-warnt-vor-Nationalismus-id30859357.html",
+   "d": "2026-11-20",
+   "q": "n-tv.de",
+   "type": "politik",
+   "c": "eu"
+  },
   {
    "t": "Drewry : Asia - Europe capacity returns via Suez – but security concerns remain | Hellenic Shipping News Worldwide",
    "u": "https://www.hellenicshippingnews.com/drewry-asia-europe-capacity-returns-via-suez-but-security-concerns-remain/",
    "d": "2026-11-20",
    "q": "hellenicshippingnews.com",
    "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "Was steckt hinter Putins angeblichem Geheimvermögen ?",
+   "u": "https://www.derwesten.de/politik/putin-vermoegen-offshore-palast-geheimnis-mauern-fsb-id302122755.html",
+   "d": "2026-11-20",
+   "q": "derwesten.de",
+   "type": "politik",
    "c": null
   },
   {
@@ -42,6 +58,14 @@
    "q": "newsradio1170.iheart.com",
    "type": "politik",
    "c": null
+  },
+  {
+   "t": "Putins Trumpf im Machtpoker mit Trump : Uran - Abhängigkeit greift",
+   "u": "http://www.wlz-online.de/wirtschaft/putin-hat-einen-trumpf-im-machtpoker-mit-trump-ausgerechnet-amerikas-atomkraftwerke-zr-94599265.html",
+   "d": "2026-11-20",
+   "q": "wlz-online.de",
+   "type": "politik",
+   "c": "na"
   },
   {
    "t": "Boone County employees impacted by second data breach",
