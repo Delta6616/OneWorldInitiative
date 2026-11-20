@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-20T03:53:56Z",
+ "stand": "2026-11-20T05:00:14Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -8,8 +8,16 @@
    "u": "https://www.n-tv.de/politik/00-30-Pistorius-will-Militaerpakt-mit-Polen-ausbauen-und-warnt-vor-Nationalismus-id30859357.html",
    "d": "2026-11-20",
    "q": "n-tv.de",
-   "type": "politik",
+   "type": "energie",
    "c": "eu"
+  },
+  {
+   "t": "Weltklimakonferenz : Ein neues Stromziel für die Welt ? Klimagipfel im Endspurt",
+   "u": "https://www.mz.de/deutschland-und-welt/politik/ein-neues-stromziel-fur-die-welt-klimagipfel-im-endspurt-4359515",
+   "d": "2026-11-20",
+   "q": "mz.de",
+   "type": "energie",
+   "c": null
   },
   {
    "t": "Drewry : Asia - Europe capacity returns via Suez – but security concerns remain | Hellenic Shipping News Worldwide",
@@ -36,11 +44,43 @@
    "c": "na"
   },
   {
+   "t": "Rätselhafter Ölfilm auf Zwickauer Mulde : Ergebnisse der Laboranalyse liegen vor",
+   "u": "https://www.freiepresse.de/zwickau/zwickau/raetselhafter-oelfilm-auf-zwickauer-mulde-ergebnisse-der-laboranalyse-liegen-vor-artikel14489349",
+   "d": "2026-11-20",
+   "q": "freiepresse.de",
+   "type": "energie",
+   "c": null
+  },
+  {
+   "t": "US - Energieminister : Europa will kein russisches Gas mehr",
+   "u": "https://www.finanznachrichten.de/nachrichten-2026-11/70178619-us-energieminister-europa-will-kein-russisches-gas-mehr-015.htm",
+   "d": "2026-11-20",
+   "q": "finanznachrichten.de",
+   "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Aktien maximal übergewichten : Warum Morgan Stanley so optimistisch ist wie lange nicht",
+   "u": "https://www.finanzen.net/nachricht/aktien/strategen-drehen-auf-risiko-midterms-und-zinswende-abgehakt-warum-morgan-stanley-aktien-jetzt-maximal-uebergewichtet-00-16070331",
+   "d": "2026-11-20",
+   "q": "finanzen.net",
+   "type": "finanz",
+   "c": null
+  },
+  {
    "t": "Was steckt hinter Putins angeblichem Geheimvermögen ?",
    "u": "https://www.derwesten.de/politik/putin-vermoegen-offshore-palast-geheimnis-mauern-fsb-id302122755.html",
    "d": "2026-11-20",
    "q": "derwesten.de",
    "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Am Kaiserstuhl wird jetzt auch Lavendel angebaut",
+   "u": "https://www.badische-zeitung.de/am-kaiserstuhl-wird-jetzt-auch-lavendel-angebaut",
+   "d": "2026-11-20",
+   "q": "badische-zeitung.de",
+   "type": "energie",
    "c": null
   },
   {
@@ -106,6 +146,14 @@
    "q": "watson.ch",
    "type": "energie",
    "c": "as"
+  },
+  {
+   "t": "2 . 800 neue Millionäre : Nach Mega - IPO : Mit Anthropic wird die KI - Blase platzen | wallstreetONLINE",
+   "u": "https://www.wallstreet-online.de/nachricht/21720201-2-800-millionaere-mega-ipo-anthropic-wird-ki-blase-platzen",
+   "d": "2026-11-19",
+   "q": "wallstreet-online.de",
+   "type": "finanz",
+   "c": null
   },
   {
    "t": "North Sea faces diver drought as veterans head for retirement",
