@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-20T09:01:40Z",
+ "stand": "2026-11-20T10:00:40Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -68,12 +68,44 @@
    "c": "as"
   },
   {
+   "t": "„ Die Leute drehen daheim die Heizung runter : Wie ein Kuchler Heizölhändler die Teuerung an der Haustür erlebt",
+   "u": "https://www.salzburg24.at/news/salzburg/tennengau/die-leute-drehen-daheim-die-heizung-runter-wie-ein-kuchler-heizoelhaendler-die-teuerung-an-der-haustuer-erlebt-art-345169",
+   "d": "2026-11-20",
+   "q": "salzburg24.at",
+   "type": "energie",
+   "c": null
+  },
+  {
    "t": "Wheat Fund Rises 1 . 4 % as Soybeans Slip | Grains Wrap , Nov 19",
    "u": "https://www.riotimesonline.com/grains-soy-corn-latam-thursday-november-19-2026/",
    "d": "2026-11-20",
    "q": "riotimesonline.com",
    "type": "rohstoffe",
    "c": null
+  },
+  {
+   "t": "Stromversorgung aktuell : Gas , Kohle , Solar , Wind - so viel Strom wird heute erzeugt ( 20 . 11 . 2026 )",
+   "u": "https://www.nwzonline.de/politik/stromversorgung-aktuell-gas-kohle-solar-wind-so-viel-strom-wird-heute-erzeugt-20-11-2026-J7KSHFAGQBGMHE35WYMKNHOADA.html",
+   "d": "2026-11-20",
+   "q": "nwzonline.de",
+   "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Straße von Hormus aktuell : Live - Karte , Schiffe , Ölpreis am 20 . 11 . 2026",
+   "u": "https://www.nwzonline.de/politik/strasse-von-hormus-aktuell-live-karte-schiffe-oelpreis-am-20-11-2026-Z25QTFEN4RFCHM7NS5LPPJZW2A.html",
+   "d": "2026-11-20",
+   "q": "nwzonline.de",
+   "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Gasversorgung in Deutschland : Tägliches Update zu Preisen , Speichern , Import und Verbrauch ( Stand : 20 . 11 . 2026 )",
+   "u": "https://www.nwzonline.de/politik/gasversorgung-in-deutschland-taegliches-update-zu-preisen-speichern-import-und-verbrauch-stand-20-11-GYGJF6NA3FHIPJ4CEZ2K23H2JU.html",
+   "d": "2026-11-20",
+   "q": "nwzonline.de",
+   "type": "energie",
+   "c": "eu"
   },
   {
    "t": "Heute startet das große Finale einer der besten Mystery - Serien : Und ihr könnt es für 2 , 50 Euro streamen",
@@ -180,28 +212,12 @@
    "c": null
   },
   {
-   "t": "US - Energieminister : Europa will kein russisches Gas mehr",
-   "u": "https://www.finanznachrichten.de/nachrichten-2026-11/70178619-us-energieminister-europa-will-kein-russisches-gas-mehr-015.htm",
-   "d": "2026-11-20",
-   "q": "finanznachrichten.de",
-   "type": "energie",
-   "c": null
-  },
-  {
    "t": "Aktien maximal übergewichten : Warum Morgan Stanley so optimistisch ist wie lange nicht",
    "u": "https://www.finanzen.net/nachricht/aktien/strategen-drehen-auf-risiko-midterms-und-zinswende-abgehakt-warum-morgan-stanley-aktien-jetzt-maximal-uebergewichtet-00-16070331",
    "d": "2026-11-20",
    "q": "finanzen.net",
    "type": "finanz",
    "c": null
-  },
-  {
-   "t": "Israel , Italy And The Eastern Med : Strategic Assets For European Energy Security In A Geopolitical Contested Area Of Hybrid Competition  - Analysis",
-   "u": "https://www.eurasiareview.com/20112026-israel-italy-and-the-eastern-med-strategic-assets-for-european-energy-eecurity-in-a-geopolitical-contested-area-of-hybrid-competition-analysis/",
-   "d": "2026-11-20",
-   "q": "eurasiareview.com",
-   "type": "energie",
-   "c": "eu"
   },
   {
    "t": "Was steckt hinter Putins angeblichem Geheimvermögen ?",
@@ -212,28 +228,12 @@
    "c": null
   },
   {
-   "t": "Hormuz blockade no bar : Iraq offers crude at steep $33 discounts as oil markets retreat from war highs",
-   "u": "https://www.businesstoday.in/world/story/hormuz-blockade-no-bar-iraq-offers-crude-at-steep-33-discounts-as-oil-markets-retreat-from-war-highs-568679-2026-11-20",
-   "d": "2026-11-20",
-   "q": "businesstoday.in",
-   "type": "energie",
-   "c": "as"
-  },
-  {
    "t": "Gold trading 72 % above fair value : Should investors book profits or continue their SIPs ?",
    "u": "https://www.businesstoday.in/personal-finance/investment/story/gold-trading-72-above-fair-value-should-investors-book-profits-or-continue-their-sips-568634-2026-11-20",
    "d": "2026-11-20",
    "q": "businesstoday.in",
    "type": "finanz",
    "c": null
-  },
-  {
-   "t": "India LPG imports may hit 1 million barrels a day by 2035 : Why the Hormuz crisis is a warning sign",
-   "u": "https://www.businesstoday.in/india/story/indias-lpg-imports-may-hit-1-million-barrels-a-day-by-2035-why-the-hormuz-crisis-is-a-warning-sign-568655-2026-11-20",
-   "d": "2026-11-20",
-   "q": "businesstoday.in",
-   "type": "energie",
-   "c": "as"
   },
   {
    "t": "Report : National Cyber Director To Resign | NewsRadio 1370 AM & 92 . 9 FM WSPD",
