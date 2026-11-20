@@ -1,8 +1,24 @@
 {
- "stand": "2026-11-20T05:00:14Z",
+ "stand": "2026-11-20T06:02:51Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Kenya Selects US - Led Consortium for Rare Earth Project",
+   "u": "https://www.theepochtimes.com/china/kenya-selects-us-led-consortium-for-rare-earth-project-6127181",
+   "d": "2026-11-20",
+   "q": "theepochtimes.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Wheat Fund Rises 1 . 4 % as Soybeans Slip | Grains Wrap , Nov 19",
+   "u": "https://www.riotimesonline.com/grains-soy-corn-latam-thursday-november-19-2026/",
+   "d": "2026-11-20",
+   "q": "riotimesonline.com",
+   "type": "rohstoffe",
+   "c": null
+  },
   {
    "t": "Ukraine - Krieg im Liveticker : +++ 00 : 30 Pistorius will Militärpakt mit Polen ausbauen und warnt vor Nationalismus +++",
    "u": "https://www.n-tv.de/politik/00-30-Pistorius-will-Militaerpakt-mit-Polen-ausbauen-und-warnt-vor-Nationalismus-id30859357.html",
@@ -26,6 +42,14 @@
    "q": "hellenicshippingnews.com",
    "type": "logistik",
    "c": null
+  },
+  {
+   "t": "Texas A & M AgriLife Research creates a hemp plant with zero THC",
+   "u": "https://www.gilmermirror.com/2026/11/19/texas-am-agrilife-research-creates-a-hemp-plant-with-zero-thc/",
+   "d": "2026-11-20",
+   "q": "gilmermirror.com",
+   "type": "rohstoffe",
+   "c": "na"
   },
   {
    "t": "Funky Taurus Media - Music Photo Agency & Products",
@@ -116,6 +140,14 @@
    "c": null
   },
   {
+   "t": "Texas A & M develops hemp plant with zero THC",
+   "u": "https://news4sanantonio.com/news/local/texas-am-develops-hemp-plant-with-zero-thc-san-antonio-texas-marijuana-cannabinoids-fiber-grain-research-genes-rare-earth",
+   "d": "2026-11-20",
+   "q": "news4sanantonio.com",
+   "type": "rohstoffe",
+   "c": "na"
+  },
+  {
    "t": "Coherent - Aktie : 2 Milliarden Dollar Rückkauf bei Rekordwachstum – warum der Optik - Spezialist jetzt auf eigene Aktien setzt",
    "u": "https://aktiencheck.de/artikel/coherent-aktie-2-milliarden-dollar-rueckkauf-bei-rekordwachstum-warum-der-optik",
    "d": "2026-11-20",
@@ -132,10 +164,26 @@
    "c": "na"
   },
   {
+   "t": "Neue Postfiliale : Wo Kunden künftig ihre Briefe und Pakete aufgeben",
+   "u": "http://www.merkur.de/lokales/garmisch-partenkirchen/garmisch-partenkirchen-ort28711/neue-postfiliale-in-garmisch-partenkirchen-eroeffnet-fuenf-mitarbeiter-kein-treppenabsatz-94598986.html",
+   "d": "2026-11-20",
+   "q": "merkur.de",
+   "type": "logistik",
+   "c": null
+  },
+  {
    "t": "Boone County employees impacted by second data breach",
    "u": "https://www.wishtv.com/news/boone-county-employees-impacted-by-second-data-breach/",
    "d": "2026-11-19",
    "q": "wishtv.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "NC officials urge water conservation as drought conditions worsen",
+   "u": "https://www.wect.com/2026/11/19/nc-officials-urge-water-conservation-drought-conditions-worsen/",
+   "d": "2026-11-19",
+   "q": "wect.com",
    "type": "rohstoffe",
    "c": null
   },
@@ -364,6 +412,14 @@
    "c": "as"
   },
   {
+   "t": "Australian firm files procurement complaint over Kenya Mrima Hill licence award",
+   "u": "https://kenya-today.com/report-australian-firm-files-procurement-complaint-over-kenyas-mrima-hill-licence-award-30244/",
+   "d": "2026-11-19",
+   "q": "kenya-today.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
    "t": "Endlich : Schnappt euch jetzt die Gratis - Prämie zu Zelda : Ocarina of Time im Nintendo Store • JPGAMES . DE",
    "u": "https://jpgames.de/2026/11/endlich-schnappt-euch-jetzt-die-gratis-praemie-zu-zelda-ocarina-of-time-im-nintendo-store/",
    "d": "2026-11-19",
@@ -393,14 +449,6 @@
    "d": "2026-11-19",
    "q": "bdnews24.com",
    "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "Paul Scribner on General Holdings Limited Role as a Principal Investor in Complex , Cross - Border Opportunities",
-   "u": "http://www.newjerseytelegraph.com/news/279443527/paul-scribner-on-general-holdings-limited-role-as-a-principal-investor-in-complex-cross-border-opportunities",
-   "d": "2026-11-19",
-   "q": "newjerseytelegraph.com",
-   "type": "rohstoffe",
    "c": null
   },
   {
