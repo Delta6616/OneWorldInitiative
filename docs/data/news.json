@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-20T02:54:59Z",
+ "stand": "2026-11-20T03:53:56Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -73,6 +73,14 @@
    "d": "2026-11-20",
    "q": "newsradio1170.iheart.com",
    "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Coherent - Aktie : 2 Milliarden Dollar Rückkauf bei Rekordwachstum – warum der Optik - Spezialist jetzt auf eigene Aktien setzt",
+   "u": "https://aktiencheck.de/artikel/coherent-aktie-2-milliarden-dollar-rueckkauf-bei-rekordwachstum-warum-der-optik",
+   "d": "2026-11-20",
+   "q": "aktiencheck.de",
+   "type": "rohstoffe",
    "c": null
   },
   {
@@ -226,6 +234,14 @@
    "q": "finanznachrichten.de",
    "type": "energie",
    "c": null
+  },
+  {
+   "t": "Flugstopp in den united states : Bruchlandung nach Routerwechsel",
+   "u": "https://www.crn.de/news/2026/translated/flugstopp-in-den-usa-bruchlandung-nach-routerwechsel",
+   "d": "2026-11-19",
+   "q": "crn.de",
+   "type": "rohstoffe",
+   "c": "na"
   },
   {
    "t": "Opinion | Voters reject data centers : Can remote areas fill the gap ?",
