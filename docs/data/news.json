@@ -1,8 +1,48 @@
 {
- "stand": "2026-11-19T23:44:24Z",
+ "stand": "2026-11-20T01:01:53Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Drewry : Asia - Europe capacity returns via Suez – but security concerns remain | Hellenic Shipping News Worldwide",
+   "u": "https://www.hellenicshippingnews.com/drewry-asia-europe-capacity-returns-via-suez-but-security-concerns-remain/",
+   "d": "2026-11-20",
+   "q": "hellenicshippingnews.com",
+   "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "Report : National Cyber Director To Resign | NewsRadio 1370 AM & 92 . 9 FM WSPD",
+   "u": "https://wspd.iheart.com/content/2026-11-19-report-national-cyber-director-to-resign/",
+   "d": "2026-11-20",
+   "q": "wspd.iheart.com",
+   "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Report : National Cyber Director To Resign | News Radio 1400 WRAK",
+   "u": "https://wrak.iheart.com/content/2026-11-19-report-national-cyber-director-to-resign/",
+   "d": "2026-11-20",
+   "q": "wrak.iheart.com",
+   "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Report : National Cyber Director To Resign",
+   "u": "https://wjdx.iheart.com/content/2026-11-19-report-national-cyber-director-to-resign/",
+   "d": "2026-11-20",
+   "q": "wjdx.iheart.com",
+   "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Report : National Cyber Director To Resign | NewsRadio 1170 WWVA",
+   "u": "https://newsradio1170.iheart.com/content/2026-11-19-report-national-cyber-director-to-resign/",
+   "d": "2026-11-20",
+   "q": "newsradio1170.iheart.com",
+   "type": "politik",
+   "c": null
+  },
   {
    "t": "Boone County employees impacted by second data breach",
    "u": "https://www.wishtv.com/news/boone-county-employees-impacted-by-second-data-breach/",
@@ -132,6 +172,14 @@
    "c": null
   },
   {
+   "t": "Nvidia Slides After Blowout Earnings As Investigations Line Up",
+   "u": "https://www.investors.com/research/nvidia-nvda-stock-earnings-buy-now-november-2026/",
+   "d": "2026-11-19",
+   "q": "investors.com",
+   "type": "politik",
+   "c": null
+  },
+  {
    "t": "Funky Taurus Media - Music Photo Agency & Products",
    "u": "https://www.funkytaurusmedia.com/shop_content.php?coID=3&XTCsid=ml2r9dfhi8ebm5756s4jcug253",
    "d": "2026-11-19",
@@ -177,6 +225,14 @@
    "d": "2026-11-19",
    "q": "aol.com",
    "type": "energie",
+   "c": "na"
+  },
+  {
+   "t": "At historic summit , Xi and Putin share global stage with weakened Trump",
+   "u": "https://www.adn.com/nation-world/2026/11/19/at-historic-summit-xi-and-putin-share-global-stage-with-weakened-trump/",
+   "d": "2026-11-19",
+   "q": "adn.com",
+   "type": "politik",
    "c": "na"
   },
   {
@@ -1105,270 +1161,6 @@
    "d": "2026-11-15",
    "q": "thedailytimes.com",
    "type": "politik",
-   "c": "na"
-  },
-  {
-   "t": "What caused the FAA ground stop ? Officials point to router failure during update",
-   "u": "https://www.wtvr.com/life/travel/what-caused-the-faa-ground-stop-officials-point-to-router-failure",
-   "d": "2026-11-14",
-   "q": "wtvr.com",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "With shifting Iran rhetoric , Trump leaves Mideast in limbo",
-   "u": "https://www.wisn.com/article/iran-rhetoric-elections-trump-mideast-limbo/74431136",
-   "d": "2026-11-14",
-   "q": "wisn.com",
-   "type": "logistik",
-   "c": null
-  },
-  {
-   "t": "Power outage at Livonia substation causes outages across Pointe Coupee Parish",
-   "u": "https://www.wbrz.com/news/power-outage-at-livonia-substation-causes-outages-across-pointe-coupee-parish",
-   "d": "2026-11-14",
-   "q": "wbrz.com",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Haryana Agriculture Minister assures oilseed purchase centre at Pipli grain market",
-   "u": "https://www.tribuneindia.com/news/haryana/haryana-agriculture-minister-assures-oilseed-purchase-centre-at-pipli-grain-market/",
-   "d": "2026-11-14",
-   "q": "tribuneindia.com",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Nvidia risks losing critical supply chain deals without Jensen Huang , warns Elon Musk",
-   "u": "https://www.tribuneindia.com/news/business/nvidia-risks-losing-critical-supply-chain-deals-without-jensen-huang-warns-elon-musk/",
-   "d": "2026-11-14",
-   "q": "tribuneindia.com",
-   "type": "logistik",
-   "c": null
-  },
-  {
-   "t": "Azerbaijani bank Bloomberg deals approach $34B in nine months",
-   "u": "https://www.trend.az/azerbaijan/4246502.html",
-   "d": "2026-11-14",
-   "q": "trend.az",
-   "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "IRAN SHOWDOWN : Trump Weighs Halting New Strikes Despite Israeli Pressure As U . S . Tightens Economic Blockade",
-   "u": "https://www.theyeshivaworld.com/news/israel-news/2623104/iran-showdown-trump-weighs-halting-new-strikes-despite-israeli-pressure-as-u-s-tightens-economic-blockade.html",
-   "d": "2026-11-14",
-   "q": "theyeshivaworld.com",
-   "type": "logistik",
-   "c": "as"
-  },
-  {
-   "t": "Why the US had to shut down its airspace and ground all flights",
-   "u": "https://www.theage.com.au/world/north-america/an-old-copper-line-in-the-bush-why-the-us-had-to-shut-down-its-airspace-20261115-p61e6x.html",
-   "d": "2026-11-14",
-   "q": "theage.com.au",
-   "type": "rohstoffe",
-   "c": "na"
-  },
-  {
-   "t": "Retirement planning : Paul Benson advises on superannuation strategy and salary sacrifice",
-   "u": "https://www.smh.com.au/money/planning-and-budgeting/i-m-worried-our-super-could-get-hacked-is-my-money-safer-in-the-bank-20261115-p61dw1.html",
-   "d": "2026-11-14",
-   "q": "smh.com.au",
-   "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "Zelenskyy says a new European security framework floated by US could benefit Putin",
-   "u": "https://www.newsday.com/news/nation/russia-ukraine-war-nato-us-zelenskyy-n54910",
-   "d": "2026-11-14",
-   "q": "newsday.com",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Bank of Baroda raises rates on 555 - day  bob Golden Goal  deposit by 10 bps | MorungExpress",
-   "u": "https://www.morungexpress.com/bank-of-baroda-raises-rates-on-555-day-bob-golden-goal-deposit-by-10-bps",
-   "d": "2026-11-14",
-   "q": "morungexpress.com",
-   "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "Ukraine Open Thread 2026 - 251 – Moon of Alabama",
-   "u": "https://www.moonofalabama.org/2026/11/ukraine-open-thread-2026-251.html/comment-page-2",
-   "d": "2026-11-14",
-   "q": "moonofalabama.org",
-   "type": "politik",
-   "c": "eu"
-  },
-  {
-   "t": "How the Nvidia scandal lifted the curtain on a loophole that giving China access to US chips | Business",
-   "u": "https://www.kten.com/news/business/how-the-nvidia-scandal-lifted-the-curtain-on-a-loophole-that-s-giving-china-access/article_e4b6e215-c378-52ac-a9c3-c83dcc324a38.html",
-   "d": "2026-11-14",
-   "q": "kten.com",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "Trump , Xi and Putin plan an unprecedented joint meeting , White House says",
-   "u": "https://www.kcbd.com/2026/11/14/trump-xi-putin-plan-an-unprecedented-joint-meeting-white-house-says/",
-   "d": "2026-11-14",
-   "q": "kcbd.com",
-   "type": "politik",
-   "c": "na"
-  },
-  {
-   "t": "What Citi Expects From Alibaba ( BABA ) Before November 19",
-   "u": "https://www.insidermonkey.com/news/what-citi-expects-from-alibaba-baba-before-november-19-1865512/",
-   "d": "2026-11-14",
-   "q": "insidermonkey.com",
-   "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "What Caused the US FAA Ground Stop and How Did a Copper - To - Fibre Switch Disrupt Flight Radar Feeds ?",
-   "u": "https://www.ibtimes.co.uk/faa-ground-stop-fibre-upgrade-network-fault-1832252",
-   "d": "2026-11-14",
-   "q": "ibtimes.co.uk",
-   "type": "rohstoffe",
-   "c": "na"
-  },
-  {
-   "t": "Geschenke für die Schwiegertochter : 15 schöne Ideen",
-   "u": "https://www.freundin.de/lifestyle/geschenke-fuer-schwiegertochter-ideen",
-   "d": "2026-11-14",
-   "q": "freundin.de",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Solarförderung für kleine Anlagen soll bleiben",
-   "u": "https://www.die-glocke.de/blickindiewelt/solarfoerderung-fuer-kleine-anlagen-soll-bleiben-1794671402",
-   "d": "2026-11-14",
-   "q": "die-glocke.de",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "Nur für kurze Zeit ! Ferrero bringt eine völlig neue Nutella - Sorte heraus",
-   "u": "https://www.berliner-kurier.de:443/article/ferrero-neue-nutella-sorte-limited-edition-10597476",
-   "d": "2026-11-14",
-   "q": "berliner-kurier.de:443",
-   "type": "energie",
-   "c": "na"
-  },
-  {
-   "t": "Meyer Werft : MSC verhandelt über Einstieg bei Schiffbauer",
-   "u": "https://www.az-online.de/wirtschaft/meyer-werft-msc-verhandelt-ueber-einstieg-bei-schiffbauer-zr-94590423.html",
-   "d": "2026-11-14",
-   "q": "az-online.de",
-   "type": "logistik",
-   "c": null
-  },
-  {
-   "t": "Urlauber - Trick spart viel Geld : So kostet der Mietwagen weniger",
-   "u": "https://www.az-online.de/verbraucher/urlauber-trick-spart-viel-geld-so-kostet-der-mietwagen-weniger-zr-94590403.html",
-   "d": "2026-11-14",
-   "q": "az-online.de",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "Retired banker loses ₹42L in 15 - day  digital arrest  | Rajkot News",
-   "u": "https://timesofindia.indiatimes.com/city/rajkot/retired-banker-loses-42l-in-15-day-digital-arrest/articleshow/135841352.cms",
-   "d": "2026-11-14",
-   "q": "timesofindia.indiatimes.com",
-   "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "Drought slows state rabi sowing ; deficit hits 5 . 4 lakh hectares | Pune News",
-   "u": "https://timesofindia.indiatimes.com/city/pune/drought-slows-states-rabi-sowing-deficit-hits-5-4-lakh-hectares/articleshow/135842195.cms",
-   "d": "2026-11-14",
-   "q": "timesofindia.indiatimes.com",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Technology reshapes China agricultural modernization",
-   "u": "https://peoplesreview.com.np/2026/11/14/technology-reshapes-chinas-agricultural-modernization/",
-   "d": "2026-11-14",
-   "q": "peoplesreview.com.np",
-   "type": "rohstoffe",
-   "c": "as"
-  },
-  {
-   "t": "Standortkosten erschweren die Dekarbonisierung",
-   "u": "https://nnz-online.de/news/news_lang.php?ArtNr=394858&kom=1",
-   "d": "2026-11-14",
-   "q": "nnz-online.de",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Dramatic drop in US home sales in October",
-   "u": "https://littleapplepost.com/posts/d34492de-e62d-4cff-8a92-69bc4fae244c",
-   "d": "2026-11-14",
-   "q": "littleapplepost.com",
-   "type": "finanz",
-   "c": "na"
-  },
-  {
-   "t": "Crimson Desert Developer Doubles Down On AI Controversy",
-   "u": "https://gamerant.com/pearl-abyss-crimson-desert-ai-development/",
-   "d": "2026-11-14",
-   "q": "gamerant.com",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Protesters urge united kingdom to impose sanctions on Israel over Gaza genocide - Shafaqna English",
-   "u": "https://en.shafaqna.com/491991/protesters-urge-uk-to-impose-sanctions-on-israel-over-gaza-genocide/",
-   "d": "2026-11-14",
-   "q": "en.shafaqna.com",
-   "type": "politik",
-   "c": "as"
-  },
-  {
-   "t": "WMO : Central America Prepares for drought - Shafaqna English | International Shia News & Fatwas",
-   "u": "https://en.shafaqna.com/491985/wmo-central-america-prepares-for-drought/",
-   "d": "2026-11-14",
-   "q": "en.shafaqna.com",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Oil markets stay flush despite tanker attacks",
-   "u": "https://economictimes.indiatimes.com/industry/energy/oil-gas/oil-markets-stay-flush-despite-tanker-attacks/articleshow/135841578.cms",
-   "d": "2026-11-14",
-   "q": "economictimes.indiatimes.com",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Grammelpogatscherl und Hausstangerl",
-   "u": "https://burgenland.orf.at/magazin/stories/3379583/",
-   "d": "2026-11-14",
-   "q": "burgenland.orf.at",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Israeli drone strike kills 2 Palestinians in Gaza , and other Mideast news",
-   "u": "https://bakersfieldnow.com/news/nation-world/israeli-drone-strike-kills-2-palestinians-in-gaza-and-other-mideast-news",
-   "d": "2026-11-14",
-   "q": "bakersfieldnow.com",
-   "type": "logistik",
-   "c": "as"
-  },
-  {
-   "t": "Handpuppen - Ausstellung in Hanau zeigt Set von Arnold Böcklins Sohn aus dem Jahr 1911",
-   "u": "http://www.op-online.de/region/hanau/handpuppen-ausstellung-in-hanau-zeigt-set-von-arnold-boecklins-sohn-aus-dem-jahr-1911-94589134.html",
-   "d": "2026-11-14",
-   "q": "op-online.de",
-   "type": "rohstoffe",
    "c": "na"
   }
  ]
