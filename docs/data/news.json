@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-20T17:57:23Z",
+ "stand": "2026-11-20T18:58:56Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -44,6 +44,14 @@
    "c": "as"
   },
   {
+   "t": "No real progres reported in trade talks with Trump",
+   "u": "https://www.therecord.com/politics/federal/donald-trump-s-midterm-drubbing-hasn-t-sped-up-canada-s-trade-talks-sources-say/article_d3822e6c-f43d-5d80-9cd7-32d0a8047d76.html",
+   "d": "2026-11-20",
+   "q": "therecord.com",
+   "type": "politik",
+   "c": "na"
+  },
+  {
    "t": "Bonds vs equities : India stock market rally faces valuation test",
    "u": "https://www.thehindubusinessline.com/markets/bonds-vs-equities-indias-stock-market-rally-faces-valuation-test/article71722968.ece",
    "d": "2026-11-20",
@@ -57,6 +65,14 @@
    "d": "2026-11-20",
    "q": "theepochtimes.com",
    "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Analysis : Jensen Huang Scandal Could Prompt US to Further Tighten Chip Controls on China",
+   "u": "https://www.theepochtimes.com/china/analysis-jensen-huang-scandal-could-prompt-us-to-further-tighten-chip-controls-on-china-6125292",
+   "d": "2026-11-20",
+   "q": "theepochtimes.com",
+   "type": "politik",
    "c": null
   },
   {
@@ -252,6 +268,14 @@
    "c": null
   },
   {
+   "t": "Nvidia faces California probe over restricted China chip flows and investor disclosures",
+   "u": "https://www.businesstoday.in/world/story/nvidia-faces-california-probe-over-restricted-china-chip-flows-and-investor-disclosures-568646-2026-11-20",
+   "d": "2026-11-20",
+   "q": "businesstoday.in",
+   "type": "politik",
+   "c": "as"
+  },
+  {
    "t": "Gold trading 72 % above fair value : Should investors book profits or continue their SIPs ?",
    "u": "https://www.businesstoday.in/personal-finance/investment/story/gold-trading-72-above-fair-value-should-investors-book-profits-or-continue-their-sips-568634-2026-11-20",
    "d": "2026-11-20",
@@ -292,14 +316,6 @@
    "c": "as"
   },
   {
-   "t": "Report : National Cyber Director To Resign | NewsRadio 1170 WWVA",
-   "u": "https://newsradio1170.iheart.com/content/2026-11-19-report-national-cyber-director-to-resign/",
-   "d": "2026-11-20",
-   "q": "newsradio1170.iheart.com",
-   "type": "politik",
-   "c": null
-  },
-  {
    "t": "Texas A & M develops hemp plant with zero THC",
    "u": "https://news4sanantonio.com/news/local/texas-am-develops-hemp-plant-with-zero-thc-san-antonio-texas-marijuana-cannabinoids-fiber-grain-research-genes-rare-earth",
    "d": "2026-11-20",
@@ -338,14 +354,6 @@
    "q": "aa.com.tr",
    "type": "logistik",
    "c": "as"
-  },
-  {
-   "t": "Putins Trumpf im Machtpoker mit Trump : Uran - Abhängigkeit greift",
-   "u": "http://www.wlz-online.de/wirtschaft/putin-hat-einen-trumpf-im-machtpoker-mit-trump-ausgerechnet-amerikas-atomkraftwerke-zr-94599265.html",
-   "d": "2026-11-20",
-   "q": "wlz-online.de",
-   "type": "politik",
-   "c": "na"
   },
   {
    "t": "Neue Postfiliale : Wo Kunden künftig ihre Briefe und Pakete aufgeben",
