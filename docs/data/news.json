@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-20T22:48:02Z",
+ "stand": "2026-11-20T23:48:32Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -16,6 +16,14 @@
    "u": "https://www.wgal.com/article/pa-elizabethtown-residents-asked-to-conserve-natural-gas-pipeline-damage/74481100",
    "d": "2026-11-20",
    "q": "wgal.com",
+   "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Esco Technologies Aktie ( ESE ) | Aktienkurs » US2963151046",
+   "u": "https://www.wallstreet-online.de/aktien/esco-technologies-aktie",
+   "d": "2026-11-20",
+   "q": "wallstreet-online.de",
    "type": "energie",
    "c": null
   },
@@ -76,12 +84,28 @@
    "c": null
   },
   {
+   "t": "Atlantico Announces AGM Results and Provides Overview of Its Exploration Portfolio in Brazil and Canada",
+   "u": "https://www.stratfordbeaconherald.com/press-releases/newsfile/atlantico-announces-agm-results-and-provides-overview-of-its-exploration-portfolio-in-brazil-and-canada/",
+   "d": "2026-11-20",
+   "q": "stratfordbeaconherald.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
    "t": "Singapore energy security : Diversification and natural gas",
    "u": "https://www.straitstimes.com/singapore/environment/diversifying-energy-sources-and-fuel-suppliers-key-to-self-sufficiency-in-spore-tan-see-leng",
    "d": "2026-11-20",
    "q": "straitstimes.com",
    "type": "energie",
    "c": "as"
+  },
+  {
+   "t": "Ford  not going anywhere , company Canada CEO says",
+   "u": "https://www.stcatharinesstandard.ca/business/ford-not-going-anywhere-national-ceo-says-as-oakville-assembly-plant-reopens/article_2132527e-6d50-5427-ae25-8c8c30e62d2e.html",
+   "d": "2026-11-20",
+   "q": "stcatharinesstandard.ca",
+   "type": "politik",
+   "c": "na"
   },
   {
    "t": "„ Die Leute drehen daheim die Heizung runter : Wie ein Kuchler Heizölhändler die Teuerung an der Haustür erlebt",
@@ -106,6 +130,14 @@
    "q": "prnewswire.com",
    "type": "logistik",
    "c": null
+  },
+  {
+   "t": "ROUNDUP / Mordkomplott : Dänen weisen russischen Diplomaten aus",
+   "u": "https://www.onvista.de/news/2026/11-20-roundup-mordkomplott-daenen-weisen-russischen-diplomaten-aus-0-10-26578992",
+   "d": "2026-11-20",
+   "q": "onvista.de",
+   "type": "politik",
+   "c": "na"
   },
   {
    "t": "Devisen : Euro stagniert auf tiefstem Stand seit April 2025",
@@ -204,6 +236,14 @@
    "c": null
   },
   {
+   "t": "Chile Mining Portfolio Hits $111B Lithium Doubles , Copper Holds Firm",
+   "u": "https://www.latintimes.com/chile-mining-investment-pipeline-2026-2035-601632",
+   "d": "2026-11-20",
+   "q": "latintimes.com",
+   "type": "rohstoffe",
+   "c": "sa"
+  },
+  {
    "t": "BOJ rate hikes raise mortgage payment fears - Jamaica Observer",
    "u": "https://www.jamaicaobserver.com/2026/11/19/boj-rate-hikes-raise-mortgage-payment-fears/",
    "d": "2026-11-20",
@@ -250,14 +290,6 @@
    "q": "funkytaurusmedia.com",
    "type": "logistik",
    "c": "na"
-  },
-  {
-   "t": "Rätselhafter Ölfilm auf Zwickauer Mulde : Ergebnisse der Laboranalyse liegen vor",
-   "u": "https://www.freiepresse.de/zwickau/zwickau/raetselhafter-oelfilm-auf-zwickauer-mulde-ergebnisse-der-laboranalyse-liegen-vor-artikel14489349",
-   "d": "2026-11-20",
-   "q": "freiepresse.de",
-   "type": "energie",
-   "c": null
   },
   {
    "t": "TAGESVORSCHAU / Freitag , 20 . November",
@@ -316,36 +348,12 @@
    "c": null
   },
   {
-   "t": "Report : National Cyber Director To Resign | News Radio 1400 WRAK",
-   "u": "https://wrak.iheart.com/content/2026-11-19-report-national-cyber-director-to-resign/",
-   "d": "2026-11-20",
-   "q": "wrak.iheart.com",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "Report : National Cyber Director To Resign",
-   "u": "https://wjdx.iheart.com/content/2026-11-19-report-national-cyber-director-to-resign/",
-   "d": "2026-11-20",
-   "q": "wjdx.iheart.com",
-   "type": "politik",
-   "c": null
-  },
-  {
    "t": "India wheat area set for biggest drop in 26 years as farmers switch crops | 104 . 1 WIKY",
    "u": "https://wiky.com/2026/11/20/indias-wheat-area-set-for-biggest-drop-in-26-years-as-farmers-switch-crops/",
    "d": "2026-11-20",
    "q": "wiky.com",
    "type": "rohstoffe",
    "c": "as"
-  },
-  {
-   "t": "Texas A & M develops hemp plant with zero THC",
-   "u": "https://news4sanantonio.com/news/local/texas-am-develops-hemp-plant-with-zero-thc-san-antonio-texas-marijuana-cannabinoids-fiber-grain-research-genes-rare-earth",
-   "d": "2026-11-20",
-   "q": "news4sanantonio.com",
-   "type": "rohstoffe",
-   "c": "na"
   },
   {
    "t": "Indian Jewellery Stocks Extend Slide as Gold , Silver Prices Fall",
@@ -362,14 +370,6 @@
    "q": "econotimes.com",
    "type": "finanz",
    "c": null
-  },
-  {
-   "t": "East Africa : Kenya Selects US - Led Consortium to Develop Rare Earth Minerals",
-   "u": "https://allafrica.com/stories/202611200045.html",
-   "d": "2026-11-20",
-   "q": "allafrica.com",
-   "type": "rohstoffe",
-   "c": "af"
   },
   {
    "t": "OPINION - Yemen and Bab al - Mandeb : Second maritime front in the US – Iranian confrontation",
