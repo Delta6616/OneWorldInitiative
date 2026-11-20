@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-20T16:58:28Z",
+ "stand": "2026-11-20T17:57:23Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -81,6 +81,14 @@
    "d": "2026-11-20",
    "q": "riotimesonline.com",
    "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "AtomVie Global Radiopharma und ITM schließen Liefervereinbarung über n . c . a . Lutetium - 177",
+   "u": "https://www.prnewswire.com/news-releases/atomvie-global-radiopharma-und-itm-schlieWen-liefervereinbarung-uber-nca-lutetium-177-302946579.html",
+   "d": "2026-11-20",
+   "q": "prnewswire.com",
+   "type": "logistik",
    "c": null
   },
   {
@@ -176,6 +184,14 @@
    "u": "https://www.hellenicshippingnews.com/drewry-asia-europe-capacity-returns-via-suez-but-security-concerns-remain/",
    "d": "2026-11-20",
    "q": "hellenicshippingnews.com",
+   "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "Windenergie : Wie Indiens reichster Mann mit deutschem Know - how nach Europa drängt",
+   "u": "https://www.handelsblatt.com/unternehmen/energie/windenergie-wie-indiens-reichster-mann-mit-deutschem-know-how-nach-europa-draengt-01/100268626.html",
+   "d": "2026-11-20",
+   "q": "handelsblatt.com",
    "type": "logistik",
    "c": null
   },
