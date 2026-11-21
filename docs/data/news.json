@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-21T16:46:12Z",
+ "stand": "2026-11-21T17:43:42Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -36,12 +36,36 @@
    "c": null
   },
   {
+   "t": "Chefin von russischem Onlinehändler Wildberries tritt zurück",
+   "u": "https://www.onvista.de/news/2026/11-21-chefin-von-russischem-onlinehaendler-wildberries-tritt-zurueck-0-10-26579066",
+   "d": "2026-11-21",
+   "q": "onvista.de",
+   "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Seltene Erden : Pforzheimer Start - up will Abhängigkeit mit Schrott durchbrechen",
+   "u": "https://www.handelsblatt.com/unternehmen/industrie/seltene-erden-pforzheimer-start-up-will-abhaengigkeit-mit-schrott-durchbrechen/100268500.html",
+   "d": "2026-11-21",
+   "q": "handelsblatt.com",
+   "type": "politik",
+   "c": null
+  },
+  {
    "t": "Ausfuhrstopp für Plastikmüll aus der EU in viele Länder - Wirtschafts - Nachrichten - Reutlinger General - Anzeiger",
    "u": "https://www.gea.de/welt/wirtschaft_artikel,-ausfuhrstopp-f%C3%BCr-plastikm%C3%BCll-aus-der-eu-in-viele-l%C3%A4nder-_arid,7176305.html",
    "d": "2026-11-21",
    "q": "gea.de",
    "type": "politik",
    "c": null
+  },
+  {
+   "t": "EU und Indonesien unterzeichnen weitreichenden Handelsdeal",
+   "u": "https://www.finanznachrichten.de/nachrichten-2026-11/70195539-eu-und-indonesien-unterzeichnen-weitreichenden-handelsdeal-016.htm",
+   "d": "2026-11-21",
+   "q": "finanznachrichten.de",
+   "type": "politik",
+   "c": "eu"
   },
   {
    "t": "Canada - U . S . trade : Trump says Canada feeling  emboldened",
@@ -81,6 +105,14 @@
    "d": "2026-11-21",
    "q": "agrarheute.com",
    "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "PKV - Beiträge steigen 2027 : Neun Fälle zeigen drastische Mehrkosten",
+   "u": "http://www.merkur.de/wirtschaft/private-krankenversicherung-pkv-beitraege-2027-erhoehung-versicherer-vergleich-zr-94601498.html",
+   "d": "2026-11-21",
+   "q": "merkur.de",
+   "type": "politik",
    "c": null
   },
   {
