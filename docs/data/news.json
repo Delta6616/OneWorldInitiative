@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-21T03:53:00Z",
+ "stand": "2026-11-21T04:56:46Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -33,6 +33,14 @@
    "d": "2026-11-21",
    "q": "az-online.de",
    "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Landwirte verlieren 60 Euro pro Tier , jetzt verkaufen sie extra billige Bratwurst",
+   "u": "https://www.agrarheute.com/tier/schwein/landwirte-verlieren-60-euro-pro-tier-verkaufen-extra-billige-bratwurst-644053",
+   "d": "2026-11-21",
+   "q": "agrarheute.com",
+   "type": "logistik",
    "c": null
   },
   {
