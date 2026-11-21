@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-21T02:11:36Z",
+ "stand": "2026-11-21T03:53:00Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -9,6 +9,30 @@
    "d": "2026-11-21",
    "q": "tele.at",
    "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Umwelt : Ausfuhrstopp für Plastikmüll aus der EU in viele Länder",
+   "u": "https://www.oz-online.de/artikel/1705602/Ausfuhrstopp-fuer-Plastikmuell-aus-der-EU-in-viele-Laender",
+   "d": "2026-11-21",
+   "q": "oz-online.de",
+   "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Ausfuhrstopp für Plastikmüll aus der EU in viele Länder - Wirtschafts - Nachrichten - Reutlinger General - Anzeiger",
+   "u": "https://www.gea.de/welt/wirtschaft_artikel,-ausfuhrstopp-f%C3%BCr-plastikm%C3%BCll-aus-der-eu-in-viele-l%C3%A4nder-_arid,7176305.html",
+   "d": "2026-11-21",
+   "q": "gea.de",
+   "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Ausfuhrstopp für Plastikmüll aus der EU in viele Länder",
+   "u": "https://www.az-online.de/wirtschaft/ausfuhrstopp-fuer-plastikmuell-aus-der-eu-in-viele-laender-zr-94601259.html",
+   "d": "2026-11-21",
+   "q": "az-online.de",
+   "type": "politik",
    "c": null
   },
   {
