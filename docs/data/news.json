@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-21T06:38:16Z",
+ "stand": "2026-11-21T07:06:41Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -8,6 +8,14 @@
    "u": "https://www.tele.at/tv-programm/sendungen/108300/gerhard-polt-die-well-bruder-ausm-biermoos",
    "d": "2026-11-21",
    "q": "tele.at",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Aktion 100 . 000 und Ulmer helft : Goldbarren und 10 . 000 Euro - Gutschein für große Benefiz - Versteigerung",
+   "u": "https://www.swp.de/lokales/ulm/aktion-100000-und-ulmer-helft-goldbarren-und-10000-euro-gutschein-fuer-grosse-benefiz-versteigerung-79723694.html",
+   "d": "2026-11-21",
+   "q": "swp.de",
    "type": "rohstoffe",
    "c": null
   },
@@ -26,6 +34,14 @@
    "q": "gea.de",
    "type": "politik",
    "c": null
+  },
+  {
+   "t": "Canada - U . S . trade : Trump says Canada feeling  emboldened",
+   "u": "https://www.bnnbloomberg.ca/tariffs/2026/11/20/trump-says-canada-feeling-emboldened-but-hes-seeking-a-fair-trade-deal/",
+   "d": "2026-11-21",
+   "q": "bnnbloomberg.ca",
+   "type": "politik",
+   "c": "na"
   },
   {
    "t": "Ausfuhrstopp für Plastikmüll aus der EU in viele Länder",
@@ -970,14 +986,6 @@
    "q": "bnnbloomberg.ca",
    "type": "politik",
    "c": "na"
-  },
-  {
-   "t": "Jensen Huang signals interest in return to role as Nvidia CEO",
-   "u": "https://www.bnnbloomberg.ca/business/2026/11/17/nvidia-chairman-says-board-does-not-intend-to-reinstate-jensen-huang-as-ceo/",
-   "d": "2026-11-18",
-   "q": "bnnbloomberg.ca",
-   "type": "politik",
-   "c": null
   },
   {
    "t": "Nvidia chair says the board will not rehire Huang as CEO",
