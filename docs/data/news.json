@@ -1,8 +1,32 @@
 {
- "stand": "2026-11-20T23:48:32Z",
+ "stand": "2026-11-21T01:05:08Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Gerhard Polt & die Well - Brüder ausm Biermoos",
+   "u": "https://www.tele.at/tv-programm/sendungen/108300/gerhard-polt-die-well-bruder-ausm-biermoos",
+   "d": "2026-11-21",
+   "q": "tele.at",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Bauernregeln zum Winter : Was die Natur an Frost und Schnee vorhersagt",
+   "u": "https://www.agrarheute.com/land-leben/bauernregeln-winter-natur-frost-schnee-vorhersagt-644087",
+   "d": "2026-11-21",
+   "q": "agrarheute.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Agri - PV auf guten Ackerböden : Warum Landwirtin 200 Hektar für Solarstrom nutzen will",
+   "u": "https://www.agrarheute.com/energie/agri-pv-guten-ackerboeden-landwirtin-200-hektar-fuer-solarstrom-nutzen-will-644063",
+   "d": "2026-11-21",
+   "q": "agrarheute.com",
+   "type": "rohstoffe",
+   "c": null
+  },
   {
    "t": "Mechanicsburg , Pa ., woman accused of embezzling $16 , 000 from bank",
    "u": "https://www.wgal.com/article/pa-mechanicsburg-woman-accused-of-embezzling-woodforest-national-bank/74481156",
@@ -106,6 +130,14 @@
    "q": "stcatharinesstandard.ca",
    "type": "politik",
    "c": "na"
+  },
+  {
+   "t": "Meilenstein für Dethleffs : Ist hier das Wohnmobil der Zukunft ?",
+   "u": "https://www.schwaebische.de/regional/allgaeu/isny/meilenstein-fuer-dethleffs-ist-hier-das-wohnmobil-der-zukunft-5017428",
+   "d": "2026-11-20",
+   "q": "schwaebische.de",
+   "type": "rohstoffe",
+   "c": null
   },
   {
    "t": "„ Die Leute drehen daheim die Heizung runter : Wie ein Kuchler Heizölhändler die Teuerung an der Haustür erlebt",
@@ -346,14 +378,6 @@
    "q": "wspd.iheart.com",
    "type": "politik",
    "c": null
-  },
-  {
-   "t": "India wheat area set for biggest drop in 26 years as farmers switch crops | 104 . 1 WIKY",
-   "u": "https://wiky.com/2026/11/20/indias-wheat-area-set-for-biggest-drop-in-26-years-as-farmers-switch-crops/",
-   "d": "2026-11-20",
-   "q": "wiky.com",
-   "type": "rohstoffe",
-   "c": "as"
   },
   {
    "t": "Indian Jewellery Stocks Extend Slide as Gold , Silver Prices Fall",
@@ -1346,190 +1370,6 @@
    "q": "1450wkip.iheart.com",
    "type": "rohstoffe",
    "c": null
-  },
-  {
-   "t": "Technik - Panne in den united states : Weiter Tausende Flüge gestrichen",
-   "u": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/panorama_nt/article6af95a7a4495f9bd85b807a2/technik-panne-in-den-usa-weiter-tausende-fluege-gestrichen.html",
-   "d": "2026-11-15",
-   "q": "welt.de",
-   "type": "rohstoffe",
-   "c": "na"
-  },
-  {
-   "t": "Aeschi unterschrieb Absichtserklärung schon Wochen vor Kandidatur",
-   "u": "https://www.watson.ch/schweiz/gesellschaft-politik/580723686-aeschi-unterschrieb-absichtserklaerung-schon-wochen-vor-kandidatur",
-   "d": "2026-11-15",
-   "q": "watson.ch",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "Japan business delegation to seek loan of giant panda from China",
-   "u": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/15/japan-business-delegation-to-seek-loan-of-giant-panda-from-china",
-   "d": "2026-11-15",
-   "q": "thestar.com.my",
-   "type": "rohstoffe",
-   "c": "as"
-  },
-  {
-   "t": "17th Agrovision to focus on water mgmt , crop planning",
-   "u": "https://www.thehitavada.com/Encyc/2026/11/15/17th-agrovision-to-focus-on-water-mgmt-crop-planning.html",
-   "d": "2026-11-15",
-   "q": "thehitavada.com",
-   "type": "rohstoffe",
-   "c": "na"
-  },
-  {
-   "t": "ONGC takes charge of Cambay block as Vedanta records ₹379 crore impairment",
-   "u": "https://www.thehindubusinessline.com/companies/ongc-takes-charge-of-cambay-block-as-vedanta-records-379-crore-impairment/article71704266.ece",
-   "d": "2026-11-15",
-   "q": "thehindubusinessline.com",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Motherson eyes bigger India play with global technologies amid auto sector shift",
-   "u": "https://www.thehindubusinessline.com/companies/motherson-eyes-bigger-india-play-with-global-technologies-amid-auto-sector-shift/article71704177.ece",
-   "d": "2026-11-15",
-   "q": "thehindubusinessline.com",
-   "type": "rohstoffe",
-   "c": "as"
-  },
-  {
-   "t": "Sirens sound in Bahrain as Iran Guards claim drone attack",
-   "u": "https://www.rnz.co.nz/news/world/2609842/sirens-sound-in-bahrain-as-iran-s-guards-claim-drone-attack",
-   "d": "2026-11-15",
-   "q": "rnz.co.nz",
-   "type": "logistik",
-   "c": "as"
-  },
-  {
-   "t": "Blasts , sirens in Bahrain as Iran attacks on US base",
-   "u": "https://www.omanobserver.om/article/1199692/world/region/blasts-sirens-in-bahrain-as-iran-attacks-on-us-base",
-   "d": "2026-11-15",
-   "q": "omanobserver.om",
-   "type": "logistik",
-   "c": null
-  },
-  {
-   "t": "Jobcenter : Wann Bürgergeld und Grundsicherung gekürzt werden",
-   "u": "https://www.merkur.de/verbraucher/jobcenter-wann-buergergeld-und-grundsicherung-gekuerzt-werden-zr-94590476.html",
-   "d": "2026-11-15",
-   "q": "merkur.de",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "Putins Friedensplan für die Ukraine : Das Ultimatum von vor dem Krieg",
-   "u": "https://www.merkur.de/politik/putins-friedensplan-fuer-die-ukraine-das-ultimatum-von-vor-dem-krieg-zuzueglich-zinsen-zr-94590480.html",
-   "d": "2026-11-15",
-   "q": "merkur.de",
-   "type": "finanz",
-   "c": "eu"
-  },
-  {
-   "t": "Russian economy growth slows to 1 percent in third quarter",
-   "u": "https://www.hurriyetdailynews.com/russian-economy-growth-slows-to-1-percent-in-third-quarter-229399",
-   "d": "2026-11-15",
-   "q": "hurriyetdailynews.com",
-   "type": "politik",
-   "c": "eu"
-  },
-  {
-   "t": "SPD - Machtkampf : Wer nach Heils Bewerbung zu Klingbeil hält",
-   "u": "https://www.hna.de/politik/spd-machtkampf-wer-nach-heils-bewerbung-zu-klingbeil-haelt-zr-94590515.html",
-   "d": "2026-11-15",
-   "q": "hna.de",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "Göttinger Weihnachtsmarkt 2025 : 17 Buslinien trotz Sperrungen",
-   "u": "https://www.hna.de/lokales/goettingen/goettingen-ort28741/goettinger-weihnachtsmarkt-2025-17-buslinien-trotz-sperrungen-94589507.html",
-   "d": "2026-11-15",
-   "q": "hna.de",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "Kritik an  Last Christmas : Giovanni Zarrella findet klare Worte",
-   "u": "https://www.gmx.at/magazine/unterhaltung/stars/kritik-last-christmas-giovanni-zarrella-worte-42945194",
-   "d": "2026-11-15",
-   "q": "gmx.at",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "From bicycle parts to satellites : Inside Sunil Mittal 50 - year journey",
-   "u": "https://www.business-standard.com/companies/people/from-bicycle-parts-to-satellites-inside-sunil-mittal-s-50-year-journey-126111500180_1.html",
-   "d": "2026-11-15",
-   "q": "business-standard.com",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "Motherson eyes bigger India play with global technologies to drive growth",
-   "u": "https://www.business-standard.com/companies/news/motherson-eyes-bigger-india-play-with-global-technologies-to-drive-growth-126111500169_1.html",
-   "d": "2026-11-15",
-   "q": "business-standard.com",
-   "type": "rohstoffe",
-   "c": "as"
-  },
-  {
-   "t": "Waitrose strikes deal to transform huge Bristol site",
-   "u": "https://www.bristolpost.co.uk/news/business/waitrose-strikes-deal-transform-huge-11239179",
-   "d": "2026-11-15",
-   "q": "bristolpost.co.uk",
-   "type": "logistik",
-   "c": null
-  },
-  {
-   "t": "Dorset developed county - wide climate adaptation strategy",
-   "u": "https://www.bournemouthecho.co.uk/news/26727487.dorset-developed-county-wide-climate-adaptation-strategy/",
-   "d": "2026-11-15",
-   "q": "bournemouthecho.co.uk",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "The world is facing a new credit crunch",
-   "u": "https://www.aol.com/articles/world-facing-credit-crunch-060000000.html",
-   "d": "2026-11-15",
-   "q": "aol.com",
-   "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "Two injured after UPS and Copa Airlines planes collide on Miami International Airport taxiway",
-   "u": "https://gulfnews.com/business/aviation/ups-and-copa-airlines-planes-collide-at-miami-international-airport-1.500747874",
-   "d": "2026-11-15",
-   "q": "gulfnews.com",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Iran navy says three tankers on fire after hitting mines in Hormuz",
-   "u": "https://bdnews24.com/world/middle-east/47mh9vo0tx",
-   "d": "2026-11-15",
-   "q": "bdnews24.com",
-   "type": "logistik",
-   "c": "as"
-  },
-  {
-   "t": "US diesel below $6 a gallon at 2 - month low on easing tensions , weaker demand",
-   "u": "https://bdnews24.com/business/29lzj7z8ab",
-   "d": "2026-11-15",
-   "q": "bdnews24.com",
-   "type": "energie",
-   "c": "na"
-  },
-  {
-   "t": "Data center diaspora : Democrat blue wave wins could send AI buildout out of US | News",
-   "u": "http://www.thedailytimes.com/news/data-center-diaspora-democrats-blue-wave-wins-could-send-ai-buildout-out-of-us/article_d4f73402-6cf0-5101-9ba0-a99e495487bb.html",
-   "d": "2026-11-15",
-   "q": "thedailytimes.com",
-   "type": "politik",
-   "c": "na"
   }
  ]
 }
