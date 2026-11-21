@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-21T17:43:42Z",
+ "stand": "2026-11-21T18:45:40Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -44,6 +44,14 @@
    "c": null
   },
   {
+   "t": "Zum Jahreswechsel Strom und Gas werden für Millionen Haushalte deutlich teurer",
+   "u": "https://www.ksta.de:443/ratgeber/verbraucher/strom-und-gas-preise-steigen-zum-jahreswechsel-deutlich-1421904",
+   "d": "2026-11-21",
+   "q": "ksta.de:443",
+   "type": "energie",
+   "c": null
+  },
+  {
    "t": "Seltene Erden : Pforzheimer Start - up will Abhängigkeit mit Schrott durchbrechen",
    "u": "https://www.handelsblatt.com/unternehmen/industrie/seltene-erden-pforzheimer-start-up-will-abhaengigkeit-mit-schrott-durchbrechen/100268500.html",
    "d": "2026-11-21",
@@ -60,6 +68,14 @@
    "c": null
   },
   {
+   "t": "WDH : Strom und Gas werden für Millionen Haushalte teurer",
+   "u": "https://www.finanznachrichten.de/nachrichten-2026-11/70195548-wdh-strom-und-gas-werden-fuer-millionen-haushalte-teurer-016.htm",
+   "d": "2026-11-21",
+   "q": "finanznachrichten.de",
+   "type": "energie",
+   "c": null
+  },
+  {
    "t": "EU und Indonesien unterzeichnen weitreichenden Handelsdeal",
    "u": "https://www.finanznachrichten.de/nachrichten-2026-11/70195539-eu-und-indonesien-unterzeichnen-weitreichenden-handelsdeal-016.htm",
    "d": "2026-11-21",
@@ -68,12 +84,36 @@
    "c": "eu"
   },
   {
+   "t": "Tagesgeld Volkswagen Bank : 3 , 5 % Zinsen für Neukunden im Check",
+   "u": "https://www.express.de:443/shoppingwelt/tagesgeld-volkswagen-bank-3-5-prozent-zinsen-neukunden-konditionen-check-sparen-5-1405755",
+   "d": "2026-11-21",
+   "q": "express.de:443",
+   "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "Gold : Dezember - Zinserhöhung drückte Preis am Freitag",
+   "u": "https://www.boerse-express.com/news/articles/gold-dezember-zinserhoehung-drueckte-preis-am-freitag-965315",
+   "d": "2026-11-21",
+   "q": "boerse-express.com",
+   "type": "finanz",
+   "c": null
+  },
+  {
    "t": "Canada - U . S . trade : Trump says Canada feeling  emboldened",
    "u": "https://www.bnnbloomberg.ca/tariffs/2026/11/20/trump-says-canada-feeling-emboldened-but-hes-seeking-a-fair-trade-deal/",
    "d": "2026-11-21",
    "q": "bnnbloomberg.ca",
    "type": "politik",
    "c": "na"
+  },
+  {
+   "t": "Nächster Preis - Schock !: Strom und Gas werden für Millionen Haushalte teurer",
+   "u": "https://www.bild.de/politik/inland/naechster-preis-schock-strom-und-gas-werden-fuer-millionen-haushalte-teurer-6b0153203b9cfbd09f99d8a2",
+   "d": "2026-11-21",
+   "q": "bild.de",
+   "type": "energie",
+   "c": null
   },
   {
    "t": "Ausfuhrstopp für Plastikmüll aus der EU in viele Länder",
@@ -113,6 +153,14 @@
    "d": "2026-11-21",
    "q": "merkur.de",
    "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Erzeugerpreise steigen um 8 , 1 Prozent : Heizöl besonders teuer",
+   "u": "http://www.kreisbote.de/wirtschaft/erzeugerpreise-steigen-um-prozent-heizoel-besonders-teuer-zr-94601444.html",
+   "d": "2026-11-21",
+   "q": "kreisbote.de",
+   "type": "energie",
    "c": null
   },
   {
