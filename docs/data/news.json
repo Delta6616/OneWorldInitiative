@@ -1,8 +1,24 @@
 {
- "stand": "2026-11-21T19:47:31Z",
+ "stand": "2026-11-21T20:42:18Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Iran strikes 3 tankers as it shows off missile launchers , and other Mideast news",
+   "u": "https://www.wboc.com/news/international/iran-strikes-3-tankers-as-it-shows-off-missile-launchers-and-other-mideast-news/article_01da6b4b-0bb9-5d63-96fd-a41f63b4e2d6.html",
+   "d": "2026-11-21",
+   "q": "wboc.com",
+   "type": "logistik",
+   "c": "as"
+  },
+  {
+   "t": "148 Menschen auf Kreuzfahrtschiff plötzlich erkrankt",
+   "u": "https://www.vol.at/148-menschen-ploetzlich-krank-kreuzfahrt-nimmt-dramatische-wende/11365370",
+   "d": "2026-11-21",
+   "q": "vol.at",
+   "type": "logistik",
+   "c": null
+  },
   {
    "t": "Shenzhen Summit Puts Limits of China – Russia Partnership in Focus",
    "u": "https://www.theepochtimes.com/china/shenzhen-summit-puts-limits-of-china-russia-partnership-in-focus-6127510",
@@ -16,6 +32,14 @@
    "u": "https://www.tele.at/tv-programm/sendungen/108300/gerhard-polt-die-well-bruder-ausm-biermoos",
    "d": "2026-11-21",
    "q": "tele.at",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Pflanzenkohle soll Streuobstwiesen im Kreis Reutlingen stärken",
+   "u": "https://www.swr.de/swraktuell/baden-wuerttemberg/tuebingen/pflanzenkohle-soll-obstbaeume-im-landkreis-reutlingen-gegen-klimawandel-staerken-100.html",
+   "d": "2026-11-21",
+   "q": "swr.de",
    "type": "rohstoffe",
    "c": null
   },
@@ -36,6 +60,14 @@
    "c": null
   },
   {
+   "t": "IRW - News : Copper One Resources Corp .: Copper One gibt Option auf den Erwerb einer 100 % igen Beteiligung am Kupferprojekt Quatum in British Columbia bekannt",
+   "u": "https://www.onvista.de/news/2026/11-21-irw-news-copper-one-resources-corp-copper-one-gibt-option-auf-den-erwerb-einer-100-igen-beteiligung-am-kupferprojekt-quatum-in-british-columbia-bekannt-0-10-26579095",
+   "d": "2026-11-21",
+   "q": "onvista.de",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
    "t": "Chefin von russischem Onlinehändler Wildberries tritt zurück",
    "u": "https://www.onvista.de/news/2026/11-21-chefin-von-russischem-onlinehaendler-wildberries-tritt-zurueck-0-10-26579066",
    "d": "2026-11-21",
@@ -50,6 +82,14 @@
    "q": "ksta.de:443",
    "type": "energie",
    "c": null
+  },
+  {
+   "t": "Strait of Hormuz attacks have increased to highest level since Iran war began",
+   "u": "https://www.kake.com/news/national/strait-of-hormuz-attacks-have-increased-to-highest-level-since-iran-war-began/article_a4749f3d-3247-4907-a39d-6795d12d82f0.html",
+   "d": "2026-11-21",
+   "q": "kake.com",
+   "type": "logistik",
+   "c": "as"
   },
   {
    "t": "Seltene Erden : Pforzheimer Start - up will Abhängigkeit mit Schrott durchbrechen",
@@ -92,6 +132,30 @@
    "c": null
   },
   {
+   "t": "Briton swims in Strait of Hormuz to highlight  environmental cost of war",
+   "u": "https://www.eadt.co.uk/news/national/26750618.briton-swims-strait-hormuz-highlight-environmental-cost-war/",
+   "d": "2026-11-21",
+   "q": "eadt.co.uk",
+   "type": "logistik",
+   "c": "as"
+  },
+  {
+   "t": "SIXT macht sich über GTA - Post von Merz lustig :  Mit und ohne Erfolg .",
+   "u": "https://www.derwesten.de/politik/sit-gta6-post-cdu-merz-reaktion-id302203630.html",
+   "d": "2026-11-21",
+   "q": "derwesten.de",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Global Oil Market Heads Towards Surplus , Crude Prices May Fall To $70 By 2027",
+   "u": "https://www.businessworld.in/article/global-oil-market-heads-towards-surplus-crude-prices-may-fall-to-70-by-2027-634643",
+   "d": "2026-11-21",
+   "q": "businessworld.in",
+   "type": "energie",
+   "c": "na"
+  },
+  {
    "t": "Gold : Dezember - Zinserhöhung drückte Preis am Freitag",
    "u": "https://www.boerse-express.com/news/articles/gold-dezember-zinserhoehung-drueckte-preis-am-freitag-965315",
    "d": "2026-11-21",
@@ -113,6 +177,22 @@
    "d": "2026-11-21",
    "q": "bild.de",
    "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Unglück mit 32 Toten : Kapitän der Costa Concordia nach 9 Jahren frei",
+   "u": "https://www.bild.de/news/ausland/unglueck-mit-32-toten-kapitaen-der-costa-concordia-nach-9-jahren-frei-6b01786339a3e8110f0e530c",
+   "d": "2026-11-21",
+   "q": "bild.de",
+   "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "Ominous reversal ! Iran issues nuclear ultimatum against US after downing 58 MQ drones as F - 16 sends SOS",
+   "u": "https://www.bankingnews.gr/diethni/articles/912456/ominous-reversal-iran-issues-nuclear-ultimatum-against-us-after-downing-58-mq-drones-as-f-16-sends-sos",
+   "d": "2026-11-21",
+   "q": "bankingnews.gr",
+   "type": "logistik",
    "c": null
   },
   {
@@ -148,6 +228,30 @@
    "c": null
   },
   {
+   "t": "Wälder in Deutschland in Gefahr : Warum Förster jetzt mehr Bäume fällen wollen",
+   "u": "https://www.abendblatt.de/wirtschaft/article413730485/deutschlands-waelder-in-gefahr-warum-foerster-jetzt-mehr-baeume-faellen-wollen.html",
+   "d": "2026-11-21",
+   "q": "abendblatt.de",
+   "type": "rohstoffe",
+   "c": "eu"
+  },
+  {
+   "t": "Dangote Group unveils multi ‑ billion ‑ dollar projects across East Africa",
+   "u": "https://kenya-today.com/report-dangote-group-unveils-multibilliondollar-projects-across-east-africa-30996/",
+   "d": "2026-11-21",
+   "q": "kenya-today.com",
+   "type": "energie",
+   "c": "af"
+  },
+  {
+   "t": "Georgian minister highlights strategic importance of South Caucasus Pipeline and BTC",
+   "u": "https://en.apa.az/energy-and-industry/georgian-minister-highlights-strategic-importance-of-south-caucasus-pipeline-and-btc-537630",
+   "d": "2026-11-21",
+   "q": "en.apa.az",
+   "type": "energie",
+   "c": "na"
+  },
+  {
    "t": "PKV - Beiträge steigen 2027 : Neun Fälle zeigen drastische Mehrkosten",
    "u": "http://www.merkur.de/wirtschaft/private-krankenversicherung-pkv-beitraege-2027-erhoehung-versicherer-vergleich-zr-94601498.html",
    "d": "2026-11-21",
@@ -161,6 +265,14 @@
    "d": "2026-11-21",
    "q": "kreisbote.de",
    "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Parkside - Akkuschrauber im LIDL - Vergleich : 39 , 99 oder 59 , 99 Euro ?",
+   "u": "http://www.come-on.de/produktempfehlung/parkside-akkuschrauber-im-lidl-vergleich-3999-oder-5999-euro-zr-94596145.html",
+   "d": "2026-11-21",
+   "q": "come-on.de",
+   "type": "logistik",
    "c": null
   },
   {
