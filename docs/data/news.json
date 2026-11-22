@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-22T21:42:54Z",
+ "stand": "2026-11-22T22:44:38Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -10,6 +10,14 @@
    "q": "wsbradio.com",
    "type": "politik",
    "c": "as"
+  },
+  {
+   "t": "Cattle receipts , government payments support projected NE farm income growth",
+   "u": "https://www.wlj.net/cattle-receipts-government-payments-support-projected-ne-farm-income-growth/",
+   "d": "2026-11-22",
+   "q": "wlj.net",
+   "type": "rohstoffe",
+   "c": null
   },
   {
    "t": "Thailand makes prepares to stop exporting rare earth mining chemicals to Myanmar",
@@ -90,6 +98,14 @@
    "q": "enca.com",
    "type": "logistik",
    "c": "as"
+  },
+  {
+   "t": "Loso x Timberland Field Boot  Wheat Nubuck / Gold  TB0A6DSWAEB",
+   "u": "https://wwd.com/footwear-news/sneaker-news/loso-timberland-field-boot-wheat-nubuck-gold-release-date-1239461745/",
+   "d": "2026-11-22",
+   "q": "wwd.com",
+   "type": "rohstoffe",
+   "c": null
   },
   {
    "t": "Rising government debt unlikely to trigger broad sovereign crisis in 2027 : UBS",
