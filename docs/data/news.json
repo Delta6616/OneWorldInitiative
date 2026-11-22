@@ -1,8 +1,16 @@
 {
- "stand": "2026-11-22T01:02:07Z",
+ "stand": "2026-11-22T02:08:09Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Taiwan warns Canada Carney that deeper ties with China come with risks",
+   "u": "https://www.wsbradio.com/news/business/taiwan-warns-canada/2S7JLF54OE25TKOZNCMHJE6J5Y/",
+   "d": "2026-11-22",
+   "q": "wsbradio.com",
+   "type": "politik",
+   "c": "as"
+  },
   {
    "t": "Iran strikes 3 tankers as it shows off missile launchers , and other Mideast news",
    "u": "https://www.wboc.com/news/international/iran-strikes-3-tankers-as-it-shows-off-missile-launchers-and-other-mideast-news/article_01da6b4b-0bb9-5d63-96fd-a41f63b4e2d6.html",
