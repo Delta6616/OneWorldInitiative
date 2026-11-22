@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-22T22:44:38Z",
+ "stand": "2026-11-22T23:42:43Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -17,6 +17,14 @@
    "d": "2026-11-22",
    "q": "wlj.net",
    "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Natural gas pipeline fire shoots flames into the air in Alabama , cause is under investigation – Winnipeg Free Press",
+   "u": "https://www.winnipegfreepress.com/arts-and-life/life/greenpage/2026/11/22/natural-gas-pipeline-fire-shoots-flames-into-the-air-in-alabama-cause-is-under-investigation",
+   "d": "2026-11-22",
+   "q": "winnipegfreepress.com",
+   "type": "energie",
    "c": null
   },
   {
@@ -68,6 +76,14 @@
    "c": null
   },
   {
+   "t": "IEA : Extreme Weather Risks to International Oil and Natural Gas Shipping | Hellenic Shipping News Worldwide",
+   "u": "https://www.hellenicshippingnews.com/iea-extreme-weather-risks-to-international-oil-and-natural-gas-shipping/",
+   "d": "2026-11-22",
+   "q": "hellenicshippingnews.com",
+   "type": "energie",
+   "c": null
+  },
+  {
    "t": "Funky Taurus Media - Music Photo Agency & Products - Liefer - und Versandkosten",
    "u": "https://www.funkytaurusmedia.com/shop_content.php?coID=1&XTCsid=aj1hdkps197egvihthorq55ku3",
    "d": "2026-11-22",
@@ -105,6 +121,14 @@
    "d": "2026-11-22",
    "q": "wwd.com",
    "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Natural gas pipeline fire shoots flames in Alabama , cause under investigation",
+   "u": "https://abcnews.com/US/wireStory/natural-gas-pipeline-fire-shoots-flames-air-alabama-138362181",
+   "d": "2026-11-22",
+   "q": "abcnews.com",
+   "type": "energie",
    "c": null
   },
   {
@@ -146,6 +170,14 @@
    "q": "wboc.com",
    "type": "logistik",
    "c": "as"
+  },
+  {
+   "t": "Welthandel : EU und Indonesien unterzeichnen weitreichenden Handelsdeal",
+   "u": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/eu-und-indonesien-unterzeichnen-weitreichenden-handelsdeal-4360367",
+   "d": "2026-11-21",
+   "q": "volksstimme.de",
+   "type": "politik",
+   "c": "eu"
   },
   {
    "t": "148 Menschen auf Kreuzfahrtschiff plötzlich erkrankt",
