@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-22T16:45:01Z",
+ "stand": "2026-11-22T17:43:45Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -10,6 +10,14 @@
    "q": "wsbradio.com",
    "type": "politik",
    "c": "as"
+  },
+  {
+   "t": "Thailand makes prepares to stop exporting rare earth mining chemicals to Myanmar",
+   "u": "https://www.thenews.com.pk/latest/1424588-thailand-makes-prepares-to-stop-exporting-rare-earth-mining-chemicals-to-myanmar",
+   "d": "2026-11-22",
+   "q": "thenews.com.pk",
+   "type": "rohstoffe",
+   "c": null
   },
   {
    "t": "100 Prozent Trefferquote : Das ist meine magische Börsen - Marotte",

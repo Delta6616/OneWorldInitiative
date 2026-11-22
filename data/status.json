@@ -14,23 +14,19 @@
   "warnungen": []
  },
  "gdelt": {
-  "ok": false,
-  "zeit": "2026-11-22T15:42:51Z",
-  "neu_oder_geaendert": 0,
-  "zeilen_gesamt": 1308,
+  "ok": true,
+  "zeit": "2026-11-22T17:41:10Z",
+  "neu_oder_geaendert": 1,
+  "zeilen_gesamt": 1309,
   "warnungen": [
    "logistik/english: HTTP 429",
    "energie/english: HTTP 429",
    "finanz/english: HTTP 429",
-   "politik/english: HTTP 429",
-   "rohstoffe/english: HTTP 429",
    "logistik/german: HTTP 429",
    "energie/german: HTTP 429",
    "finanz/german: HTTP 429",
-   "rohstoffe/german: HTTP 429"
-  ],
-  "letzter_versuch": "2026-11-22T16:43:30Z",
-  "fehler": "GDELT lieferte keine Artikel. logistik/english: HTTP 429 | energie/english: HTTP 429 | finanz/english: HTTP 429 | politik/english: HTTP 429 | rohstoffe/english: HTTP 429 | logistik/german: HTTP 429 | energie/german: HTTP 429 | finanz/german: HTTP 429 | politik/german: HTTP 429 | rohstoffe/german: HTTP 429"
+   "politik/german: HTTP 429"
+  ]
  },
  "rohstoffe": {
   "ok": false,
