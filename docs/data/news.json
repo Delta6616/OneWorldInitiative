@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-22T11:43:55Z",
+ "stand": "2026-11-22T12:53:01Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -28,6 +28,14 @@
    "c": "as"
   },
   {
+   "t": "Ist wieder genug Wasser im Rhein ? - Südwest",
+   "u": "https://www.rheinpfalz.de/rheinland-pfalz_artikel,-ist-wieder-genug-wasser-im-rhein-_arid,5950823.html",
+   "d": "2026-11-22",
+   "q": "rheinpfalz.de",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
    "t": "Warum Menschen für diesen speziellen Duft sensibler sind als Haie für Blut",
    "u": "https://www.merkur.de/welt/duft-des-regens-warum-menschen-petrichor-so-intensiv-riechen-94597985.html",
    "d": "2026-11-22",
@@ -50,6 +58,22 @@
    "q": "enca.com",
    "type": "logistik",
    "c": "as"
+  },
+  {
+   "t": "Nicht in die Biotonne : Einen teuren Entsorgungs - Fehler machen fast alle Kaffeetrinker",
+   "u": "http://www.come-on.de/verbraucher/kaffeefilter-im-biomuell-entsorgen-hier-gehoeren-sie-hin-zr-94598059.html",
+   "d": "2026-11-22",
+   "q": "come-on.de",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Feminisierte Samen zum Beflügeln : Die Grow Can ist die Alternative zum Cannabis - Anbauclub",
+   "u": "http://www.come-on.de/lennetal/altena/feminisierte-samen-zum-befluegeln-die-grow-can-ist-die-alternative-zum-cannabis-anbauclub-94600718.html",
+   "d": "2026-11-22",
+   "q": "come-on.de",
+   "type": "rohstoffe",
+   "c": null
   },
   {
    "t": "Iran strikes 3 tankers as it shows off missile launchers , and other Mideast news",
