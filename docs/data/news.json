@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-22T19:50:08Z",
+ "stand": "2026-11-22T20:46:01Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -60,6 +60,22 @@
    "c": null
   },
   {
+   "t": "Funky Taurus Media - Music Photo Agency & Products - Liefer - und Versandkosten",
+   "u": "https://www.funkytaurusmedia.com/shop_content.php?coID=1&XTCsid=aj1hdkps197egvihthorq55ku3",
+   "d": "2026-11-22",
+   "q": "funkytaurusmedia.com",
+   "type": "logistik",
+   "c": "na"
+  },
+  {
+   "t": "Yuma Black Weeks : Balkonkraftwerk - Sets jetzt bis 750 € Rabatt – bei Abholung in Köln bis 99 € extra sparen",
+   "u": "https://www.express.de:443/shoppingwelt/yuma-black-weeks-balkonkraftwerk-jackery-speicher-anker-hoymiles-ecoflow-deal-angebote-sparen-7-1416621",
+   "d": "2026-11-22",
+   "q": "express.de:443",
+   "type": "logistik",
+   "c": null
+  },
+  {
    "t": "Iran attacks US bases in Bahrain as its tankers get ready to break the US blockade",
    "u": "https://www.euronews.com/2026/11/21/iran-attacks-us-bases-in-bahrain-as-its-tankers-get-ready-to-break-the-us-blockade",
    "d": "2026-11-22",
@@ -81,6 +97,14 @@
    "d": "2026-11-22",
    "q": "zimbabwestar.com",
    "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "Black Friday oder Weihnachtsgeschäft : Wann sollten Frauen ihre Geschenke wirklich kaufen ?",
+   "u": "http://www.tz.de/wirtschaft/black-friday-oder-weihnachtsgeschaeft-wann-sollten-frauen-ihre-geschenke-wirklich-kaufen-zr-94592523.html",
+   "d": "2026-11-22",
+   "q": "tz.de",
+   "type": "logistik",
    "c": null
   },
   {
@@ -676,14 +700,6 @@
    "c": "na"
   },
   {
-   "t": "Funky Taurus Media - Music Photo Agency & Products - Liefer - und Versandkosten",
-   "u": "https://www.funkytaurusmedia.com/shop_content.php?coID=1&XTCsid=u0me136u5l2p3u0qvupjvo0nf4",
-   "d": "2026-11-20",
-   "q": "funkytaurusmedia.com",
-   "type": "logistik",
-   "c": "na"
-  },
-  {
    "t": "TAGESVORSCHAU / Freitag , 20 . November",
    "u": "https://www.finanzen.net/nachricht/aktien/tagesvorschau-freitag-20-november-16077515",
    "d": "2026-11-20",
@@ -770,6 +786,14 @@
    "q": "econotimes.com",
    "type": "finanz",
    "c": null
+  },
+  {
+   "t": "Canadian Dollar Gains as Gulf Tensions Keep Oil Prices Elevated",
+   "u": "https://econotimes.com/Canadian-Dollar-Gains-as-Gulf-Tensions-Keep-Oil-Prices-Elevated-1780021",
+   "d": "2026-11-20",
+   "q": "econotimes.com",
+   "type": "logistik",
+   "c": "as"
   },
   {
    "t": "Boone County employees impacted by second data breach",
