@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-22T02:08:09Z",
+ "stand": "2026-11-22T02:55:59Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -10,6 +10,22 @@
    "q": "wsbradio.com",
    "type": "politik",
    "c": "as"
+  },
+  {
+   "t": "As war engulfs the Strait of Hormuz , one swimmer is fighting to protect its wildlife",
+   "u": "https://www.sbs.com.au/news/article/man-swims-across-the-strait-of-hormuz-to-protect-wildlife/sucyype2c",
+   "d": "2026-11-22",
+   "q": "sbs.com.au",
+   "type": "logistik",
+   "c": "as"
+  },
+  {
+   "t": "Iran attacks US bases in Bahrain as its tankers get ready to break the US blockade",
+   "u": "https://www.euronews.com/2026/11/21/iran-attacks-us-bases-in-bahrain-as-its-tankers-get-ready-to-break-the-us-blockade",
+   "d": "2026-11-22",
+   "q": "euronews.com",
+   "type": "logistik",
+   "c": null
   },
   {
    "t": "Iran strikes 3 tankers as it shows off missile launchers , and other Mideast news",
