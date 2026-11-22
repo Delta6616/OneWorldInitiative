@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-22T17:43:45Z",
+ "stand": "2026-11-22T18:46:56Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -74,6 +74,14 @@
    "q": "enca.com",
    "type": "logistik",
    "c": "as"
+  },
+  {
+   "t": "Rising government debt unlikely to trigger broad sovereign crisis in 2027 : UBS",
+   "u": "http://www.zimbabwestar.com/news/279448626/rising-government-debt-unlikely-to-trigger-broad-sovereign-crisis-in-2027-ubs",
+   "d": "2026-11-22",
+   "q": "zimbabwestar.com",
+   "type": "finanz",
+   "c": null
   },
   {
    "t": "Nicht in die Biotonne : Einen teuren Entsorgungs - Fehler machen fast alle Kaffeetrinker",
