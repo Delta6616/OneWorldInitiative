@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-22T12:53:01Z",
+ "stand": "2026-11-22T13:58:28Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -41,6 +41,14 @@
    "d": "2026-11-22",
    "q": "merkur.de",
    "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Gaspreise steigen weiter – für wen sich ein Wechsel lohnt",
+   "u": "https://www.merkur.de/verbraucher/gaspreise-steigen-weiter-fuer-wen-sich-ein-wechsel-lohnt-zr-94601803.html",
+   "d": "2026-11-22",
+   "q": "merkur.de",
+   "type": "energie",
    "c": null
   },
   {
