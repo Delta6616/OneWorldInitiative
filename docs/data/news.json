@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-22T08:15:35Z",
+ "stand": "2026-11-22T09:49:37Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -12,6 +12,14 @@
    "c": "as"
   },
   {
+   "t": "100 Prozent Trefferquote : Das ist meine magische Börsen - Marotte",
+   "u": "https://www.schwaebische.de/wirtschaft/100-prozent-trefferquote-das-ist-meine-magische-boersen-marotte-5020339",
+   "d": "2026-11-22",
+   "q": "schwaebische.de",
+   "type": "finanz",
+   "c": null
+  },
+  {
    "t": "As war engulfs the Strait of Hormuz , one swimmer is fighting to protect its wildlife",
    "u": "https://www.sbs.com.au/news/article/man-swims-across-the-strait-of-hormuz-to-protect-wildlife/sucyype2c",
    "d": "2026-11-22",
@@ -20,12 +28,28 @@
    "c": "as"
   },
   {
+   "t": "Warum Menschen für diesen speziellen Duft sensibler sind als Haie für Blut",
+   "u": "https://www.merkur.de/welt/duft-des-regens-warum-menschen-petrichor-so-intensiv-riechen-94597985.html",
+   "d": "2026-11-22",
+   "q": "merkur.de",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
    "t": "Iran attacks US bases in Bahrain as its tankers get ready to break the US blockade",
    "u": "https://www.euronews.com/2026/11/21/iran-attacks-us-bases-in-bahrain-as-its-tankers-get-ready-to-break-the-us-blockade",
    "d": "2026-11-22",
    "q": "euronews.com",
    "type": "logistik",
    "c": null
+  },
+  {
+   "t": "Bahrain says Iran struck industrial site as tankers hit in Hormuz",
+   "u": "https://www.enca.com/business/bahrain-says-iran-struck-industrial-site-tankers-hit-hormuz",
+   "d": "2026-11-22",
+   "q": "enca.com",
+   "type": "logistik",
+   "c": "as"
   },
   {
    "t": "Iran strikes 3 tankers as it shows off missile launchers , and other Mideast news",
