@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-23T04:04:42Z",
+ "stand": "2026-11-23T05:18:42Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -72,6 +72,14 @@
    "u": "https://www.rawstory.com/john-kennedy-2678493445/",
    "d": "2026-11-22",
    "q": "rawstory.com",
+   "type": "politik",
+   "c": null
+  },
+  {
+   "t": "John Kennedy Jokes Bessent , Lutnick Could  Stab Each Other  Over Nvidia Chip Dispute",
+   "u": "https://www.newsweek.com/john-kennedy-bessent-lutnick-nvidia-chip-dispute-12754530",
+   "d": "2026-11-22",
+   "q": "newsweek.com",
    "type": "politik",
    "c": null
   },
@@ -156,6 +164,14 @@
    "c": "as"
   },
   {
+   "t": "U . S . Treasury Secretary Scott Bessent Just Delivered Great News to Former Nvidia CEO Jensen Huang . Should You Buy Nvidia Stock Before Nov . 25 ?",
+   "u": "https://www.aol.com/articles/u-treasury-secretary-scott-bessent-210804000.html",
+   "d": "2026-11-22",
+   "q": "aol.com",
+   "type": "politik",
+   "c": null
+  },
+  {
    "t": "Loso x Timberland Field Boot  Wheat Nubuck / Gold  TB0A6DSWAEB",
    "u": "https://wwd.com/footwear-news/sneaker-news/loso-timberland-field-boot-wheat-nubuck-gold-release-date-1239461745/",
    "d": "2026-11-22",
@@ -186,6 +202,14 @@
    "q": "orf.at",
    "type": "energie",
    "c": null
+  },
+  {
+   "t": "U . S . investigating alleged Chinese spy in affair with Nvidia CEO : national intelligence director",
+   "u": "https://calgarysun.com/news/world/united-states/us-investigating-alleged-chinese-spy-in-affair-with-nvidia-ceo-national-intelligence-director/wcm/8c8ea0dd-0216-4507-b957-3debe87ac5b2",
+   "d": "2026-11-22",
+   "q": "calgarysun.com",
+   "type": "politik",
+   "c": "as"
   },
   {
    "t": "Natural gas pipeline fire shoots flames in Alabama , cause under investigation",
@@ -258,6 +282,14 @@
    "q": "vol.at",
    "type": "logistik",
    "c": null
+  },
+  {
+   "t": "China military backing to Pak raises two - front threat for India : US report",
+   "u": "https://www.tribuneindia.com/news/india/chinas-military-backing-to-pak-raises-two-front-threat-for-india-us-report/",
+   "d": "2026-11-21",
+   "q": "tribuneindia.com",
+   "type": "politik",
+   "c": "as"
   },
   {
    "t": "Shenzhen Summit Puts Limits of China – Russia Partnership in Focus",
@@ -490,14 +522,6 @@
    "q": "en.apa.az",
    "type": "energie",
    "c": "na"
-  },
-  {
-   "t": "PKV - Beiträge steigen 2027 : Neun Fälle zeigen drastische Mehrkosten",
-   "u": "http://www.merkur.de/wirtschaft/private-krankenversicherung-pkv-beitraege-2027-erhoehung-versicherer-vergleich-zr-94601498.html",
-   "d": "2026-11-21",
-   "q": "merkur.de",
-   "type": "politik",
-   "c": null
   },
   {
    "t": "Erzeugerpreise steigen um 8 , 1 Prozent : Heizöl besonders teuer",
