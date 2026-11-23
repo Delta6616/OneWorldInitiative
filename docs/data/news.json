@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-22T23:42:43Z",
+ "stand": "2026-11-23T01:06:04Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -60,6 +60,14 @@
    "c": null
   },
   {
+   "t": "Trump inclined to resume strikes on Iran after New Year if no deal reached",
+   "u": "https://www.middleeastmonitor.com/20261122-trump-inclined-to-resume-strikes-on-iran-after-new-year-if-no-deal-reached/",
+   "d": "2026-11-22",
+   "q": "middleeastmonitor.com",
+   "type": "logistik",
+   "c": null
+  },
+  {
    "t": "Warum Menschen für diesen speziellen Duft sensibler sind als Haie für Blut",
    "u": "https://www.merkur.de/welt/duft-des-regens-warum-menschen-petrichor-so-intensiv-riechen-94597985.html",
    "d": "2026-11-22",
@@ -116,12 +124,28 @@
    "c": "as"
   },
   {
+   "t": "UN - affiliated athlete swims in dangerous Strait of Hormuz to highlight Iran war impact on wildlife",
+   "u": "https://www.cbc.ca/news/world/un-endurance-swimmer-strait-of-hormuz-wildlife-impact-9.7431891",
+   "d": "2026-11-22",
+   "q": "cbc.ca",
+   "type": "logistik",
+   "c": "as"
+  },
+  {
    "t": "Loso x Timberland Field Boot  Wheat Nubuck / Gold  TB0A6DSWAEB",
    "u": "https://wwd.com/footwear-news/sneaker-news/loso-timberland-field-boot-wheat-nubuck-gold-release-date-1239461745/",
    "d": "2026-11-22",
    "q": "wwd.com",
    "type": "rohstoffe",
    "c": null
+  },
+  {
+   "t": "Iranian attacks in the Strait of Hormuz are at the highest levels since the conflict began",
+   "u": "https://peakoil.com/publicpolicy/iranian-attacks-in-the-strait-of-hormuz-are-at-the-highest-levels-since-the-conflict-began",
+   "d": "2026-11-22",
+   "q": "peakoil.com",
+   "type": "logistik",
+   "c": "as"
   },
   {
    "t": "Natural gas pipeline fire shoots flames in Alabama , cause under investigation",
@@ -137,6 +161,14 @@
    "d": "2026-11-22",
    "q": "zimbabwestar.com",
    "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "Stadt im „ Miniformat : Niederländischer Ort bietet viele Outdoor - Aktivitäten",
+   "u": "http://www.wa.de/welt/stadt-im-miniformat-niederlaendischer-ort-bietet-viele-outdoor-aktivitaeten-94602340.html",
+   "d": "2026-11-22",
+   "q": "wa.de",
+   "type": "rohstoffe",
    "c": null
   },
   {
