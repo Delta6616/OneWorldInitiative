@@ -1,8 +1,24 @@
 {
- "stand": "2026-11-23T19:00:19Z",
+ "stand": "2026-11-23T20:02:31Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Record grain harvest tests southern Australia supply chain | The Land",
+   "u": "https://www.theland.com.au/story/9396240/record-grain-harvest-tests-southern-australias-supply-chain/",
+   "d": "2026-11-23",
+   "q": "theland.com.au",
+   "type": "rohstoffe",
+   "c": "oc"
+  },
+  {
+   "t": "It time for monetary policy in India to act and contain inflationary expectations",
+   "u": "https://www.livemint.com/opinion/online-views/its-time-for-monetary-policy-in-india-to-act-and-contain-inflationary-expectations-11795361112974.html",
+   "d": "2026-11-23",
+   "q": "livemint.com",
+   "type": "rohstoffe",
+   "c": "as"
+  },
   {
    "t": "S . Korea asks Qatar to prioritize LNG supplies once production , shipping normalize",
    "u": "https://www.koreaherald.com/article/10945883",
@@ -228,6 +244,14 @@
    "c": null
   },
   {
+   "t": "Demand Accountability for Blackshirt Feeder Alleged Abuse of Water Resources and Cruel Treatment of Confined Cattle",
+   "u": "https://forcechange.com/681857/stop-massive-cattle-feedlot-from-depleting-aquifer-and-generating-tons-of-waste/",
+   "d": "2026-11-22",
+   "q": "forcechange.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
    "t": "U . S . investigating alleged Chinese spy in affair with Nvidia CEO : national intelligence director",
    "u": "https://calgarysun.com/news/world/united-states/us-investigating-alleged-chinese-spy-in-affair-with-nvidia-ceo-national-intelligence-director/wcm/8c8ea0dd-0216-4507-b957-3debe87ac5b2",
    "d": "2026-11-22",
@@ -393,6 +417,14 @@
    "d": "2026-11-21",
    "q": "livemint.com",
    "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "On Your Side : Bicycle helmets recalled for failing to meet safety standards",
+   "u": "https://www.ky3.com/2026/11/20/your-side-bicycle-helmets-recalled-failing-meet-safety-standards/",
+   "d": "2026-11-21",
+   "q": "ky3.com",
+   "type": "rohstoffe",
    "c": null
   },
   {
