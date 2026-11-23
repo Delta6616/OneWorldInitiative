@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-23T01:06:04Z",
+ "stand": "2026-11-23T02:18:21Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -57,6 +57,14 @@
    "d": "2026-11-22",
    "q": "rheinpfalz.de",
    "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "GOP senator hits Trump admin with  extraordinary allegation  in NBC interview : onlookers",
+   "u": "https://www.rawstory.com/john-kennedy-2678493445/",
+   "d": "2026-11-22",
+   "q": "rawstory.com",
+   "type": "politik",
    "c": null
   },
   {
@@ -140,12 +148,28 @@
    "c": null
   },
   {
+   "t": "Streit um Staatshaushalt in Brasilien : Lula beim Wort genommen",
+   "u": "https://taz.de/Streit-um-Staatshaushalt-in-Brasilien/!6232287/",
+   "d": "2026-11-22",
+   "q": "taz.de",
+   "type": "finanz",
+   "c": "sa"
+  },
+  {
    "t": "Iranian attacks in the Strait of Hormuz are at the highest levels since the conflict began",
    "u": "https://peakoil.com/publicpolicy/iranian-attacks-in-the-strait-of-hormuz-are-at-the-highest-levels-since-the-conflict-began",
    "d": "2026-11-22",
    "q": "peakoil.com",
    "type": "logistik",
    "c": "as"
+  },
+  {
+   "t": "COP31 gescheitert : Umweltschutzorganisationen üben Kritik",
+   "u": "https://orf.at/stories/3448954/",
+   "d": "2026-11-22",
+   "q": "orf.at",
+   "type": "energie",
+   "c": null
   },
   {
    "t": "Natural gas pipeline fire shoots flames in Alabama , cause under investigation",
