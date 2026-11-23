@@ -1,8 +1,16 @@
 {
- "stand": "2026-11-23T02:18:21Z",
+ "stand": "2026-11-23T04:04:42Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "S . Korea asks Qatar to prioritize LNG supplies once production , shipping normalize",
+   "u": "https://www.koreaherald.com/article/10945883",
+   "d": "2026-11-23",
+   "q": "koreaherald.com",
+   "type": "energie",
+   "c": "as"
+  },
   {
    "t": "Taiwan warns Canada Carney that deeper ties with China come with risks",
    "u": "https://www.wsbradio.com/news/business/taiwan-warns-canada/2S7JLF54OE25TKOZNCMHJE6J5Y/",
@@ -97,6 +105,14 @@
    "d": "2026-11-22",
    "q": "hellenicshippingnews.com",
    "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Huaweis Geheimplan vorab enthüllt",
+   "u": "https://www.giga.de/tech/huaweis-geheimplan-vorab-enthuellt--01M77PCSACC14F8Y0KBGDZ8Q6M",
+   "d": "2026-11-22",
+   "q": "giga.de",
+   "type": "politik",
    "c": null
   },
   {
