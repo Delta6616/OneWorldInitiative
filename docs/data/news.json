@@ -1,8 +1,24 @@
 {
- "stand": "2026-11-23T21:53:28Z",
+ "stand": "2026-11-23T22:54:31Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "CALL TO ATTACK : Iranian Regime Newspaper Urges Tehran To Strike First , Portrays President Trump As Hitler",
+   "u": "https://www.theyeshivaworld.com/news/israel-news/2627040/call-to-attack-iranian-regime-newspaper-urges-tehran-to-strike-first-portrays-president-trump-as-hitler.html",
+   "d": "2026-11-23",
+   "q": "theyeshivaworld.com",
+   "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "HORMUZ SHOWDOWN : UAE Oil Giant Runs U . S .- Protected Tanker Convoys Despite Repeated Iranian Attacks",
+   "u": "https://www.theyeshivaworld.com/news/israel-news/2626959/hormuz-showdown-uae-oil-giant-runs-u-s-protected-tanker-convoys-despite-repeated-iranian-attacks.html",
+   "d": "2026-11-23",
+   "q": "theyeshivaworld.com",
+   "type": "energie",
+   "c": "as"
+  },
   {
    "t": "Record grain harvest tests southern Australia supply chain | The Land",
    "u": "https://www.theland.com.au/story/9396240/record-grain-harvest-tests-southern-australias-supply-chain/",
@@ -17,6 +33,14 @@
    "d": "2026-11-23",
    "q": "theglobeandmail.com",
    "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Unglückliche Kommunikation : Verlag bewirbt Essay mit Nacktbildern von Gisèle Pelicot",
+   "u": "https://www.n-tv.de/panorama/Verlag-bewirbt-Essay-mit-Nacktbildern-von-Gisele-Pelicot-id31569142.html",
+   "d": "2026-11-23",
+   "q": "n-tv.de",
+   "type": "logistik",
    "c": null
   },
   {
@@ -48,6 +72,14 @@
    "u": "https://www.apr.org/news/2026-11-22/investigation-is-underway-following-alabama-natural-gas-pipeline-fire",
    "d": "2026-11-23",
    "q": "apr.org",
+   "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Heizen mit Brennholz und Pellets : So sparen Verbraucher",
+   "u": "http://www.kreisbote.de/ratgeber/verbraucher/heizen-mit-brennholz-und-pellets-so-sparen-verbraucher-zr-94604750.html",
+   "d": "2026-11-23",
+   "q": "kreisbote.de",
    "type": "energie",
    "c": null
   },
@@ -129,6 +161,14 @@
    "d": "2026-11-22",
    "q": "middleeastmonitor.com",
    "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "Gasspeicher bei 57 Prozent : Drohen Engpässe und höhere Preise ?",
+   "u": "https://www.merkur.de/wirtschaft/gasspeicher-bei-57-prozent-drohen-engpaesse-und-hoehere-preise-zr-94601846.html",
+   "d": "2026-11-22",
+   "q": "merkur.de",
+   "type": "energie",
    "c": null
   },
   {
