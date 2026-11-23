@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-23T17:58:51Z",
+ "stand": "2026-11-23T19:00:19Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -10,6 +10,14 @@
    "q": "koreaherald.com",
    "type": "energie",
    "c": "as"
+  },
+  {
+   "t": "FOMC meet : Why Bill Ackman wants the Fed to abandon its outdated 2 % inflation target now",
+   "u": "https://www.businesstoday.in/world/story/fomc-meet-why-bill-ackman-wants-the-fed-to-abandon-its-outdated-2-inflation-target-now-568967-2026-11-23",
+   "d": "2026-11-23",
+   "q": "businesstoday.in",
+   "type": "finanz",
+   "c": "na"
   },
   {
    "t": "Investigation is underway following Alabama natural gas pipeline fire",
@@ -228,6 +236,14 @@
    "c": "as"
   },
   {
+   "t": "Peso to move sideways vs dollar as markets eye key US economic data",
+   "u": "https://bworldonline.com/banking-finance/2026/11/22/795691/peso-to-move-sideways-vs-dollar-as-markets-eye-key-us-economic-data/",
+   "d": "2026-11-22",
+   "q": "bworldonline.com",
+   "type": "finanz",
+   "c": "na"
+  },
+  {
    "t": "Natural gas pipeline fire shoots flames in Alabama , cause under investigation",
    "u": "https://abcnews.com/US/wireStory/natural-gas-pipeline-fire-shoots-flames-air-alabama-138362181",
    "d": "2026-11-22",
@@ -316,6 +332,14 @@
    "c": null
   },
   {
+   "t": "Gold Hits 14 - Month Low",
+   "u": "https://www.theepochtimes.com/business/gold-hits-14-month-low-6127794",
+   "d": "2026-11-21",
+   "q": "theepochtimes.com",
+   "type": "finanz",
+   "c": null
+  },
+  {
    "t": "Gerhard Polt & die Well - Brüder ausm Biermoos",
    "u": "https://www.tele.at/tv-programm/sendungen/108300/gerhard-polt-die-well-bruder-ausm-biermoos",
    "d": "2026-11-21",
@@ -364,6 +388,14 @@
    "c": null
   },
   {
+   "t": "Bitcoin price crash : ​Falls to lowest level in two years - What behind plunge of world largest cryptocurrency",
+   "u": "https://www.livemint.com/market/cryptocurrency/bitcoin-price-crash-falls-to-lowest-level-in-two-years-what-s-behind-plunge-of-world-s-largest-cryptocurrency-11795267687216.html",
+   "d": "2026-11-21",
+   "q": "livemint.com",
+   "type": "finanz",
+   "c": null
+  },
+  {
    "t": "Zum Jahreswechsel Strom und Gas werden für Millionen Haushalte deutlich teurer",
    "u": "https://www.ksta.de:443/ratgeber/verbraucher/strom-und-gas-preise-steigen-zum-jahreswechsel-deutlich-1421904",
    "d": "2026-11-21",
@@ -378,6 +410,14 @@
    "q": "kake.com",
    "type": "logistik",
    "c": "as"
+  },
+  {
+   "t": "Look at India : Trump cites India 7 % GDP growth to slam US Fed over high interest rates",
+   "u": "https://www.ibtimes.co.in/look-india-trump-cites-indias-7-gdp-growth-slam-us-fed-over-high-interest-rates-908551",
+   "d": "2026-11-21",
+   "q": "ibtimes.co.in",
+   "type": "finanz",
+   "c": "na"
   },
   {
    "t": "Seltene Erden : Pforzheimer Start - up will Abhängigkeit mit Schrott durchbrechen",
@@ -538,6 +578,14 @@
    "q": "en.apa.az",
    "type": "energie",
    "c": "na"
+  },
+  {
+   "t": "AI to lead investment strategy in 2027 ; Energy and borrowing costs shape macro outlook : Barclays",
+   "u": "http://www.zimbabwestar.com/news/279446669/ai-to-lead-investment-strategy-in-2027-energy-and-borrowing-costs-shape-macro-outlook-barclays",
+   "d": "2026-11-21",
+   "q": "zimbabwestar.com",
+   "type": "finanz",
+   "c": null
   },
   {
    "t": "Erzeugerpreise steigen um 8 , 1 Prozent : Heizöl besonders teuer",
