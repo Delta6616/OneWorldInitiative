@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-23T06:55:20Z",
+ "stand": "2026-11-23T07:33:35Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -10,6 +10,14 @@
    "q": "koreaherald.com",
    "type": "energie",
    "c": "as"
+  },
+  {
+   "t": "Investigation is underway following Alabama natural gas pipeline fire",
+   "u": "https://www.apr.org/news/2026-11-22/investigation-is-underway-following-alabama-natural-gas-pipeline-fire",
+   "d": "2026-11-23",
+   "q": "apr.org",
+   "type": "energie",
+   "c": null
   },
   {
    "t": "Taiwan warns Canada Carney that deeper ties with China come with risks",
@@ -104,6 +112,14 @@
    "u": "https://www.merkur.de/verbraucher/gaspreise-steigen-weiter-fuer-wen-sich-ein-wechsel-lohnt-zr-94601803.html",
    "d": "2026-11-22",
    "q": "merkur.de",
+   "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Bauxite sector can contribute more to economy , says Scott Mottley",
+   "u": "https://www.jamaicaobserver.com/2026/11/22/bauxite-sector-can-contribute-economy-says-scott-mottley/",
+   "d": "2026-11-22",
+   "q": "jamaicaobserver.com",
    "type": "energie",
    "c": null
   },
@@ -420,6 +436,14 @@
    "c": null
   },
   {
+   "t": "Treasury secretary says no further restrictions are needed for Nvidia chip exports to China",
+   "u": "https://www.clickorlando.com/business/2026/11/20/treasury-secretary-says-no-further-restrictions-are-needed-for-nvidia-chip-exports-to-china/",
+   "d": "2026-11-21",
+   "q": "clickorlando.com",
+   "type": "politik",
+   "c": "as"
+  },
+  {
    "t": "Global Oil Market Heads Towards Surplus , Crude Prices May Fall To $70 By 2027",
    "u": "https://www.businessworld.in/article/global-oil-market-heads-towards-surplus-crude-prices-may-fall-to-70-by-2027-634643",
    "d": "2026-11-21",
@@ -465,14 +489,6 @@
    "d": "2026-11-21",
    "q": "bankingnews.gr",
    "type": "logistik",
-   "c": null
-  },
-  {
-   "t": "Ausfuhrstopp für Plastikmüll aus der EU in viele Länder",
-   "u": "https://www.az-online.de/wirtschaft/ausfuhrstopp-fuer-plastikmuell-aus-der-eu-in-viele-laender-zr-94601259.html",
-   "d": "2026-11-21",
-   "q": "az-online.de",
-   "type": "politik",
    "c": null
   },
   {
