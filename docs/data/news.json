@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-24T09:03:13Z",
+ "stand": "2026-11-24T10:09:16Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -68,6 +68,22 @@
    "c": "as"
   },
   {
+   "t": "Reederei - Manager klagen über mangelnden Schutz ihrer Schiffe",
+   "u": "https://www.shz.de/deutschland-welt/wirtschaft/artikel/reederei-manager-klagen-ueber-mangelnden-schutz-ihrer-schiffe-51794614",
+   "d": "2026-11-24",
+   "q": "shz.de",
+   "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "Schifffahrt : Reederei - Manager klagen über mangelnden Schutz ihrer Schiffe - Wirtschaft Regional",
+   "u": "https://www.rnz.de/politik/wirtschaft-regional_artikel,-Schifffahrt-Reederei-Manager-klagen-ueber-mangelnden-Schutz-ihrer-Schiffe-_arid,2492866.html",
+   "d": "2026-11-24",
+   "q": "rnz.de",
+   "type": "logistik",
+   "c": null
+  },
+  {
    "t": "Nvidia - Chef : Wie Jensen Huang für die united states unverzichtbar wurde",
    "u": "https://www.rhein-zeitung.de/deutschland-welt/netzwelt/wie-jensen-huang-fuer-die-usa-unverzichtbar-wurde_arid-4172614.html",
    "d": "2026-11-24",
@@ -124,6 +140,14 @@
    "c": null
   },
   {
+   "t": "IRGC : Three tankers hit mines , exploded while transiting Hormuz with US support",
+   "u": "https://www.jpost.com/middle-east/iran-news/article-915899",
+   "d": "2026-11-24",
+   "q": "jpost.com",
+   "type": "logistik",
+   "c": null
+  },
+  {
    "t": "Nvidia - Affäre : united states verhängen Handelsverbot über Megaspeed",
    "u": "https://www.heise.de/news/Nvidia-Affaere-USA-verhaengen-Handelsverbot-ueber-Megaspeed-11535434.html",
    "d": "2026-11-24",
@@ -148,6 +172,14 @@
    "c": "na"
   },
   {
+   "t": "Ölpreise geben nach deutlichen Vortagsverlusten erneut nach",
+   "u": "https://www.finanznachrichten.de/nachrichten-2026-11/70211365-oelpreise-geben-nach-deutlichen-vortagsverlusten-erneut-nach-016.htm",
+   "d": "2026-11-24",
+   "q": "finanznachrichten.de",
+   "type": "logistik",
+   "c": null
+  },
+  {
    "t": "VNG sichert sich Erdgas aus Norwegen bis 2044",
    "u": "https://www.finanznachrichten.de/nachrichten-2026-11/70210911-vng-sichert-sich-erdgas-aus-norwegen-bis-2044-016.htm",
    "d": "2026-11-24",
@@ -164,12 +196,36 @@
    "c": "na"
   },
   {
+   "t": "Ölpreise weiter unter Druck : Abwärtstrend setzt sich nach deutlichem Minus am Vortag fort",
+   "u": "https://www.finanzen.net/nachricht/rohstoffe/iran-konflikt-im-blick-oelpreise-nach-deutlichen-vortagesverlusten-weiter-auf-talfahrt-16083116",
+   "d": "2026-11-24",
+   "q": "finanzen.net",
+   "type": "logistik",
+   "c": "na"
+  },
+  {
    "t": "konom warnt : Die Fed ist 2027 das grte Risiko für Aktien - was Anleger wissen sollten",
    "u": "https://www.finanzen.net/nachricht/aktien/zinspolitik-im-blick-zins-schock-statt-ki-crash-warum-die-us-notenbank-fuer-aktien-2027-zur-groessten-gefahr-werden-koennte-00-16059395",
    "d": "2026-11-24",
    "q": "finanzen.net",
    "type": "finanz",
    "c": "na"
+  },
+  {
+   "t": "Iran says three tankers hit mines in Hormuz despite U . S . escort",
+   "u": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html",
+   "d": "2026-11-24",
+   "q": "cnbc.com",
+   "type": "logistik",
+   "c": "as"
+  },
+  {
+   "t": "BÖRSE ONLINE : Börsennachrichten & Aktienanalysen",
+   "u": "https://www.boerse-online.de/dpa-afx/reederei-manager-klagen-ueber-mangelnden-schutz-ihrer-schiffe-568191.html",
+   "d": "2026-11-24",
+   "q": "boerse-online.de",
+   "type": "logistik",
+   "c": null
   },
   {
    "t": "Nvidia Aktie : Trump reklamiert den Huang - Deal für sich",
@@ -186,6 +242,14 @@
    "q": "boerse-express.com",
    "type": "finanz",
    "c": null
+  },
+  {
+   "t": "Severe explosions , fire : Iran claims 3 oil tankers struck mines in Strait of Hormuz",
+   "u": "https://timesofindia.indiatimes.com/world/middle-east/severe-explosions-fires-iran-claims-3-oil-tankers-struck-mines-in-strait-of-hormuz/articleshow/136117458.cms",
+   "d": "2026-11-24",
+   "q": "timesofindia.indiatimes.com",
+   "type": "logistik",
+   "c": "as"
   },
   {
    "t": "Heizöl - Erzeugerpreis fast verdoppelt : Was das für Verbraucher bedeutet",
@@ -1284,14 +1348,6 @@
    "c": "as"
   },
   {
-   "t": "BÖRSE ONLINE : Börsennachrichten & Aktienanalysen",
-   "u": "https://www.boerse-online.de/dpa-afx/devisen-euro-stagniert-auf-tiefstem-stand-seit-april-2025-567719.html",
-   "d": "2026-11-20",
-   "q": "boerse-online.de",
-   "type": "finanz",
-   "c": null
-  },
-  {
    "t": "Report : National Cyber Director To Resign | NewsRadio 1370 AM & 92 . 9 FM WSPD",
    "u": "https://wspd.iheart.com/content/2026-11-19-report-national-cyber-director-to-resign/",
    "d": "2026-11-20",
@@ -1330,6 +1386,14 @@
    "q": "econotimes.com",
    "type": "logistik",
    "c": "as"
+  },
+  {
+   "t": "Russlands Wirtschaft : Krim - Brücke verschärft Krise",
+   "u": "http://www.tz.de/wirtschaft/russlands-wirtschaft-krim-bruecke-verschaerft-krise-zr-94601199.html",
+   "d": "2026-11-20",
+   "q": "tz.de",
+   "type": "finanz",
+   "c": "eu"
   },
   {
    "t": "Boone County employees impacted by second data breach",
