@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-24T22:58:06Z",
+ "stand": "2026-11-24T23:51:06Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -153,6 +153,14 @@
    "d": "2026-11-24",
    "q": "prnewswire.com",
    "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "Nach Überlauf bei der Raffinerie Heide : So geht es nun weiter",
+   "u": "https://www.ndr.de/nachrichten/schleswig-holstein/dithmarschen_steinburg/nach-ueberlauf-bei-der-raffinerie-heide-so-geht-es-nun-weiter,raffinerie-abwasser-102.html",
+   "d": "2026-11-24",
+   "q": "ndr.de",
+   "type": "energie",
    "c": null
   },
   {
@@ -393,14 +401,6 @@
    "d": "2026-11-24",
    "q": "bworldonline.com",
    "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Heizöl - Erzeugerpreis fast verdoppelt : Was das für Verbraucher bedeutet",
-   "u": "http://www.soester-anzeiger.de/wirtschaft/heizoel-erzeugerpreis-verdoppelt-sich-fast-laut-destatis-zr-94604859.html",
-   "d": "2026-11-24",
-   "q": "soester-anzeiger.de",
-   "type": "energie",
    "c": null
   },
   {
