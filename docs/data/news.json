@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-24T13:14:35Z",
+ "stand": "2026-11-24T14:59:41Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -220,6 +220,14 @@
    "c": "na"
   },
   {
+   "t": "Gold : 5 . 000 Dollar bis Ende 2027 , aber ...",
+   "u": "https://www.deraktionaer.de/artikel/aktien/gold-5000-dollar-bis-ende-2027-aber-20449349.html",
+   "d": "2026-11-24",
+   "q": "deraktionaer.de",
+   "type": "finanz",
+   "c": null
+  },
+  {
    "t": "Iran says three tankers hit mines in Hormuz despite U . S . escort",
    "u": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html",
    "d": "2026-11-24",
@@ -234,14 +242,6 @@
    "q": "boerse-online.de",
    "type": "logistik",
    "c": null
-  },
-  {
-   "t": "Nvidia Aktie : Trump reklamiert den Huang - Deal für sich",
-   "u": "https://www.boerse-express.com/news/articles/nvidia-aktie-trump-reklamiert-den-huang-deal-fuer-sich-966080",
-   "d": "2026-11-24",
-   "q": "boerse-express.com",
-   "type": "finanz",
-   "c": "na"
   },
   {
    "t": "Iran Says It Will Use All Its Tools to Confront US Naval Blockade",
