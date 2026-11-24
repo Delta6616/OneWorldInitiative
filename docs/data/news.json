@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-24T20:03:33Z",
+ "stand": "2026-11-24T20:55:14Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -144,6 +144,14 @@
    "u": "https://www.prnewswire.com/news-releases/icp-das-setzt-nachhaltigkeitsverpflichtungen-in-die-tat-um-forderung-von-energieeffizienz-gruner-innovation-und-verantwortungsvollem-wirtschaften-302932524.html",
    "d": "2026-11-24",
    "q": "prnewswire.com",
+   "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "Starke Schwankungen : Butterpreis fällt unter einen Euro pro Packung",
+   "u": "https://www.n-tv.de/wirtschaft/Butterpreis-faellt-unter-einen-Euro-pro-Packung-id31573397.html",
+   "d": "2026-11-24",
+   "q": "n-tv.de",
    "type": "logistik",
    "c": null
   },
@@ -346,14 +354,6 @@
    "q": "tribune.com.pk",
    "type": "rohstoffe",
    "c": null
-  },
-  {
-   "t": "Severe explosions , fire : Iran claims 3 oil tankers struck mines in Strait of Hormuz",
-   "u": "https://timesofindia.indiatimes.com/world/middle-east/severe-explosions-fires-iran-claims-3-oil-tankers-struck-mines-in-strait-of-hormuz/articleshow/136117458.cms",
-   "d": "2026-11-24",
-   "q": "timesofindia.indiatimes.com",
-   "type": "logistik",
-   "c": "as"
   },
   {
    "t": "Oil revenue at risk as Nigeria falls short of 1 . 84m production target",
