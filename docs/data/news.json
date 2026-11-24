@@ -1,8 +1,24 @@
 {
- "stand": "2026-11-23T23:51:16Z",
+ "stand": "2026-11-24T01:06:08Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "GrainFox finds new home under StoneX Group umbrella – Winnipeg Free Press",
+   "u": "https://www.winnipegfreepress.com/business/2026/11/23/grainfox-finds-new-home-under-stonex-group-umbrella",
+   "d": "2026-11-24",
+   "q": "winnipegfreepress.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "RATES UNCHANGED : Bank Of Israel Holds Interest At 3 . 25 % As Inflation Drops To 1 . 1 %",
+   "u": "https://www.theyeshivaworld.com/news/israel-news/2627045/rates-unchanged-bank-of-israel-holds-interest-at-3-25-as-inflation-drops-to-1-1.html",
+   "d": "2026-11-23",
+   "q": "theyeshivaworld.com",
+   "type": "finanz",
+   "c": "as"
+  },
   {
    "t": "CALL TO ATTACK : Iranian Regime Newspaper Urges Tehran To Strike First , Portrays President Trump As Hitler",
    "u": "https://www.theyeshivaworld.com/news/israel-news/2627040/call-to-attack-iranian-regime-newspaper-urges-tehran-to-strike-first-portrays-president-trump-as-hitler.html",
@@ -60,6 +76,14 @@
    "c": "as"
   },
   {
+   "t": "Loukus Technologies Aluminum – Cerium Alloy project has support from the Department of Energy",
+   "u": "https://www.kbear102.com/2026/11/23/loukus-technologies-aluminum-cerium-alloy-project-has-support-from-the-department-of-energy/",
+   "d": "2026-11-23",
+   "q": "kbear102.com",
+   "type": "rohstoffe",
+   "c": "na"
+  },
+  {
    "t": "FOMC meet : Why Bill Ackman wants the Fed to abandon its outdated 2 % inflation target now",
    "u": "https://www.businesstoday.in/world/story/fomc-meet-why-bill-ackman-wants-the-fed-to-abandon-its-outdated-2-inflation-target-now-568967-2026-11-23",
    "d": "2026-11-23",
@@ -73,6 +97,14 @@
    "d": "2026-11-23",
    "q": "apr.org",
    "type": "energie",
+   "c": null
+  },
+  {
+   "t": "These Safety Risks Go Beyond Just Children Toys , South Jersey Doctor Says",
+   "u": "https://patch.com/new-jersey/westdeptford/batteries-magnets-pose-safety-hazards-popular-childrens-toys",
+   "d": "2026-11-23",
+   "q": "patch.com",
+   "type": "rohstoffe",
    "c": null
   },
   {
@@ -105,6 +137,14 @@
    "d": "2026-11-22",
    "q": "winnipegfreepress.com",
    "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Klimakonferenz : Das Scheitern von Antalya - Ein bitteres , aber ehrliches Ende",
+   "u": "https://www.thueringer-allgemeine.de/politik/article413746057/das-scheitern-von-antalya-ein-bitteres-aber-ehrliches-ende.html",
+   "d": "2026-11-22",
+   "q": "thueringer-allgemeine.de",
+   "type": "rohstoffe",
    "c": null
   },
   {
@@ -570,6 +610,14 @@
    "q": "businessworld.in",
    "type": "energie",
    "c": "na"
+  },
+  {
+   "t": "New food recalls Canadians should know",
+   "u": "https://www.bramptonguardian.com/news/ontario-food-recalls-new-alerts/article_ed268917-db84-5d8f-ae4a-da7017214a04.html",
+   "d": "2026-11-21",
+   "q": "bramptonguardian.com",
+   "type": "rohstoffe",
+   "c": null
   },
   {
    "t": "Gold : Dezember - Zinserhöhung drückte Preis am Freitag",
@@ -1401,334 +1449,6 @@
    "d": "2026-11-19",
    "q": "mainemirror.com",
    "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "Southern Highlands home values drop as sale times hit 70 days",
-   "u": "https://www.yasstribune.com.au/story/9393178/southern-highlands-home-values-drop-as-sale-times-hit-70-days/",
-   "d": "2026-11-18",
-   "q": "yasstribune.com.au",
-   "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "Trump heads to China , betting on unscripted diplomacy with Xi and Putin",
-   "u": "https://www.wral.com/news/ap/3fc81-trump-heads-to-china-betting-on-unscripted-diplomacy-with-xi-and-putin/",
-   "d": "2026-11-18",
-   "q": "wral.com",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "What tech CEOs are saying about the saga around Jensen Huang exit from Nvidia :: WRAL . com",
-   "u": "https://www.wral.com/news/ap/06331-what-tech-ceos-are-saying-about-the-saga-around-jensen-huang-s-exit-from-nvidia/",
-   "d": "2026-11-18",
-   "q": "wral.com",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "Bank chief says interest rates not  pre - set  amid further potential rise",
-   "u": "https://www.witneygazette.co.uk/news/national/26742400.bank-chief-says-interest-rates-not-pre-set-amid-potential-rise/",
-   "d": "2026-11-18",
-   "q": "witneygazette.co.uk",
-   "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "Two - month lull ends with another Iranian strike in Bahrain , and US retaliation",
-   "u": "https://www.wiltsglosstandard.co.uk/news/national/26736144.two-month-lull-ends-another-iranian-strike-bahrain-us-retaliation/",
-   "d": "2026-11-18",
-   "q": "wiltsglosstandard.co.uk",
-   "type": "logistik",
-   "c": null
-  },
-  {
-   "t": "Career Nights from Mantas Juzenas and Vangelis Zougris Power Gaels to 94 – 78 Victory over Portland State",
-   "u": "https://www.stmarys-ca.edu/news/career-nights-mantas-juzenas-and-vangelis-zougris-power-gaels-94-78-victory-over-portland",
-   "d": "2026-11-18",
-   "q": "stmarys-ca.edu",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Iran launches a third round of strikes on Bahrain , host of U . S . Navy 5th Fleet",
-   "u": "https://www.publicradiotulsa.org/npr-national-news/2026-11-17/iran-launches-a-third-round-of-strikes-on-bahrain-host-of-u-s-navys-5th-fleet",
-   "d": "2026-11-18",
-   "q": "publicradiotulsa.org",
-   "type": "logistik",
-   "c": "as"
-  },
-  {
-   "t": "Daten - Leak : Deutsche Bank muss Neuanfang beweisen",
-   "u": "https://www.ksta.de:443/wirtschaft/deutsche-bank-neues-daten-leak-belastet-das-vertrauen-1419812",
-   "d": "2026-11-18",
-   "q": "ksta.de:443",
-   "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "Texas regulators are resuming environmental permits for data centers",
-   "u": "https://www.ksat.com/news/texas/2026/11/17/texas-regulators-are-resuming-environmental-permits-for-data-centers/",
-   "d": "2026-11-18",
-   "q": "ksat.com",
-   "type": "rohstoffe",
-   "c": "na"
-  },
-  {
-   "t": "China Expand Tariff Relief as Carney Meets Xi",
-   "u": "https://www.khaama.com/canada-and-china-expand-tariff-relief-as-carney-and-xi-deepen-partnership-despite-u-s-pressure/",
-   "d": "2026-11-18",
-   "q": "khaama.com",
-   "type": "politik",
-   "c": "as"
-  },
-  {
-   "t": "Federal Iraqi pipeline ready to restart Turkey oil exports",
-   "u": "https://www.iraqoilreport.com/news/federal-iraqi-pipeline-ready-to-restart-turkey-oil-exports-48081/",
-   "d": "2026-11-18",
-   "q": "iraqoilreport.com",
-   "type": "energie",
-   "c": "as"
-  },
-  {
-   "t": "Recent storms bring welcome drought relief to Sanpete County and Utah | News , Sports , Jobs",
-   "u": "https://www.heraldextra.com/sanpete-county/2026/nov/18/recent-storms-bring-welcome-drought-relief-to-sanpete-county-and-utah/",
-   "d": "2026-11-18",
-   "q": "heraldextra.com",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Ich habe meine Haare immer falsch gewaschen – bis mir eine Friseurin gesagt hat , wie es richtig geht",
-   "u": "https://www.glamour.de/artikel/ich-habe-meine-haare-immer-falsch-gewaschen-laut-friseurin",
-   "d": "2026-11-18",
-   "q": "glamour.de",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "California growers expand pomegranate cultivation on drought - prone and saline soils",
-   "u": "https://www.freshplaza.com/north-america/article/9893942/california-growers-expand-pomegranate-cultivation-on-drought-prone-and-saline-soils/",
-   "d": "2026-11-18",
-   "q": "freshplaza.com",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "4 . 4 - Gigawatt Position On U . S . Gas Power Takes Shape As GE Vernova ( NYSE : GEV ) Turbines Land In Pennsylvania",
-   "u": "https://www.foreignpolicyjournal.com/2026/11/17/4-4-gigawatt-position-on-u-s-gas-power-takes-shape-as-ge-vernova-nyse-gev-turbines-land-in-pennsylvania/",
-   "d": "2026-11-18",
-   "q": "foreignpolicyjournal.com",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Only 11 % of the Power Plants Vistra Just Bought Are in Texas . Here Why That Matters After the Election .",
-   "u": "https://www.fool.com/investing/2026/11/17/only-11-of-the-power-plants-vistra-just-bought-are/",
-   "d": "2026-11-18",
-   "q": "fool.com",
-   "type": "energie",
-   "c": "na"
-  },
-  {
-   "t": "Here What $10 , 000 Invested in MP Materials Could Be Worth by 2030 as EV Demand Accelerates",
-   "u": "https://www.fool.com/investing/2026/11/17/heres-what-10000-invested-in-mp-materials-could-be-worth-by-2030-as-ev-demand-accelerates/",
-   "d": "2026-11-18",
-   "q": "fool.com",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Chevron Says AI Has Already Captured Over $100 Million in Value . Here Where It Might Find an Even Bigger Payoff .",
-   "u": "https://www.fool.com/investing/2026/11/17/chevron-says-ai-has-already-captured-over-usd100-million-in-value-here-s-where-it-might-find-an-even-bigger-payoff/",
-   "d": "2026-11-18",
-   "q": "fool.com",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Johnson & Johnson vs . Vertex Pharmaceuticals : Which Healthcare Stock Is a Better Buy for 2027 ?",
-   "u": "https://www.fool.com/coverage/better-buy/2026/11/17/johnson-johnson-vs-vertex-pharmaceuticals-which-healthcare-stock-is-a-better-buy-for-2027/",
-   "d": "2026-11-18",
-   "q": "fool.com",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "MÄRKTE EUROPA / Schwach trotz guter Nvidia - Zahlen - Zurückhaltung vor Anthropic - IPO",
-   "u": "https://www.finanzen.ch/nachrichten/aktien/maerkte-europa-schwach-trotz-guter-nvidia-zahlen-zurueckhaltung-vor-anthropic-ipo-1036779930",
-   "d": "2026-11-18",
-   "q": "finanzen.ch",
-   "type": "energie",
-   "c": "eu"
-  },
-  {
-   "t": "A plant on the Atlantic City shoreline traps 580 million plastic specks a year , and it runs that way full time before its water reaches the ocean",
-   "u": "https://www.ecoportal.net/en/plant-atlantic-city-shoreline-traps-580/46614/",
-   "d": "2026-11-18",
-   "q": "ecoportal.net",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "DAX - Schluss : Schwache Wall Street drückt Leitindex unter 26 . 000 Punkte",
-   "u": "https://www.deraktionaer.de/artikel/maerkte-forex-zinsen/dax-schluss-schwache-wall-street-drueckt-leitindex-unter-26000-punkte-20445922.html",
-   "d": "2026-11-18",
-   "q": "deraktionaer.de",
-   "type": "finanz",
-   "c": "na"
-  },
-  {
-   "t": "Rising federal loan bills under new Trump rules put financial squeeze on California students",
-   "u": "https://www.capradio.org/articles/2026/11/17/rising-federal-loan-bills-under-new-trump-rules-put-financial-squeeze-on-california-students/",
-   "d": "2026-11-18",
-   "q": "capradio.org",
-   "type": "finanz",
-   "c": "na"
-  },
-  {
-   "t": "Rupee strength , not weakness , may pose challenge in FY28 : CEA Nageswaran",
-   "u": "https://www.business-standard.com/economy/news/lower-crude-oil-prices-could-bring-huge-windfall-for-india-in-fy28-cea-126111801445_1.html",
-   "d": "2026-11-18",
-   "q": "business-standard.com",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Venture Global and China Gas Announce Increased Long - Term LNG Agreement",
-   "u": "https://www.brantfordexpositor.ca/press-releases/business-wire/venture-global-and-china-gas-announce-increased-long-term-lng-agreement/",
-   "d": "2026-11-18",
-   "q": "brantfordexpositor.ca",
-   "type": "energie",
-   "c": "as"
-  },
-  {
-   "t": "Dominic LeBlanc fields questions about trade negotiations",
-   "u": "https://www.bnnbloomberg.ca/tariffs/2026/11/17/leblanc-fields-questions-about-trade-negotiations-with-trump-administration/",
-   "d": "2026-11-18",
-   "q": "bnnbloomberg.ca",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "Nvidia forecasts Q4 revenue above Wall Street estimates",
-   "u": "https://www.bnnbloomberg.ca/business/company-news/2026/11/17/nvidia-forecasts-quarterly-revenue-above-estimates-in-first-report-since-huangs-exit-as-ceo/",
-   "d": "2026-11-18",
-   "q": "bnnbloomberg.ca",
-   "type": "politik",
-   "c": "na"
-  },
-  {
-   "t": "Nvidia chair says the board will not rehire Huang as CEO",
-   "u": "https://www.asiaone.com/money/nvidia-chair-says-board-will-not-rehire-huang-ceo",
-   "d": "2026-11-18",
-   "q": "asiaone.com",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "Australia sanctions Israeli settlers , organisations over West Bank expansion",
-   "u": "https://www.al-monitor.com/originals/2026/11/australia-sanctions-israeli-settlers-organisations-over-west-bank-expansion",
-   "d": "2026-11-18",
-   "q": "al-monitor.com",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "DC Council delays condo insurance bill over concerns raised after Logan Circle shooting",
-   "u": "https://wjla.com/news/local/dc-council-condo-washington-insurance-amendment-logan-circle-damage-pinto-councilmembers-legan-extensive-damage",
-   "d": "2026-11-18",
-   "q": "wjla.com",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Emergency alert test today is real . A blackout is not .",
-   "u": "https://tucson.com/news/local/article_58cd2491-2a2f-45e5-a0e4-54c73646f54b.html",
-   "d": "2026-11-18",
-   "q": "tucson.com",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Ukraine strikes Putin prized Crimean Bridge , destroys central road section ahead of US - China meet",
-   "u": "https://timesofindia.indiatimes.com/world/europe/ukraine-strikes-putins-prized-crimean-bridge-destroys-central-road-section-ahead-of-us-china-meet/articleshow/135944199.cms",
-   "d": "2026-11-18",
-   "q": "timesofindia.indiatimes.com",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Targeted News Service",
-   "u": "https://targetednews.com/pr_disp.php?pr_id=9853357",
-   "d": "2026-11-18",
-   "q": "targetednews.com",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "Wolkenkratzer Saudi - Arabien : 466 Meter und noch nicht einmal die Hälfte : Der Jeddah Tower soll als erstes Gebäude der Welt einen Kilometer hoch werden",
-   "u": "https://solidbau.at/news/jeddah-tower-dschidda-466-meter-erstes-gebaeude-ein-kilometer-doka/",
-   "d": "2026-11-18",
-   "q": "solidbau.at",
-   "type": "logistik",
-   "c": "as"
-  },
-  {
-   "t": "Weihnachtspostamt in der Wiener Stadthalle eröffnet",
-   "u": "https://medianet.at/news/retail/weihnachtspostamt-in-der-wiener-stadthalle-eroeffnet-78738.html",
-   "d": "2026-11-18",
-   "q": "medianet.at",
-   "type": "logistik",
-   "c": null
-  },
-  {
-   "t": "Agrana präsentiert neuen Markenauftritt auf der Fi Europe",
-   "u": "https://medianet.at/news/retail/agrana-praesentiert-neuen-markenauftritt-auf-der-fi-europe-78741.html",
-   "d": "2026-11-18",
-   "q": "medianet.at",
-   "type": "rohstoffe",
-   "c": "eu"
-  },
-  {
-   "t": "Voyager 1 Becomes First Human Object One Light Day From Earth",
-   "u": "https://kogo.iheart.com/content/2026-11-18-voyager-1-becomes-first-human-object-one-light-day-from-earth/",
-   "d": "2026-11-18",
-   "q": "kogo.iheart.com",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "MLS # 2652035 : 9622 Perry Lane B , Overland Park , KS 66212",
-   "u": "https://kansascityhomes.com/listing/KS/Overland-Park/9622-Perry-Lane-B-66212/236858079",
-   "d": "2026-11-18",
-   "q": "kansascityhomes.com",
-   "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "MLS # 2652078 : 17332 Caenen Street , Overland Park , KS 66221",
-   "u": "https://kansascityhomes.com/listing/KS/Overland-Park/17332-Caenen-Street-66221/236868388",
-   "d": "2026-11-18",
-   "q": "kansascityhomes.com",
-   "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "Ontario Premier Doug Ford touts stronger ties with Quebec in Montreal speech",
-   "u": "https://globalnews.ca/news/12155086/ontario-doug-ford-quebec-montreal-speech/",
-   "d": "2026-11-18",
-   "q": "globalnews.ca",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "Is another US - Iran war looming ?",
-   "u": "http://www.middleeaststar.com/news/279440849/is-another-us-iran-war-looming",
-   "d": "2026-11-18",
-   "q": "middleeaststar.com",
-   "type": "logistik",
    "c": null
   }
  ]
