@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-24T07:14:14Z",
+ "stand": "2026-11-24T09:03:13Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -148,6 +148,14 @@
    "c": "na"
   },
   {
+   "t": "VNG sichert sich Erdgas aus Norwegen bis 2044",
+   "u": "https://www.finanznachrichten.de/nachrichten-2026-11/70210911-vng-sichert-sich-erdgas-aus-norwegen-bis-2044-016.htm",
+   "d": "2026-11-24",
+   "q": "finanznachrichten.de",
+   "type": "energie",
+   "c": "na"
+  },
+  {
    "t": "Börse Aktuell : Der Tech - Hype lässt nach , und die Wall Street blutet aus . Alle Augen sind auf Nvidia gerichtet .",
    "u": "https://www.finanznachrichten.de/nachrichten-2026-11/70151759-boerse-aktuell-der-tech-hype-laesst-nach-und-die-wall-street-blutet-aus-alle-augen-sind-auf-nvidia-gerichtet-232.htm",
    "d": "2026-11-24",
@@ -177,6 +185,14 @@
    "d": "2026-11-24",
    "q": "boerse-express.com",
    "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "Heizöl - Erzeugerpreis fast verdoppelt : Was das für Verbraucher bedeutet",
+   "u": "http://www.soester-anzeiger.de/wirtschaft/heizoel-erzeugerpreis-verdoppelt-sich-fast-laut-destatis-zr-94604859.html",
+   "d": "2026-11-24",
+   "q": "soester-anzeiger.de",
+   "type": "energie",
    "c": null
   },
   {
