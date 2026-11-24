@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-24T16:07:07Z",
+ "stand": "2026-11-24T17:08:45Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -8,6 +8,14 @@
    "u": "https://www.winnipegfreepress.com/business/2026/11/23/grainfox-finds-new-home-under-stonex-group-umbrella",
    "d": "2026-11-24",
    "q": "winnipegfreepress.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Gletscher schmelzen immer schneller : Neue Studien zeigen das dramatische Ausmaß",
+   "u": "https://www.vienna.at/gletscher-schmelzen-immer-schneller-neue-studien-zeigen-das-dramatische-ausmass/11424566",
+   "d": "2026-11-24",
+   "q": "vienna.at",
    "type": "rohstoffe",
    "c": null
   },
@@ -36,6 +44,14 @@
    "c": "as"
   },
   {
+   "t": "Stromberg : Serien mit Bürochaos und trockenem Humor",
+   "u": "https://www.t-online.de/unterhaltung/tv/id_101525144/-stromberg-serien-mit-buerochaos-und-trockenem-humor.html",
+   "d": "2026-11-24",
+   "q": "t-online.de",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
    "t": "Canada PM brings Trump impersonator on stage",
    "u": "https://www.straitstimes.com/world/canada-pm-brings-trump-impersonator-on-stage-during-press-gala",
    "d": "2026-11-24",
@@ -50,6 +66,22 @@
    "q": "straitstimes.com",
    "type": "politik",
    "c": "na"
+  },
+  {
+   "t": "Zwei Verdächtige nach Einbruchsserie in Haft",
+   "u": "https://www.stimme.de/baden-wuerttemberg/nachrichten/zwei-verdaechtige-nach-einbruchsserie-in-haft-art-5238627",
+   "d": "2026-11-24",
+   "q": "stimme.de",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Einbruchserie bei Stadtwerken Walldürn : zwei Verdächtige in Untersuchungshaft",
+   "u": "https://www.stimme.de/baden-wuerttemberg/einbruch-serie-stadtwerke-wallduern-zwei-verdaechtige-untersuchungshaft-metalle-gestohlen-polizei-ermittlungen-art-5238619",
+   "d": "2026-11-24",
+   "q": "stimme.de",
+   "type": "rohstoffe",
+   "c": null
   },
   {
    "t": "Schweizer Büro in Nordkorea - Kim Yo Jong droht mit Schliessung von diplomatischem Büro",
@@ -156,6 +188,14 @@
    "c": null
   },
   {
+   "t": "India must monitor mineral diplomacy of Pakistan and its efforts to attract investment",
+   "u": "https://www.hindustantimes.com/opinion/india-must-monitor-mineral-diplomacy-of-pakistan-and-its-efforts-to-attract-investment-101795457241989.html",
+   "d": "2026-11-24",
+   "q": "hindustantimes.com",
+   "type": "rohstoffe",
+   "c": "as"
+  },
+  {
    "t": "Nvidia - Affäre : united states verhängen Handelsverbot über Megaspeed",
    "u": "https://www.heise.de/news/Nvidia-Affaere-USA-verhaengen-Handelsverbot-ueber-Megaspeed-11535434.html",
    "d": "2026-11-24",
@@ -194,6 +234,14 @@
    "q": "finanznachrichten.de",
    "type": "energie",
    "c": "na"
+  },
+  {
+   "t": "2 . 020 g / t Silber , 3 , 39 % Antimon und 6 , 46 % Kupfer : Kutcho Copper liefert große Explorationsüberraschung",
+   "u": "https://www.finanznachrichten.de/nachrichten-2026-11/70210573-2-020-g-t-silber-3-39-antimon-und-6-46-kupfer-kutcho-copper-liefert-grosse-explorationsueberraschung-710.htm",
+   "d": "2026-11-24",
+   "q": "finanznachrichten.de",
+   "type": "rohstoffe",
+   "c": null
   },
   {
    "t": "Börse Aktuell : Der Tech - Hype lässt nach , und die Wall Street blutet aus . Alle Augen sind auf Nvidia gerichtet .",
@@ -252,12 +300,36 @@
    "c": null
   },
   {
+   "t": "UN food agency chief warns wars jeopardise food aid for 7 . 3m more people",
+   "u": "https://tribune.com.pk/story/2642033/un-food-agency-chief-warns-wars-jeopardise-food-aid-for-73m-more-people",
+   "d": "2026-11-24",
+   "q": "tribune.com.pk",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Bids invited for wheat imports",
+   "u": "https://tribune.com.pk/story/2641970/bids-invited-for-wheat-imports",
+   "d": "2026-11-24",
+   "q": "tribune.com.pk",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
    "t": "Severe explosions , fire : Iran claims 3 oil tankers struck mines in Strait of Hormuz",
    "u": "https://timesofindia.indiatimes.com/world/middle-east/severe-explosions-fires-iran-claims-3-oil-tankers-struck-mines-in-strait-of-hormuz/articleshow/136117458.cms",
    "d": "2026-11-24",
    "q": "timesofindia.indiatimes.com",
    "type": "logistik",
    "c": "as"
+  },
+  {
+   "t": "UN food agency chief warns wars jeopardize food aid for 7 . 3 million more people",
+   "u": "https://bworldonline.com/world/2026/11/24/796223/un-food-agency-chief-warns-wars-jeopardize-food-aid-for-7-3-million-more-people/",
+   "d": "2026-11-24",
+   "q": "bworldonline.com",
+   "type": "rohstoffe",
+   "c": null
   },
   {
    "t": "Heizöl - Erzeugerpreis fast verdoppelt : Was das für Verbraucher bedeutet",
