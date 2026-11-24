@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-24T02:18:44Z",
+ "stand": "2026-11-24T04:00:09Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -10,6 +10,78 @@
    "q": "winnipegfreepress.com",
    "type": "rohstoffe",
    "c": null
+  },
+  {
+   "t": "Russische Militärflugzeuge in Südkoreas Verteidigungszone",
+   "u": "https://www.sn.at/politik/weltpolitik/russische-militaerflugzeuge-in-suedkoreas-verteidigungszone-art-685647",
+   "d": "2026-11-24",
+   "q": "sn.at",
+   "type": "politik",
+   "c": "as"
+  },
+  {
+   "t": "Das freie Wort - Klimagipfel",
+   "u": "https://www.krone.at/das-freie-wort/6b04da8b523a5db7f9081388",
+   "d": "2026-11-24",
+   "q": "krone.at",
+   "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Nvidia - Chef : Wie Jensen Huang für die united states unverzichtbar wurde",
+   "u": "https://www.handelsblatt.com/technik/it-internet/nvidia-chef-wie-jensen-huang-fuer-die-usa-unverzichtbar-wurde/100272211.html",
+   "d": "2026-11-24",
+   "q": "handelsblatt.com",
+   "type": "finanz",
+   "c": "na"
+  },
+  {
+   "t": "USA setzen Firma in Nvidia - Kontroverse auf schwarze Liste",
+   "u": "https://www.gmx.ch/magazine/digital/usa-firma-nvidia-kontroverse-schwarze-liste-42976748",
+   "d": "2026-11-24",
+   "q": "gmx.ch",
+   "type": "finanz",
+   "c": "na"
+  },
+  {
+   "t": "Börse Aktuell : Der Tech - Hype lässt nach , und die Wall Street blutet aus . Alle Augen sind auf Nvidia gerichtet .",
+   "u": "https://www.finanznachrichten.de/nachrichten-2026-11/70151759-boerse-aktuell-der-tech-hype-laesst-nach-und-die-wall-street-blutet-aus-alle-augen-sind-auf-nvidia-gerichtet-232.htm",
+   "d": "2026-11-24",
+   "q": "finanznachrichten.de",
+   "type": "finanz",
+   "c": "na"
+  },
+  {
+   "t": "konom warnt : Die Fed ist 2027 das grte Risiko für Aktien - was Anleger wissen sollten",
+   "u": "https://www.finanzen.net/nachricht/aktien/zinspolitik-im-blick-zins-schock-statt-ki-crash-warum-die-us-notenbank-fuer-aktien-2027-zur-groessten-gefahr-werden-koennte-00-16059395",
+   "d": "2026-11-24",
+   "q": "finanzen.net",
+   "type": "finanz",
+   "c": "na"
+  },
+  {
+   "t": "Nvidia Aktie : Trump reklamiert den Huang - Deal für sich",
+   "u": "https://www.boerse-express.com/news/articles/nvidia-aktie-trump-reklamiert-den-huang-deal-fuer-sich-966080",
+   "d": "2026-11-24",
+   "q": "boerse-express.com",
+   "type": "finanz",
+   "c": "na"
+  },
+  {
+   "t": "ABO Energy Aktie : Sanierungsgesellschafter soll einsteigen",
+   "u": "https://www.boerse-express.com/news/articles/abo-energy-aktie-sanierungsgesellschafter-soll-einsteigen-966092",
+   "d": "2026-11-24",
+   "q": "boerse-express.com",
+   "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "Wie Jensen Huang für die united states unverzichtbar wurde",
+   "u": "https://www.azonline.de/welt/wirtschaft/wie-jensen-huang-fuer-die-usa-unverzichtbar-wurde-3731488",
+   "d": "2026-11-24",
+   "q": "azonline.de",
+   "type": "finanz",
+   "c": "na"
   },
   {
    "t": "RATES UNCHANGED : Bank Of Israel Holds Interest At 3 . 25 % As Inflation Drops To 1 . 1 %",
