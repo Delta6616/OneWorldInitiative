@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-24T11:59:41Z",
+ "stand": "2026-11-24T13:14:35Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -242,6 +242,14 @@
    "q": "boerse-express.com",
    "type": "finanz",
    "c": "na"
+  },
+  {
+   "t": "Iran Says It Will Use All Its Tools to Confront US Naval Blockade",
+   "u": "https://www.algemeiner.com/2026/11/23/iran-says-will-use-all-tools-confront-us-naval-blockade/",
+   "d": "2026-11-24",
+   "q": "algemeiner.com",
+   "type": "logistik",
+   "c": null
   },
   {
    "t": "Severe explosions , fire : Iran claims 3 oil tankers struck mines in Strait of Hormuz",
