@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-24T20:55:14Z",
+ "stand": "2026-11-24T21:58:52Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -194,6 +194,14 @@
    "q": "jpost.com",
    "type": "logistik",
    "c": null
+  },
+  {
+   "t": "Putin says Ukraine hits Russian oil plants despite Trump requests , promises retaliation",
+   "u": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/24/putin-says-ukraine-hits-russian-oil-plants-despite-trump-s-requests-promises-retaliation",
+   "d": "2026-11-24",
+   "q": "internazionale.it",
+   "type": "energie",
+   "c": "eu"
   },
   {
    "t": "Gold edges higher after steep weekly losses",
