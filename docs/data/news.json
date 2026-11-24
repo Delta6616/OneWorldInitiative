@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-24T06:41:09Z",
+ "stand": "2026-11-24T07:14:14Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -28,6 +28,30 @@
    "c": null
   },
   {
+   "t": "Megaspeed , Singaporean company at heart of Nvidia scandal , added to U . S . export control list",
+   "u": "https://www.thehindu.com/sci-tech/technology/megaspeed-singaporean-company-at-heart-of-nvidia-scandal-added-to-us-export-control-list/article71737069.ece",
+   "d": "2026-11-24",
+   "q": "thehindu.com",
+   "type": "politik",
+   "c": "as"
+  },
+  {
+   "t": "Canada PM brings Trump impersonator on stage",
+   "u": "https://www.straitstimes.com/world/canada-pm-brings-trump-impersonator-on-stage-during-press-gala",
+   "d": "2026-11-24",
+   "q": "straitstimes.com",
+   "type": "politik",
+   "c": "na"
+  },
+  {
+   "t": "Spore working with US on chip export enforcement as Megaspeed probe continues : PM Wong",
+   "u": "https://www.straitstimes.com/singapore/spore-working-with-us-on-chip-export-enforcement-as-megaspeed-probe-continues-pm-wong",
+   "d": "2026-11-24",
+   "q": "straitstimes.com",
+   "type": "politik",
+   "c": "na"
+  },
+  {
    "t": "Schweizer Büro in Nordkorea - Kim Yo Jong droht mit Schliessung von diplomatischem Büro",
    "u": "https://www.srf.ch/news/international/schweizer-buero-in-nordkorea-kim-yo-jong-droht-mit-schliessung-von-diplomatischem-buero",
    "d": "2026-11-24",
@@ -44,12 +68,44 @@
    "c": "as"
   },
   {
+   "t": "Nvidia - Chef : Wie Jensen Huang für die united states unverzichtbar wurde",
+   "u": "https://www.rhein-zeitung.de/deutschland-welt/netzwelt/wie-jensen-huang-fuer-die-usa-unverzichtbar-wurde_arid-4172614.html",
+   "d": "2026-11-24",
+   "q": "rhein-zeitung.de",
+   "type": "finanz",
+   "c": "na"
+  },
+  {
+   "t": "Zero effect ! Expert spots critical flaw in Trump admin toothless chips crackdown",
+   "u": "https://www.rawstory.com/trump-nvidia-2678507261/",
+   "d": "2026-11-24",
+   "q": "rawstory.com",
+   "type": "politik",
+   "c": "na"
+  },
+  {
    "t": "ICP DAS setzt Nachhaltigkeitsverpflichtungen in die Tat um : Förderung von Energieeffizienz , grüner Innovation und verantwortungsvollem Wirtschaften",
    "u": "https://www.prnewswire.com/news-releases/icp-das-setzt-nachhaltigkeitsverpflichtungen-in-die-tat-um-forderung-von-energieeffizienz-gruner-innovation-und-verantwortungsvollem-wirtschaften-302932524.html",
    "d": "2026-11-24",
    "q": "prnewswire.com",
    "type": "logistik",
    "c": null
+  },
+  {
+   "t": "Most expensive sex since Helen of Troy : Senator mocks Jensen Huang over alleged Chinese spy affair",
+   "u": "https://www.moneycontrol.com/world/most-expensive-sex-since-helen-of-troy-senator-mocks-jensen-huang-over-alleged-chinese-spy-affair-article-14087508.html",
+   "d": "2026-11-24",
+   "q": "moneycontrol.com",
+   "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Canada PM brings Trump impersonator on stage during press gala",
+   "u": "https://www.manilatimes.net/2026/11/24/world/americas-emea/canada-pm-brings-trump-impersonator-on-stage-during-press-gala/2476734",
+   "d": "2026-11-24",
+   "q": "manilatimes.net",
+   "type": "politik",
+   "c": "na"
   },
   {
    "t": "Asian markets follow Wall Street : Nikkei , Kospi jump up to 8 % as Jensen Huang return sparks rally in AI stocks",
@@ -73,14 +129,6 @@
    "d": "2026-11-24",
    "q": "heise.de",
    "type": "politik",
-   "c": "na"
-  },
-  {
-   "t": "Nvidia - Chef : Wie Jensen Huang für die united states unverzichtbar wurde",
-   "u": "https://www.handelsblatt.com/technik/it-internet/nvidia-chef-wie-jensen-huang-fuer-die-usa-unverzichtbar-wurde/100272211.html",
-   "d": "2026-11-24",
-   "q": "handelsblatt.com",
-   "type": "finanz",
    "c": "na"
   },
   {
@@ -204,6 +252,14 @@
    "c": "na"
   },
   {
+   "t": "NVIDIA Jensen Huang Will Testify Publicly Before Senators On December 3",
+   "u": "https://www.engadget.com/2325655/nvidia-jensen-huang-will-testify-publlicly-before-senators-on-december-3/",
+   "d": "2026-11-23",
+   "q": "engadget.com",
+   "type": "politik",
+   "c": "eu"
+  },
+  {
    "t": "FOMC meet : Why Bill Ackman wants the Fed to abandon its outdated 2 % inflation target now",
    "u": "https://www.businesstoday.in/world/story/fomc-meet-why-bill-ackman-wants-the-fed-to-abandon-its-outdated-2-inflation-target-now-568967-2026-11-23",
    "d": "2026-11-23",
@@ -217,6 +273,14 @@
    "d": "2026-11-23",
    "q": "apr.org",
    "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Jeffries Slams Jensen Huang  Indefensible  Return",
+   "u": "https://politicalwire.com/2026/11/23/jeffries-slams-jensen-huangs-indefensible-return/",
+   "d": "2026-11-23",
+   "q": "politicalwire.com",
+   "type": "politik",
    "c": null
   },
   {
