@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-24T06:00:46Z",
+ "stand": "2026-11-24T06:41:09Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -26,6 +26,14 @@
    "q": "thestar.com.my",
    "type": "finanz",
    "c": null
+  },
+  {
+   "t": "Schweizer Büro in Nordkorea - Kim Yo Jong droht mit Schliessung von diplomatischem Büro",
+   "u": "https://www.srf.ch/news/international/schweizer-buero-in-nordkorea-kim-yo-jong-droht-mit-schliessung-von-diplomatischem-buero",
+   "d": "2026-11-24",
+   "q": "srf.ch",
+   "type": "politik",
+   "c": "as"
   },
   {
    "t": "Russische Militärflugzeuge in Südkoreas Verteidigungszone",
@@ -58,6 +66,14 @@
    "q": "krone.at",
    "type": "politik",
    "c": null
+  },
+  {
+   "t": "Nvidia - Affäre : united states verhängen Handelsverbot über Megaspeed",
+   "u": "https://www.heise.de/news/Nvidia-Affaere-USA-verhaengen-Handelsverbot-ueber-Megaspeed-11535434.html",
+   "d": "2026-11-24",
+   "q": "heise.de",
+   "type": "politik",
+   "c": "na"
   },
   {
    "t": "Nvidia - Chef : Wie Jensen Huang für die united states unverzichtbar wurde",
