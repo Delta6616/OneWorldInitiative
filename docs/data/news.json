@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-24T17:08:45Z",
+ "stand": "2026-11-24T17:57:37Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -17,6 +17,14 @@
    "d": "2026-11-24",
    "q": "vienna.at",
    "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "LPG Prices Remain Elevated Despite 92 . 5 % Domestic Production – THISDAYLIVE",
+   "u": "https://www.thisdaylive.com/2026/11/24/lpg-prices-remain-elevated-despite-92-5-domestic-production/",
+   "d": "2026-11-24",
+   "q": "thisdaylive.com",
+   "type": "energie",
    "c": null
   },
   {
@@ -284,6 +292,14 @@
    "c": "as"
   },
   {
+   "t": "Oil and gas drillers optimistic heading into 2027 , but warn of labour shortages – Brandon Sun",
+   "u": "https://www.brandonsun.com/business/2026/11/23/oil-and-gas-drillers-optimistic-heading-into-2027-but-warn-of-labour-shortages",
+   "d": "2026-11-24",
+   "q": "brandonsun.com",
+   "type": "energie",
+   "c": null
+  },
+  {
    "t": "BÖRSE ONLINE : Börsennachrichten & Aktienanalysen",
    "u": "https://www.boerse-online.de/dpa-afx/reederei-manager-klagen-ueber-mangelnden-schutz-ihrer-schiffe-568191.html",
    "d": "2026-11-24",
@@ -292,11 +308,27 @@
    "c": null
   },
   {
+   "t": "Vitol Engen to lead R40bn South African gas - to - power project",
+   "u": "https://www.bizcommunity.com/article/vitols-engen-to-lead-r40bn-south-african-gas-power-project-295667a",
+   "d": "2026-11-24",
+   "q": "bizcommunity.com",
+   "type": "energie",
+   "c": "af"
+  },
+  {
    "t": "Iran Says It Will Use All Its Tools to Confront US Naval Blockade",
    "u": "https://www.algemeiner.com/2026/11/23/iran-says-will-use-all-tools-confront-us-naval-blockade/",
    "d": "2026-11-24",
    "q": "algemeiner.com",
    "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "UCLA study masks energy industry environmental gains",
+   "u": "https://wattsupwiththat.com/2026/11/23/ucla-study-masks-energy-industrys-environmental-gains/",
+   "d": "2026-11-24",
+   "q": "wattsupwiththat.com",
+   "type": "energie",
    "c": null
   },
   {
@@ -322,6 +354,22 @@
    "q": "timesofindia.indiatimes.com",
    "type": "logistik",
    "c": "as"
+  },
+  {
+   "t": "Oil revenue at risk as Nigeria falls short of 1 . 84m production target",
+   "u": "https://thesun.ng/oil-revenue-at-risk-as-nigeria-falls-short-of-1-84m-production-target/",
+   "d": "2026-11-24",
+   "q": "thesun.ng",
+   "type": "energie",
+   "c": "af"
+  },
+  {
+   "t": "TC Energy threatens to scrap gas pipeline expansion over proposed Alberta bill",
+   "u": "https://edmontonsun.com/energy/tc-energy-threatens-to-scrap-gas-pipeline-expansion-over-proposed-alberta-bill/wcm/cb0046c4-c742-4a71-aaf9-2cea46b5a4e8",
+   "d": "2026-11-24",
+   "q": "edmontonsun.com",
+   "type": "energie",
+   "c": null
   },
   {
    "t": "UN food agency chief warns wars jeopardize food aid for 7 . 3 million more people",
