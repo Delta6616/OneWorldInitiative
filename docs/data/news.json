@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-24T10:59:33Z",
+ "stand": "2026-11-24T11:59:41Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -148,6 +148,14 @@
    "c": null
   },
   {
+   "t": "Gold edges higher after steep weekly losses",
+   "u": "https://www.hurriyetdailynews.com/gold-edges-higher-after-steep-weekly-losses-229773",
+   "d": "2026-11-24",
+   "q": "hurriyetdailynews.com",
+   "type": "finanz",
+   "c": null
+  },
+  {
    "t": "Nvidia - Affäre : united states verhängen Handelsverbot über Megaspeed",
    "u": "https://www.heise.de/news/Nvidia-Affaere-USA-verhaengen-Handelsverbot-ueber-Megaspeed-11535434.html",
    "d": "2026-11-24",
@@ -234,14 +242,6 @@
    "q": "boerse-express.com",
    "type": "finanz",
    "c": "na"
-  },
-  {
-   "t": "ABO Energy Aktie : Sanierungsgesellschafter soll einsteigen",
-   "u": "https://www.boerse-express.com/news/articles/abo-energy-aktie-sanierungsgesellschafter-soll-einsteigen-966092",
-   "d": "2026-11-24",
-   "q": "boerse-express.com",
-   "type": "finanz",
-   "c": null
   },
   {
    "t": "Severe explosions , fire : Iran claims 3 oil tankers struck mines in Strait of Hormuz",
