@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-25T02:56:44Z",
+ "stand": "2026-11-25T04:03:52Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -20,6 +20,14 @@
    "c": "na"
   },
   {
+   "t": "Selber machen : Für den Einstieg perfekt : Rezept für klassische Corndogs",
+   "u": "https://www.volksstimme.de/leben/gesundheit/fur-den-einstieg-perfekt-rezept-fur-klassische-corndogs-4362218",
+   "d": "2026-11-25",
+   "q": "volksstimme.de",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
    "t": "Xi delays US chip retaliation after Trump seals Nvidia U - Turn",
    "u": "https://www.spokesman.com/stories/2026/nov/24/xi-delays-us-chip-retaliation-after-trump-seals-nv/",
    "d": "2026-11-25",
@@ -33,6 +41,46 @@
    "d": "2026-11-25",
    "q": "spokesman.com",
    "type": "politik",
+   "c": "na"
+  },
+  {
+   "t": "Für den Einstieg perfekt : Rezept für klassische Corndogs",
+   "u": "https://www.shz.de/lebenswelten/kochen-geniessen/artikel/fuer-den-einstieg-perfekt-rezept-fuer-klassische-corndogs-51800636",
+   "d": "2026-11-25",
+   "q": "shz.de",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "How warming in the Pacific helped fuel centuries of European famines",
+   "u": "https://www.news-medical.net/news/20261124/How-warming-in-the-Pacific-helped-fuel-centuries-of-European-famines.aspx",
+   "d": "2026-11-25",
+   "q": "news-medical.net",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Preisrutsch : Butter kostet wieder weniger als ein Euro",
+   "u": "https://www.br.de/nachrichten/deutschland-welt/preisrutsch-bei-aldi-und-lidl-butterpreis-sinkt-wieder-unter-einen-euro,VbuxicJ",
+   "d": "2026-11-25",
+   "q": "br.de",
+   "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "50 Prozent Diesel einsparen und Humus aufbauen : Landwirt profitiert von Direktsaat",
+   "u": "https://www.agrarheute.com/pflanze/50-prozent-diesel-einsparen-humus-aufbauen-landwirt-profitiert-direktsaat-643913",
+   "d": "2026-11-25",
+   "q": "agrarheute.com",
+   "type": "rohstoffe",
+   "c": "na"
+  },
+  {
+   "t": "Why Trump Flagship Lithium Project Now Costs 31 % More Than Planned",
+   "u": "https://oilprice.com/Metals/Commodities/Why-Trumps-Flagship-Lithium-Project-Now-Costs-31-More-Than-Planned.html",
+   "d": "2026-11-25",
+   "q": "oilprice.com",
+   "type": "rohstoffe",
    "c": "na"
   },
   {
@@ -225,6 +273,14 @@
    "d": "2026-11-24",
    "q": "n-tv.de",
    "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "Das perfekte Dinner  heute : Alle Rezepte & Punkte von Alex ( 24 . 11 . 2026 )",
+   "u": "https://www.moz.de/nachrichten/unterhaltung/das-perfekte-dinner-heute-241126-alle-rezepte-von-alex-aus-moenchengladbach-79772099.html",
+   "d": "2026-11-24",
+   "q": "moz.de",
+   "type": "rohstoffe",
    "c": null
   },
   {
@@ -425,14 +481,6 @@
    "d": "2026-11-24",
    "q": "edmontonsun.com",
    "type": "energie",
-   "c": null
-  },
-  {
-   "t": "UN food agency chief warns wars jeopardize food aid for 7 . 3 million more people",
-   "u": "https://bworldonline.com/world/2026/11/24/796223/un-food-agency-chief-warns-wars-jeopardize-food-aid-for-7-3-million-more-people/",
-   "d": "2026-11-24",
-   "q": "bworldonline.com",
-   "type": "rohstoffe",
    "c": null
   },
   {
