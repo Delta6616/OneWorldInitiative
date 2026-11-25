@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-25T04:03:52Z",
+ "stand": "2026-11-25T05:07:37Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -28,6 +28,22 @@
    "c": null
   },
   {
+   "t": "Ein Landwirt ernährt heute 153 Menschen",
+   "u": "https://www.topagrar.com/panorama/news/ein-landwirt-ernahrt-heute-153-menschen-20031514.html",
+   "d": "2026-11-25",
+   "q": "topagrar.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Ukrainische Getreideernte könnte sich 2027 wegen geschlossener Häfen halbieren",
+   "u": "https://www.topagrar.com/markt/news/ukrainische-getreideernte-konnte-sich-2027-wegen-geschlossener-hafen-halbieren-a-20031407.html",
+   "d": "2026-11-25",
+   "q": "topagrar.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
    "t": "Xi delays US chip retaliation after Trump seals Nvidia U - Turn",
    "u": "https://www.spokesman.com/stories/2026/nov/24/xi-delays-us-chip-retaliation-after-trump-seals-nv/",
    "d": "2026-11-25",
@@ -48,6 +64,14 @@
    "u": "https://www.shz.de/lebenswelten/kochen-geniessen/artikel/fuer-den-einstieg-perfekt-rezept-fuer-klassische-corndogs-51800636",
    "d": "2026-11-25",
    "q": "shz.de",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Flussspat für E - Autos - Grube soll reaktiviert werden",
+   "u": "https://www.schwaebische.de/regional/baden-wuerttemberg/flussspat-fuer-e-autos-grube-soll-reaktiviert-werden-5036072",
+   "d": "2026-11-25",
+   "q": "schwaebische.de",
    "type": "rohstoffe",
    "c": null
   },
