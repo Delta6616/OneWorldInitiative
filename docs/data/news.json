@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-25T09:05:38Z",
+ "stand": "2026-11-25T10:13:45Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -532,6 +532,14 @@
    "c": "af"
   },
   {
+   "t": "Ukraine - Krieg aktuell : Russische Drohne dringt in Polens Luftraum ein – NATO reagiert",
+   "u": "https://www.az-online.de/politik/ukraine-krieg-aktuell-news-selenskyj-seedrohnen-libyen-nato-putin-russland-ticker-zr-94603244.html",
+   "d": "2026-11-24",
+   "q": "az-online.de",
+   "type": "energie",
+   "c": "eu"
+  },
+  {
    "t": "UCLA study masks energy industry environmental gains",
    "u": "https://wattsupwiththat.com/2026/11/23/ucla-study-masks-energy-industrys-environmental-gains/",
    "d": "2026-11-24",
@@ -562,14 +570,6 @@
    "q": "thesun.ng",
    "type": "energie",
    "c": "af"
-  },
-  {
-   "t": "TC Energy threatens to scrap gas pipeline expansion over proposed Alberta bill",
-   "u": "https://edmontonsun.com/energy/tc-energy-threatens-to-scrap-gas-pipeline-expansion-over-proposed-alberta-bill/wcm/cb0046c4-c742-4a71-aaf9-2cea46b5a4e8",
-   "d": "2026-11-24",
-   "q": "edmontonsun.com",
-   "type": "energie",
-   "c": null
   },
   {
    "t": "RATES UNCHANGED : Bank Of Israel Holds Interest At 3 . 25 % As Inflation Drops To 1 . 1 %",
@@ -873,6 +873,14 @@
    "d": "2026-11-22",
    "q": "aol.com",
    "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Heizölpreise fallen heftig - diese Woche : Was Heizölkäufer für Heizöl zahlen müssen",
+   "u": "https://www.agrarheute.com/energie/heizoel/heizoelpreise-fallen-heftig-diese-woche-heizoelkaeufer-fuer-heizoel-zahlen-muessen-644101",
+   "d": "2026-11-22",
+   "q": "agrarheute.com",
+   "type": "energie",
    "c": null
   },
   {
