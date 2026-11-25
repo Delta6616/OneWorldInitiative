@@ -1,8 +1,56 @@
 {
- "stand": "2026-11-24T23:51:06Z",
+ "stand": "2026-11-25T01:11:09Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "US - Geschworene sprechen Huawei der Geldwäsche schuldig",
+   "u": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/netzwelt/article6b06144acd4642ba2eb17986/us-geschworene-sprechen-huawei-der-geldwaesche-schuldig.html",
+   "d": "2026-11-25",
+   "q": "welt.de",
+   "type": "politik",
+   "c": "na"
+  },
+  {
+   "t": "Jahrelanges Verfahren : US - Geschworene sprechen Huawei der Geldwäsche schuldig",
+   "u": "https://www.volksstimme.de/leben/technik/us-geschworene-sprechen-huawei-der-geldwasche-schuldig-4362195",
+   "d": "2026-11-25",
+   "q": "volksstimme.de",
+   "type": "politik",
+   "c": "na"
+  },
+  {
+   "t": "Xi delays US chip retaliation after Trump seals Nvidia U - Turn",
+   "u": "https://www.spokesman.com/stories/2026/nov/24/xi-delays-us-chip-retaliation-after-trump-seals-nv/",
+   "d": "2026-11-25",
+   "q": "spokesman.com",
+   "type": "politik",
+   "c": "na"
+  },
+  {
+   "t": "WHO chief calls on US to lift oil blockade on Cuba , citing health impact",
+   "u": "https://www.spokesman.com/stories/2026/nov/24/who-chief-calls-on-us-to-lift-oil-blockade-on-cuba/",
+   "d": "2026-11-25",
+   "q": "spokesman.com",
+   "type": "politik",
+   "c": "na"
+  },
+  {
+   "t": "Butterpreis sinkt unter einen Euro - Wirtschaft - Zeitungsverlag Waiblingen",
+   "u": "https://www.zvw.de/mehr-nachrichten/wirtschaft/butterpreis-sinkt-unter-einen-euro_arid-1106483",
+   "d": "2026-11-24",
+   "q": "zvw.de",
+   "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "Nvidiaaargh ! > Nvidiaaah ?",
+   "u": "https://www.zerohedge.com/markets/nvidiaaargh-nvidiaaah",
+   "d": "2026-11-24",
+   "q": "zerohedge.com",
+   "type": "politik",
+   "c": null
+  },
   {
    "t": "GrainFox finds new home under StoneX Group umbrella – Winnipeg Free Press",
    "u": "https://www.winnipegfreepress.com/business/2026/11/23/grainfox-finds-new-home-under-stonex-group-umbrella",
@@ -50,6 +98,14 @@
    "q": "thehindu.com",
    "type": "politik",
    "c": "as"
+  },
+  {
+   "t": "Life expectancy in Cuba falls for first time since 1950 amid economic crisis",
+   "u": "https://www.theguardian.com/world/2026/nov/24/cuba-life-expectancy-decline",
+   "d": "2026-11-24",
+   "q": "theguardian.com",
+   "type": "politik",
+   "c": null
   },
   {
    "t": "B . C . First Nations to acquire stake in Coastal GasLink pipeline",
@@ -196,14 +252,6 @@
    "c": null
   },
   {
-   "t": "Das freie Wort - Klimagipfel",
-   "u": "https://www.krone.at/das-freie-wort/6b04da8b523a5db7f9081388",
-   "d": "2026-11-24",
-   "q": "krone.at",
-   "type": "politik",
-   "c": null
-  },
-  {
    "t": "IRGC : Three tankers hit mines , exploded while transiting Hormuz with US support",
    "u": "https://www.jpost.com/middle-east/iran-news/article-915899",
    "d": "2026-11-24",
@@ -234,14 +282,6 @@
    "q": "hindustantimes.com",
    "type": "rohstoffe",
    "c": "as"
-  },
-  {
-   "t": "Nvidia - Affäre : united states verhängen Handelsverbot über Megaspeed",
-   "u": "https://www.heise.de/news/Nvidia-Affaere-USA-verhaengen-Handelsverbot-ueber-Megaspeed-11535434.html",
-   "d": "2026-11-24",
-   "q": "heise.de",
-   "type": "politik",
-   "c": "na"
   },
   {
    "t": "USA setzen Firma in Nvidia - Kontroverse auf schwarze Liste",
@@ -346,14 +386,6 @@
    "q": "bizcommunity.com",
    "type": "energie",
    "c": "af"
-  },
-  {
-   "t": "Iran Says It Will Use All Its Tools to Confront US Naval Blockade",
-   "u": "https://www.algemeiner.com/2026/11/23/iran-says-will-use-all-tools-confront-us-naval-blockade/",
-   "d": "2026-11-24",
-   "q": "algemeiner.com",
-   "type": "logistik",
-   "c": null
   },
   {
    "t": "UCLA study masks energy industry environmental gains",
@@ -1538,326 +1570,6 @@
    "q": "tz.de",
    "type": "finanz",
    "c": "eu"
-  },
-  {
-   "t": "Boone County employees impacted by second data breach",
-   "u": "https://www.wishtv.com/news/boone-county-employees-impacted-by-second-data-breach/",
-   "d": "2026-11-19",
-   "q": "wishtv.com",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "NC officials urge water conservation as drought conditions worsen",
-   "u": "https://www.wect.com/2026/11/19/nc-officials-urge-water-conservation-drought-conditions-worsen/",
-   "d": "2026-11-19",
-   "q": "wect.com",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Zwei Ohrfeigen für den Westen : Das war der Dreiergipfel in China",
-   "u": "https://www.watson.ch/international/usa/196576163-zwei-ohrfeigen-fuer-den-westen-das-war-der-dreiergipfel-in-china",
-   "d": "2026-11-19",
-   "q": "watson.ch",
-   "type": "energie",
-   "c": "as"
-  },
-  {
-   "t": "2 . 800 neue Millionäre : Nach Mega - IPO : Mit Anthropic wird die KI - Blase platzen | wallstreetONLINE",
-   "u": "https://www.wallstreet-online.de/nachricht/21720201-2-800-millionaere-mega-ipo-anthropic-wird-ki-blase-platzen",
-   "d": "2026-11-19",
-   "q": "wallstreet-online.de",
-   "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "North Sea faces diver drought as veterans head for retirement",
-   "u": "https://www.upstreamonline.com/exclusive/north-sea-faces-diver-drought-as-veterans-head-for-retirement/2-1-2073255",
-   "d": "2026-11-19",
-   "q": "upstreamonline.com",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Österreichische Botschaft in Kiew bei russischem Angriff beschädigt | Tiroler Tageszeitung – Aktuelle Nachrichten auf tt . com",
-   "u": "https://www.tt.com/artikel/30947306/oesterreichische-botschaft-in-kiew-bei-russischem-angriff-beschaedigt",
-   "d": "2026-11-19",
-   "q": "tt.com",
-   "type": "politik",
-   "c": "eu"
-  },
-  {
-   "t": "Koalition der Willigen stellt sich hinter Ukraine | Tiroler Tageszeitung – Aktuelle Nachrichten auf tt . com",
-   "u": "https://www.tt.com/artikel/30947243/koalition-der-willigen-stellt-sich-hinter-ukraine",
-   "d": "2026-11-19",
-   "q": "tt.com",
-   "type": "politik",
-   "c": "eu"
-  },
-  {
-   "t": "The average US 30 - year mortgage rate rises to 7 . 28 % this week",
-   "u": "https://www.thereporteronline.com/2026/11/19/mortgage-rates-nov-19/",
-   "d": "2026-11-19",
-   "q": "thereporteronline.com",
-   "type": "finanz",
-   "c": "na"
-  },
-  {
-   "t": "Koalition der Willigen sagt Ukraine weitere Hilfen zu : „ So lange es nötig ist , werden wir Kyjiw unterstützen",
-   "u": "https://www.tagesspiegel.de/internationales/liveblog/koalition-der-willigen-sagt-ukraine-weitere-hilfen-zu-so-lange-es-notig-ist-werden-wir-kyjiw-unterstutzen-16206302.html",
-   "d": "2026-11-19",
-   "q": "tagesspiegel.de",
-   "type": "politik",
-   "c": "eu"
-  },
-  {
-   "t": "Russischer Angriff beschädigt Österreichs Botschaft in Kiew",
-   "u": "https://www.suedtirolnews.it/politik/russischer-angriff-beschaedigt-oesterreichs-botschaft-in-kiew",
-   "d": "2026-11-19",
-   "q": "suedtirolnews.it",
-   "type": "politik",
-   "c": "eu"
-  },
-  {
-   "t": "Koalition der Willigen stellt sich hinter Ukraine",
-   "u": "https://www.suedtirolnews.it/politik/koalition-der-willigen-stellt-sich-hinter-ukraine",
-   "d": "2026-11-19",
-   "q": "suedtirolnews.it",
-   "type": "politik",
-   "c": "eu"
-  },
-  {
-   "t": "Klimaclub glaubt an Gasausstieg bis 2040",
-   "u": "https://www.suedtirolnews.it/politik/klimaclub-glaubt-an-gasausstieg-bis-2040",
-   "d": "2026-11-19",
-   "q": "suedtirolnews.it",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "US - Anleihen : Leichte Kursverluste",
-   "u": "https://www.onvista.de/news/2026/11-19-us-anleihen-leichte-kursverluste-0-10-26578471",
-   "d": "2026-11-19",
-   "q": "onvista.de",
-   "type": "energie",
-   "c": "na"
-  },
-  {
-   "t": "„ Lebensgefährdende Bedingungen : Mutmaßlicher Schleuser rechtfertigt sich mit bizarrer Erklärung",
-   "u": "https://www.nordkurier.de/regional/pasewalk/pasewalk-und-strasburg/lebensgefaehrdende-bedingungen-mutmasslicher-schleuser-rechtfertigt-sich-mit-bizarrer-erklaerung-5024047",
-   "d": "2026-11-19",
-   "q": "nordkurier.de",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "Kürzungen im Etat in München : So hart trifft uns der Spar - Hammer",
-   "u": "https://www.merkur.de/lokales/muenchen/muenchen-streicht-41-millionen-musisches-zentrum-und-radio-lora-vor-dem-aus-94599212.html",
-   "d": "2026-11-19",
-   "q": "merkur.de",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "Solago Black - Friday - Sale : Balkonkraftwerke für kurze Zeit bis 30 Prozent günstiger",
-   "u": "https://www.ksta.de:443/shoppingwelt/solago-black-friday-sale-balkonkraftwerke-fuer-kurze-zeit-bis-30-prozent-guenstiger-3-1418001",
-   "d": "2026-11-19",
-   "q": "ksta.de:443",
-   "type": "logistik",
-   "c": null
-  },
-  {
-   "t": "The average US 30 - year mortgage rate rises to 7 . 28 % this week , ending a four - week slide",
-   "u": "https://www.ksat.com/business/2026/11/19/the-average-us-30-year-mortgage-rate-rises-to-728-this-week-ending-a-four-week-slide/",
-   "d": "2026-11-19",
-   "q": "ksat.com",
-   "type": "finanz",
-   "c": "na"
-  },
-  {
-   "t": "Kenya picks US consortium for critical minerals project as residents seek answers",
-   "u": "https://www.ksat.com/business/2026/11/19/kenya-picks-us-consortium-for-critical-minerals-project-as-residents-seek-answers/",
-   "d": "2026-11-19",
-   "q": "ksat.com",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Ärger in der Formel 1 - Als „ Mistkerl  bezeichnet ! Jetzt reagiert Leclerc",
-   "u": "https://www.krone.at/4382369",
-   "d": "2026-11-19",
-   "q": "krone.at",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "Werder - Profi Reis über HSV - Fans , Hasskommentare und Nordderby !",
-   "u": "https://www.kreiszeitung.de/werder-bremen/werder-bremen-ludovit-reis-ueber-hsv-fans-hasskommentare-nordderby-hamburger-sv-derby-bundesliga-94599051.html",
-   "d": "2026-11-19",
-   "q": "kreiszeitung.de",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Nvidia Slides After Blowout Earnings As Investigations Line Up",
-   "u": "https://www.investors.com/research/nvidia-nvda-stock-earnings-buy-now-november-2026/",
-   "d": "2026-11-19",
-   "q": "investors.com",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "WOCHENVORSCHAU : Termine bis 3 . Dezember 2026",
-   "u": "https://www.finanznachrichten.de/nachrichten-2026-11/70181381-wochenvorschau-termine-bis-3-dezember-2026-016.htm",
-   "d": "2026-11-19",
-   "q": "finanznachrichten.de",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Flugstopp in den united states : Bruchlandung nach Routerwechsel",
-   "u": "https://www.crn.de/news/2026/translated/flugstopp-in-den-usa-bruchlandung-nach-routerwechsel",
-   "d": "2026-11-19",
-   "q": "crn.de",
-   "type": "rohstoffe",
-   "c": "na"
-  },
-  {
-   "t": "India steps up maritime security for seafarers amid vessel attacks ; 9 ships under monitoring near Hormuz",
-   "u": "https://www.businesstoday.in/india/story/india-steps-up-maritime-security-for-seafarers-amid-vessel-attacks-9-ships-under-monitoring-near-hormuz-568643-2026-11-19",
-   "d": "2026-11-19",
-   "q": "businesstoday.in",
-   "type": "logistik",
-   "c": "as"
-  },
-  {
-   "t": "Opinion | Voters reject data centers : Can remote areas fill the gap ?",
-   "u": "https://www.bostonglobe.com/2026/11/19/opinion/data-center-backlash-rural-possibilities/",
-   "d": "2026-11-19",
-   "q": "bostonglobe.com",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "dm plant „ Gesundheits - Checkpunkte  | APOTHEKE ADHOC",
-   "u": "https://www.apotheke-adhoc.de/nachrichten/detail/markt/dm-plant-gesundheits-checkpunkte/",
-   "d": "2026-11-19",
-   "q": "apotheke-adhoc.de",
-   "type": "logistik",
-   "c": null
-  },
-  {
-   "t": "Exclusive - Canada BMO returning to US oil and gas investment banking , sources say",
-   "u": "https://www.aol.com/articles/exclusive-canadas-bmo-returning-us-185124000.html",
-   "d": "2026-11-19",
-   "q": "aol.com",
-   "type": "energie",
-   "c": "na"
-  },
-  {
-   "t": "At historic summit , Xi and Putin share global stage with weakened Trump",
-   "u": "https://www.adn.com/nation-world/2026/11/19/at-historic-summit-xi-and-putin-share-global-stage-with-weakened-trump/",
-   "d": "2026-11-19",
-   "q": "adn.com",
-   "type": "politik",
-   "c": "na"
-  },
-  {
-   "t": "Wyoming Whiskey Introduces Saddle Up Santa In New Annual Holiday Series",
-   "u": "https://thewhiskeywash.com/whiskey-news/wyoming-whiskey-introduces-saddle-up-santa-in-time-for-christmas/",
-   "d": "2026-11-19",
-   "q": "thewhiskeywash.com",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "EU Central Banker Plans to Plant Barren AI Crops Across the Continent",
-   "u": "https://thenewamerican.com/opinion/eu-central-banker-plans-to-plant-barren-ai-crops-across-the-continent/",
-   "d": "2026-11-19",
-   "q": "thenewamerican.com",
-   "type": "finanz",
-   "c": "eu"
-  },
-  {
-   "t": "Thanksgiving Dinner Costs Rise 6 % This Year | NewsRadio 1170 WWVA",
-   "u": "https://newsradio1170.iheart.com/content/2026-11-19-thanksgiving-dinner-costs-rise-6-this-year/",
-   "d": "2026-11-19",
-   "q": "newsradio1170.iheart.com",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Reserve Bank holds rates at 7 . 25 % as MPC split over possible hike",
-   "u": "https://mg.co.za/news/south-africa/2026-11-19-reserve-bank-holds-rates-at-7-25-as-mpc-split-over-possible-hike/",
-   "d": "2026-11-19",
-   "q": "mg.co.za",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Iran war could leave consumers facing years of uncertainty over energy costs",
-   "u": "https://kpic.com/news/nation-world/iran-war-could-leave-consumers-facing-years-of-uncertainty-over-energy-costs",
-   "d": "2026-11-19",
-   "q": "kpic.com",
-   "type": "energie",
-   "c": "as"
-  },
-  {
-   "t": "Australian firm files procurement complaint over Kenya Mrima Hill licence award",
-   "u": "https://kenya-today.com/report-australian-firm-files-procurement-complaint-over-kenyas-mrima-hill-licence-award-30244/",
-   "d": "2026-11-19",
-   "q": "kenya-today.com",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Endlich : Schnappt euch jetzt die Gratis - Prämie zu Zelda : Ocarina of Time im Nintendo Store • JPGAMES . DE",
-   "u": "https://jpgames.de/2026/11/endlich-schnappt-euch-jetzt-die-gratis-praemie-zu-zelda-ocarina-of-time-im-nintendo-store/",
-   "d": "2026-11-19",
-   "q": "jpgames.de",
-   "type": "logistik",
-   "c": null
-  },
-  {
-   "t": "The Next Generation Of U . S .- Made EV Batteries Is Getting Closer To Reality",
-   "u": "https://insideevs.com/news/815929/panasonic-sila-domestic-battery-production/",
-   "d": "2026-11-19",
-   "q": "insideevs.com",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Fresh Ink , First Pours",
-   "u": "https://inkedmag.com/culture/fresh-ink-first-pours",
-   "d": "2026-11-19",
-   "q": "inkedmag.com",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Bangladesh Bank directs open disbursement of agricultural loans",
-   "u": "https://bdnews24.com/economy/1fyn5bspbg",
-   "d": "2026-11-19",
-   "q": "bdnews24.com",
-   "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "India LPG stocks fell to 25 days of supply during Hormuz crisis , says Hardeep Singh Puri",
-   "u": "http://www.mexicostar.com/news/279443799/india-lpg-stocks-fell-to-25-days-of-supply-during-hormuz-crisis-says-hardeep-singh-puri",
-   "d": "2026-11-19",
-   "q": "mexicostar.com",
-   "type": "energie",
-   "c": "as"
-  },
-  {
-   "t": "SEBI preparing guidelines for responsible AI use in capital markets , including disclosures and accountability : KVR Murty",
-   "u": "http://www.mainemirror.com/news/279443485/sebi-preparing-guidelines-for-responsible-ai-use-in-capital-markets-including-disclosures-and-accountability-kvr-murty",
-   "d": "2026-11-19",
-   "q": "mainemirror.com",
-   "type": "finanz",
-   "c": null
   }
  ]
 }
