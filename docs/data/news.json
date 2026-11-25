@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-25T06:05:20Z",
+ "stand": "2026-11-25T06:44:15Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -104,6 +104,30 @@
    "u": "https://www.freemalaysiatoday.com/category/business/2026/11/25/dollar-takes-breather-ahead-of-us-data-on-fed-path",
    "d": "2026-11-25",
    "q": "freemalaysiatoday.com",
+   "type": "finanz",
+   "c": "na"
+  },
+  {
+   "t": "WOCHENVORSCHAU : Termine bis 8 . Dezember 2026",
+   "u": "https://www.finanznachrichten.de/nachrichten-2026-11/70221629-wochenvorschau-termine-bis-8-dezember-2026-016.htm",
+   "d": "2026-11-25",
+   "q": "finanznachrichten.de",
+   "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "Die Gegenbewegung läuft : Chancen bei K92 Mining , Almonty Industries und Freeport - McMoRan !",
+   "u": "https://www.finanznachrichten.de/nachrichten-2026-11/70221601-die-gegenbewegung-laeuft-chancen-bei-k92-mining-almonty-industries-und-freeport-mcmoran-700.htm",
+   "d": "2026-11-25",
+   "q": "finanznachrichten.de",
+   "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "Barrick Mining , Desert Gold , B2Gold - Goldwerte im Gegenwind des Dollars , Mali im Fokus",
+   "u": "https://www.finanznachrichten.de/nachrichten-2026-11/70221599-barrick-mining-desert-gold-b2gold-goldwerte-im-gegenwind-des-dollars-mali-im-fokus-700.htm",
+   "d": "2026-11-25",
+   "q": "finanznachrichten.de",
    "type": "finanz",
    "c": "na"
   },
@@ -452,19 +476,19 @@
    "c": null
   },
   {
-   "t": "Börse Aktuell : Der Tech - Hype lässt nach , und die Wall Street blutet aus . Alle Augen sind auf Nvidia gerichtet .",
-   "u": "https://www.finanznachrichten.de/nachrichten-2026-11/70151759-boerse-aktuell-der-tech-hype-laesst-nach-und-die-wall-street-blutet-aus-alle-augen-sind-auf-nvidia-gerichtet-232.htm",
-   "d": "2026-11-24",
-   "q": "finanznachrichten.de",
-   "type": "finanz",
-   "c": "na"
-  },
-  {
    "t": "Ölpreise weiter unter Druck : Abwärtstrend setzt sich nach deutlichem Minus am Vortag fort",
    "u": "https://www.finanzen.net/nachricht/rohstoffe/iran-konflikt-im-blick-oelpreise-nach-deutlichen-vortagesverlusten-weiter-auf-talfahrt-16083116",
    "d": "2026-11-24",
    "q": "finanzen.net",
    "type": "logistik",
+   "c": "na"
+  },
+  {
+   "t": "konom warnt : Die Fed ist 2027 das grte Risiko für Aktien - was Anleger wissen sollten",
+   "u": "https://www.finanzen.net/nachricht/aktien/zinspolitik-im-blick-zins-schock-statt-ki-crash-warum-die-us-notenbank-fuer-aktien-2027-zur-groessten-gefahr-werden-koennte-00-16059395",
+   "d": "2026-11-24",
+   "q": "finanzen.net",
+   "type": "finanz",
    "c": "na"
   },
   {
