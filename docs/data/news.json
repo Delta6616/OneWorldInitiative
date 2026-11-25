@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-25T22:55:34Z",
+ "stand": "2026-11-25T23:52:31Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -228,6 +228,14 @@
    "c": "eu"
   },
   {
+   "t": "Iran claims downing of US MQ - 9 , Lucas drones over Strait of Hormuz",
+   "u": "https://aninews.in/news/world/middle-east/iran-claims-downing-of-us-mq-9-lucas-drones-over-strait-of-hormuz20261125101519/",
+   "d": "2026-11-25",
+   "q": "aninews.in",
+   "type": "logistik",
+   "c": "as"
+  },
+  {
    "t": "Nigeria : LPG Prices Remain Elevated Despite 92 . 5 Percent Domestic Production",
    "u": "https://allafrica.com/stories/202611250025.html",
    "d": "2026-11-25",
@@ -290,6 +298,14 @@
    "q": "thisdaylive.com",
    "type": "energie",
    "c": null
+  },
+  {
+   "t": "Israel Preparing For Possible Iranian Attack On Israeli And U . S . Forces As Persian Gulf Tensions Escalate",
+   "u": "https://www.theyeshivaworld.com/news/israel-news/2627456/israel-preparing-for-possible-iranian-attack-on-israeli-and-u-s-forces-as-persian-gulf-tensions-escalate.html",
+   "d": "2026-11-24",
+   "q": "theyeshivaworld.com",
+   "type": "logistik",
+   "c": "as"
   },
   {
    "t": "INDUSTRY FURIOUS : Israeli Manufacturers Blast Bank Of Israel For Not Cutting Rates",
@@ -564,6 +580,14 @@
    "c": "na"
   },
   {
+   "t": "40 - Prozent - Crash voraus ? Börsen - Veteran warnt vor Absturz am US - Aktienmarkt – und sieht Ölpreis auf 500 US - Dollar klettern",
+   "u": "https://www.finanzen.net/nachricht/aktien/vergleich-mit-oktober-1987-stratege-warnt-vor-40-prozent-absturz-am-us-aktienmarkt-und-sieht-den-oelpreis-bei-500-dollar-00-16081119",
+   "d": "2026-11-24",
+   "q": "finanzen.net",
+   "type": "energie",
+   "c": "na"
+  },
+  {
    "t": "Iran says three tankers hit mines in Hormuz despite U . S . escort",
    "u": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html",
    "d": "2026-11-24",
@@ -577,14 +601,6 @@
    "d": "2026-11-24",
    "q": "brandonsun.com",
    "type": "energie",
-   "c": null
-  },
-  {
-   "t": "BÖRSE ONLINE : Börsennachrichten & Aktienanalysen",
-   "u": "https://www.boerse-online.de/dpa-afx/reederei-manager-klagen-ueber-mangelnden-schutz-ihrer-schiffe-568191.html",
-   "d": "2026-11-24",
-   "q": "boerse-online.de",
-   "type": "logistik",
    "c": null
   },
   {
@@ -626,14 +642,6 @@
    "q": "tribune.com.pk",
    "type": "rohstoffe",
    "c": null
-  },
-  {
-   "t": "Oil revenue at risk as Nigeria falls short of 1 . 84m production target",
-   "u": "https://thesun.ng/oil-revenue-at-risk-as-nigeria-falls-short-of-1-84m-production-target/",
-   "d": "2026-11-24",
-   "q": "thesun.ng",
-   "type": "energie",
-   "c": "af"
   },
   {
    "t": "RATES UNCHANGED : Bank Of Israel Holds Interest At 3 . 25 % As Inflation Drops To 1 . 1 %",
@@ -1732,6 +1740,14 @@
    "c": "as"
   },
   {
+   "t": "BÖRSE ONLINE : Börsennachrichten & Aktienanalysen",
+   "u": "https://www.boerse-online.de/dpa-afx/devisen-euro-stagniert-auf-tiefstem-stand-seit-april-2025-567719.html",
+   "d": "2026-11-20",
+   "q": "boerse-online.de",
+   "type": "finanz",
+   "c": null
+  },
+  {
    "t": "Report : National Cyber Director To Resign | NewsRadio 1370 AM & 92 . 9 FM WSPD",
    "u": "https://wspd.iheart.com/content/2026-11-19-report-national-cyber-director-to-resign/",
    "d": "2026-11-20",
@@ -1770,14 +1786,6 @@
    "q": "econotimes.com",
    "type": "logistik",
    "c": "as"
-  },
-  {
-   "t": "Russlands Wirtschaft : Krim - Brücke verschärft Krise",
-   "u": "http://www.tz.de/wirtschaft/russlands-wirtschaft-krim-bruecke-verschaerft-krise-zr-94601199.html",
-   "d": "2026-11-20",
-   "q": "tz.de",
-   "type": "finanz",
-   "c": "eu"
   }
  ]
 }
