@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-25T17:53:43Z",
+ "stand": "2026-11-25T18:52:53Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -106,6 +106,14 @@
    "q": "koreaherald.com",
    "type": "politik",
    "c": "na"
+  },
+  {
+   "t": "Etihad - Flug nach Israel muss umkehren | Jüdische Allgemeine",
+   "u": "https://www.juedische-allgemeine.de/israel/etihad-flug-nach-israel-muss-umkehren/",
+   "d": "2026-11-25",
+   "q": "juedische-allgemeine.de",
+   "type": "energie",
+   "c": "as"
   },
   {
    "t": "Dollar takes breather ahead of US data on Fed path",
@@ -452,6 +460,14 @@
    "c": "as"
   },
   {
+   "t": "Neue Inflationszahlen – Heizkosten - Schock ! So teuer wird es jetzt für Dich",
+   "u": "https://www.heute.at/s/heizkosten-schock-so-teuer-wird-es-jetzt-fuer-dich-120283405",
+   "d": "2026-11-24",
+   "q": "heute.at",
+   "type": "energie",
+   "c": null
+  },
+  {
    "t": "USA setzen Firma in Nvidia - Kontroverse auf schwarze Liste",
    "u": "https://www.gmx.ch/magazine/digital/usa-firma-nvidia-kontroverse-schwarze-liste-42976748",
    "d": "2026-11-24",
@@ -570,14 +586,6 @@
    "q": "tribune.com.pk",
    "type": "rohstoffe",
    "c": null
-  },
-  {
-   "t": "Oil revenue at risk as Nigeria falls short of 1 . 84m production target",
-   "u": "https://thesun.ng/oil-revenue-at-risk-as-nigeria-falls-short-of-1-84m-production-target/",
-   "d": "2026-11-24",
-   "q": "thesun.ng",
-   "type": "energie",
-   "c": "af"
   },
   {
    "t": "RATES UNCHANGED : Bank Of Israel Holds Interest At 3 . 25 % As Inflation Drops To 1 . 1 %",
