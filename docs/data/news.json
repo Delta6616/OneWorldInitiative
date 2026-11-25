@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-25T13:18:58Z",
+ "stand": "2026-11-25T15:04:21Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -25,6 +25,14 @@
    "d": "2026-11-25",
    "q": "volksstimme.de",
    "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Rückläufige Milchpreise : Aldi , Lidl und Norma senken den Butterpreis",
+   "u": "https://www.topagrar.com/rind/news/aldi-und-lidl-senken-butterpreis-auf-unter-1-eur-20031556.html",
+   "d": "2026-11-25",
+   "q": "topagrar.com",
+   "type": "logistik",
    "c": null
   },
   {
