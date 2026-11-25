@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-25T19:56:58Z",
+ "stand": "2026-11-25T20:57:41Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -52,6 +52,14 @@
    "c": null
   },
   {
+   "t": "Drought affects groundnut cultivation in Karnataka ; prices rise amid supply shortage",
+   "u": "https://www.thehindu.com/news/national/karnataka/drought-affects-groundnut-cultivation-in-karnataka-prices-rise-amid-supply-shortage/article71739047.ece",
+   "d": "2026-11-25",
+   "q": "thehindu.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
    "t": "Bank of Canada bereitet Märkte auf Zinsschritt vor",
    "u": "https://www.stock-world.de/bank-of-canada-bereitet-maerkte-auf-zinsschritt-vor/",
    "d": "2026-11-25",
@@ -97,6 +105,14 @@
    "d": "2026-11-25",
    "q": "news-medical.net",
    "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "UCLA flawed methane report : Activist science masks energy industry real environmental progress – NaturalNews . com",
+   "u": "https://www.naturalnews.com/2026-11-24-uclas-flawed-methane-report-activist-science.html",
+   "d": "2026-11-25",
+   "q": "naturalnews.com",
+   "type": "energie",
    "c": null
   },
   {
@@ -156,12 +172,28 @@
    "c": "na"
   },
   {
+   "t": "Oil prices fall as supply glut concerns offset West Asia disruption fears",
+   "u": "https://www.business-standard.com/markets/commodities/oil-prices-fall-as-supply-glut-concerns-offset-west-asia-disruption-fears-126112500071_1.html",
+   "d": "2026-11-25",
+   "q": "business-standard.com",
+   "type": "energie",
+   "c": "as"
+  },
+  {
    "t": "Preisrutsch : Butter kostet wieder weniger als ein Euro",
    "u": "https://www.br.de/nachrichten/deutschland-welt/preisrutsch-bei-aldi-und-lidl-butterpreis-sinkt-wieder-unter-einen-euro,VbuxicJ",
    "d": "2026-11-25",
    "q": "br.de",
    "type": "logistik",
    "c": null
+  },
+  {
+   "t": "Oil prices fall as supply glut concerns offset Middle East disruption fears",
+   "u": "https://www.aol.com/articles/oil-prices-fall-supply-glut-014621000.html",
+   "d": "2026-11-25",
+   "q": "aol.com",
+   "type": "energie",
+   "c": "as"
   },
   {
    "t": "50 Prozent Diesel einsparen und Humus aufbauen : Landwirt profitiert von Direktsaat",
@@ -186,6 +218,22 @@
    "q": "calgaryherald.com:443",
    "type": "finanz",
    "c": "na"
+  },
+  {
+   "t": "Putin says Ukraine hits Russian oil plants despite Trump requests , promises retaliation",
+   "u": "https://bdnews24.com/world/europe/jetofbk2mf",
+   "d": "2026-11-25",
+   "q": "bdnews24.com",
+   "type": "energie",
+   "c": "eu"
+  },
+  {
+   "t": "Nigeria : LPG Prices Remain Elevated Despite 92 . 5 Percent Domestic Production",
+   "u": "https://allafrica.com/stories/202611250025.html",
+   "d": "2026-11-25",
+   "q": "allafrica.com",
+   "type": "energie",
+   "c": "af"
   },
   {
    "t": "Butterpreis sinkt unter einen Euro - Wirtschaft - Zeitungsverlag Waiblingen",
@@ -436,14 +484,6 @@
    "c": null
   },
   {
-   "t": "Putin says Ukraine hits Russian oil plants despite Trump requests , promises retaliation",
-   "u": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/24/putin-says-ukraine-hits-russian-oil-plants-despite-trump-s-requests-promises-retaliation",
-   "d": "2026-11-24",
-   "q": "internazionale.it",
-   "type": "energie",
-   "c": "eu"
-  },
-  {
    "t": "Gold edges higher after steep weekly losses",
    "u": "https://www.hurriyetdailynews.com/gold-edges-higher-after-steep-weekly-losses-229773",
    "d": "2026-11-24",
@@ -586,6 +626,14 @@
    "q": "tribune.com.pk",
    "type": "rohstoffe",
    "c": null
+  },
+  {
+   "t": "Oil revenue at risk as Nigeria falls short of 1 . 84m production target",
+   "u": "https://thesun.ng/oil-revenue-at-risk-as-nigeria-falls-short-of-1-84m-production-target/",
+   "d": "2026-11-24",
+   "q": "thesun.ng",
+   "type": "energie",
+   "c": "af"
   },
   {
    "t": "RATES UNCHANGED : Bank Of Israel Holds Interest At 3 . 25 % As Inflation Drops To 1 . 1 %",
