@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-25T05:07:37Z",
+ "stand": "2026-11-25T06:05:20Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -44,6 +44,14 @@
    "c": null
   },
   {
+   "t": "Bank of Canada bereitet Märkte auf Zinsschritt vor",
+   "u": "https://www.stock-world.de/bank-of-canada-bereitet-maerkte-auf-zinsschritt-vor/",
+   "d": "2026-11-25",
+   "q": "stock-world.de",
+   "type": "finanz",
+   "c": "na"
+  },
+  {
    "t": "Xi delays US chip retaliation after Trump seals Nvidia U - Turn",
    "u": "https://www.spokesman.com/stories/2026/nov/24/xi-delays-us-chip-retaliation-after-trump-seals-nv/",
    "d": "2026-11-25",
@@ -84,6 +92,22 @@
    "c": null
   },
   {
+   "t": "Kim Ju - ae luxury ski gear draws US scrutiny",
+   "u": "https://www.koreaherald.com/article/10948789",
+   "d": "2026-11-25",
+   "q": "koreaherald.com",
+   "type": "politik",
+   "c": "na"
+  },
+  {
+   "t": "Dollar takes breather ahead of US data on Fed path",
+   "u": "https://www.freemalaysiatoday.com/category/business/2026/11/25/dollar-takes-breather-ahead-of-us-data-on-fed-path",
+   "d": "2026-11-25",
+   "q": "freemalaysiatoday.com",
+   "type": "finanz",
+   "c": "na"
+  },
+  {
    "t": "Preisrutsch : Butter kostet wieder weniger als ein Euro",
    "u": "https://www.br.de/nachrichten/deutschland-welt/preisrutsch-bei-aldi-und-lidl-butterpreis-sinkt-wieder-unter-einen-euro,VbuxicJ",
    "d": "2026-11-25",
@@ -105,6 +129,14 @@
    "d": "2026-11-25",
    "q": "oilprice.com",
    "type": "rohstoffe",
+   "c": "na"
+  },
+  {
+   "t": "Bank of Canada to maintain 2 % inflation target as economic shocks test policy",
+   "u": "https://calgaryherald.com:443/economy/bank-of-canada-to-maintain-2-inflation-target-as-economic-shocks-test-policy/wcm/ea7a38c8-c3a5-408b-bd6a-fb0a9b3a53d6",
+   "d": "2026-11-25",
+   "q": "calgaryherald.com:443",
+   "type": "finanz",
    "c": "na"
   },
   {
@@ -130,6 +162,22 @@
    "q": "winnipegfreepress.com",
    "type": "rohstoffe",
    "c": null
+  },
+  {
+   "t": "Seco : Gesperrte russische Vermögen auf 8 , 5 Milliarden Franken gestiegen",
+   "u": "https://www.watson.ch/schweiz/international/418370838-seco-gesperrte-russische-vermoegen-auf-8-5-milliarden-franken-gestiegen",
+   "d": "2026-11-24",
+   "q": "watson.ch",
+   "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "Teure Energie heizt Zinsen an : Gleich 4 Notenbanken holen zum Schlag aus | wallstreetONLINE",
+   "u": "https://www.wallstreet-online.de/nachricht/21741415-teure-energie-heizt-zinsen-an-4-notenbanken-holen-schlag",
+   "d": "2026-11-24",
+   "q": "wallstreet-online.de",
+   "type": "finanz",
+   "c": "na"
   },
   {
    "t": "Gletscher schmelzen immer schneller : Neue Studien zeigen das dramatische Ausmaß",
@@ -418,22 +466,6 @@
    "q": "finanzen.net",
    "type": "logistik",
    "c": "na"
-  },
-  {
-   "t": "konom warnt : Die Fed ist 2027 das grte Risiko für Aktien - was Anleger wissen sollten",
-   "u": "https://www.finanzen.net/nachricht/aktien/zinspolitik-im-blick-zins-schock-statt-ki-crash-warum-die-us-notenbank-fuer-aktien-2027-zur-groessten-gefahr-werden-koennte-00-16059395",
-   "d": "2026-11-24",
-   "q": "finanzen.net",
-   "type": "finanz",
-   "c": "na"
-  },
-  {
-   "t": "Gold : 5 . 000 Dollar bis Ende 2027 , aber ...",
-   "u": "https://www.deraktionaer.de/artikel/aktien/gold-5000-dollar-bis-ende-2027-aber-20449349.html",
-   "d": "2026-11-24",
-   "q": "deraktionaer.de",
-   "type": "finanz",
-   "c": null
   },
   {
    "t": "Iran says three tankers hit mines in Hormuz despite U . S . escort",
