@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-25T07:16:46Z",
+ "stand": "2026-11-25T09:05:38Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -129,6 +129,14 @@
    "d": "2026-11-25",
    "q": "finanznachrichten.de",
    "type": "finanz",
+   "c": "na"
+  },
+  {
+   "t": "Lebenserwartung erstmals gesunken - WHO warnt vor Folgen der US - Blockade gegen Kuba",
+   "u": "https://www.deutschlandfunk.de/who-warnt-vor-folgen-der-us-blockade-gegen-kuba-108.html",
+   "d": "2026-11-25",
+   "q": "deutschlandfunk.de",
+   "type": "politik",
    "c": "na"
   },
   {
