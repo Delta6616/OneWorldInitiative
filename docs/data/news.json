@@ -1,8 +1,24 @@
 {
- "stand": "2026-11-26T01:10:47Z",
+ "stand": "2026-11-26T02:55:31Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "US - geführtes Konsortium gibt Vereinbarung zur Übernahme des Global Energy Portfolio von LUKOIL International bekannt",
+   "u": "https://www.onvista.de/news/2026/11-25-us-gefuehrtes-konsortium-gibt-vereinbarung-zur-uebernahme-des-global-energy-portfolio-von-lukoil-international-bekannt-0-5-26580605",
+   "d": "2026-11-26",
+   "q": "onvista.de",
+   "type": "energie",
+   "c": "na"
+  },
+  {
+   "t": "The RBA three  star are fuzzier than they look : what it means for AUD and stocks",
+   "u": "https://investinglive.com/education/the-rba-s-three-stars-are-fuzzier-than-they-look-what-it-means-for-aud-and-stocks/",
+   "d": "2026-11-26",
+   "q": "investinglive.com",
+   "type": "finanz",
+   "c": null
+  },
   {
    "t": "US - Geschworene sprechen Huawei der Geldwäsche schuldig",
    "u": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/netzwelt/article6b06144acd4642ba2eb17986/us-geschworene-sprechen-huawei-der-geldwaesche-schuldig.html",
@@ -140,6 +156,14 @@
    "c": "na"
   },
   {
+   "t": "October PCE : Inflation gauge moves higher ahead of Fed meeting",
+   "u": "https://www.foxbusiness.com/economy/october-2026-pce-inflation",
+   "d": "2026-11-25",
+   "q": "foxbusiness.com",
+   "type": "finanz",
+   "c": "na"
+  },
+  {
    "t": "WOCHENVORSCHAU : Termine bis 8 . Dezember 2026",
    "u": "https://www.finanznachrichten.de/nachrichten-2026-11/70221629-wochenvorschau-termine-bis-8-dezember-2026-016.htm",
    "d": "2026-11-25",
@@ -204,6 +228,14 @@
    "c": "as"
   },
   {
+   "t": "Dollar takes breather ahead of US data on Fed path ; Aussie jumps on CPI",
+   "u": "https://www.aol.com/articles/dollar-takes-breather-ahead-us-011916000.html",
+   "d": "2026-11-25",
+   "q": "aol.com",
+   "type": "finanz",
+   "c": "na"
+  },
+  {
    "t": "50 Prozent Diesel einsparen und Humus aufbauen : Landwirt profitiert von Direktsaat",
    "u": "https://www.agrarheute.com/pflanze/50-prozent-diesel-einsparen-humus-aufbauen-landwirt-profitiert-direktsaat-643913",
    "d": "2026-11-25",
@@ -218,6 +250,14 @@
    "q": "oilprice.com",
    "type": "rohstoffe",
    "c": "na"
+  },
+  {
+   "t": "RBI net buyer of dollars for fourth straight month in September , data shows",
+   "u": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-net-buyer-of-dollars-for-fourth-straight-month-in-september-data-shows/articleshow/136163192.cms",
+   "d": "2026-11-25",
+   "q": "economictimes.indiatimes.com",
+   "type": "finanz",
+   "c": null
   },
   {
    "t": "Bank of Canada to maintain 2 % inflation target as economic shocks test policy",
