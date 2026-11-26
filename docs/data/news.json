@@ -1,8 +1,16 @@
 {
- "stand": "2026-11-26T09:05:26Z",
+ "stand": "2026-11-26T18:58:56Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "„ Aufstieg , Absturz , Auferstehung : MDR erzählt spektakuläre Geschichte von Mey & ...",
+   "u": "https://www.presseportal.de/pm/7880/6398605",
+   "d": "2026-11-26",
+   "q": "presseportal.de",
+   "type": "logistik",
+   "c": null
+  },
   {
    "t": "US - geführtes Konsortium gibt Vereinbarung zur Übernahme des Global Energy Portfolio von LUKOIL International bekannt",
    "u": "https://www.onvista.de/news/2026/11-25-us-gefuehrtes-konsortium-gibt-vereinbarung-zur-uebernahme-des-global-energy-portfolio-von-lukoil-international-bekannt-0-5-26580605",
