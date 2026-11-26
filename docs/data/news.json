@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-26T06:43:31Z",
+ "stand": "2026-11-26T07:17:10Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -20,6 +20,14 @@
    "c": null
   },
   {
+   "t": "Evolution of Energy Markets in 2026 : Supply Bottlenecks and the Search for Problem - Free Barrels",
+   "u": "https://peakoil.com/publicpolicy/evolution-of-energy-markets-in-2026-supply-bottlenecks-and-the-search-for-problem-free-barrels",
+   "d": "2026-11-26",
+   "q": "peakoil.com",
+   "type": "logistik",
+   "c": null
+  },
+  {
    "t": "South Korea central bank raises key interest rate to fight inflation",
    "u": "https://isp.netscape.com:443/pf/story/0001/20261126/b9cef57c80c2ceb5e273b71b9a32c9d9",
    "d": "2026-11-26",
@@ -34,6 +42,14 @@
    "q": "investinglive.com",
    "type": "finanz",
    "c": null
+  },
+  {
+   "t": "Hormuz tensions rise as US - Iran standoff deepens",
+   "u": "http://eng.chinamil.com.cn/2025xb/W/N/16502087.html",
+   "d": "2026-11-26",
+   "q": "eng.chinamil.com.cn",
+   "type": "logistik",
+   "c": "as"
   },
   {
    "t": "US - Geschworene sprechen Huawei der Geldwäsche schuldig",
