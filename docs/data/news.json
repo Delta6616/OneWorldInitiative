@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-26T06:03:36Z",
+ "stand": "2026-11-26T06:43:31Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -10,6 +10,14 @@
    "q": "onvista.de",
    "type": "energie",
    "c": "na"
+  },
+  {
+   "t": "Immobilienkredit : Wie ein Eigentümer bei der Anschlussfinanzierung fast 50 . 000 Euro sparte",
+   "u": "https://www.faz.net/aktuell/finanzen/immobilienkredit-wie-ein-eigentuemer-bei-der-anschlussfinanzierung-fast-50-000-euro-sparte-accg-201602175.html",
+   "d": "2026-11-26",
+   "q": "faz.net",
+   "type": "finanz",
+   "c": null
   },
   {
    "t": "South Korea central bank raises key interest rate to fight inflation",
@@ -73,6 +81,14 @@
    "d": "2026-11-25",
    "q": "topagrar.com",
    "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Trump - Regierung plant neue Zölle gegen die EU , China und weitere Länder",
+   "u": "https://www.thueringer-allgemeine.de/wirtschaft/article413775488/trump-regierung-plant-neue-zoelle-gegen-die-eu-china-und-weitere-laender.html",
+   "d": "2026-11-25",
+   "q": "thueringer-allgemeine.de",
+   "type": "finanz",
    "c": null
   },
   {
@@ -196,6 +212,22 @@
    "c": "na"
   },
   {
+   "t": "USA : Private Einkommen steigen stärker als erwartet",
+   "u": "https://www.finanzen.net/nachricht/aktien/usa-private-einkommen-steigen-staerker-als-erwartet-16086237",
+   "d": "2026-11-25",
+   "q": "finanzen.net",
+   "type": "finanz",
+   "c": "na"
+  },
+  {
+   "t": "USA : Erstanträge auf Arbeitslosenhilfe sinken überraschend deutlich",
+   "u": "https://www.finanzen.net/nachricht/aktien/usa-erstantraege-auf-arbeitslosenhilfe-sinken-ueberraschend-deutlich-16086238",
+   "d": "2026-11-25",
+   "q": "finanzen.net",
+   "type": "finanz",
+   "c": "na"
+  },
+  {
    "t": "Lebenserwartung erstmals gesunken - WHO warnt vor Folgen der US - Blockade gegen Kuba",
    "u": "https://www.deutschlandfunk.de/who-warnt-vor-folgen-der-us-blockade-gegen-kuba-108.html",
    "d": "2026-11-25",
@@ -257,22 +289,6 @@
    "d": "2026-11-25",
    "q": "oilprice.com",
    "type": "rohstoffe",
-   "c": "na"
-  },
-  {
-   "t": "RBI net buyer of dollars for fourth straight month in September , data shows",
-   "u": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-net-buyer-of-dollars-for-fourth-straight-month-in-september-data-shows/articleshow/136163192.cms",
-   "d": "2026-11-25",
-   "q": "economictimes.indiatimes.com",
-   "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "Bank of Canada to maintain 2 % inflation target as economic shocks test policy",
-   "u": "https://calgaryherald.com:443/economy/bank-of-canada-to-maintain-2-inflation-target-as-economic-shocks-test-policy/wcm/ea7a38c8-c3a5-408b-bd6a-fb0a9b3a53d6",
-   "d": "2026-11-25",
-   "q": "calgaryherald.com:443",
-   "type": "finanz",
    "c": "na"
   },
   {
