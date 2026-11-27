@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-27T06:48:21Z",
+ "stand": "2026-11-27T10:48:19Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -84,6 +84,14 @@
    "c": null
   },
   {
+   "t": "TC Energy announces second Indigenous investment in Coastal GasLink",
+   "u": "https://www.manilatimes.net/2026/11/27/tmt-newswire/globenewswire/tc-energy-announces-second-indigenous-investment-in-coastal-gaslink/2478788",
+   "d": "2026-11-26",
+   "q": "manilatimes.net",
+   "type": "energie",
+   "c": "na"
+  },
+  {
    "t": "Avalon Advanced Materials Announces Closing of Additional C$1 . 0 Million Flow - Through Financing , Bringing Total Proceeds to C$5 . 0 Million",
    "u": "https://www.juniorminingnetwork.com/junior-miner-news/press-releases/1221-tsx/avl/215463-avalon-advanced-materials-announces-closing-of-additional-c-1-0-million-flow-through-financing-bringing-total-proceeds-to-c-5-0-million.html",
    "d": "2026-11-26",
@@ -128,6 +136,14 @@
    "u": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/brent-settles-higher-mine-strikes-refinery-attack-stoke-middle-east-supply-concerns",
    "d": "2026-11-26",
    "q": "businesstimes.com.sg",
+   "type": "energie",
+   "c": "as"
+  },
+  {
+   "t": "Oil prices rise on supply concerns as Iran claims mine strikes on ships",
+   "u": "https://www.business-standard.com/markets/commodities/oil-prices-rise-on-supply-concerns-as-iran-claims-mine-strikes-on-ships-126112600085_1.html",
+   "d": "2026-11-26",
+   "q": "business-standard.com",
    "type": "energie",
    "c": "as"
   },
