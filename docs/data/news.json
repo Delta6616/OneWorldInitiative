@@ -1,8 +1,16 @@
 {
- "stand": "2026-11-26T18:58:56Z",
+ "stand": "2026-11-27T02:09:36Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Intact Whole Grains vs . Milled : Study Reveals Processing Matters for Blood Sugar Control – NaturalNews . com",
+   "u": "https://www.naturalnews.com/2026-11-26-study-grain-processing-matters-blood-sugar-control.html",
+   "d": "2026-11-27",
+   "q": "naturalnews.com",
+   "type": "rohstoffe",
+   "c": null
+  },
   {
    "t": "„ Aufstieg , Absturz , Auferstehung : MDR erzählt spektakuläre Geschichte von Mey & ...",
    "u": "https://www.presseportal.de/pm/7880/6398605",
@@ -20,6 +28,14 @@
    "c": "na"
   },
   {
+   "t": "Avalon Advanced Materials Announces Closing of Additional C$1 . 0 Million Flow - Through Financing , Bringing Total Proceeds to C$5 . 0 Million",
+   "u": "https://www.juniorminingnetwork.com/junior-miner-news/press-releases/1221-tsx/avl/215463-avalon-advanced-materials-announces-closing-of-additional-c-1-0-million-flow-through-financing-bringing-total-proceeds-to-c-5-0-million.html",
+   "d": "2026-11-26",
+   "q": "juniorminingnetwork.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
    "t": "Immobilienkredit : Wie ein Eigentümer bei der Anschlussfinanzierung fast 50 . 000 Euro sparte",
    "u": "https://www.faz.net/aktuell/finanzen/immobilienkredit-wie-ein-eigentuemer-bei-der-anschlussfinanzierung-fast-50-000-euro-sparte-accg-201602175.html",
    "d": "2026-11-26",
@@ -28,12 +44,44 @@
    "c": null
   },
   {
+   "t": "Brent settles higher as mine strikes , refinery attack stoke Middle East supply concerns",
+   "u": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/brent-settles-higher-mine-strikes-refinery-attack-stoke-middle-east-supply-concerns",
+   "d": "2026-11-26",
+   "q": "businesstimes.com.sg",
+   "type": "energie",
+   "c": "as"
+  },
+  {
+   "t": "Oil edges down as supply glut prospect offsets Middle East disruption fears",
+   "u": "https://www.asiaone.com:443/money/oil-prices-dip-supply-glut-middle-east",
+   "d": "2026-11-26",
+   "q": "asiaone.com:443",
+   "type": "energie",
+   "c": "as"
+  },
+  {
    "t": "Evolution of Energy Markets in 2026 : Supply Bottlenecks and the Search for Problem - Free Barrels",
    "u": "https://peakoil.com/publicpolicy/evolution-of-energy-markets-in-2026-supply-bottlenecks-and-the-search-for-problem-free-barrels",
    "d": "2026-11-26",
    "q": "peakoil.com",
    "type": "logistik",
    "c": null
+  },
+  {
+   "t": "Energy price cap : The Iran war is being blamed for raising bills – here why | Peak Oil News and Message Boards",
+   "u": "https://peakoil.com/consumption/energy-price-cap-the-iran-war-is-being-blamed-for-raising-bills-heres-why",
+   "d": "2026-11-26",
+   "q": "peakoil.com",
+   "type": "energie",
+   "c": "as"
+  },
+  {
+   "t": "Labor Shortages Could Derail Canada Oil and Gas Growth Momentum",
+   "u": "https://oilprice.com/Energy/Energy-General/Labor-Shortages-Could-Derail-Canadas-Oil-and-Gas-Growth-Momentum.html",
+   "d": "2026-11-26",
+   "q": "oilprice.com",
+   "type": "energie",
+   "c": "na"
   },
   {
    "t": "South Korea central bank raises key interest rate to fight inflation",
@@ -50,6 +98,38 @@
    "q": "investinglive.com",
    "type": "finanz",
    "c": null
+  },
+  {
+   "t": "James Rose , Author at Financial Post",
+   "u": "https://financialpost.com/author/james-rose/",
+   "d": "2026-11-26",
+   "q": "financialpost.com",
+   "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Third annual Elements of Change summit highlights Nevada leadership in critical minerals",
+   "u": "https://elynews.com/2026/11/25/third-annual-elements-of-change-summit-highlights-nevadas-leadership-in-critical-minerals/",
+   "d": "2026-11-26",
+   "q": "elynews.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Pablo Hernandez de Cos set to become next European Central Bank president",
+   "u": "https://econotimes.com/Pablo-Hernandez-de-Cos-set-to-become-next-European-Central-Bank-president-1780844",
+   "d": "2026-11-26",
+   "q": "econotimes.com",
+   "type": "finanz",
+   "c": "eu"
+  },
+  {
+   "t": "Spanish economist de Cos to succeed Lagarde as head of ECB",
+   "u": "http://www.irishsun.com/news/279459752/spanish-economist-de-cos-to-succeed-lagarde-as-head-of-ecb",
+   "d": "2026-11-26",
+   "q": "irishsun.com",
+   "type": "finanz",
+   "c": "eu"
   },
   {
    "t": "Hormuz tensions rise as US - Iran standoff deepens",
@@ -1153,334 +1233,6 @@
    "d": "2026-11-22",
    "q": "come-on.de",
    "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Iran strikes 3 tankers as it shows off missile launchers , and other Mideast news",
-   "u": "https://www.wboc.com/news/international/iran-strikes-3-tankers-as-it-shows-off-missile-launchers-and-other-mideast-news/article_01da6b4b-0bb9-5d63-96fd-a41f63b4e2d6.html",
-   "d": "2026-11-21",
-   "q": "wboc.com",
-   "type": "logistik",
-   "c": "as"
-  },
-  {
-   "t": "Welthandel : EU und Indonesien unterzeichnen weitreichenden Handelsdeal",
-   "u": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/eu-und-indonesien-unterzeichnen-weitreichenden-handelsdeal-4360367",
-   "d": "2026-11-21",
-   "q": "volksstimme.de",
-   "type": "politik",
-   "c": "eu"
-  },
-  {
-   "t": "148 Menschen auf Kreuzfahrtschiff plötzlich erkrankt",
-   "u": "https://www.vol.at/148-menschen-ploetzlich-krank-kreuzfahrt-nimmt-dramatische-wende/11365370",
-   "d": "2026-11-21",
-   "q": "vol.at",
-   "type": "logistik",
-   "c": null
-  },
-  {
-   "t": "China military backing to Pak raises two - front threat for India : US report",
-   "u": "https://www.tribuneindia.com/news/india/chinas-military-backing-to-pak-raises-two-front-threat-for-india-us-report/",
-   "d": "2026-11-21",
-   "q": "tribuneindia.com",
-   "type": "politik",
-   "c": "as"
-  },
-  {
-   "t": "Shenzhen Summit Puts Limits of China – Russia Partnership in Focus",
-   "u": "https://www.theepochtimes.com/china/shenzhen-summit-puts-limits-of-china-russia-partnership-in-focus-6127510",
-   "d": "2026-11-21",
-   "q": "theepochtimes.com",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "Gold Hits 14 - Month Low",
-   "u": "https://www.theepochtimes.com/business/gold-hits-14-month-low-6127794",
-   "d": "2026-11-21",
-   "q": "theepochtimes.com",
-   "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "Gerhard Polt & die Well - Brüder ausm Biermoos",
-   "u": "https://www.tele.at/tv-programm/sendungen/108300/gerhard-polt-die-well-bruder-ausm-biermoos",
-   "d": "2026-11-21",
-   "q": "tele.at",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Pflanzenkohle soll Streuobstwiesen im Kreis Reutlingen stärken",
-   "u": "https://www.swr.de/swraktuell/baden-wuerttemberg/tuebingen/pflanzenkohle-soll-obstbaeume-im-landkreis-reutlingen-gegen-klimawandel-staerken-100.html",
-   "d": "2026-11-21",
-   "q": "swr.de",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Aktion 100 . 000 und Ulmer helft : Goldbarren und 10 . 000 Euro - Gutschein für große Benefiz - Versteigerung",
-   "u": "https://www.swp.de/lokales/ulm/aktion-100000-und-ulmer-helft-goldbarren-und-10000-euro-gutschein-fuer-grosse-benefiz-versteigerung-79723694.html",
-   "d": "2026-11-21",
-   "q": "swp.de",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Umwelt : Ausfuhrstopp für Plastikmüll aus der EU in viele Länder",
-   "u": "https://www.oz-online.de/artikel/1705602/Ausfuhrstopp-fuer-Plastikmuell-aus-der-EU-in-viele-Laender",
-   "d": "2026-11-21",
-   "q": "oz-online.de",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "IRW - News : Copper One Resources Corp .: Copper One gibt Option auf den Erwerb einer 100 % igen Beteiligung am Kupferprojekt Quatum in British Columbia bekannt",
-   "u": "https://www.onvista.de/news/2026/11-21-irw-news-copper-one-resources-corp-copper-one-gibt-option-auf-den-erwerb-einer-100-igen-beteiligung-am-kupferprojekt-quatum-in-british-columbia-bekannt-0-10-26579095",
-   "d": "2026-11-21",
-   "q": "onvista.de",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Chefin von russischem Onlinehändler Wildberries tritt zurück",
-   "u": "https://www.onvista.de/news/2026/11-21-chefin-von-russischem-onlinehaendler-wildberries-tritt-zurueck-0-10-26579066",
-   "d": "2026-11-21",
-   "q": "onvista.de",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "Bitcoin price crash : ​Falls to lowest level in two years - What behind plunge of world largest cryptocurrency",
-   "u": "https://www.livemint.com/market/cryptocurrency/bitcoin-price-crash-falls-to-lowest-level-in-two-years-what-s-behind-plunge-of-world-s-largest-cryptocurrency-11795267687216.html",
-   "d": "2026-11-21",
-   "q": "livemint.com",
-   "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "On Your Side : Bicycle helmets recalled for failing to meet safety standards",
-   "u": "https://www.ky3.com/2026/11/20/your-side-bicycle-helmets-recalled-failing-meet-safety-standards/",
-   "d": "2026-11-21",
-   "q": "ky3.com",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Zum Jahreswechsel Strom und Gas werden für Millionen Haushalte deutlich teurer",
-   "u": "https://www.ksta.de:443/ratgeber/verbraucher/strom-und-gas-preise-steigen-zum-jahreswechsel-deutlich-1421904",
-   "d": "2026-11-21",
-   "q": "ksta.de:443",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Strait of Hormuz attacks have increased to highest level since Iran war began",
-   "u": "https://www.kake.com/news/national/strait-of-hormuz-attacks-have-increased-to-highest-level-since-iran-war-began/article_a4749f3d-3247-4907-a39d-6795d12d82f0.html",
-   "d": "2026-11-21",
-   "q": "kake.com",
-   "type": "logistik",
-   "c": "as"
-  },
-  {
-   "t": "Look at India : Trump cites India 7 % GDP growth to slam US Fed over high interest rates",
-   "u": "https://www.ibtimes.co.in/look-india-trump-cites-indias-7-gdp-growth-slam-us-fed-over-high-interest-rates-908551",
-   "d": "2026-11-21",
-   "q": "ibtimes.co.in",
-   "type": "finanz",
-   "c": "na"
-  },
-  {
-   "t": "Seltene Erden : Pforzheimer Start - up will Abhängigkeit mit Schrott durchbrechen",
-   "u": "https://www.handelsblatt.com/unternehmen/industrie/seltene-erden-pforzheimer-start-up-will-abhaengigkeit-mit-schrott-durchbrechen/100268500.html",
-   "d": "2026-11-21",
-   "q": "handelsblatt.com",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "Ausfuhrstopp für Plastikmüll aus der EU in viele Länder - Wirtschafts - Nachrichten - Reutlinger General - Anzeiger",
-   "u": "https://www.gea.de/welt/wirtschaft_artikel,-ausfuhrstopp-f%C3%BCr-plastikm%C3%BCll-aus-der-eu-in-viele-l%C3%A4nder-_arid,7176305.html",
-   "d": "2026-11-21",
-   "q": "gea.de",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "WDH : Strom und Gas werden für Millionen Haushalte teurer",
-   "u": "https://www.finanznachrichten.de/nachrichten-2026-11/70195548-wdh-strom-und-gas-werden-fuer-millionen-haushalte-teurer-016.htm",
-   "d": "2026-11-21",
-   "q": "finanznachrichten.de",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "EU und Indonesien unterzeichnen weitreichenden Handelsdeal",
-   "u": "https://www.finanznachrichten.de/nachrichten-2026-11/70195539-eu-und-indonesien-unterzeichnen-weitreichenden-handelsdeal-016.htm",
-   "d": "2026-11-21",
-   "q": "finanznachrichten.de",
-   "type": "politik",
-   "c": "eu"
-  },
-  {
-   "t": "Tagesgeld Volkswagen Bank : 3 , 5 % Zinsen für Neukunden im Check",
-   "u": "https://www.express.de:443/shoppingwelt/tagesgeld-volkswagen-bank-3-5-prozent-zinsen-neukunden-konditionen-check-sparen-5-1405755",
-   "d": "2026-11-21",
-   "q": "express.de:443",
-   "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "Briton swims in Strait of Hormuz to highlight  environmental cost of war",
-   "u": "https://www.eadt.co.uk/news/national/26750618.briton-swims-strait-hormuz-highlight-environmental-cost-war/",
-   "d": "2026-11-21",
-   "q": "eadt.co.uk",
-   "type": "logistik",
-   "c": "as"
-  },
-  {
-   "t": "SIXT macht sich über GTA - Post von Merz lustig :  Mit und ohne Erfolg .",
-   "u": "https://www.derwesten.de/politik/sit-gta6-post-cdu-merz-reaktion-id302203630.html",
-   "d": "2026-11-21",
-   "q": "derwesten.de",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Treasury secretary says no further restrictions are needed for Nvidia chip exports to China",
-   "u": "https://www.clickorlando.com/business/2026/11/20/treasury-secretary-says-no-further-restrictions-are-needed-for-nvidia-chip-exports-to-china/",
-   "d": "2026-11-21",
-   "q": "clickorlando.com",
-   "type": "politik",
-   "c": "as"
-  },
-  {
-   "t": "Global Oil Market Heads Towards Surplus , Crude Prices May Fall To $70 By 2027",
-   "u": "https://www.businessworld.in/article/global-oil-market-heads-towards-surplus-crude-prices-may-fall-to-70-by-2027-634643",
-   "d": "2026-11-21",
-   "q": "businessworld.in",
-   "type": "energie",
-   "c": "na"
-  },
-  {
-   "t": "New food recalls Canadians should know",
-   "u": "https://www.bramptonguardian.com/news/ontario-food-recalls-new-alerts/article_ed268917-db84-5d8f-ae4a-da7017214a04.html",
-   "d": "2026-11-21",
-   "q": "bramptonguardian.com",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Gold : Dezember - Zinserhöhung drückte Preis am Freitag",
-   "u": "https://www.boerse-express.com/news/articles/gold-dezember-zinserhoehung-drueckte-preis-am-freitag-965315",
-   "d": "2026-11-21",
-   "q": "boerse-express.com",
-   "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "Canada - U . S . trade : Trump says Canada feeling  emboldened",
-   "u": "https://www.bnnbloomberg.ca/tariffs/2026/11/20/trump-says-canada-feeling-emboldened-but-hes-seeking-a-fair-trade-deal/",
-   "d": "2026-11-21",
-   "q": "bnnbloomberg.ca",
-   "type": "politik",
-   "c": "na"
-  },
-  {
-   "t": "Nächster Preis - Schock !: Strom und Gas werden für Millionen Haushalte teurer",
-   "u": "https://www.bild.de/politik/inland/naechster-preis-schock-strom-und-gas-werden-fuer-millionen-haushalte-teurer-6b0153203b9cfbd09f99d8a2",
-   "d": "2026-11-21",
-   "q": "bild.de",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Unglück mit 32 Toten : Kapitän der Costa Concordia nach 9 Jahren frei",
-   "u": "https://www.bild.de/news/ausland/unglueck-mit-32-toten-kapitaen-der-costa-concordia-nach-9-jahren-frei-6b01786339a3e8110f0e530c",
-   "d": "2026-11-21",
-   "q": "bild.de",
-   "type": "logistik",
-   "c": null
-  },
-  {
-   "t": "Ominous reversal ! Iran issues nuclear ultimatum against US after downing 58 MQ drones as F - 16 sends SOS",
-   "u": "https://www.bankingnews.gr/diethni/articles/912456/ominous-reversal-iran-issues-nuclear-ultimatum-against-us-after-downing-58-mq-drones-as-f-16-sends-sos",
-   "d": "2026-11-21",
-   "q": "bankingnews.gr",
-   "type": "logistik",
-   "c": null
-  },
-  {
-   "t": "Landwirte verlieren 60 Euro pro Tier , jetzt verkaufen sie extra billige Bratwurst",
-   "u": "https://www.agrarheute.com/tier/schwein/landwirte-verlieren-60-euro-pro-tier-verkaufen-extra-billige-bratwurst-644053",
-   "d": "2026-11-21",
-   "q": "agrarheute.com",
-   "type": "logistik",
-   "c": null
-  },
-  {
-   "t": "Bauernregeln zum Winter : Was die Natur an Frost und Schnee vorhersagt",
-   "u": "https://www.agrarheute.com/land-leben/bauernregeln-winter-natur-frost-schnee-vorhersagt-644087",
-   "d": "2026-11-21",
-   "q": "agrarheute.com",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Agri - PV auf guten Ackerböden : Warum Landwirtin 200 Hektar für Solarstrom nutzen will",
-   "u": "https://www.agrarheute.com/energie/agri-pv-guten-ackerboeden-landwirtin-200-hektar-fuer-solarstrom-nutzen-will-644063",
-   "d": "2026-11-21",
-   "q": "agrarheute.com",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Wälder in Deutschland in Gefahr : Warum Förster jetzt mehr Bäume fällen wollen",
-   "u": "https://www.abendblatt.de/wirtschaft/article413730485/deutschlands-waelder-in-gefahr-warum-foerster-jetzt-mehr-baeume-faellen-wollen.html",
-   "d": "2026-11-21",
-   "q": "abendblatt.de",
-   "type": "rohstoffe",
-   "c": "eu"
-  },
-  {
-   "t": "Dangote Group unveils multi ‑ billion ‑ dollar projects across East Africa",
-   "u": "https://kenya-today.com/report-dangote-group-unveils-multibilliondollar-projects-across-east-africa-30996/",
-   "d": "2026-11-21",
-   "q": "kenya-today.com",
-   "type": "energie",
-   "c": "af"
-  },
-  {
-   "t": "Georgian minister highlights strategic importance of South Caucasus Pipeline and BTC",
-   "u": "https://en.apa.az/energy-and-industry/georgian-minister-highlights-strategic-importance-of-south-caucasus-pipeline-and-btc-537630",
-   "d": "2026-11-21",
-   "q": "en.apa.az",
-   "type": "energie",
-   "c": "na"
-  },
-  {
-   "t": "AI to lead investment strategy in 2027 ; Energy and borrowing costs shape macro outlook : Barclays",
-   "u": "http://www.zimbabwestar.com/news/279446669/ai-to-lead-investment-strategy-in-2027-energy-and-borrowing-costs-shape-macro-outlook-barclays",
-   "d": "2026-11-21",
-   "q": "zimbabwestar.com",
-   "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "Erzeugerpreise steigen um 8 , 1 Prozent : Heizöl besonders teuer",
-   "u": "http://www.kreisbote.de/wirtschaft/erzeugerpreise-steigen-um-prozent-heizoel-besonders-teuer-zr-94601444.html",
-   "d": "2026-11-21",
-   "q": "kreisbote.de",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Parkside - Akkuschrauber im LIDL - Vergleich : 39 , 99 oder 59 , 99 Euro ?",
-   "u": "http://www.come-on.de/produktempfehlung/parkside-akkuschrauber-im-lidl-vergleich-3999-oder-5999-euro-zr-94596145.html",
-   "d": "2026-11-21",
-   "q": "come-on.de",
-   "type": "logistik",
    "c": null
   }
  ]
