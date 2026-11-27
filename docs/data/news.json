@@ -1,13 +1,61 @@
 {
- "stand": "2026-11-27T02:09:36Z",
+ "stand": "2026-11-27T06:48:21Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "tagesschau | tagesschau . de",
+   "u": "https://www.tagesschau.de/tagesschau/ts-82334.html",
+   "d": "2026-11-27",
+   "q": "tagesschau.de",
+   "type": "finanz",
+   "c": null
+  },
   {
    "t": "Intact Whole Grains vs . Milled : Study Reveals Processing Matters for Blood Sugar Control – NaturalNews . com",
    "u": "https://www.naturalnews.com/2026-11-26-study-grain-processing-matters-blood-sugar-control.html",
    "d": "2026-11-27",
    "q": "naturalnews.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "UBS - Ausblick : Wo Schwellenländeraktien 2027 Renditechancen bieten",
+   "u": "https://www.finanzen.ch/nachrichten/aktien/ubs-ausblick-wo-schwellenlanderaktien-2027-renditechancen-bieten-1036802182",
+   "d": "2026-11-27",
+   "q": "finanzen.ch",
+   "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "Europäische Zentralbank - Spanier soll neuer EZB - Präsident werden",
+   "u": "https://www.deutschlandfunk.de/spanier-soll-neuer-ezb-praesident-werden-112.html",
+   "d": "2026-11-27",
+   "q": "deutschlandfunk.de",
+   "type": "finanz",
+   "c": "eu"
+  },
+  {
+   "t": "Govt mulls 500k - tonne wheat import",
+   "u": "https://tribune.com.pk/story/2642573/govt-mulls-500k-tonne-wheat-import",
+   "d": "2026-11-27",
+   "q": "tribune.com.pk",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Iran vows to break US naval blockade , claims full control over Strait of Hormuz : MP Esmaeil Kowsari",
+   "u": "http://www.bignewsnetwork.com/news/279464412/iran-vows-to-break-us-naval-blockade-claims-full-control-over-strait-of-hormuz-mp-esmaeil-kowsari",
+   "d": "2026-11-27",
+   "q": "bignewsnetwork.com",
+   "type": "logistik",
+   "c": "as"
+  },
+  {
+   "t": "GM wheat lines move closer to reality as FSANZ opens consultation | Queensland Country Life",
+   "u": "https://www.queenslandcountrylife.com.au/story/9398628/gm-wheat-lines-move-closer-to-reality-as-fsanz-opens-consultation/",
+   "d": "2026-11-26",
+   "q": "queenslandcountrylife.com.au",
    "type": "rohstoffe",
    "c": null
   },
@@ -28,11 +76,35 @@
    "c": "na"
   },
   {
+   "t": "GM wheat lines move closer to reality as FSANZ opens consultation | North Queensland Register",
+   "u": "https://www.northqueenslandregister.com.au/story/9398628/gm-wheat-lines-move-closer-to-reality-as-fsanz-opens-consultation/",
+   "d": "2026-11-26",
+   "q": "northqueenslandregister.com.au",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
    "t": "Avalon Advanced Materials Announces Closing of Additional C$1 . 0 Million Flow - Through Financing , Bringing Total Proceeds to C$5 . 0 Million",
    "u": "https://www.juniorminingnetwork.com/junior-miner-news/press-releases/1221-tsx/avl/215463-avalon-advanced-materials-announces-closing-of-additional-c-1-0-million-flow-through-financing-bringing-total-proceeds-to-c-5-0-million.html",
    "d": "2026-11-26",
    "q": "juniorminingnetwork.com",
    "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Global shipping changing map : Where trade connections are growing and vulnerabilities are deepening",
+   "u": "https://www.hellenicshippingnews.com/global-shippings-changing-map-where-trade-connections-are-growing-and-vulnerabilities-are-deepening/",
+   "d": "2026-11-26",
+   "q": "hellenicshippingnews.com",
+   "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "Global maritime trade set to stall in 2026 amid shipping disruptions and trade uncertainty",
+   "u": "https://www.hellenicshippingnews.com/global-maritime-trade-set-to-stall-in-2026-amid-shipping-disruptions-and-trade-uncertainty/",
+   "d": "2026-11-26",
+   "q": "hellenicshippingnews.com",
+   "type": "logistik",
    "c": null
   },
   {
@@ -44,12 +116,28 @@
    "c": null
   },
   {
+   "t": "Neue EZB - Führung : Spanier soll Präsident , Deutscher Chefvolkswirt werden",
+   "u": "https://www.epochtimes.de/politik/ausland/neue-ezb-fuehrung-spanier-soll-praesident-deutscher-chefvolkswirt-werden-a5674542.html",
+   "d": "2026-11-26",
+   "q": "epochtimes.de",
+   "type": "finanz",
+   "c": "eu"
+  },
+  {
    "t": "Brent settles higher as mine strikes , refinery attack stoke Middle East supply concerns",
    "u": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/brent-settles-higher-mine-strikes-refinery-attack-stoke-middle-east-supply-concerns",
    "d": "2026-11-26",
    "q": "businesstimes.com.sg",
    "type": "energie",
    "c": "as"
+  },
+  {
+   "t": "EU - Gipfel : Spanier Hernández de Cos soll EZB - Chef werden",
+   "u": "https://www.az-online.de/wirtschaft/eu-gipfel-spanier-hernandez-de-cos-soll-ezb-chef-werden-zr-94609698.html",
+   "d": "2026-11-26",
+   "q": "az-online.de",
+   "type": "finanz",
+   "c": "eu"
   },
   {
    "t": "Oil edges down as supply glut prospect offsets Middle East disruption fears",
@@ -82,6 +170,14 @@
    "q": "oilprice.com",
    "type": "energie",
    "c": "na"
+  },
+  {
+   "t": "Global maritime trade set for zero growth in 2026 : U . N .",
+   "u": "https://japantoday.com/category/business/global-maritime-trade-set-for-zero-growth-in-2026-un",
+   "d": "2026-11-26",
+   "q": "japantoday.com",
+   "type": "logistik",
+   "c": null
   },
   {
    "t": "South Korea central bank raises key interest rate to fight inflation",
