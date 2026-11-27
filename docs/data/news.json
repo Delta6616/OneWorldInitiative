@@ -1,8 +1,16 @@
 {
- "stand": "2026-11-27T10:48:19Z",
+ "stand": "2026-11-27T19:54:38Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Amadea : Bremerhavener Lloyd Werft renoviert das ZDF - Traumschiff",
+   "u": "https://www.weser-kurier.de/wirtschaft/hafen-schifffahrt/amadea-bremerhavener-lloyd-werft-renoviert-das-zdf-traumschiff-doc88mzfwj1axxy0pwk2pt",
+   "d": "2026-11-27",
+   "q": "weser-kurier.de",
+   "type": "logistik",
+   "c": null
+  },
   {
    "t": "tagesschau | tagesschau . de",
    "u": "https://www.tagesschau.de/tagesschau/ts-82334.html",
@@ -17,6 +25,14 @@
    "d": "2026-11-27",
    "q": "naturalnews.com",
    "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Deshlab steigen die Ölpreise am Donnerstag",
+   "u": "https://www.finanzen.net/nachricht/rohstoffe/schwarzes-gold-warum-die-oelpreise-am-donnerstag-zulegen-16087656",
+   "d": "2026-11-27",
+   "q": "finanzen.net",
+   "type": "logistik",
    "c": null
   },
   {
@@ -112,6 +128,14 @@
    "u": "https://www.hellenicshippingnews.com/global-maritime-trade-set-to-stall-in-2026-amid-shipping-disruptions-and-trade-uncertainty/",
    "d": "2026-11-26",
    "q": "hellenicshippingnews.com",
+   "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "Zwei Techniker von Rheinmetall Italia bei Drohnenangriff in Kuwait getötet",
+   "u": "https://www.finanznachrichten.de/nachrichten-2026-11/70240169-zwei-techniker-von-rheinmetall-italia-bei-drohnenangriff-in-kuwait-getoetet-015.htm",
+   "d": "2026-11-26",
+   "q": "finanznachrichten.de",
    "type": "logistik",
    "c": null
   },
@@ -313,6 +337,14 @@
    "d": "2026-11-25",
    "q": "thehindu.com",
    "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Butterpreise bei Aldi Süd : Discounter senkt den Preis auf unter einen Euro",
+   "u": "https://www.t-online.de/leben/aktuelles/id_101544728/butterpreise-bei-aldi-sued-discounter-senkt-den-preis-auf-unter-einen-euro.html",
+   "d": "2026-11-25",
+   "q": "t-online.de",
+   "type": "logistik",
    "c": null
   },
   {
