@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-27T19:54:38Z",
+ "stand": "2026-11-28T02:37:22Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -12,6 +12,14 @@
    "c": null
   },
   {
+   "t": "Getreide , Raps und Dünger : Ausblick auf 2027 im Markt - Pro - Webinar",
+   "u": "https://www.topagrar.com/markt/news/weizen-unter-druck-raps-knapp-dunger-bleibt-teuer-a-20031554.html",
+   "d": "2026-11-27",
+   "q": "topagrar.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
    "t": "tagesschau | tagesschau . de",
    "u": "https://www.tagesschau.de/tagesschau/ts-82334.html",
    "d": "2026-11-27",
@@ -20,10 +28,26 @@
    "c": null
   },
   {
+   "t": "Weihnachtszauber : Mitbieten und Gutes tun",
+   "u": "https://www.swp.de/sonderthemen/ehingen/weihnachtszauber-mitbieten-und-gutes-tun-79788531.html",
+   "d": "2026-11-27",
+   "q": "swp.de",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
    "t": "Intact Whole Grains vs . Milled : Study Reveals Processing Matters for Blood Sugar Control – NaturalNews . com",
    "u": "https://www.naturalnews.com/2026-11-26-study-grain-processing-matters-blood-sugar-control.html",
    "d": "2026-11-27",
    "q": "naturalnews.com",
+   "type": "rohstoffe",
+   "c": null
+  },
+  {
+   "t": "Vogelfutter mit Chili mischen : Warum das jetzt empfehlenswert ist",
+   "u": "https://www.gmx.at/magazine/ratgeber/haus-garten/vogelfutter-chili-mischen-empfehlenswert-41816870",
+   "d": "2026-11-27",
+   "q": "gmx.at",
    "type": "rohstoffe",
    "c": null
   },
@@ -98,6 +122,14 @@
    "q": "northqueenslandregister.com.au",
    "type": "rohstoffe",
    "c": null
+  },
+  {
+   "t": "Cyclic Materials kündigt Expansion in Europa an und gibt Standort für Europas erste Anlage zur Rückgewinnung von Seltenerdmagneten bekannt : Pressemeldung",
+   "u": "https://www.news.de/pressemeldungen/860222593/pressemeldung-cyclic-materials-kuendigt-expansion-in-europa-an-und-gibt-standort-fuer-europas-erste-anlage-zur-rueckgewinnung-von-seltenerdmagneten-bekannt/1/",
+   "d": "2026-11-26",
+   "q": "news.de",
+   "type": "rohstoffe",
+   "c": "eu"
   },
   {
    "t": "TC Energy announces second Indigenous investment in Coastal GasLink",
@@ -1081,302 +1113,6 @@
    "d": "2026-11-23",
    "q": "kreisbote.de",
    "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Taiwan warns Canada Carney that deeper ties with China come with risks",
-   "u": "https://www.wsbradio.com/news/business/taiwan-warns-canada/2S7JLF54OE25TKOZNCMHJE6J5Y/",
-   "d": "2026-11-22",
-   "q": "wsbradio.com",
-   "type": "politik",
-   "c": "as"
-  },
-  {
-   "t": "Cattle receipts , government payments support projected NE farm income growth",
-   "u": "https://www.wlj.net/cattle-receipts-government-payments-support-projected-ne-farm-income-growth/",
-   "d": "2026-11-22",
-   "q": "wlj.net",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Natural gas pipeline fire shoots flames into the air in Alabama , cause is under investigation – Winnipeg Free Press",
-   "u": "https://www.winnipegfreepress.com/arts-and-life/life/greenpage/2026/11/22/natural-gas-pipeline-fire-shoots-flames-into-the-air-in-alabama-cause-is-under-investigation",
-   "d": "2026-11-22",
-   "q": "winnipegfreepress.com",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Klimakonferenz : Das Scheitern von Antalya - Ein bitteres , aber ehrliches Ende",
-   "u": "https://www.thueringer-allgemeine.de/politik/article413746057/das-scheitern-von-antalya-ein-bitteres-aber-ehrliches-ende.html",
-   "d": "2026-11-22",
-   "q": "thueringer-allgemeine.de",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Thailand makes prepares to stop exporting rare earth mining chemicals to Myanmar",
-   "u": "https://www.thenews.com.pk/latest/1424588-thailand-makes-prepares-to-stop-exporting-rare-earth-mining-chemicals-to-myanmar",
-   "d": "2026-11-22",
-   "q": "thenews.com.pk",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "100 Prozent Trefferquote : Das ist meine magische Börsen - Marotte",
-   "u": "https://www.schwaebische.de/wirtschaft/100-prozent-trefferquote-das-ist-meine-magische-boersen-marotte-5020339",
-   "d": "2026-11-22",
-   "q": "schwaebische.de",
-   "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "As war engulfs the Strait of Hormuz , one swimmer is fighting to protect its wildlife",
-   "u": "https://www.sbs.com.au/news/article/man-swims-across-the-strait-of-hormuz-to-protect-wildlife/sucyype2c",
-   "d": "2026-11-22",
-   "q": "sbs.com.au",
-   "type": "logistik",
-   "c": "as"
-  },
-  {
-   "t": "Ist wieder genug Wasser im Rhein ? - Südwest",
-   "u": "https://www.rheinpfalz.de/rheinland-pfalz_artikel,-ist-wieder-genug-wasser-im-rhein-_arid,5950823.html",
-   "d": "2026-11-22",
-   "q": "rheinpfalz.de",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "GOP senator hits Trump admin with  extraordinary allegation  in NBC interview : onlookers",
-   "u": "https://www.rawstory.com/john-kennedy-2678493445/",
-   "d": "2026-11-22",
-   "q": "rawstory.com",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "John Kennedy Jokes Bessent , Lutnick Could  Stab Each Other  Over Nvidia Chip Dispute",
-   "u": "https://www.newsweek.com/john-kennedy-bessent-lutnick-nvidia-chip-dispute-12754530",
-   "d": "2026-11-22",
-   "q": "newsweek.com",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "Trump inclined to resume strikes on Iran after New Year if no deal reached",
-   "u": "https://www.middleeastmonitor.com/20261122-trump-inclined-to-resume-strikes-on-iran-after-new-year-if-no-deal-reached/",
-   "d": "2026-11-22",
-   "q": "middleeastmonitor.com",
-   "type": "logistik",
-   "c": null
-  },
-  {
-   "t": "Gasspeicher bei 57 Prozent : Drohen Engpässe und höhere Preise ?",
-   "u": "https://www.merkur.de/wirtschaft/gasspeicher-bei-57-prozent-drohen-engpaesse-und-hoehere-preise-zr-94601846.html",
-   "d": "2026-11-22",
-   "q": "merkur.de",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Warum Menschen für diesen speziellen Duft sensibler sind als Haie für Blut",
-   "u": "https://www.merkur.de/welt/duft-des-regens-warum-menschen-petrichor-so-intensiv-riechen-94597985.html",
-   "d": "2026-11-22",
-   "q": "merkur.de",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Gaspreise steigen weiter – für wen sich ein Wechsel lohnt",
-   "u": "https://www.merkur.de/verbraucher/gaspreise-steigen-weiter-fuer-wen-sich-ein-wechsel-lohnt-zr-94601803.html",
-   "d": "2026-11-22",
-   "q": "merkur.de",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Bauxite sector can contribute more to economy , says Scott Mottley",
-   "u": "https://www.jamaicaobserver.com/2026/11/22/bauxite-sector-can-contribute-economy-says-scott-mottley/",
-   "d": "2026-11-22",
-   "q": "jamaicaobserver.com",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "IEA : Extreme Weather Risks to International Oil and Natural Gas Shipping | Hellenic Shipping News Worldwide",
-   "u": "https://www.hellenicshippingnews.com/iea-extreme-weather-risks-to-international-oil-and-natural-gas-shipping/",
-   "d": "2026-11-22",
-   "q": "hellenicshippingnews.com",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Huaweis Geheimplan vorab enthüllt",
-   "u": "https://www.giga.de/tech/huaweis-geheimplan-vorab-enthuellt--01M77PCSACC14F8Y0KBGDZ8Q6M",
-   "d": "2026-11-22",
-   "q": "giga.de",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "Funky Taurus Media - Music Photo Agency & Products - Liefer - und Versandkosten",
-   "u": "https://www.funkytaurusmedia.com/shop_content.php?coID=1&XTCsid=n66nhot9sckhfo3a855uktb1l3",
-   "d": "2026-11-22",
-   "q": "funkytaurusmedia.com",
-   "type": "logistik",
-   "c": "na"
-  },
-  {
-   "t": "Yuma Black Weeks : Balkonkraftwerk - Sets jetzt bis 750 € Rabatt – bei Abholung in Köln bis 99 € extra sparen",
-   "u": "https://www.express.de:443/shoppingwelt/yuma-black-weeks-balkonkraftwerk-jackery-speicher-anker-hoymiles-ecoflow-deal-angebote-sparen-7-1416621",
-   "d": "2026-11-22",
-   "q": "express.de:443",
-   "type": "logistik",
-   "c": null
-  },
-  {
-   "t": "Iran attacks US bases in Bahrain as its tankers get ready to break the US blockade",
-   "u": "https://www.euronews.com/2026/11/21/iran-attacks-us-bases-in-bahrain-as-its-tankers-get-ready-to-break-the-us-blockade",
-   "d": "2026-11-22",
-   "q": "euronews.com",
-   "type": "logistik",
-   "c": null
-  },
-  {
-   "t": "Bahrain says Iran struck industrial site as tankers hit in Hormuz",
-   "u": "https://www.enca.com/business/bahrain-says-iran-struck-industrial-site-tankers-hit-hormuz",
-   "d": "2026-11-22",
-   "q": "enca.com",
-   "type": "logistik",
-   "c": "as"
-  },
-  {
-   "t": "UN - affiliated athlete swims in dangerous Strait of Hormuz to highlight Iran war impact on wildlife",
-   "u": "https://www.cbc.ca/news/world/un-endurance-swimmer-strait-of-hormuz-wildlife-impact-9.7431891",
-   "d": "2026-11-22",
-   "q": "cbc.ca",
-   "type": "logistik",
-   "c": "as"
-  },
-  {
-   "t": "U . S . Treasury Secretary Scott Bessent Just Delivered Great News to Former Nvidia CEO Jensen Huang . Should You Buy Nvidia Stock Before Nov . 25 ?",
-   "u": "https://www.aol.com/articles/u-treasury-secretary-scott-bessent-210804000.html",
-   "d": "2026-11-22",
-   "q": "aol.com",
-   "type": "politik",
-   "c": null
-  },
-  {
-   "t": "Heizölpreise fallen heftig - diese Woche : Was Heizölkäufer für Heizöl zahlen müssen",
-   "u": "https://www.agrarheute.com/energie/heizoel/heizoelpreise-fallen-heftig-diese-woche-heizoelkaeufer-fuer-heizoel-zahlen-muessen-644101",
-   "d": "2026-11-22",
-   "q": "agrarheute.com",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Loso x Timberland Field Boot  Wheat Nubuck / Gold  TB0A6DSWAEB",
-   "u": "https://wwd.com/footwear-news/sneaker-news/loso-timberland-field-boot-wheat-nubuck-gold-release-date-1239461745/",
-   "d": "2026-11-22",
-   "q": "wwd.com",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Streit um Staatshaushalt in Brasilien : Lula beim Wort genommen",
-   "u": "https://taz.de/Streit-um-Staatshaushalt-in-Brasilien/!6232287/",
-   "d": "2026-11-22",
-   "q": "taz.de",
-   "type": "finanz",
-   "c": "sa"
-  },
-  {
-   "t": "Iranian attacks in the Strait of Hormuz are at the highest levels since the conflict began",
-   "u": "https://peakoil.com/publicpolicy/iranian-attacks-in-the-strait-of-hormuz-are-at-the-highest-levels-since-the-conflict-began",
-   "d": "2026-11-22",
-   "q": "peakoil.com",
-   "type": "logistik",
-   "c": "as"
-  },
-  {
-   "t": "COP31 gescheitert : Umweltschutzorganisationen üben Kritik",
-   "u": "https://orf.at/stories/3448954/",
-   "d": "2026-11-22",
-   "q": "orf.at",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Demand Accountability for Blackshirt Feeder Alleged Abuse of Water Resources and Cruel Treatment of Confined Cattle",
-   "u": "https://forcechange.com/681857/stop-massive-cattle-feedlot-from-depleting-aquifer-and-generating-tons-of-waste/",
-   "d": "2026-11-22",
-   "q": "forcechange.com",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "U . S . investigating alleged Chinese spy in affair with Nvidia CEO : national intelligence director",
-   "u": "https://calgarysun.com/news/world/united-states/us-investigating-alleged-chinese-spy-in-affair-with-nvidia-ceo-national-intelligence-director/wcm/8c8ea0dd-0216-4507-b957-3debe87ac5b2",
-   "d": "2026-11-22",
-   "q": "calgarysun.com",
-   "type": "politik",
-   "c": "as"
-  },
-  {
-   "t": "Peso to move sideways vs dollar as markets eye key US economic data",
-   "u": "https://bworldonline.com/banking-finance/2026/11/22/795691/peso-to-move-sideways-vs-dollar-as-markets-eye-key-us-economic-data/",
-   "d": "2026-11-22",
-   "q": "bworldonline.com",
-   "type": "finanz",
-   "c": "na"
-  },
-  {
-   "t": "Natural gas pipeline fire shoots flames in Alabama , cause under investigation",
-   "u": "https://abcnews.com/US/wireStory/natural-gas-pipeline-fire-shoots-flames-air-alabama-138362181",
-   "d": "2026-11-22",
-   "q": "abcnews.com",
-   "type": "energie",
-   "c": null
-  },
-  {
-   "t": "Rising government debt unlikely to trigger broad sovereign crisis in 2027 : UBS",
-   "u": "http://www.zimbabwestar.com/news/279448626/rising-government-debt-unlikely-to-trigger-broad-sovereign-crisis-in-2027-ubs",
-   "d": "2026-11-22",
-   "q": "zimbabwestar.com",
-   "type": "finanz",
-   "c": null
-  },
-  {
-   "t": "Stadt im „ Miniformat : Niederländischer Ort bietet viele Outdoor - Aktivitäten",
-   "u": "http://www.wa.de/welt/stadt-im-miniformat-niederlaendischer-ort-bietet-viele-outdoor-aktivitaeten-94602340.html",
-   "d": "2026-11-22",
-   "q": "wa.de",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Black Friday oder Weihnachtsgeschäft : Wann sollten Frauen ihre Geschenke wirklich kaufen ?",
-   "u": "http://www.tz.de/wirtschaft/black-friday-oder-weihnachtsgeschaeft-wann-sollten-frauen-ihre-geschenke-wirklich-kaufen-zr-94592523.html",
-   "d": "2026-11-22",
-   "q": "tz.de",
-   "type": "logistik",
-   "c": null
-  },
-  {
-   "t": "Nicht in die Biotonne : Einen teuren Entsorgungs - Fehler machen fast alle Kaffeetrinker",
-   "u": "http://www.come-on.de/verbraucher/kaffeefilter-im-biomuell-entsorgen-hier-gehoeren-sie-hin-zr-94598059.html",
-   "d": "2026-11-22",
-   "q": "come-on.de",
-   "type": "rohstoffe",
-   "c": null
-  },
-  {
-   "t": "Feminisierte Samen zum Beflügeln : Die Grow Can ist die Alternative zum Cannabis - Anbauclub",
-   "u": "http://www.come-on.de/lennetal/altena/feminisierte-samen-zum-befluegeln-die-grow-can-ist-die-alternative-zum-cannabis-anbauclub-94600718.html",
-   "d": "2026-11-22",
-   "q": "come-on.de",
-   "type": "rohstoffe",
    "c": null
   }
  ]
