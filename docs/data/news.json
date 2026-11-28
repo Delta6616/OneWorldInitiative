@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-28T11:38:47Z",
+ "stand": "2026-11-28T14:21:34Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
@@ -20,6 +20,54 @@
    "c": "eu"
   },
   {
+   "t": "Gold rally puzzles investors : Prices rise despite stronger dollar and higher yields ; expert sees ₹1 . 50 lakh in one year",
+   "u": "https://www.livemint.com/money/personal-finance/gold-rally-puzzles-investors-prices-rise-despite-stronger-dollar-and-higher-yields-expert-sees-1-50-lakh-in-one-year-11795846655349.html",
+   "d": "2026-11-28",
+   "q": "livemint.com",
+   "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "Gold and silver prices recover , but Fed rate - hike risks persist : Where could prices head in six months ? Expert views",
+   "u": "https://www.livemint.com/money/personal-finance/gold-and-silver-prices-recover-but-fed-rate-hike-risks-persist-where-could-prices-head-in-six-months-expert-views-11795851043267.html",
+   "d": "2026-11-28",
+   "q": "livemint.com",
+   "type": "finanz",
+   "c": "na"
+  },
+  {
+   "t": "Gold price prediction 2027 : Should investors buy yellow metal after the recent correction ? Expert views",
+   "u": "https://www.livemint.com/market/commodities/gold-price-prediction-2027-should-investors-buy-yellow-metal-after-the-recent-correction-experts-views-11795848428672.html",
+   "d": "2026-11-28",
+   "q": "livemint.com",
+   "type": "finanz",
+   "c": null
+  },
+  {
+   "t": "WHO Calls for End to US Oil Blockade With Cuba Child Cancer Survival Rate Plunging From 85 % to Just 65 %",
+   "u": "https://www.ibtimes.co.uk/who-links-cuba-child-cancer-survival-fall-fuel-restrictions-1835349",
+   "d": "2026-11-28",
+   "q": "ibtimes.co.uk",
+   "type": "politik",
+   "c": "na"
+  },
+  {
+   "t": "International Business : New US tariffs  aim to challenge China dominance in world trade",
+   "u": "https://www.gdnonline.com:443/Details/1414178",
+   "d": "2026-11-28",
+   "q": "gdnonline.com:443",
+   "type": "politik",
+   "c": null
+  },
+  {
+   "t": "US military says it disabled another ship that tried to breach naval blockade on Iranian ports",
+   "u": "https://www.decaturdaily.com/news/other_news/international/us-military-says-it-disabled-another-ship-that-tried-to-breach-naval-blockade-on-iranian/article_f3a1f7bb-d335-4c80-9aa5-b1073bc61503.html",
+   "d": "2026-11-28",
+   "q": "decaturdaily.com",
+   "type": "logistik",
+   "c": null
+  },
+  {
    "t": "Benzin und Diesel : Tankwart warnt vor „ drastischen Erhöhungen  der Preise | Politik",
    "u": "https://www.bild.de/politik/inland/benzin-und-diesel-tankwart-warnt-vor-drastischen-erhoehungen-der-preise-6b094a6c4f5d4fcd0acd2d67",
    "d": "2026-11-28",
@@ -36,6 +84,30 @@
    "c": "as"
   },
   {
+   "t": "US disables vessel in Gulf of Oman | The Arkansas Democrat - Gazette - Arkansa Best News Source",
+   "u": "https://www.arkansasonline.com/news/2026/nov/28/us-disables-vessel-in-gulf-of-oman/",
+   "d": "2026-11-28",
+   "q": "arkansasonline.com",
+   "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "Iran war : US forces disable another ship that tried to breach blockade",
+   "u": "https://hayspost.com/posts/43e525c3-f16c-4991-a60e-0fd854ccafcb",
+   "d": "2026-11-28",
+   "q": "hayspost.com",
+   "type": "logistik",
+   "c": null
+  },
+  {
+   "t": "US military says it disabled another ship in the Gulf of Oman",
+   "u": "https://www.wsbradio.com/news/politics/us-military-says-it/U5YP24FGCM5BFLRKWIBYSZIRPA/",
+   "d": "2026-11-27",
+   "q": "wsbradio.com",
+   "type": "logistik",
+   "c": null
+  },
+  {
    "t": "Amadea : Bremerhavener Lloyd Werft renoviert das ZDF - Traumschiff",
    "u": "https://www.weser-kurier.de/wirtschaft/hafen-schifffahrt/amadea-bremerhavener-lloyd-werft-renoviert-das-zdf-traumschiff-doc88mzfwj1axxy0pwk2pt",
    "d": "2026-11-27",
@@ -50,6 +122,14 @@
    "q": "topagrar.com",
    "type": "rohstoffe",
    "c": null
+  },
+  {
+   "t": "US military disabled ship in the Gulf of Oman headed to Iranian ports",
+   "u": "https://www.times-standard.com/2026/11/27/us-military-says-it-disabled-another-ship-that-tried-to-breach-naval-blockade-on-iranian-ports/",
+   "d": "2026-11-27",
+   "q": "times-standard.com",
+   "type": "logistik",
+   "c": "as"
   },
   {
    "t": "tagesschau | tagesschau . de",
@@ -74,6 +154,14 @@
    "q": "naturalnews.com",
    "type": "rohstoffe",
    "c": null
+  },
+  {
+   "t": "US military disables another ship in Gulf of Oman after attempt to breach Iranian ports blockade",
+   "u": "https://www.independent.co.uk/news/world/americas/usa-military-gulf-of-oman-ship-iran-blockade-b3093017.html",
+   "d": "2026-11-27",
+   "q": "independent.co.uk",
+   "type": "logistik",
+   "c": "as"
   },
   {
    "t": "Vogelfutter mit Chili mischen : Warum das jetzt empfehlenswert ist",
@@ -108,6 +196,14 @@
    "c": "eu"
   },
   {
+   "t": "Trump new tariffs aim to prise global trade from China grip",
+   "u": "https://www.asiaone.com:443/world/trumps-new-tariffs-aim-prise-global-trade-chinas-grip",
+   "d": "2026-11-27",
+   "q": "asiaone.com:443",
+   "type": "politik",
+   "c": null
+  },
+  {
    "t": "Govt mulls 500k - tonne wheat import",
    "u": "https://tribune.com.pk/story/2642573/govt-mulls-500k-tonne-wheat-import",
    "d": "2026-11-27",
@@ -116,10 +212,26 @@
    "c": null
   },
   {
+   "t": "FACTBOX - Status of Asian Nation Trade Talks with Trump",
+   "u": "https://english.kontan.co.id/news/factbox-status-of-asian-nations-trade-talks-with-trump",
+   "d": "2026-11-27",
+   "q": "english.kontan.co.id",
+   "type": "politik",
+   "c": "na"
+  },
+  {
    "t": "Schläge gegen Putins Schattenflotte : Kiesewetter verteidigt ukrainische Angriffe",
    "u": "http://www.tz.de/politik/russische-schattenflotte-ukraine-attackiert-oeltanker-zr-94612433.html",
    "d": "2026-11-27",
    "q": "tz.de",
+   "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Mexican president reaffirms solidarity with Cuba , condemns blockades",
+   "u": "http://www.caribbeanherald.com/news/279463147/mexican-president-reaffirms-solidarity-with-cuba-condemns-blockades",
+   "d": "2026-11-27",
+   "q": "caribbeanherald.com",
    "type": "politik",
    "c": null
   },
@@ -146,6 +258,14 @@
    "q": "tt.com",
    "type": "politik",
    "c": null
+  },
+  {
+   "t": "Trump ramps up his trade war on the world",
+   "u": "https://www.theage.com.au/business/the-economy/trump-strikes-again-even-as-america-feels-the-pain-20261126-p61hen.html",
+   "d": "2026-11-26",
+   "q": "theage.com.au",
+   "type": "politik",
+   "c": "na"
   },
   {
    "t": "Mit unterschiedlichen Profilen : Kim Jong - un fordert breiteren Einsatz taktischer Atomwaffen",
@@ -284,6 +404,14 @@
    "c": null
   },
   {
+   "t": "CBRT pauses 1 - week repo auctions , raises lira reserve remuneration",
+   "u": "https://www.dailysabah.com/business/economy/cbrt-pauses-1-week-repo-auctions-raises-lira-reserve-remuneration",
+   "d": "2026-11-26",
+   "q": "dailysabah.com",
+   "type": "finanz",
+   "c": null
+  },
+  {
    "t": "Brent settles higher as mine strikes , refinery attack stoke Middle East supply concerns",
    "u": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/brent-settles-higher-mine-strikes-refinery-attack-stoke-middle-east-supply-concerns",
    "d": "2026-11-26",
@@ -337,6 +465,14 @@
    "d": "2026-11-26",
    "q": "oilprice.com",
    "type": "energie",
+   "c": "na"
+  },
+  {
+   "t": "Trump wants to demonstrate he is still the boss : Foreign affairs expert Sushant Sareen on proposed US tariffs",
+   "u": "https://news.webindia123.com/news/Articles/World/20261126/4524586.html",
+   "d": "2026-11-26",
+   "q": "news.webindia123.com",
+   "type": "politik",
    "c": "na"
   },
   {
@@ -394,6 +530,14 @@
    "q": "irishsun.com",
    "type": "finanz",
    "c": "eu"
+  },
+  {
+   "t": "Korea base rate climbs to two - year high of 3 . 25 %",
+   "u": "http://english.hani.co.kr/arti/english_edition/e_business/1289203.html",
+   "d": "2026-11-26",
+   "q": "english.hani.co.kr",
+   "type": "finanz",
+   "c": "as"
   },
   {
    "t": "Hormuz tensions rise as US - Iran standoff deepens",
@@ -932,14 +1076,6 @@
    "c": "na"
   },
   {
-   "t": "Asian markets follow Wall Street : Nikkei , Kospi jump up to 8 % as Jensen Huang return sparks rally in AI stocks",
-   "u": "https://www.livemint.com/market/stock-market-news/asian-markets-follow-wall-street-nikkei-kospi-jump-up-to-8-as-jensen-huang-s-return-sparks-rally-in-ai-stocks-11795485047635.html",
-   "d": "2026-11-24",
-   "q": "livemint.com",
-   "type": "finanz",
-   "c": null
-  },
-  {
    "t": "IRGC : Three tankers hit mines , exploded while transiting Hormuz with US support",
    "u": "https://www.jpost.com/middle-east/iran-news/article-915899",
    "d": "2026-11-24",
@@ -1034,6 +1170,14 @@
    "q": "finanzen.net",
    "type": "energie",
    "c": "na"
+  },
+  {
+   "t": "Gold : 5 . 000 Dollar bis Ende 2027 , aber ...",
+   "u": "https://www.deraktionaer.de/artikel/aktien/gold-5000-dollar-bis-ende-2027-aber-20449349.html",
+   "d": "2026-11-24",
+   "q": "deraktionaer.de",
+   "type": "finanz",
+   "c": null
   },
   {
    "t": "Iran says three tankers hit mines in Hormuz despite U . S . escort",
