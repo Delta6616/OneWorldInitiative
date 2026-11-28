@@ -1,8 +1,40 @@
 {
- "stand": "2026-11-28T02:37:22Z",
+ "stand": "2026-11-28T11:38:47Z",
  "quelle": "GDELT Project (gdeltproject.org)",
  "hinweis": "Automatisch gesammelte Schlagzeilen, ungeprüft. Thema und Kontinent werden aus Suchbegriffen und Stichwörtern im Titel abgeleitet und können danebenliegen.",
  "items": [
+  {
+   "t": "Straße von Hormus aktuell : Live - Karte , Schiffe , Ölpreis am 28 . 11 . 2026",
+   "u": "https://www.nwzonline.de/politik/strasse-von-hormus-aktuell-live-karte-schiffe-oelpreis-am-28-11-2026-Z25QTFEN4RFCHM7NS5LPPJZW2A.html",
+   "d": "2026-11-28",
+   "q": "nwzonline.de",
+   "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Russlands Wirtschaft unter Druck : 66 - Milliarden - Euro - Problem bei Staatsaufträgen",
+   "u": "https://www.merkur.de/wirtschaft/russlands-wirtschaft-unter-druck-66-milliarden-euro-problem-bei-staatsauftraegen-zr-94612552.html",
+   "d": "2026-11-28",
+   "q": "merkur.de",
+   "type": "energie",
+   "c": "eu"
+  },
+  {
+   "t": "Benzin und Diesel : Tankwart warnt vor „ drastischen Erhöhungen  der Preise | Politik",
+   "u": "https://www.bild.de/politik/inland/benzin-und-diesel-tankwart-warnt-vor-drastischen-erhoehungen-der-preise-6b094a6c4f5d4fcd0acd2d67",
+   "d": "2026-11-28",
+   "q": "bild.de",
+   "type": "energie",
+   "c": null
+  },
+  {
+   "t": "Saudi - Arabien meldet erneuten Angriff der Huthis auf Riad",
+   "u": "https://www.berliner-zeitung.de:443/article/saudi-arabien-meldet-erneuten-angriff-der-huthis-auf-riad-10644558",
+   "d": "2026-11-28",
+   "q": "berliner-zeitung.de:443",
+   "type": "energie",
+   "c": "as"
+  },
   {
    "t": "Amadea : Bremerhavener Lloyd Werft renoviert das ZDF - Traumschiff",
    "u": "https://www.weser-kurier.de/wirtschaft/hafen-schifffahrt/amadea-bremerhavener-lloyd-werft-renoviert-das-zdf-traumschiff-doc88mzfwj1axxy0pwk2pt",
@@ -84,12 +116,52 @@
    "c": null
   },
   {
+   "t": "Schläge gegen Putins Schattenflotte : Kiesewetter verteidigt ukrainische Angriffe",
+   "u": "http://www.tz.de/politik/russische-schattenflotte-ukraine-attackiert-oeltanker-zr-94612433.html",
+   "d": "2026-11-27",
+   "q": "tz.de",
+   "type": "politik",
+   "c": null
+  },
+  {
    "t": "Iran vows to break US naval blockade , claims full control over Strait of Hormuz : MP Esmaeil Kowsari",
    "u": "http://www.bignewsnetwork.com/news/279464412/iran-vows-to-break-us-naval-blockade-claims-full-control-over-strait-of-hormuz-mp-esmaeil-kowsari",
    "d": "2026-11-27",
    "q": "bignewsnetwork.com",
    "type": "logistik",
    "c": "as"
+  },
+  {
+   "t": "Kim Jong - un fordert Ausbau von Nordkoreas Atomprogramm",
+   "u": "https://www.vol.at/kim-jong-un-will-ausbau-von-nuklearprogramm/11510405",
+   "d": "2026-11-26",
+   "q": "vol.at",
+   "type": "politik",
+   "c": "as"
+  },
+  {
+   "t": "Kim Jong - un will Ausbau von Nuklearprogramm | Tiroler Tageszeitung – Aktuelle Nachrichten auf tt . com",
+   "u": "https://www.tt.com/artikel/30947740/kim-jong-un-will-ausbau-von-nuklearprogramm",
+   "d": "2026-11-26",
+   "q": "tt.com",
+   "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Mit unterschiedlichen Profilen : Kim Jong - un fordert breiteren Einsatz taktischer Atomwaffen",
+   "u": "https://www.tagesspiegel.de/internationales/dpa-mit-unterschiedlichen-profilen-kim-jong-un-fordert-breiteren-einsatz-taktischer-atomwaffen-16326991.html",
+   "d": "2026-11-26",
+   "q": "tagesspiegel.de",
+   "type": "politik",
+   "c": null
+  },
+  {
+   "t": "Aufrüstung : Kim Jong Un fordert breiteren Einsatz taktischer Atomwaffen",
+   "u": "https://www.rhein-zeitung.de/deutschland-welt/politik/kim-jong-un-fordert-breiteren-einsatz-taktischer-atomwaffen_arid-4173155.html",
+   "d": "2026-11-26",
+   "q": "rhein-zeitung.de",
+   "type": "politik",
+   "c": null
   },
   {
    "t": "GM wheat lines move closer to reality as FSANZ opens consultation | Queensland Country Life",
@@ -124,6 +196,14 @@
    "c": null
   },
   {
+   "t": "Kim Jong Un fordert breiteren Einsatz taktischer Atomwaffen",
+   "u": "https://www.nordkurier.de/politik/kim-jong-un-fordert-breiteren-einsatz-taktischer-atomwaffen-5038813",
+   "d": "2026-11-26",
+   "q": "nordkurier.de",
+   "type": "politik",
+   "c": null
+  },
+  {
    "t": "Cyclic Materials kündigt Expansion in Europa an und gibt Standort für Europas erste Anlage zur Rückgewinnung von Seltenerdmagneten bekannt : Pressemeldung",
    "u": "https://www.news.de/pressemeldungen/860222593/pressemeldung-cyclic-materials-kuendigt-expansion-in-europa-an-und-gibt-standort-fuer-europas-erste-anlage-zur-rueckgewinnung-von-seltenerdmagneten-bekannt/1/",
    "d": "2026-11-26",
@@ -138,6 +218,14 @@
    "q": "manilatimes.net",
    "type": "energie",
    "c": "na"
+  },
+  {
+   "t": "Nordkorea : Kim Jong Un fordert Ausbau taktischer Atomwaffen",
+   "u": "https://www.ksta.de:443/politik/nordkorea-kim-jong-un-fordert-ausbau-taktischer-atomwaffen-1425435",
+   "d": "2026-11-26",
+   "q": "ksta.de:443",
+   "type": "politik",
+   "c": "as"
   },
   {
    "t": "Avalon Advanced Materials Announces Closing of Additional C$1 . 0 Million Flow - Through Financing , Bringing Total Proceeds to C$5 . 0 Million",
@@ -168,7 +256,7 @@
    "u": "https://www.finanznachrichten.de/nachrichten-2026-11/70240169-zwei-techniker-von-rheinmetall-italia-bei-drohnenangriff-in-kuwait-getoetet-015.htm",
    "d": "2026-11-26",
    "q": "finanznachrichten.de",
-   "type": "logistik",
+   "type": "energie",
    "c": null
   },
   {
@@ -186,6 +274,14 @@
    "q": "epochtimes.de",
    "type": "finanz",
    "c": "eu"
+  },
+  {
+   "t": "Bundestagspräsidentin - Klöckner will Sanktionen nach Blockade durch Linke - Politikerinnen im Bundestag",
+   "u": "https://www.deutschlandfunk.de/kloeckner-will-sanktionen-nach-blockade-durch-linke-politikerinnen-im-bundestag-102.html",
+   "d": "2026-11-26",
+   "q": "deutschlandfunk.de",
+   "type": "politik",
+   "c": null
   },
   {
    "t": "Brent settles higher as mine strikes , refinery attack stoke Middle East supply concerns",
